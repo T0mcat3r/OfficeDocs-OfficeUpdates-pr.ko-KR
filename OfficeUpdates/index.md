@@ -46,9 +46,9 @@ Office 제품을 포함 하 여 Office 365 ProPlus, Office for Mac, 기능, 보�
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Mac 용 office</h3>
+                        <h3>Mac용 Office</h3>
                         <p><a href="release-notes-office-for-mac.md">릴리스 정보</a></p>
-                        <p><a href="update-history-office-for-mac.md">업데이트 내용</a></p>
+                        <p><a href="update-history-office-for-mac.md">업데이트 기록</a></p>
                         <p><a href="release-history-microsoft-autoupdate.md">MAU 릴리스</a></p>
                      </div>
                 </div>
