@@ -31,28 +31,28 @@ ms.locfileid: "19556308"
 *버전 1509 (빌드 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
--   XPS 또는 Windows 데스크톱 클라이언트를 사용 하 여 만든 인쇄물 표시 되는 위치 비 Windows 데스크톱 클라이언트의 빨간색 X로 이러한 클라이언트 네이티브 XPS를 지원 하지 않기 때문에 렌더링 문제를 해결 합니다.
+-   Windows 데스크톱 클라이언트를 사용해 만든 XPS 또는 인쇄물이 비Windows 데스크톱 클라이언트에서 빨간색 X로 표시되는 문제를 해결합니다. 이 문제는 해당 클라이언트가 네이티브 XPS 렌더링을 지원하지 않기 때문에 발생합니다.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
--   여러 단락에 걸쳐 있는 책갈피를 만드는 위치는 문제를 해결 하지만 전자 메일을 받을 이동에 사용 하는 경우 책갈피의 첫번째 단락에만 선택 됩니다.
+-   여러 단락에 걸쳐 있는 책갈피를 만들었지만, 전자 메일이 수신되면 이동을 사용할 때 책갈피의 첫 단락만 선택되는 문제를 해결합니다.
 
-### <a name="skype-for-business-security-updates"></a>비즈니스를 위한 Skype: 보안 업데이트
--   Microsoft 보안 공지 [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): 원격 코드 실행 (3104503)를 해결 하는 Microsoft 그래픽 구성 요소에 대 한 보안 업데이트
+### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
+-   Microsoft 보안 공지 [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): 원격 코드 실행을 해결하기 위한 Microsoft Graphics Component의 보안 업데이트(3104503)
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스를 위한 Skype: 비보안 업데이트
--   특히 돌발적 트래픽의 기간 동안 응용 프로그램 공유 세션 실패 여기에서 문제를 해결 합니다.
--   첫번째 앱 Office 2016 설치 후 시작 될 경우 충돌을 비즈니스를 위한 Skype 되도록 지정 하는 문제를 해결 합니다.
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+-   특히 트래픽이 폭발적인 기간에 앱 공유 세션이 실패하는 문제를 해결합니다.
+-   Office 2016를 설치한 후 Skype for Business가 맨 처음 실행한 앱이면 Skype for Business가 중단되는 문제를 해결합니다.
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS15 131](https://go.microsoft.com/fwlink/?LinkId=699410): 원격 코드 실행 (3116111)를 해결 하는 Microsoft Office 용 보안 업데이트
+-   Microsoft 보안 공지 [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3116111)
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
--   일부 글꼴을 사용 하는 경우 단어 잘림 하이픈 정사각형으로 표시 위치는 문제를 해결 합니다.
+-   Non-Breaking Hyphen이 일부 글꼴을 사용할 때 사각형으로 나타나는 문제를 해결합니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
--   캐시 된/비트에서 HTTP를 백그라운드에서 업데이트를 다운로드 하기 위한 기본 전송을 변경 합니다.
--   자동 업그레이드 하는 동안 라이선스 관련 동작으로 인해 발생 하는 오류가 Office 설치 하지 않고 사용자를 떠날 문제를 해결 합니다.
--   여기서 감사 모드에서 실행 하는 Office 사전 설치 키트 했던 Windows 7 OEM 컴퓨터에 Office 2016로 업그레이드 결과 오류 0x80070005에서에서 정품 인증 하는 동안 문제를 해결 합니다.
+-   백그라운드에서 업데이트 다운로드를 위한 기본 전송을 Cached/BITS에서 HTTP로 변경합니다.
+-   자동 업그레이드를 하는 동안 라이선스 관련 작업을 하면 사용자가 Office 설치를 수행할 수 없는 문제를 해결합니다.
+-   감사 모드에서 Office 사전 설치 키트가 실행되는 Windows 7 OEM 컴퓨터에서 Office 2016으로 업그레이드하면 활성화하는 동안 0x80070005 오류가 발생하는 문제를 해결합니다.
 
 
 
@@ -60,68 +60,68 @@ ms.locfileid: "19556308"
 *버전 1509 (빌드 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
--   Microsoft 보안 공지 [MS15 116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행 (3104540)를 해결 하는 Microsoft Office 용 보안 업데이트
+-   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS15 116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행 (3104540)를 해결 하는 Microsoft Office 용 보안 업데이트
+-   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
--   컴파일 오류에 있는 결과 쿼리 만들기에 대 한 매크로 기록 문제를 해결 합니다.
--   여기서, 쿼리 편집기에서 열을 삭제 한 후 빈 열 표시 되는 테이블의 끝에 쿼리를 새로 고친 후 문제를 해결 합니다.
--   쿼리 테이블의 빠른 분석에서 스파크 라인 탭을 선택할 때 예기치 않은 오류가 발생 하는 위치는 문제를 해결 합니다.
--   페이지인 컷을 수행 하 고 쿼리 테이블에서 붙여넣기 작업 후 있습니다 수 없는 쿼리를 새로 고칠 통합 문서 쿼리 창을 사용 하 여 문제를 해결 합니다.
--   픽스는 문제는 쿼리를 새로 고칠 때 해당 연결 된 쿼리 테이블의 시트에 포커스가 이동 됩니다.
--   지원 되는 OData 버전에 대 한 오류 메시지에서 전원 쿼리에 대 한 참조를 제거 합니다.
--   여기에서 파워 쿼리 기능 사용 가능으로 나타나지만 작동 하지 않는 제품 활성화 하지 않은 경우 문제를 해결 합니다.
--   파일에서 Dotlesscss에 대 한 URL을 업데이트 \> 계정 \> Excel에 대 한 합니다.
+-   쿼리를 만들기 위한 매크로를 기록하면 컴파일 오류가 발생하는 문제를 해결합니다.
+-   쿼리 편집기에서 열을 삭제한 후 쿼리를 새로 고치면 테이블 끝에 빈 열이 표시되는 문제를 해결합니다.
+-   쿼리 테이블의 빠른 분석에서 스파크라인 탭을 선택할 때 예기치 않은 오류가 발생하는 문제를 해결합니다.
+-   쿼리 테이블에서 잘라내기/붙여넣기 작업을 수행하면 통합 문서 쿼리를 사용하여 쿼리를 새로 고칠 수 없는 문제를 해결합니다.
+-   쿼리를 새로 고치면 포커스가 연결된 쿼리 테이블의 시트로 이동되는 문제를 해결합니다.
+-   지원되는 OData 버전에 대한 오류 메시지에서 파워 쿼리의 참조를 제거합니다.
+-   파워 쿼리가 활성화되지 않은 경우 파워 쿼리 기능이 사용 가능한 상태로 표시되지만 작동하지 않는 문제를 해결합니다.
+-   파일 \> 계정 \> Excel 정보에서 Dotlesscss의 URL을 업데이트합니다.
 
 ### <a name="onenote-security-updates"></a>OneNote: 보안 업데이트
--   Microsoft 보안 공지 [MS15 116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행 (3104540)를 해결 하는 Microsoft Office 용 보안 업데이트
+-   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
--   문제를 수정할 Outlook에 텍스트를 붙여 표시 되지 않으면 전체 텍스트 붙여 넣는 텍스트의 양은 창의 높이 보다 큰 경우.
+-   Outlook에 창 높이보다 많은 양의 텍스트를 붙여넣으면 전체 텍스트가 표시되지 않는 문제를 해결합니다.
 
-### <a name="powerpoint-security-updates"></a>PowerPoint의 경우: 보안 업데이트
--   Microsoft 보안 공지 [MS15 116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행 (3104540)를 해결 하는 Microsoft Office 용 보안 업데이트
+### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트
+-   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
-### <a name="project-security-updates"></a>프로젝트: 보안 업데이트
--   Microsoft 보안 공지 [MS15 116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행 (3104540)를 해결 하는 Microsoft Office 용 보안 업데이트
+### <a name="project-security-updates"></a>Project: 보안 업데이트
+-   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="publisher-security-updates"></a>Publisher: 보안 업데이트
--   Microsoft 보안 공지 [MS15 116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행 (3104540)를 해결 하는 Microsoft Office 용 보안 업데이트
+-   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
-### <a name="skype-for-business-security-updates"></a>비즈니스를 위한 Skype: 보안 업데이트
--   Microsoft 보안 공지 [MS15 116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행 (3104540)를 해결 하는 Microsoft Office 용 보안 업데이트
--   Microsoft 보안 공지 [MS15 123](https://technet.microsoft.com/library/security/ms15-123): 정보 유출 (3105872)를 해결 하는 비즈니스 및 Microsoft Lync 용 Skype에 대 한 보안 업데이트
+### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
+-   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
+-   Microsoft 보안 공지 [MS15-123](https://technet.microsoft.com/library/security/ms15-123): 정보 유출을 해결하기 위한 비즈니스용 Skype 및 Microsoft Lync의 보안 업데이트(3105872)
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스를 위한 Skype: 비보안 업데이트
--   두 입력된 마이크 관계가 있는 장치에서 오디오 노이즈가 있는 문제를 해결 합니다.
--   문제를 수정할 사용자가 성공적으로 참가할 수 없는 절전 모드에서 랩톱을 다시 시작한 후 모임 및 Skype 하기 전에 클라이언트에서 다시 로그인 합니다.
--   기능 보다 많은 사용자에 게 제공할 수 있는 상황에 맞는 메시지에 대 한 지원을 추가 합니다.
--   사용자 설정을 변경 하는 UI의 올바른 위치로 안내 하기 위해 모임 오디오에 참가 대화 상자에서 텍스트를 업데이트 합니다.
--   사용자가 발생 하는 모두 보내면를 참조 하 고 네트워크 문제를 받을 알림과 함께 문제를 해결 합니다.
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+-   입력 마이크가 두 개 있는 장치의 오디오 노이즈 문제를 해결합니다.
+-   절전 모드에서 노트북을 다시 시작한 후와 Skype 클라이언트가 다시 로그인하기 전에는 사용자가 모임에 참가할 수 없는 문제를 해결합니다.
+-   기능 인식을 제공하는 데 유용한 상황별 메시지에 대한 지원을 추가합니다.
+-   설정을 변경하기 위한 UI에서 올바른 위치로 사용자를 안내하도록 모임 오디오 참가 대화 상자의 텍스트를 업데이트합니다.
+-   보내기 및 받기 네트워크 문제가 모두 발생하는 경우 표시되는 알림 문제를 해결합니다.
 
 ### <a name="visio-security-updates"></a>Visio: 보안 업데이트
--   Microsoft 보안 공지 [MS15 116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행 (3104540)를 해결 하는 Microsoft Office 용 보안 업데이트
+-   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS15 116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행 (3104540)를 해결 하는 Microsoft Office 용 보안 업데이트
+-   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
--   여기서 각주 번호 매기기 일치 하지 않으면 Word에 표시 되는 사이의 인쇄물의 백그라운드에서 "각 페이지 번호 매기기 다시 시작"로 설정 하는 각주 들어 있는 문서를 인쇄할 때 문제를 해결 합니다.
--   실시간 공동 작성 편집에서 실시간으로 다른 사용자에 게 나타나지 않는 사용자를 포함 하 여 OneDrive에 저장 된 파일에서 작동 하지 않는 여기서는 문제를 해결 하 고 현재 상태 정보를 사용할 수 없습니다.
--   Word에서 충돌이 발생 한 문서에서 실시간 공동 작성 하는 동안 SharePoint 또는 OneDrive에서 연 문제를 해결 합니다.
--   Outlook 및 창에 전자 메일을 보내는 잘못 렌더링 HTML에 배치 하는 경우에 대 한 테이블을 설정 하는 서식 문제 수정 프로그램 크기가 조정 됩니다.
+-   각주가 "각 페이지 번호 새로 매기기"로 설정된 문서를 백그라운드에서 인쇄하면 Word와 인쇄물에 표시되는 각주 번호 매기기가 일치하지 않는 문제를 해결합니다.
+-   사용자가 실시간으로 편집할 때 다른 사용자에게 표시되지 않고 사용 가능한 정보도 표시되지 않는 문제를 비롯해 OneDrive에 저장된 파일에서 실시간 공동 작성이 작동하지 않는 문제를 해결합니다.
+-   SharePoint 또는 OneDrive에서 연 문서에서 실시간 공동 작성 중에 Word가 충돌하는 문제를 해결합니다.
+-   Outlook의 HTML 전자 메일에 배치하고 창 크기를 조정하면 테이블이 잘못 렌더링되는 서식 문제를 해결합니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS15 116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행 (3104540)를 해결 하는 Microsoft Office 용 보안 업데이트
+-   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
--   여기서 사용자가 반복 해 서 하 라는 메시지가 표시에 대 한 로그인을 SharePoint Online에서 파일을 열 때 문제를 해결 합니다.
--   여기서 작업 표시줄에 고정 된 바로 가기 수동 업그레이드 하는 동안 모든 사용자에 대 한 제거 되지 않습니다 문제를 해결 합니다.
--   Outlook이 Exchange Server 2007에 연결 된 경우 또는 업그레이드 하는 사용 가능한 문제는 사용자에 게 경고 하기 위해 Business Contact Manager가 설치 하는 경우를 검색할 수 간편 실행 수동 업그레이드 프로세스에 대 한 기능을 추가 합니다.
--   대화 상자를 제거 하는 동안 더 잘 표시 하는 프로세스를 종료 하거나 이러한 대화 상자에서 열린 앱 또는 기타 UI 뒤에 사용자 숨겨져 얻을 수 있는 때문에 업그레이드를 확인 하십시오.
--   여기서 사용자 하지는 Office 응용 프로그램에 자동으로 로그 도메인와 클라우드 도메인에 가입 되 고으로 식별 되는 컴퓨터를 사용 하는 경우 문제를 해결 합니다.
+-   SharePoint Online에서 파일을 열려고 하면 반복해서 로그인하라는 메시지가 나타나는 문제를 해결합니다.
+-   수동 업그레이드 중에 모든 사용자가 작업 표시줄에 고정된 바로 가기를 제거하지 못하는 문제를 해결합니다.
+-   가능한 업그레이드 문제를 사용자에게 경고하기 위해 Outlook이 Exchange Server 2007에 연결되었는지 또는 Business Contact Manager가 설치되었는지를 감지하는 간편 실행 수동 업그레이드 절차에 대한 기능을 추가합니다.
+-   제거 또는 업그레이드 중에 대화 상자가 열려 있는 앱이나 다른 UI 뒤로 숨겨질 수 있기 때문에 이러한 대화 상자를 더 잘 볼 수 있도록 프로세스를 종료합니다.
+-   도메인과 클라우드 도메인에 모두 가입되어 있는 것으로 식별되는 컴퓨터를 사용할 때 Office 앱에 자동으로 로그인되지 않는 문제를 해결합니다.
 
 
 
@@ -129,42 +129,42 @@ ms.locfileid: "19556308"
 *버전 1509 (빌드 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
--   OneNote 색 선택의 두번 테두리에 대 한 동일한 색을 선택 하면 충돌을 발생 시키는 문제를 해결 합니다.
+-   색 선택에서 테두리에 동일한 색을 두 번 선택하면 OneNote가 중단되는 문제를 해결합니다.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
--   여기서 화면 판독기를 읽을 수만 첫 단락의 다중 단락 전자 메일 서명 전자 메일 서명을 편집 하는 경우 문제를 해결 합니다.
--   작성 (영문) 또는 전자 메일을 회신할 때 올바른 위치에 커서 되어있지 여기에서 문제를 해결 합니다.
+-   전자 메일 서명을 편집할 때 화면 판독기가 다중 단락 전자 메일 서명만 읽는 문제를 해결합니다.
+-   전자 메일을 쓰거나 전자 메일에 회신할 때 커서가 잘못된 위치에 있는 문제를 해결합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스를 위한 Skype: 비보안 업데이트
--   메모리 부족 조건, 공유 데스크톱 또는 응용 프로그램을 보려면 시도에서 where 연결 끊기 및 반복 해 서 하려고 하면 자동으로 다시 참가 하 고 공유 데스크톱 또는 응용 프로그램을 볼 결과 문제를 해결 합니다.
--   여기서, 참가자가 증가 하면 숫자로 공유 데스크톱 경험 악화 될 문제를 해결 합니다.
--   하루 동안 전화 인증에 대 한 반복 해 서 메시지를 수신 하는 다단계 인증 구성 되어있는 경우는 문제를 해결 합니다.
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+-   메모리가 부족한 상태에서 공유 데스크톱 또는 앱 결과를 보려고 하면 연결이 해제되고, 자동으로 다시 참가해 공유 데스크톱 또는 앱을 보려고 반복적으로 시도하는 문제를 해결합니다.
+-   참가자 수가 증가하면 공유 데스크톱 환경이 나빠지는 문제를 해결합니다.
+-   다단계 인증이 구성되면 하루 종일 전화 인증을 요청하는 메시지가 반복적으로 수신되는 문제를 해결합니다.
 
 ### <a name="visio-non-security-updates"></a>Visio: 비보안 업데이트
--   Word 개체를 아이콘으로 표시 하기 위해 삽입 된 비어 있는 Visio를 닫은 후 문제를 해결 합니다.
+-   Visio를 닫았다가 다시 열면 아이콘으로 표시하기 위해 삽입한 Word 개체가 비워지는 문제를 해결합니다.
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
--   공동 작성 사용할 수 없습니다는 문제를 해결 하 고 문서가 SharePoint Server 2013에 있는 경우에 문서를 잠글 가져올 수 있습니다.
--   여기서 테이블은 숨겨진 옵션을 포함 하는 스타일을 적용 하는 테이블의 콘텐츠는 경우에 표시 docx 문서에서 문제를 해결 합니다.
--   여기서는 자동 고침을 수행한 후 상대 하이퍼링크를 사용 하 여 문서를 저장할 수 없습니다는 문제를 해결 합니다.
--   여기서 줄 간에 건너뛰어 이동 미러 들여쓰기가 적용 된 문서에서 단락을 편집 하는 동안 문제를 해결 합니다.
--   선 디스플레이 일관성이 없는 하위 픽셀 위치를 지정 하지 않으면 때를 편집 하는 동안 문제를 해결 합니다.
--   첫 번째 작업을 수행 하는 것으로 표시 된 있는 여러 메모와 메모 팝업에서를 클릭 하는 충돌을 설정 하는 위치는 문제를 해결 합니다.
--   잘못 된 줄 분리 된 문제를 해결 합니다.
--   여기서 TransformDocument 함수를 사용 하 여 프로그램 머리글에 텍스트 상자를 사용 하 여 문서에 있는 매크로 실행 한 경우 또는 바닥글 충돌이 발생 한 문제를 해결 합니다.
--   여기에서 모든 ActiveX 컨트롤을 제거 하면 오류는 문서를 열 때.docm 문서 문제를 해결 합니다.
--   ContentControlOnExit 이벤트에는 머리글을 클릭할 때 트리거되 하지는 문제를 해결 합니다.
--   변경 내용 추적 이름이 같은 검토자에 대 한 삭제를 표시 하는 위치는 문제를 해결 합니다.
--   여기에서 변경 된 문서를 표시 변경 내용된으로 각 시간 개인 정보를 제거 하도록 구성 하는 문서의 실시간 공동 작성과 관련해 서 문제 저장 되는 수정 프로그램입니다.
+-   SharePoint Server 2013에 문서가 있으면 공동 작성이 불가능해지고 문서가 잠기는 문제를 해결합니다.
+-   테이블의 콘텐츠에 숨김 옵션이 적용된 스타일이 있지만 테이블이 보이는 docx 문서의 문제를 해결합니다.
+-   자동 고침을 수행한 후에 상대 하이퍼링크가 포함된 문서가 저장되지 않는 문제를 해결합니다.
+-   들여쓰기 미러링이 있는 문서의 단락을 편집하는 동안 줄이 이리저리 건너뛰는 문제를 해결합니다.
+-   하위 픽셀 배치가 비활성화되면 편집하는 동안 선 표시가 일관되지 않는 문제를 해결합니다.
+-   여러 주석이 있고 그중 첫 번째 주석이 ‘완료'로 표시된 주석 팝업을 클릭하면 충돌이 발생하는 문제를 해결합니다.
+-   잘못된 줄바꿈 문제를 해결합니다.
+-   머리글 또는 바닥글에 텍스트 상자가 있는 문서에서 TransformDocument 함수를 사용하는 매크로를 실행하면 충돌이 발생하는 문제를 해결합니다.
+-   문서가 열려 있을 때 모든 ActiveX 컨트롤을 제거하면 오류가 발생하는 .docm 문서의 문제를 해결합니다.
+-   머리글을 클릭할 때 ContentControlOnExit 이벤트가 트리거되지 않는 문제를 해결합니다.
+-   변경 내용 추적이 이름이 같은 검토자의 삭제 항목을 표시하는 문제를 해결합니다.
+-   개인 정보를 제거하도록 구성된 문서의 실시간 공동 작성에서 문서가 저장될 때마다 변경 사항이 변경 내용 추적으로 표시되는 문제를 해결합니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
--   2016로 업그레이드 한 후 Office 응용 프로그램을 열고 처음으로 기능 제한 모드에 있는 응용 프로그램에서 발생 하 고 응용 프로그램에서 전체 기능을 얻으려면를 다시 시작 해야 있는 문제를 해결 합니다.
--   사용 하 여 Office를 실행 하는 볼륨 라이선스 버전의 Office 사용 하 여 필요한 사용자에 지시 하는 앱을 열 때 오류, 원격 데스크톱 서비스 결과 실행 하는 컴퓨터에서 사용 하도록 설정 하는 컴퓨터 정품 인증을 공유 하는 있는 문제를 해결 합니다.
--   약 90% 완료에서 설치 문의할 여기에서 문제를 해결 합니다.
--   제품 이름이 안됩니다에 있을 때 지역화할 여기에서 문제를 해결 합니다.
--   여기서 도구 설명 및 "사람에 게"에 대 한 KeyTip 하지 일치 하 고 다양 한 지역화 된 버전에서 리본 메뉴에서 다른 키 설명이 충돌 문제를 해결 합니다.
--   여기서 Windows가 표시 Outlook 새로운 응용 프로그램으로 업그레이드 한 후 Office 2013에서 Office 2016에 문제를 해결 합니다.
--   0x80041015 오류가 있는 결과 15.0.4615.1002 (2014 년 5 월) 버전 Office 2013에서 Office 2016로 업그레이드 하는 문제를 해결 합니다.
+-   Office 2016으로 업그레이드한 후 Office 앱을 처음 실행하면 기능 제한 모드로 전환되며 전체 기능을 사용하려면 앱을 다시 시작해야 하는 문제를 해결합니다.
+-   원격 데스크톱 서비스를 실행하는 컴퓨터에서 사용하도록 설정된 공유 컴퓨터 활성화로 Office를 실행하면 앱을 열 때 사용자에게 Office의 볼륨 라이선스 버전을 사용해야 한다고 알리는 오류를 해결합니다.
+-   설치가 90% 정도 완료된 후 멈추는 문제를 해결합니다.
+-   번역하지 않아야 할 제품 이름이 번역되는 문제를 해결합니다.
+-   “표시"에 대한 ToolTip 및 KeyTip이 일치하지 않고 다양한 지역화 버전의 리본에 있는 다른 KeyTips과 충돌하는 문제를 해결합니다.
+-   Office 2013에서 Office 2016으로 업그레이드한 후 Windows에서 Outlook이 새로운 앱으로 표시되는 문제를 해결합니다.
+-   Office 2013 버전 15.0.4615.1002(2014년 5월)에서 Office 2016으로 업그레이드하면 0x80041015 오류가 나타나는 문제를 해결합니다.
 
 
 
@@ -172,42 +172,42 @@ ms.locfileid: "19556308"
 *버전 1509 (빌드 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
--   Office 365 비즈니스 문제를 해결할 OneNote와 SharePoint 자신이 사무실의 다른 버전으로 업그레이드 하는 사용자를 알려주는 오류 메시지에 결과 사용 하려고 하는 위치입니다.
--   여기에서 비디오 녹화 미리 보기 표시 되지 않습니다 기록 내용을 Surface Pro 3에 대 한 문제를 해결 합니다.
+-   SharePoint에서 OneNote를 사용하려고 하면 다른 버전의 Office로 업그레이드해야 한다는 내용의 오류 메시지가 표시되는 Office 365 Business의 문제를 해결합니다.
+-   비디오 녹화 미리 보기에 녹화 중인 내용이 표시되지 않는 Surface Pro 3의 문제를 해결합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스를 위한 Skype: 비보안 업데이트
--   기능을 보는 사용자에 게 표시 될 때 변경 공유자 RDP에서 화면에 잠금을 설정 합니다. 뷰어는 RDP 일시 중지 이미지 대신 알림, 이제 표시 됩니다.
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+-   공유자가 RDP의 화면을 잠근 경우 뷰어에 표시되는 내용을 변경합니다. 이제 뷰어에 RDP 일시 정지 이미지 대신 알림이 표시됩니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
--   간편 실행 문제를 해결 하 고 Office 2016에 자동 업데이트는 오류 또는 사용자 취소로 인해 작업이 완료 되지 하는 경우 Office 2013 클릭 간편 실행 서비스가 없습니다 복원 하는 여기에서 키를 누릅니다.
--   에 실패 한 업데이트를 사용 하거나 Office 2013 응용 프로그램을 제거 하지 못하는 Office 2016에 자동 업데이트 하는 동안 오류가 발생 하는 여기서 간편 실행 문제를 해결 합니다.
--   간편 실행 문제 자동 업데이트를 Office 2016 이전 하는 동안 다시 부팅 한 후에 다시 시도 업데이트 하려고 하는 수정 프로그램은 업데이트에 실패 하 고 종료 수 없으면 발생 합니다.
--   간편 실행 문제를 해결 하 고 설치 하는 동안 스트림 작업을 성공적으로 컴퓨터를 다시 부팅 하는 경우를 복구할 되지 않습니다 키를 누릅니다.
--   간편 실행 문제를 해결 하 고 여기에서 "실행" 상태에 작업을 떠날 Office 2016를 수동으로 업데이트 하는 동안 부팅 키를 누릅니다.
--   간편 실행 문제를 해결 하 고 가운데에 설치 하는 동안 새로 설치 된 응용 프로그램을 시작 하 표시 되는 "인터넷 연결 끊김" 대화 상자에서 결과 처리 하는 여기서 키를 누릅니다.
--   설치 하는 동안 표시 된 앱 타일 활성화 되지 않은 장소와 앱 타일에는 사용자가 클릭 했을 때 응용 프로그램을 실행 하지는 간편 실행 문제를 해결 합니다.
--   간편 실행 문제를 해결 하 고 여기서 자동-s r-latn-cr 설치를 업데이트 하 Office 2016 변환 되지 클라이언트 언어 sr-latn-rs에 키를 누릅니다.
--   간편 실행 문제를 해결 하 고 자동 업데이트는 컴퓨터에 설치 된 Office의 여러 Sku 했으면 업데이트를 준비 하는 동안 실패 하는 여기서 키를 누릅니다.
--   간편 실행 문제를 해결 하 고 오류 대화 상자에서 자동 업데이트를 실행 하는 동안 수동 업데이트를 시작 하는 경우을 표시 하는 위치 키를 누릅니다.
--   제품의 용어 대/소문자가 올바르지 않습니다 UI에서 "추가 기능"에 대 한 참조를 업데이트 합니다.
+-   오류가 발생하거나 사용자가 취소하여 Office 2016으로 자동 업데이트가 완료되지 않을 경우 Office 2013 간편 실행 서비스가 복원되지 않는 간편 실행 문제를 해결합니다.
+-   Office 2016으로 자동 업데이트하는 중에 오류가 발생하여 업데이트하지 못하고 Office 2013 앱을 사용하거나 제거할 수 없는 간편 실행 문제를 해결합니다.
+-   이전 업데이트 시도 중에 다시 부팅하고 나서 Office 2016으로 다시 자동 업데이트하려고 하는 경우 업데이트하지 못하고 종료되지 않는 간편 실행 문제를 해결합니다.
+-   설치 중에 컴퓨터를 다시 부팅하면 Stream 작업을 복구할 수 없는 간편 실행 문제를 해결합니다.
+-   Office 2016으로 수동 업데이트 중에 다시 부팅하면 작업이 "실행 중" 상태로 유지되는 간편 실행 문제를 해결합니다.
+-   설치 과정 중에 새로 설치된 앱을 시작하면 "인터넷 연결이 끊김" 대화 상자가 표시되는 간편 실행 문제를 해결합니다.
+-   설치 중에 표시되는 앱 타일이 활성화되지 않고 앱 타일을 클릭했을 때 앱이 실행되지 않는 간편 실행 문제를 해결합니다.
+-   sr-latn-cr 설치를 Office 2016으로 자동 업데이트할 때 클라이언트 언어가 sr-latn-rs로 변환되지 않는 간편 실행 문제를 해결합니다.
+-   컴퓨터에 설치된 Office의 SKU가 여러 개 있는 경우 업데이트를 준비하는 동안 자동 업데이트하지 못하는 간편 실행 문제를 해결합니다.
+-   자동 업데이트를 실행하는 동안 수동 업데이트를 시작하면 오류 대화 상자가 표시되는 간편 실행 문제를 해결합니다.
+-   용어의 대/소문자가 올바르지 않은 제품 UI에서 "추가 기능"에 대한 참조를 업데이트합니다.
 
 
 
 ## <a name="version-1509-september-22"></a>버전 1509: 9 월 22
 *버전 1509 (빌드 4229.1024)*
 
-이이 채널에 대 한 초기 버전입니다. 이 릴리스의 Office 2016 응용 프로그램의 첫번째 가용성을 제공합니다.
+이 채널의 첫 번째 릴리스입니다. 이 릴리스를 통해 Office 2016 응용 프로그램을 처음으로 제공합니다.
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
--   Microsoft 보안 공지 [MS15 099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office의 취약점으로 인 한 원격 코드 실행 (3089664)
--   Microsoft 보안 공지 [MS15 110](https://technet.microsoft.com/library/security/ms15-110): 코드 실행 (3096440)을 원격을 해결 하는 Microsoft Office에 대 한 보안 업데이트
+-   Microsoft 보안 공지 [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3089664)
+-   Microsoft 보안 공지 [MS15-110](https://technet.microsoft.com/library/security/ms15-110): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3096440)
 
 ### <a name="visio-security-updates"></a>Visio: 보안 업데이트
--   Microsoft 보안 공지 [MS15 081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약점으로 인 한 원격 코드 실행 (3080790)
+-   Microsoft 보안 공지 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   Microsoft 보안 공지 [MS15 081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약점으로 인 한 원격 코드 실행 (3080790)
+-   Microsoft 보안 공지 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
--   Microsoft 보안 공지 [MS15 081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약점으로 인 한 원격 코드 실행 (3080790)
--   Microsoft 보안 공지 [MS15 099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office의 취약점으로 인 한 원격 코드 실행 (3089664)
+-   Microsoft 보안 공지 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
+-   Microsoft 보안 공지 [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3089664)

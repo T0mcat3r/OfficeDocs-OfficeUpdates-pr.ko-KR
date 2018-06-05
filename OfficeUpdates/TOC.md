@@ -11,19 +11,19 @@
 #### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
-### 세미콜론 연간 회의 채널
+### 반기 채널
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
 
-### 세미콜론 연간 회의 채널 (대상)
+### 반기 채널(대상 지정)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
-# Mac 용 office
-## [업데이트 내용](update-history-office-for-mac.md)
+# Mac용 Office
+## [업데이트 기록](update-history-office-for-mac.md)
 ## [릴리스 정보](release-notes-office-for-mac.md)
 ## [MAU 버전 기록](release-history-microsoft-autoupdate.md)
 
@@ -40,7 +40,7 @@
 ## [Project Server 업데이트](project-server-updates.md)
 ## [SharePoint 업데이트](sharepoint-updates.md)
 
-# 관련된 링크
+# 관련 링크
 ## [Windows 10 해제](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Microsoft 수명 주기 정책](https://support.microsoft.com/lifecycle)
 
