@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2013 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 90565118b040da6550afd630fe2a8fbcac454b26
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: b38c1bc88df6cef66c9ebdd14c9baed626914cde
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556258"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709669"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013에 대한 업데이트 기록
 
@@ -46,7 +46,7 @@ Office의 버전을 확인하려면 다음을 수행합니다.
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-|2018년   |5월 8일   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/ko-KR/help/4133083)  |
+|2018년 |5월 8일   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/ko-KR/help/4133083)  |
 ||4월 10일   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/ko-KR/help/4098622)  |
 ||3월 13일   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/ko-KR/help/4090988)  |
 ||2월 13일   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
