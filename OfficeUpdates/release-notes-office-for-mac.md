@@ -3,7 +3,7 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 46548cbd64aaf43db8dd0f6070a3f8a2eb69df0a
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: d46c11fbf8dccb1e364a1f446d62b15697fd7b6c
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556277"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886954"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -32,7 +32,32 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 > - 다운로드 링크는 가장 최근 릴리스에 대해서만 제공됩니다.
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
+## <a name="june-2018-release"></a>2018년 6월 릴리스
+
+**릴리스 날짜:** 2018년 6월 13일 
+
+*버전 16.14.1(빌드 18061302)*
+
+이 릴리스는 개별 응용 프로그램의 업데이트 패키지 관련 문제를 해결합니다.
+
+업데이트 패키지의 다운로드 링크는 다음과 같습니다. [Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg) 및 [OneNote ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg).
+
+<br/><br/>
+
+ **릴리스 날짜:** 2018년 6월 12일 
   
+ *버전 16.14.0(빌드 18061000)* 
+  
+이 릴리스는 다음과 같은 업데이트를 제공합니다.
+  
+|**응용 프로그램**|**기능 업데이트**|**업데이트 패키지용 다운로드 링크**|
+|:-----|:-----|:-----|
+|Word  <br/> |**가독성을 높이는 학습 도구:** 눈에 휴식을 주세요. 텍스트 간격, 열 너비 및 페이지 색을 조정해보세요. 또는 텍스트가 강조 표시되면서 Word에서 문서를 소리내어 읽는 것을 들어보세요. [자세히 알아보기](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
+|Excel  <br/> |**데이터 빠른 채우기:** 빠른 채우기 기능에 몇 가지 예제를 입력하면 데이터가 자동으로 채워집니다. [자세히 알아보기](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **언어 장벽 없애기:** Microsoft 번역기를 통해 단어, 구 또는 문장을 다른 언어로 번역할 수 있습니다. [자세히 알아보기](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
+|PowerPoint  <br/> |**언어 장벽 없애기:** Microsoft 번역기를 통해 단어, 구 또는 문장을 다른 언어로 번역할 수 있습니다. [자세히 알아보기](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**생동감 있는 색상의 하이퍼링크:** 하이퍼링크가 더 이상 파란색으로만 표시되지 않습니다. 원하는 색상을 적용해보세요. [자세히 알아보기](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
+|Outlook  <br/> |**기억하기 쉬운 서명 만들기:** 풍부한 글꼴 스타일, 색, 이미지, 링크 등으로 자신을 표현해보세요. [자세히 알아보기](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **그룹과 함께 만들기 및 공동 작업:** Outlook에서 Office 365 그룹을 만들고 싶나요? 걱정할 필요가 없습니다. 구성원을 간단히 추가 및 제거할 수 있습니다. Mac에서의 공동 작업도 더욱 간편해졌습니다. [자세히 알아보기](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
+|Microsoft 자동 업데이트 4.0  <br/> ||[Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |  
+
 ## <a name="may-2018-release"></a>2018년 5월 릴리스
 
 **릴리스 날짜:** 2018년 5월 24일
@@ -95,9 +120,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
  *버전 16.11.1(빌드 18031900)* 
   
 이 릴리스는 경우에 따라 Word, Excel 및 PowerPoint가 시작 시 무한정 응답하지 않는 문제를 해결합니다.
-  
-업데이트 패키지의 다운로드 링크는 다음과 같습니다. [Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.11.18031900_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.11.18031900_Updater.pkg) 및 [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.11.18031900_Updater.pkg)
- 
+   
 <br/><br/>
  
  **릴리스 날짜:** 2018년 3월 13일 
@@ -106,15 +129,14 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 이 릴리스는 다음과 같은 업데이트를 제공합니다.
   
-|**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**비보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
+|**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**비보안 업데이트**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**포커스 모드에서 더 많은 작업 수행:** 이제 포커스 모드가 설정된 확대/축소 수준에서 열리며, 스크롤하는 동안 페이지 번호가 표시됩니다.  <br/> ||||
 |Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스  <br/> |||
 |PowerPoint  <br/> |**포함된 글꼴:** 포함된 글꼴을 사용하면 프레젠테이션이 모든 컴퓨터에서 동일하게 표시되고, 콘텐츠가 의도한 대로 사용자에게 표시됩니다.  <br/> ||||
-|Outlook  <br/> |**표:** 메시지 및 일정 이벤트에 표를 삽입하고, 콘텐츠에 구조를 적용할 수 있습니다. 다른 Office 앱에서 더 이상 복사하여 붙여넣을 필요가 없습니다. [자세한 정보](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **한 번에 두 표준 시간대 보기:** 세계의 다른 지역은 몇 시인지 알고 싶으세요? 이제 Outlook에 표준 시간대를 하나 더 추가할 수 있습니다.  <br/><br/> **다른 표준 시간대에서 예약:** 다른 표준 시간대의 지역을 여행 중인가요? 시작 및 끝 표준 시간대가 다른 이벤트를 만들어보세요. Outlook에서 알아서 변환해줍니다.<br/><br/> **텍스트 크기 변경:** 사이드바, 메시지 목록 및 읽기 창에서 글꼴 크기를 늘리거나 줄일 수 있습니다. [자세한 정보](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||컴퓨터의 기본 표준 시간대가 DST(일광 절약 시간)를 따르고 주 보기가 선택될 경우 DST가 시작될 때 모든 이벤트가 주의 일정 표에서 1시간씩 이동되는 문제를 해결합니다.  <br/> |[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.11.18031100_Updater.pkg) <br/> |
-|OneNote  <br/> ||||[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.11.18031100_Updater.pkg) <br/> |
-|Office 제품군  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성  <br/> ||해당 없음  <br/> |
-|Microsoft 자동 업데이트 3.17  <br/> ||||[Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.17.18031100_Updater.pkg) <br/> |
+|Outlook  <br/> |**표:** 메시지 및 일정 이벤트에 표를 삽입하고, 콘텐츠에 구조를 적용할 수 있습니다. 다른 Office 앱에서 더 이상 복사하여 붙여넣을 필요가 없습니다. [자세한 정보](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **한 번에 두 표준 시간대 보기:** 세계의 다른 지역은 몇 시인지 알고 싶으세요? 이제 Outlook에 표준 시간대를 하나 더 추가할 수 있습니다.  <br/><br/> **다른 표준 시간대에서 예약:** 다른 표준 시간대의 지역을 여행 중인가요? 시작 및 끝 표준 시간대가 다른 이벤트를 만들어보세요. Outlook에서 알아서 변환해줍니다.<br/><br/> **텍스트 크기 변경:** 사이드바, 메시지 목록 및 읽기 창에서 글꼴 크기를 늘리거나 줄일 수 있습니다. [자세한 정보](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||컴퓨터의 기본 표준 시간대가 DST(일광 절약 시간)를 따르고 주 보기가 선택될 경우 DST가 시작될 때 모든 이벤트가 주의 일정 표에서 1시간씩 이동되는 문제를 해결합니다.  <br/> |
+|Office 제품군  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성  <br/> |
+
    
 ## <a name="february-2018-release"></a>2018년 2월 릴리스
 

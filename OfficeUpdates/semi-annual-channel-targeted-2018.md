@@ -3,19 +3,19 @@ title: 2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/18/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 7e4a881b7981ecd23d9771a5d1f375f4cf07eba7
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556273"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886634"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,32 @@ ms.locfileid: "19556273"
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+
+## <a name="version-1803-june-12"></a>버전 1803: 6월 12일
+*버전 1803(빌드 9126.2227)*
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8246): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8248): Microsoft Excel 원격 코드 실행 취약성
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+-   Excel 피벗 테이블의 그룹화(또는 그룹 해제) 작업이 경우에 따라 충돌이 발생할 수 있는 문제를 해결합니다.
+
+### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 권한 상승 취약성
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
+-   Shape.Visibile 속성을 변경할 때 잠재적인 작동 중단이 발생할 수 있는 문제를 해결합니다.
+-   공동 작성된 문서를 변경하면 병합되지 못하는 문제를 해결합니다.
+-   ActiveX 컨트롤을 포함하는 문서의 공동 작성이 실패하도록 하는 문제를 해결합니다.
+
+### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
+-   시간 표시 막대 보기의 시간 표시 막대에 기존 작업 추가 대화 상자에서 첫 번째 요약 작업의 작업만 표시되는 문제를 해결합니다.
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+-   System Center Configuration Manager를 사용하여 Office 응용 프로그램을 실행하는 클라이언트에 업데이트를 배포할 때 Office 응용 프로그램이 실행되는 동안 장치를 다시 시작한 후에 업데이트가 적용되지 않는 문제를 해결합니다.
+
+
 
 ## <a name="version-1803-may-18"></a>버전 1803: 5월 18일
 *버전 1803(빌드 9126.2210)*

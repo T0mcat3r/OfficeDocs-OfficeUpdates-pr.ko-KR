@@ -3,19 +3,19 @@ title: 2018년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: eb057983e92975a4fa19d9dc5abae683c0564d20
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 8a5d598823ad277ad5f2cdd5f13368f338f4b3d6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556270"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886664"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -25,6 +25,35 @@ ms.locfileid: "19556270"
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 > - 반기 채널이 2018년 1월 이전에는 지연 채널로 지칭되었습니다.
+
+
+## <a name="version-1708-june-12"></a>버전 1708: 6월 12일
+*버전 1708(빌드 8431.2270)*
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8246): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8248): Microsoft Excel 원격 코드 실행 취약성
+
+### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 권한 상승 취약성
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
+-   Windows 7 SP1 사용자가 최신 그룹에 구성원을 추가할 수 없는 문제를 해결합니다.
+
+
+
+## <a name="version-1705-june-12"></a>버전 1705: 6월 12일
+*버전 1705(빌드 8201.2294)*
+
+*2017년 9월부터 제공된 지연 채널 릴리스입니다. 이 릴리스는 2018년 7월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1708(빌드 8431.2270)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8246): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8248): Microsoft Excel 원격 코드 실행 취약성
+
+### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 권한 상승 취약성
+
 
 
 ## <a name="version-1708-may-8"></a>버전 1708: 5월 8일
