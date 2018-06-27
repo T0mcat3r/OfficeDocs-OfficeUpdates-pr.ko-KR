@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886964"
+ms.locfileid: "20036307"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,36 @@ ms.locfileid: "19886964"
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+
+
+
+## <a name="version-1806-june-25"></a>버전 1806: 6월 25일
+*버전 1806(빌드 10228.20080)*
+
+### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
+ - **향상된 셀 및 수식 입력줄 편집:** 이제 Ctrl+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문자에 대한 지원도 개선되었습니다.
+ - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+ - **되풀이 기본값:** 약속 되풀이 대화 상자("되풀이 범위" 아래)에서는 “끝 날짜 지정하지 않음” 대신 “끝 날짜”가 기본 설정이고 첫 번째로 표시되며, 기본 끝 날짜가 설정됩니다.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+ - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **펜으로 슬라이드 제목 쓰기:** 펜을 사용하여 제목을 잉크로 쓰면 PowerPoint에서 텍스트로 변환합니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+### <a name="project-feature-updates"></a>Project: 기능 업데이트
+ - **최근 저장 위치 유지:** Project에서는 다른 프로젝트를 저장한 위치 목록을 유지합니다. 프로젝트를 저장할 준비가 되면 최근 저장 위치 중 하나를 선택하여 편리하게 저장할 수 있습니다.
+
+### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
+ - 마스터 프로젝트의 하위 프로젝트가 저장되지 않는 문제를 해결합니다.
+
+### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
+ - **더 많은 스텐실, 더 많은 아이콘, 보다 다양한 선택 옵션:** 분석, 예술, 축하, 얼굴, 위치, 의료, 자연, 사람, 스포츠, 날씨와 계절 등을 비롯한 26가지 스텐실이 추가되었습니다.
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+ - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+
 
 ## <a name="version-1805-june-13"></a>버전 1805: 6월 13일
 *버전 1805(빌드 9330.2124)*
