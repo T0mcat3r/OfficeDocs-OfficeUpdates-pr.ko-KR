@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트의 다운로드 크기
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e8ac5a96745dadae5527f01f2d291b1fb52b8893
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: c9aeb8d27fca4a5f5a7175ba5337f3ed4ef45adc
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886844"
+ms.locfileid: "20036247"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -38,6 +38,18 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
   
 
 
+## <a name="june-25-2018"></a>2018년 6월 25일
+
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 버전은 버전 1806(빌드 10228.20080)입니다.
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1805(빌드 9330.2124)  <br/> |2018년 6월 13일  <br/> |155  <br/> |
+|버전 1805(빌드 9330.2118)  <br/> |2018년 6월 12일  <br/> |402  <br/> |
+|버전 1805(빌드 9330.2087)  <br/> |2018년 5월 24일  <br/> |154  <br/> |
+   
 ## <a name="june-13-2018"></a>2018년 6월 13일
 
 ### <a name="monthly-channel"></a>월별 채널
