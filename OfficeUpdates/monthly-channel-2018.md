@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/25/2018
+ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: 002797796c82ac28217609ff14379550cec924d9
+ms.sourcegitcommit: 23afe8badbfc1e55319e7fc0051ecb44262f19b9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036307"
+ms.lasthandoff: 06/29/2018
+ms.locfileid: "20157866"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,8 +24,7 @@ ms.locfileid: "20036307"
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
-
-
+ 
 
 ## <a name="version-1806-june-25"></a>버전 1806: 6월 25일
 *버전 1806(빌드 10228.20080)*
@@ -36,13 +35,17 @@ ms.locfileid: "20036307"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
  - **되풀이 기본값:** 약속 되풀이 대화 상자("되풀이 범위" 아래)에서는 “끝 날짜 지정하지 않음” 대신 “끝 날짜”가 기본 설정이고 첫 번째로 표시되며, 기본 끝 날짜가 설정됩니다.
+ - **접근성 검사 개선:** 접근성 검사는 메시지에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
  - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  - **펜으로 슬라이드 제목 쓰기:** 펜을 사용하여 제목을 잉크로 쓰면 PowerPoint에서 텍스트로 변환합니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
+
 ### <a name="project-feature-updates"></a>Project: 기능 업데이트
  - **최근 저장 위치 유지:** Project에서는 다른 프로젝트를 저장한 위치 목록을 유지합니다. 프로젝트를 저장할 준비가 되면 최근 저장 위치 중 하나를 선택하여 편리하게 저장할 수 있습니다.
+ - **스프린트를 관리하는 새로운 방법:** 작업 보드에서 작업할 때 Agile 접근 방법을 선택합니다. 스프린트 관리로 이동하여 프로젝트가 발전함에 따라 스프린트를 추가하고 제거합니다.
+
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
  - 마스터 프로젝트의 하위 프로젝트가 저장되지 않는 문제를 해결합니다.
@@ -109,6 +112,7 @@ ms.locfileid: "20036307"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
  - **편집하는 동안 공동 작성자와 채팅:** PowerPoint를 종료하지 않고도 공동 작성자와 채팅하여 더욱 효율적으로 공동 작업을 할 수 있습니다. [자세한 정보](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
  - **자동 입력:** 말로만 프레젠테이션을 쓸 수 있습니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **Microsoft Forms:** 슬라이드에 퀴즈 또는 설문 조사를 넣습니다. Office가 응답을 수집하고 저장합니다. [자세한 정보](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
  - 프로젝트를 처음 Project Web App에 저장할 때 Project가 중단될 수 있는 문제를 해결합니다.
