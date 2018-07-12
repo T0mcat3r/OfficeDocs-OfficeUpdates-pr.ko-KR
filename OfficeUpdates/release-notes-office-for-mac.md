@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6721d811de54c821b581e3b7d2a67b4cab9ff3b3
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: f1b878e883d8b8494c8e13b4c6cf55e1d90ca8d7
+ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246278"
+ms.lasthandoff: 07/11/2018
+ms.locfileid: "20275774"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -44,11 +44,10 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |:-----|:-----|:-----|
 |Word  <br/> |**클릭 한 번으로 접근성 문제 해결:** 접근성 검사가 국제 표준에 대한 지원이 업데이트되고 문서 접근성을 높여주는 편리한 권장 지침 덕분에 이전보다 더 개선되었습니다. [자세히 알아보기](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> ||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
 |Excel  <br/> |||[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
-|PowerPoint  <br/> |**비디오로 생동감 주기:** YouTube 비디오를 사용하여 슬라이드에 라이브 동작을 추가한 후 앱을 빠져 나가지 않고도 볼 수 있습니다. [자세히 알아보기](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
-|Outlook  <br/> |||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**비디오로 생동감 주기:** YouTube 비디오를 사용하여 슬라이드에 라이브 동작을 추가한 후 앱을 빠져 나가지 않고도 볼 수 있습니다. [자세히 알아보기](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.1  <br/> |Aria SDK 8.4로 업데이트됩니다. 메모리 누수 문제가 해결됩니다.<br/><br/>앱 등록으로 변경됩니다. 이제 Office 2019 미리 보기가 지원됩니다.||[Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
 |Office 제품군  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성  <br/> ||
-
 
 
 ## <a name="june-2018-release"></a>2018년 6월 릴리스

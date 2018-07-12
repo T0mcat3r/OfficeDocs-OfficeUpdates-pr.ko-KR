@@ -9,14 +9,13 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-ms.custom: LIL_Placement
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 842ce6c2b8ae2ee7c1acbc11afd4c74cc50d217f
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 7c9b1f343cb2f9e467b3118b454baf154061502f
+ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246338"
+ms.lasthandoff: 07/11/2018
+ms.locfileid: "20275764"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -153,4 +152,4 @@ ms.locfileid: "20246338"
 - [Office 365 ProPlus 업데이트에 대한 릴리스 정보](release-notes-office365-proplus.md)
 - [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)
 
-[!INCLUDE [LinkedIn Learning Info](common/office/linkedin-learning-info.md)]
+
