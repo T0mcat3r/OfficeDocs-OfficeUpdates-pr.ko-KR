@@ -3,19 +3,19 @@ title: Office 365 ProPlus에 대한 업데이트 기록(버전순)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/25/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 버전별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 5768fc34e735112f5a9e19f02b79bd56d2eb3568
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: fb89058cca143a3921500e15c3fbb1787d60c047
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036257"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246358"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-version"></a>Office 365 ProPlus에 대한 업데이트 기록(버전순)
  
@@ -32,10 +32,10 @@ ms.locfileid: "20036257"
   
 |**버전**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|
-|1806  <br/> |**[10228.20080](monthly-channel-2018.md#version-1806-june-25)(2018년 6월 25일)** <br/> |  <br/> |  <br/> |
+|1806  <br/> |**[10228.20104](monthly-channel-2018.md#version-1806-july-10)(2018년 7월 10일)** <br/>[10228.20080](monthly-channel-2018.md#version-1806-june-25)(2018년 6월 25일) |  <br/> |  <br/> |
 |1805  <br/> |[9330.2124](monthly-channel-2018.md#version-1805-june-13)(2018년 6월 13일) <br/> [9330.2118](monthly-channel-2018.md#version-1805-june-12)(2018년 6월 12일) <br/> [9330.2087](monthly-channel-2018.md#version-1805-may-24)(2018년 5월 24일) <br/> [9330.2078](monthly-channel-2018.md#version-1805-may-23)(2018년 5월 23일) <br/> |  <br/> |  <br/> |
 |1804  <br/> |[9226.2156](monthly-channel-2018.md#version-1804-may-14)(2018년 5월 14일) <br/> [9226.2126](monthly-channel-2018.md#version-1804-may-8)(2018년 5월 8일) <br/>  [9226.2114](monthly-channel-2018.md#version-1804-april-25)(2018년 4월 25일) <br/> |  <br/> |  <br/> |
-|1803  <br/> | [9126.2152](monthly-channel-2018.md#version-1803-april-11)(2018년 4월 11일)  <br/>  [9126.2116](monthly-channel-2018.md#version-1803-march-27)(2018년 3월 27일)  <br/> |**[9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12)(2018년 6월 12일)** <br/> [9126.2210](semi-annual-channel-targeted-2018.md#version-1803-may-18)(2018년 5월 18일) <br/> [9126.2191](semi-annual-channel-targeted-2018.md#version-1803-may-8)(2018년 5월 8일) <br/>  [9126.2152](semi-annual-channel-targeted-2018.md#version-1803-april-10)(2018년 4월 10일)  <br/>  [9126.2098](semi-annual-channel-targeted-2018.md#version-1803-march-20)(2018년 3월 20일)  <br/>  [9126.2072](semi-annual-channel-targeted-2018.md#version-1803-march-13)(2018년 3월 13일)  <br/> |2018년 7월 10일로 예정됨  <br/> |
+|1803  <br/> | [9126.2152](monthly-channel-2018.md#version-1803-april-11)(2018년 4월 11일)  <br/>  [9126.2116](monthly-channel-2018.md#version-1803-march-27)(2018년 3월 27일)  <br/> |**[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)(2018년 7월 10일)** <br/> [9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12)(2018년 6월 12일) <br/> [9126.2210](semi-annual-channel-targeted-2018.md#version-1803-may-18)(2018년 5월 18일) <br/> [9126.2191](semi-annual-channel-targeted-2018.md#version-1803-may-8)(2018년 5월 8일) <br/>  [9126.2152](semi-annual-channel-targeted-2018.md#version-1803-april-10)(2018년 4월 10일)  <br/>  [9126.2098](semi-annual-channel-targeted-2018.md#version-1803-march-20)(2018년 3월 20일)  <br/>  [9126.2072](semi-annual-channel-targeted-2018.md#version-1803-march-13)(2018년 3월 13일)  <br/> |[9126.2259](semi-annual-channel-2018.md#version-1803-july-10)(2018년 7월 10일)  <br/> |
 |1802  <br/> | [9029.2253](monthly-channel-2018.md#version-1802-march-13)(2018년 3월 13일)  <br/>  [9029.2167](monthly-channel-2018.md#version-1802-february-26)(2018년 2월 26일)  <br/> |  <br/> |  <br/> |
 |1801  <br/> | [9001.2171](monthly-channel-2018.md#version-1801-february-13)(2018년 2월 13일)  <br/>  [9001.2144](monthly-channel-2018.md#version-1801-february-7)(2018년 2월 7일)  <br/>  [9001.2138](monthly-channel-2018.md#version-1801-february-1)(2018년 2월 1일)  <br/> |  <br/> |  <br/> |
 |1712  <br/> | [8827.2179](monthly-channel-2018.md#version-1712-january-30)(2018년 1월 30일)  <br/>  [8827.2148](monthly-channel-2018.md#version-1712-january-17)(2018년 1월 17일)  <br/> |  <br/> |  <br/> |

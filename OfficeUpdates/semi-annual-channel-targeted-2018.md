@@ -3,19 +3,19 @@ title: 2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b5b3cf82f2f59378f1309e7cd91540ad0689db47
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886634"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246388"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,36 @@ ms.locfileid: "19886634"
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+
+## <a name="version-1803-july-10"></a>버전 1803: 7월 10일
+*버전 1803(빌드 9126.2259)*
+
+### <a name="access-security-updates"></a>Access: 보안 업데이트
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
+
+### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8310): Microsoft Office 변조 취약성
+
+### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+-   일본 Era 달력이 날짜 셀 형식으로 사용될 때 잘못된 연도가 표시되는 문제를 해결합니다.
+-   Excel 데이터 모델에 데이터를 가져올 때 들어오는 음의 0 값이 오류를 발생합니다. 수정 프로그램은 이러한 값을 0으로 가져옵니다.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
+-   테이블이 두꺼운 테두리로 잘못 렌더링되는 문제를 해결합니다.
+
+### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
+-   작업을 비용 자원으로 분할할 경우 비용 자원이 올바르게 업데이트되지 않고 비용손이 실되는 문제가 해결되었습니다.
+-   시간 표시 막대 보기의 시간 표시 막대에 기존 작업 추가 대화 상자에서 첫 번째 요약 작업의 작업만 표시되는 문제가 해결되었습니다.
+-   Project Online 또는 Project Server에서 마스터 프로젝트를 XML로 저장하면 실패하는 문제가 해결되었습니다.
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+-   특정 시나리오에서 업데이트 설치 시간이 오래 걸리는 버그를 수정합니다. 
+-   SVG 테스트가 실패하는 문제를 해결합니다.
+-   System Center Configuration Manager를 사용하여 Office 응용 프로그램을 실행하는 클라이언트에 업데이트를 배포할 때 Office 응용 프로그램이 실행되는 동안 장치를 다시 시작한 후에 업데이트가 적용되지 않는 문제를 해결합니다.
+
 
 ## <a name="version-1803-june-12"></a>버전 1803: 6월 12일
 *버전 1803(빌드 9126.2227)*

@@ -3,7 +3,7 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d46c11fbf8dccb1e364a1f446d62b15697fd7b6c
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 6721d811de54c821b581e3b7d2a67b4cab9ff3b3
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886954"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246278"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -31,6 +31,25 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 > - 이러한 릴리스 정보는 Mac용 Office 영구 버전인 Mac용 Office 2016에도 적용되며 소매점 또는 볼륨 라이선스 계약을 통해 일회용 구매 제품으로 사용할 수 있습니다. 그렇지만 릴리스 정보에 나열된 일부 기능은 Office 365 구독이 있는 경우에만 사용할 수 있습니다.
 > - 다운로드 링크는 가장 최근 릴리스에 대해서만 제공됩니다.
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
+
+## <a name="july-2018-release"></a>2018년 7월 릴리스
+
+ **릴리스 날짜:** 2018년 7월 10일 
+  
+ *버전 16.15.0(빌드 18070902)* 
+  
+이 릴리스는 다음과 같은 업데이트를 제공합니다.
+  
+|**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
+|:-----|:-----|:-----|
+|Word  <br/> |**클릭 한 번으로 접근성 문제 해결:** 접근성 검사가 국제 표준에 대한 지원이 업데이트되고 문서 접근성을 높여주는 편리한 권장 지침 덕분에 이전보다 더 개선되었습니다. [자세히 알아보기](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> ||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
+|Excel  <br/> |||[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**비디오로 생동감 주기:** YouTube 비디오를 사용하여 슬라이드에 라이브 동작을 추가한 후 앱을 빠져 나가지 않고도 볼 수 있습니다. [자세히 알아보기](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|Microsoft 자동 업데이트 4.1  <br/> |Aria SDK 8.4로 업데이트됩니다. 메모리 누수 문제가 해결됩니다.<br/><br/>앱 등록으로 변경됩니다. 이제 Office 2019 미리 보기가 지원됩니다.||[Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
+|Office 제품군  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성  <br/> ||
+
+
 
 ## <a name="june-2018-release"></a>2018년 6월 릴리스
 
@@ -56,7 +75,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |Excel  <br/> |**데이터 빠른 채우기:** 빠른 채우기 기능에 몇 가지 예제를 입력하면 데이터가 자동으로 채워집니다. [자세히 알아보기](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **언어 장벽 없애기:** Microsoft 번역기를 통해 단어, 구 또는 문장을 다른 언어로 번역할 수 있습니다. [자세히 알아보기](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
 |PowerPoint  <br/> |**언어 장벽 없애기:** Microsoft 번역기를 통해 단어, 구 또는 문장을 다른 언어로 번역할 수 있습니다. [자세히 알아보기](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**생동감 있는 색상의 하이퍼링크:** 하이퍼링크가 더 이상 파란색으로만 표시되지 않습니다. 원하는 색상을 적용해보세요. [자세히 알아보기](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
 |Outlook  <br/> |**기억하기 쉬운 서명 만들기:** 풍부한 글꼴 스타일, 색, 이미지, 링크 등으로 자신을 표현해보세요. [자세히 알아보기](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **그룹과 함께 만들기 및 공동 작업:** Outlook에서 Office 365 그룹을 만들고 싶나요? 걱정할 필요가 없습니다. 구성원을 간단히 추가 및 제거할 수 있습니다. Mac에서의 공동 작업도 더욱 간편해졌습니다. [자세히 알아보기](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
-|Microsoft 자동 업데이트 4.0  <br/> ||[Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |  
+|Microsoft 자동 업데이트 4.0  <br/> ||[Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18061000_Updater.pkg) <br/> |  
 
 ## <a name="may-2018-release"></a>2018년 5월 릴리스
 
@@ -105,12 +124,12 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**비보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|:-----|
-|Word  <br/> |**향상된 공유 및 공동 작업:** 로컬로 동기화된 OneDrive 문서가 클라우드에서 직접 열리므로 쉽게 자동으로 저장하고, 공유하고, 공동 작업을 수행할 수 있습니다.  <br/> <br/> **시각적 효과 추가:** 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.12.18041000_Updater.pkg) <br/> |
-|Excel  <br/> |**향상된 공유 및 공동 작업:** 로컬로 동기화된 OneDrive 통합 문서가 클라우드에서 직접 열리므로 쉽게 자동으로 저장하고, 공유하고, 공동 작업을 수행할 수 있습니다.  <br/> <br/> **시각적 효과 추가:** 통합 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성  <br/> ||[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.12.18041000_Updater.pkg) <br/> |
-|PowerPoint  <br/> |**향상된 공유 및 공동 작업:** 로컬로 동기화된 OneDrive 프레젠테이션이 클라우드에서 직접 열리므로 쉽게 자동으로 저장하고, 공유하고, 공동 작업을 수행할 수 있습니다.   <br/><br/> **시각적 효과 추가:** 프레젠테이션에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.12.18041000_Updater.pkg) <br/> |
-|Outlook  <br/> |**시각적 효과 추가:** 전자 메일에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**실행 가능한 추가 일정:** 일정에서 모임 또는 이벤트를 클릭하여 관련된 모든 세부 정보를 볼 수 있습니다. 초대 받은 사람을 확인하거나, 응답을 편집하거나, 모임에 참여하는 모든 작업을 한 곳에서 처리할 수 있습니다.<br/> <br/> **보다 간편해진 검색 결과 검색:** Outlook의 항목 목록 또는 미리 보기 창에서 검색어가 강조 표시됩니다.  <br/> <br/> **주 번호:** 이제 일정 월 보기와 사이드바의 미니 달력에 주 번호가 표시됩니다. 이 기능을 사용하도록 설정하려면 Outlook \> 기본 설정 \> 일정 \> 일정 옵션에서 "몇째 주인지 표시"를 선택합니다.<br/> <br/> **Skype 모임 예약:** 이제 대리인이 보안 주체의 전자 메일 주소를 사용하여 보안 주체 대신 비즈니스용 Skype Online 회의를 예약할 수 있습니다. *(비즈니스용 Skype Online에만 해당합니다. 이 기능은 향후 서버 업데이트의 Skype용 비즈니스 서버 2015에서 사용할 수 있습니다.)*  <br/> ||서버 규칙을 편집 및 삭제할 때 오류 처리 기능이 개선되었습니다. 오류를 포함하는 서버 규칙을 규칙 목록에서 처음 표시하면 강조 표시됩니다.  <br/> |[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.12.18041000_Updater.pkg) <br/> |
-|OneNote  <br/> ||||[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.12.18041000_Updater.pkg) <br/> |
-|Microsoft 자동 업데이트 3.18  <br/> |msupdate 명령줄 도구가 지원됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> |||[Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.18.18041000_Updater.pkg) <br/> |
+|Word  <br/> |**향상된 공유 및 공동 작업:** 로컬로 동기화된 OneDrive 문서가 클라우드에서 직접 열리므로 쉽게 자동으로 저장하고, 공유하고, 공동 작업을 수행할 수 있습니다.  <br/> <br/> **시각적 효과 추가:** 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
+|Excel  <br/> |**향상된 공유 및 공동 작업:** 로컬로 동기화된 OneDrive 통합 문서가 클라우드에서 직접 열리므로 쉽게 자동으로 저장하고, 공유하고, 공동 작업을 수행할 수 있습니다.  <br/> <br/> **시각적 효과 추가:** 통합 문서에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성  <br/> ||||
+|PowerPoint  <br/> |**향상된 공유 및 공동 작업:** 로컬로 동기화된 OneDrive 프레젠테이션이 클라우드에서 직접 열리므로 쉽게 자동으로 저장하고, 공유하고, 공동 작업을 수행할 수 있습니다.   <br/><br/> **시각적 효과 추가:** 프레젠테이션에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
+|Outlook  <br/> |**시각적 효과 추가:** 전자 메일에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집하여 시각적 효과를 추가하고 높은 이미지 품질을 유지할 수 있습니다. [자세한 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**실행 가능한 추가 일정:** 일정에서 모임 또는 이벤트를 클릭하여 관련된 모든 세부 정보를 볼 수 있습니다. 초대 받은 사람을 확인하거나, 응답을 편집하거나, 모임에 참여하는 모든 작업을 한 곳에서 처리할 수 있습니다.<br/> <br/> **보다 간편해진 검색 결과 검색:** Outlook의 항목 목록 또는 미리 보기 창에서 검색어가 강조 표시됩니다.  <br/> <br/> **주 번호:** 이제 일정 월 보기와 사이드바의 미니 달력에 주 번호가 표시됩니다. 이 기능을 사용하도록 설정하려면 Outlook \> 기본 설정 \> 일정 \> 일정 옵션에서 "몇째 주인지 표시"를 선택합니다.<br/> <br/> **Skype 모임 예약:** 이제 대리인이 보안 주체의 전자 메일 주소를 사용하여 보안 주체 대신 비즈니스용 Skype Online 회의를 예약할 수 있습니다. *(비즈니스용 Skype Online에만 해당합니다. 이 기능은 향후 서버 업데이트의 Skype용 비즈니스 서버 2015에서 사용할 수 있습니다.)*  <br/> ||서버 규칙을 편집 및 삭제할 때 오류 처리 기능이 개선되었습니다. 오류를 포함하는 서버 규칙을 규칙 목록에서 처음 표시하면 강조 표시됩니다.  <br/> ||
+|OneNote  <br/> ||||
+|Microsoft 자동 업데이트 3.18  <br/> |msupdate 명령줄 도구가 지원됩니다. [자세한 정보](https://docs.microsoft.com/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> ||||
    
 ## <a name="march-2018-release"></a>2018년 3월 릴리스
 

@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/29/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 002797796c82ac28217609ff14379550cec924d9
-ms.sourcegitcommit: 23afe8badbfc1e55319e7fc0051ecb44262f19b9
+ms.openlocfilehash: 311d8aff93d50fe481b161361d451fd32d9e6b03
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/29/2018
-ms.locfileid: "20157866"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246258"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -25,6 +25,18 @@ ms.locfileid: "20157866"
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
  
+## <a name="version-1806-july-10"></a>버전 1806: 7월 10일
+*버전 1806(빌드 10228.20104)*
+
+### <a name="access-security-updates"></a>Access: 보안 업데이트
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
+
+### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8310): Microsoft Office 변조 취약성
+
+### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성
+
 
 ## <a name="version-1806-june-25"></a>버전 1806: 6월 25일
 *버전 1806(빌드 10228.20080)*
