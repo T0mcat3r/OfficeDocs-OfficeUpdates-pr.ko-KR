@@ -3,19 +3,19 @@ title: 2018년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8de935da67b21dd14f3ff27dacef5c27dab3af93
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 96cad4972abd4987d6d3f2bd3a9d8815951ed891
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246268"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334438"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -47,7 +47,7 @@ ms.locfileid: "20246268"
 -   **3D 모델:** 3D를 사용하여 통합 문서의 시각적 효과 및 창의적 효과를 향상시킬 수 있습니다.  3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세한 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **새 잉크 효과:** 금속 펜과 무지개, 은하수, 용암, 해양, 금, 은 등의 잉크 효과를 사용하여 세련된 아이디어를 표현할 수 있습니다.
 -   **파일 공유 UI:** 비즈니스용 OneDrive 또는 SharePoint 파일의 경우 리본의 오른쪽 상단 모서리에 있는 공유 단추를 클릭하거나 파일 \> 공유로 이동하면 간단하게 향상된 공유 대화 상자가 나타납니다. 새 파일 또는 로컬에 저장한 파일의 경우 UI는 사용자가 OneDrive에 쉽게 파일을 업로드하여 공동 작업을 시작할 수 있게 합니다.
--   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe,.vbs 및 .js가 있습니다.
+-   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe, .vbs 및 .js가 있습니다. [자세한 정보](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **유용한 사운드로 접근성 향상:** 오디오 신호를 켜면 작업할 때 안내를 받을 수 있습니다. 파일 \> 옵션 \> 접근성에서 확인할 수 있습니다. 추가 기능은 필요하지 않습니다. [자세한 정보](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **계정별 파일 위치:** 파일을 열거나 저장할 때 위치 목록이 연결된 계정을 기준으로 구성됩니다.
 -   **펜 사용자 지정:** 잉크 입력을 위해 펜 및 형광펜의 개인 설정을 선택합니다. 사용자 지정 설정을 모든 Windows PC에서 사용할 수 있습니다.
@@ -142,7 +142,7 @@ ms.locfileid: "20246268"
 -   **3D 모델:** 3D를 사용하여 프레젠테이션의 시각적 효과 및 창의적 효과를 향상시킬 수 있습니다. 슬라이드 사이에 시네마틱 애니메이션을 만드는 모핑과 같은 전환을 통해 프레젠테이션에서 3D 모델을 구현할 수 있습니다. [자세한 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **새 잉크 효과:** 금속 펜과 무지개, 은하수, 용암, 해양, 금, 은 등의 잉크 효과를 사용하여 세련된 아이디어를 표현할 수 있습니다.
 -   **파일 공유 UI:** 비즈니스용 OneDrive 또는 SharePoint 파일의 경우 리본의 오른쪽 상단 모서리에 있는 공유 단추를 클릭하거나 파일 \> 공유로 이동하면 간단하게 향상된 공유 대화 상자가 나타납니다. 새 파일 또는 로컬에 저장한 파일의 경우 UI는 사용자가 OneDrive에 쉽게 파일을 업로드하여 공동 작업을 시작할 수 있게 합니다.
--   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe,.vbs 및 .js가 있습니다.
+-   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe, .vbs 및 .js가 있습니다. [자세한 정보](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **수정 내용 강조 표시:** 다른 사용자가 수정한 슬라이드가 강조 표시됩니다.
 -   **부재 중 변경 내용:** PowerPoint에는 마지막 방문 이후에 공유한 프레젠테이션을 다른 사용자가 편집한 내용이 표시됩니다.
 -   **향상된 디자이너 기능:** 이제 디자이너가 글머리 기호 목록의 시간 표시 막대에 대한 디자인 아이디어를 추천합니다.
@@ -203,7 +203,7 @@ ms.locfileid: "20246268"
 -   여러 이미지가 포함된 보고서를 실행할 때 프로젝트가 중단될 수 있는 문제를 해결합니다.
 
 ### <a name="publisher-feature-updates"></a>Publisher: 기능 업데이트
--   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe,.vbs 및 .js가 있습니다.
+-   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe, .vbs 및 .js가 있습니다. [자세한 정보](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="publisher-non-security-updates"></a>Publisher: 비보안 업데이트
 -   편지 병합 마법사를 실행할 때, null 값이 포함된 데이터 원본 필드를 필터링하지 못하는 문제를 해결합니다.
@@ -255,7 +255,7 @@ ms.locfileid: "20246268"
 -   **모바일 응용 프로그램의 와이어프레임 만들기:** 템플릿을 사용하여 모바일 응용 프로그램의 와이어프레임을 만들 수 있습니다. [추가 정보](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
 -   **데이터 시각화 도우미 다이어그램에 데이터 그래픽 적용:** 도형 데이터를 자동으로 데이터 그래픽으로 적용하여 데이터 시각화 도우미 다이어그램을 만들 때 시간을 절약할 수 있습니다. [자세한 정보](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6?#apply_dg)
 -   **그리기 공동 작업** 비즈니스용 OneDrive 또는 SharePoint Online에서 다른 사용자와 그림을 공유하여 함께 작업합니다. 그리기 작업 중인 사람을 확인하고 메모를 추가하거나 파일 활동을 볼 수 있습니다. [자세한 정보](https://support.office.com/article/413c0b5a-0d52-4ace-af85-8b9bf115bbbf)
--   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe,.vbs 및 .js가 있습니다.
+-   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe, .vbs 및 .js가 있습니다. [자세한 정보](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 -   **SVG 아이콘을 도형으로 변환:** 모든 SVG 그림 및 아이콘의 색, 크기 또는 질감을 변경할 수 있도록 Office 도형으로 변환합니다.
@@ -268,7 +268,7 @@ ms.locfileid: "20246268"
 -   **3D 모델:** 3D를 사용하여 문서의 시각적 효과 및 창의적 효과를 향상시킬 수 있습니다.  3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세한 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **새 잉크 효과:** 금속 펜과 무지개, 은하수, 용암, 해양, 금, 은 등의 잉크 효과를 사용하여 세련된 아이디어를 표현할 수 있습니다.
 -   **파일 공유 UI:** 비즈니스용 OneDrive 또는 SharePoint 파일의 경우 리본의 오른쪽 상단 모서리에 있는 공유 단추를 클릭하거나 파일 \> 공유로 이동하면 간단하게 향상된 공유 대화 상자가 나타납니다. 새 파일 또는 로컬에 저장한 파일의 경우 UI는 사용자가 OneDrive에 쉽게 파일을 업로드하여 공동 작업을 시작할 수 있게 합니다.
--   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe,.vbs 및 .js가 있습니다.
+-   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe, .vbs 및 .js가 있습니다. [자세한 정보](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **학습 도구를 사용한 편집:** 이제 Word의 웹 모양에서 학습 도구를 사용할 수 있습니다. 편집하는 동안 텍스트 간격을 조정하고 음절을 표시합니다. 모든 뷰에서 문서를 소리내어 읽을 때 각 단어가 강조 표시되는 것을 확인합니다. [자세한 정보](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 -   **LaTeX 구문:** LaTeX 구문을 사용하여 수학식을 만들고 편집합니다.
 -   **유용한 사운드로 접근성 향상:** 오디오 신호를 켜면 작업할 때 안내를 받을 수 있습니다. 파일 \> 옵션 \> 접근성에서 확인할 수 있습니다. 추가 기능은 필요하지 않습니다. [자세한 정보](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)

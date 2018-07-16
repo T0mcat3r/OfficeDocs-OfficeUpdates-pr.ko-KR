@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/18
+ms.date: 7/12/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus의 최신 릴리스, 업데이트 채널 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d4a315cdb40d7cf60739fea14239f732d1f7d6a5
-ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
+ms.openlocfilehash: 1ebca9f429fced94f9096ba8ffa00377ab9c93e9
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2018
-ms.locfileid: "20275754"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334408"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트에 대한 릴리스 정보
 
@@ -28,7 +28,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 |:-----|:-----|:-----|:-----|:-----|
 |월 단위  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 2018년 7월 10일  <br/> |버전 1807이 릴리스됨 <br/>|
 |반기(대상 지정)  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 2018년 7월 10일  <br/> |2018년 9월 11일 <br/>|
-|반기 <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |2018년 7월 10일  <br/> |2019년 9월 11일 <br/>|
+|반기 <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |2018년 7월 10일  <br/> |2019년 1월 8일 <br/>|
 |반기 연장 <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 2018년 7월 10일  <br/> |2019년 3월 12일 <br/>|
 
 이전 버전의 Office 365 ProPlus에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
