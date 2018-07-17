@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 96cad4972abd4987d6d3f2bd3a9d8815951ed891
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.openlocfilehash: 558af54e5e7111d8c240fcf9fac2862cbf9294b1
+ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/13/2018
-ms.locfileid: "20334438"
+ms.lasthandoff: 07/17/2018
+ms.locfileid: "20397971"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -331,7 +331,7 @@ ms.locfileid: "20334438"
 ## <a name="version-1708-july-10"></a>버전 1708: 7월 10일
 *버전 1708(빌드 8431.2280)*
 
-* 2017년 9월부터 제공된 반기 확장 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1803(빌드 16.0.9126.2259)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+* 2017년 9월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1803(빌드 16.0.9126.2259)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
