@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Office에 대 한 링크와 IT 전문가 Office 365 ProPlus, Mac 용 Office, 영구 Office 및 Office Server에 대 한 콘텐츠를 릴리스하고 제공 제품
-ms.openlocfilehash: 2fc974c6688f30f9198b0ada76e1e443e0e80d7f
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: f2bd4b536cc1e7a6aa92cc5733695f7a42505874
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556257"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21223386"
 ---
 # <a name="office-updates"></a>Office 업데이트
 
@@ -64,7 +64,7 @@ Office 제품을 포함 하 여 Office 365 ProPlus, Office for Mac, 기능, 보�
                         <p><a href="https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx">Exchange Server 업데이트</a></p>
                         <p><a href="project-server-updates.md">Project Server 업데이트</a></p>
                         <p><a href="sharepoint-updates.md">SharePoint Server 업데이트</a></p>
-                        <p><a href="https://technet.microsoft.com/office/dn788954.aspx">Skype 비즈니스 서버에 대 한 업데이트</a></p>
+                        <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype 비즈니스 서버에 대 한 업데이트</a></p>
                </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@ Office 제품을 포함 하 여 Office 365 ProPlus, Office for Mac, 기능, 보�
                         <h3>Office (영구)</h3>
                             <p><a href="office-updates-msi.md">Office 업데이트</a></p>
                             <p><a href="outlook-updates-msi.md">Outlook 업데이트</a></p>
-                            <p><a href="https://technet.microsoft.com/office/dn788954.aspx">Skype 비즈니스에 대 한 업데이트</a></p>
+                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Skype 비즈니스에 대 한 업데이트</a></p>
                             <p><a href="msp-files-office-2016.md">Office 2016.msp 파일</a></p>
                     </div>
                 </div>
@@ -95,7 +95,7 @@ Office 제품을 포함 하 여 Office 365 ProPlus, Office for Mac, 기능, 보�
                 <div class="card">
                     <div class="cardText">
                         <h3>기타 Office 리소스</h3>
-                            <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Office 365의 새로운 기능 이란?</a></p>
+                            <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Office 365의 새로운 기능</a></p>
                             <p><a href="https://products.office.com/business/office-365-roadmap">Office 365 로드맵</a></p>
                             <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Office 365 변경 위에 계속 해 서</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Office 블로그 (영문)</a></p>
