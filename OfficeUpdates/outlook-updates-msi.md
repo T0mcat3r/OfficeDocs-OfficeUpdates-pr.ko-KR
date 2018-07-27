@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Outlook 2016, Outlook 2013 및 Outlook 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b57eb5dacff2e6934724fa6a05c0c76bae7fc894
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: a18e16114ac0c8865fc2b238a7c737076f4fd7fd
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246248"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222782"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Outlook 버전에 대한 최신 업데이트
 
@@ -33,11 +33,11 @@ Office 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 대�
     
 - Exchange 온-프레미스 배포의 경우 사용 중인 Outlook 버전에 대한 시스템 요구 사항을 따르세요.
     
-  - [Exchange 2016 시스템 요구 사항](https://technet.microsoft.com/ko-KR/library/aa996719.aspx)
+  - [Exchange 2016 시스템 요구 사항](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
     
   - [Exchange 2013 시스템 요구 사항](https://technet.microsoft.com/ko-KR/library/aa996719%28v=exchg.150%29.aspx)
     
-  - [Exchange 2010 시스템 요구 사항](https://technet.microsoft.com/ko-KR/library/aa996719%28v=exchg.141%29.aspx)
+  - [Exchange 2010 시스템 요구 사항](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Outlook 2016 업데이트
