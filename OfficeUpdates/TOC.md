@@ -30,7 +30,7 @@
 # Office (영구)
 ## [Office 업데이트 (MSI)](office-updates-msi.md)
 ## [Outlook 업데이트 (MSI)](outlook-updates-msi.md)
-## [Skype 비즈니스에 대 한 업데이트](https://technet.microsoft.com/office/dn788954.aspx)
+## [Skype 비즈니스에 대 한 업데이트](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Office 2016.msp 파일](msp-files-office-2016.md)
 ## [Office 2013.msp 파일](msp-files-office-2013.md)
 ## [Office 2013 업데이트](update-history-office-2013.md)
@@ -40,7 +40,7 @@
 ## [Exchange Server 업데이트](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
 ## [Project Server 업데이트](project-server-updates.md)
 ## [SharePoint 업데이트](sharepoint-updates.md)
-## [Skype 비즈니스 서버에 대 한 업데이트](https://technet.microsoft.com/office/dn788954.aspx)
+## [Skype 비즈니스 서버에 대 한 업데이트](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
 # 관련 링크
 ## [Windows 10 해제](https://www.microsoft.com/itpro/windows-10/release-information)
