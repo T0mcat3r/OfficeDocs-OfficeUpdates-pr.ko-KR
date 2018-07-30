@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/26/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 311d8aff93d50fe481b161361d451fd32d9e6b03
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246258"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222949"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -25,6 +25,26 @@ ms.locfileid: "20246258"
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
  
+## <a name="version-1807-july-25"></a>버전 1807: 7월 25일
+*버전 1807(빌드 10325.20082)*
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+- **Outlook 추가 기능 경고:** 가끔씩 Outlook COM 추가 기능에 문제가 발생하여 Outlook의 나머지 속도가 느려질 수 있습니다. 이러한 문제는 Outlook 폴더 사이의 전환, 새 이메일의 도착, Calendar 항목 열기 등과 같은 이벤트의 대기 시간 때문에 일어날 수 있습니다. 이러한 문제가 발생하면 Outlook의 알림 표시줄에 경고 메시지가 표시됩니다.
+- **Outlook 미리 알림 대화 상자에서 Teams 모임에 참가:** Outlook이 사용자에게 예정된 모임을 미리 알릴 때 예정된 모임이 Teams 온라인 모임인 경우 온라인 참석 단추를 표시합니다. 이는 Outlook 미리 알림 대화 상자의 비즈니스용 Skype 모임 참가 기능과 비슷합니다.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+ - **하이퍼링크 색상:** 하이퍼링크가 더 이상 파란색으로만 표시되지 않습니다. 원하는 색상을 적용해보세요. [자세히 알아보기](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
+
+### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
+ - **Visio 셰이프로 Word 문서 만들기:** 셰이프, 메타데이터 등의 다이어그램 콘텐츠를 Word 문서에 자동으로 추가합니다. 그런 다음, 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세히 알아보기](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+ - **IRM을 사용하여 변경 내용 추적:** 이제 Word에서 자신이 소유자가 아닌 IRM으로 보호되는 문서에 변경 내용 추적 기능을 사용할 수 있습니다.
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+ - 다른 조직의 사용자가 이 조직의 사용자에게 IRM으로 보호되는 문서와 이메일을 공유하는 경우 이러한 문서를 열지 못하던 일련의 문제를 수정했습니다.
+
+
 ## <a name="version-1806-july-10"></a>버전 1806: 7월 10일
 *버전 1806(빌드 10228.20104)*
 

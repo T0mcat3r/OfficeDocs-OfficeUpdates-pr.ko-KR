@@ -3,19 +3,19 @@ title: Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2018
+ms.date: 7/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 93ca6b7ae685e87054c4f2dd9508a62d2a3670ce
-ms.sourcegitcommit: 8abc8240e5b4b922070ac9498ed5ac311732e4b2
+ms.openlocfilehash: 221a86c78a1777826a1e838d8dae150bcef6bb65
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2018
-ms.locfileid: "20435667"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21223210"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -32,7 +32,8 @@ ms.locfileid: "20435667"
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018년|7월 10일   |[**버전 1806(빌드 10228.20104)**](monthly-channel-2018.md#version-1806-july-10) |[**버전 1803(빌드 9126.2259**)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[**버전 1803(빌드 9126.2259)**](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [버전 1708(빌드 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+|2018년|7월 25일   |[**버전 1807(빌드 10325.20082)**](monthly-channel-2018.md#version-1807-july-25) | | |
+|2018년|7월 10일   |[버전 1806(빌드 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[버전 1803(빌드 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[버전 1803(빌드 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [버전 1708(빌드 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
 ||6월 25일   |[버전 1806(빌드 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
 ||6월 13일   |[버전 1805(빌드 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
 ||6월 12일   |[버전 1805(빌드 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[버전 1803(빌드 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[버전 1708(빌드 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [버전 1705(빌드 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
