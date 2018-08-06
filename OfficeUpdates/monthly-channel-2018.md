@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/26/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 2bd6b8cf73c544a1e1267af686c4b98e950a9ade
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21222949"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772505"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -39,7 +39,7 @@ ms.locfileid: "21222949"
  - **Visio 셰이프로 Word 문서 만들기:** 셰이프, 메타데이터 등의 다이어그램 콘텐츠를 Word 문서에 자동으로 추가합니다. 그런 다음, 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세히 알아보기](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
- - **IRM을 사용하여 변경 내용 추적:** 이제 Word에서 자신이 소유자가 아닌 IRM으로 보호되는 문서에 변경 내용 추적 기능을 사용할 수 있습니다.
+ - **IRM을 사용하여 변경 내용 추적:** 이제 모든 사용 권한 없이도 Word에서 IRM으로 보호되는 문서에 변경 내용 추적 기능을 사용할 수 있습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
  - 다른 조직의 사용자가 이 조직의 사용자에게 IRM으로 보호되는 문서와 이메일을 공유하는 경우 이러한 문서를 열지 못하던 일련의 문제를 수정했습니다.
@@ -420,3 +420,5 @@ ms.locfileid: "21222949"
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   VBA 코드가 프로젝트에서 손실되는 문제를 해결합니다.
+
+참고: Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/)) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/))에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus))에 문의할 수 있습니다.

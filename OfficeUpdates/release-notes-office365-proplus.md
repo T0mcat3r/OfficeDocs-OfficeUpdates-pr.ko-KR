@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/12/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus의 최신 릴리스, 업데이트 채널 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8845e3ba3eef05514b23e90ded0711749938f8c0
-ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
+ms.openlocfilehash: f407b9554688387f4ba085b66d7df6ae28e4dc95
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2018
-ms.locfileid: "20397961"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772475"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트에 대한 릴리스 정보
 
@@ -26,7 +26,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
   
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**현재 버전 기한**|
 |:-----|:-----|:-----|:-----|:-----|
-|월 단위  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 2018년 7월 10일  <br/> |버전 1807이 릴리스됨 <br/>|
+|월 단위  <br/> |1807  <br/> |[10325.20082](monthly-channel-2018.md#version-1807-july-25)  <br/> | 2018년 7월 25일  <br/> |버전 1808이 릴리스됨 <br/>|
 |반기(대상 지정)  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 2018년 7월 10일  <br/> |2018년 9월 11일 <br/>|
 |반기 <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |2018년 7월 10일  <br/> |2019년 1월 8일 <br/>|
 |반기 <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 2018년 7월 10일  <br/> |2019년 3월 12일 <br/>|
@@ -67,3 +67,5 @@ Office 365 ProPlus를 포함하는 모든 Office 365 구독 계획에 포함된 
 - [Office 365 메시지 센터 개요](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Windows 10 릴리스 정보](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Microsoft 보안 업데이트 가이드](https://portal.msrc.microsoft.com/)
+
+참고: Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/)) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/))에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus))에 문의할 수 있습니다.
