@@ -3,19 +3,19 @@ title: Office 365 ProPlus에 대한 업데이트 기록(버전순)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/25/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 버전별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 7f5603be248254925173f54e14b83b951b97ac41
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: c9a5fc19313c120e706259fc2f5da47af39a86a3
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21222819"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772485"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-version"></a>Office 365 ProPlus에 대한 업데이트 기록(버전순)
  
@@ -33,7 +33,7 @@ ms.locfileid: "21222819"
 |**버전**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|
 |1807  <br/> |**[10325.20082](monthly-channel-2018.md#version-1807-july-25)(2018년 7월 25일)** <br/> |  <br/> | <br/> |  <br/> |
-|1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)(2018년 7월 10일) <br/>[10228.20080](monthly-channel-2018.md#version-1806-june-25)(2018년 6월 25일) |  <br/> |  <br/> |
+|1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)(2018년 7월 10일) <br/>[10228.20080](monthly-channel-2018.md#version-1806-june-25)(2018년 6월 25일) |  [버전 1803(빌드 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  |  <br/> |[버전 1708(빌드 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
 |1805  <br/> |[9330.2124](monthly-channel-2018.md#version-1805-june-13)(2018년 6월 13일) <br/> [9330.2118](monthly-channel-2018.md#version-1805-june-12)(2018년 6월 12일) <br/> [9330.2087](monthly-channel-2018.md#version-1805-may-24)(2018년 5월 24일) <br/> [9330.2078](monthly-channel-2018.md#version-1805-may-23)(2018년 5월 23일) <br/> |  <br/> |  <br/> |
 |1804  <br/> |[9226.2156](monthly-channel-2018.md#version-1804-may-14)(2018년 5월 14일) <br/> [9226.2126](monthly-channel-2018.md#version-1804-may-8)(2018년 5월 8일) <br/>  [9226.2114](monthly-channel-2018.md#version-1804-april-25)(2018년 4월 25일) <br/> |  <br/> |  <br/> |
 |1803  <br/> | [9126.2152](monthly-channel-2018.md#version-1803-april-11)(2018년 4월 11일)  <br/>  [9126.2116](monthly-channel-2018.md#version-1803-march-27)(2018년 3월 27일)  <br/> |**[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)(2018년 7월 10일)** <br/> [9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12)(2018년 6월 12일) <br/> [9126.2210](semi-annual-channel-targeted-2018.md#version-1803-may-18)(2018년 5월 18일) <br/> [9126.2191](semi-annual-channel-targeted-2018.md#version-1803-may-8)(2018년 5월 8일) <br/>  [9126.2152](semi-annual-channel-targeted-2018.md#version-1803-april-10)(2018년 4월 10일)  <br/>  [9126.2098](semi-annual-channel-targeted-2018.md#version-1803-march-20)(2018년 3월 20일)  <br/>  [9126.2072](semi-annual-channel-targeted-2018.md#version-1803-march-13)(2018년 3월 13일)  <br/> |[9126.2259](semi-annual-channel-2018.md#version-1803-july-10)(2018년 7월 10일)  <br/> |
@@ -72,3 +72,5 @@ ms.locfileid: "21222819"
 - [Office 365 ProPlus 업데이트에 대한 릴리스 정보](release-notes-office365-proplus.md)
 - [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)
 
+
+참고: Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/)) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/))에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus))에 문의할 수 있습니다.
