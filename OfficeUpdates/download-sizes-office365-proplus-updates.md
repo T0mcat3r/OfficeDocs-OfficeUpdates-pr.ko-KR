@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트의 다운로드 크기
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 595887039a9e93f1796c539fd7fcd235fda25056
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 8ef3c924269c690e50766dc90caaa46a967879ba
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246288"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772495"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -36,6 +36,17 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 > - 가장 최근의 이전 릴리스만 표에 나와 있습니다. 더 이전 버전에서 업데이트하려는 경우 다운로드 크기가 더 커집니다.
 > - 다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로) 업데이트 크기가 표에 나오는 것보다 훨씬 더 커질 수 있습니다. 이로 인해 전체 다운로드가 필요할 수 있으며 그 규모는 1GB 이상일 수 있습니다. 
 
+  ## <a name="july-25-2018"></a>2018년 7월 25일
+
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 버전은 버전 1807(빌드 10325.20082)입니다.
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1806(빌드 10228.20314)  <br/> |2018년 7월 17일  <br/> |176  <br/> |
+|버전 1805(빌드 10228.20104)  <br/> |2018년 7월 10일  <br/> |176  <br/> |
+
  ## <a name="july-10-2018"></a>2018년 7월 10일
 
 ### <a name="monthly-channel"></a>월별 채널
@@ -52,12 +63,12 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
    
 ### <a name="semi-annual-channel"></a>반기 채널
 
-가장 최근 버전은 버전 1708(빌드 9126.2259)입니다.
+가장 최근 버전은 버전 1803(빌드 9126.2259)입니다.
   
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
+|버전 1708(빌드 8431.2270)  <br/> |2018년 6월 12일  <br/> |280  <br/> |
 |버전 1708(빌드 8431.2250)  <br/> |2018년 5월 8일  <br/> |280  <br/> |
-|버전 1708(빌드 8431.2242)  <br/> |2018년 4월 10일  <br/> |280  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>반기 채널(대상 지정)
 
@@ -375,3 +386,4 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 - [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
 - [Office 365 ProPlus에 대한 업데이트 기록(버전순)](update-history-office365-proplus-by-version.md)
 
+참고: Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/)) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/))에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus))에 문의할 수 있습니다.
