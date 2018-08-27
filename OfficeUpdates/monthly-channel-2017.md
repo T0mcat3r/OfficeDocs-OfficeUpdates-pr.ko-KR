@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 월별 채널에 대 한 릴리스 정보와 IT 전문가 2017에서 Office 365 ProPlus에 대 한 해제를 제공 합니다.
 ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/13/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "20334448"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017에서 월별 채널 릴리스에 대 한 릴리스 정보
@@ -291,7 +291,7 @@ ms.locfileid: "20334448"
 -   **향상된 “예제에서 열 추가” 기능:** 자세한 날짜/시간, 수학 및 인덱스 열 변환을 지원합니다.
 -   **성능 개선:** Excel에서 여러 개의 시트가 있는 복잡한 통합 문서를 빠르게 열어 큰 범위의 수식을 확인하고, 여러 개의 행을 필터링하거나 신속하게 복사하여 붙여넣을 수 있습니다. 
 -   **파일 공유 UI:** 비즈니스용 OneDrive 또는 SharePoint 파일의 경우 리본의 오른쪽 상단 모서리에 있는 공유 단추를 클릭하거나 파일 \> 공유로 이동하면 간단하게 향상된 공유 대화 상자가 나타납니다. 새 파일 또는 로컬에 저장한 파일의 경우 UI는 사용자가 OneDrive에 쉽게 파일을 업로드하여 공동 작업을 시작할 수 있게 합니다.
--   **위험한 확장명을 차단:** 높은 위험 수준으로 간주 하 고 OLE 패키지 개체를 포함 하는 확장을 정품 인증에서 기본적으로 차단 됩니다. 예:.exe,.vbs 및.js 합니다. [자세한 내용](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe, .vbs 및 .js가 있습니다. [자세한 정보](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   탭으로 구분된 텍스트를 Word에서 복사하여 붙여넣으면 탭이 무시되어 텍스트가 열로 구문 분석되지 않는 문제를 해결합니다.
@@ -306,7 +306,7 @@ ms.locfileid: "20334448"
 -   **3D 모델:** 3D를 사용하여 프레젠테이션의 시각적 효과 및 창의적 효과를 향상시킬 수 있습니다. 슬라이드 사이에 시네마틱 애니메이션을 만드는 모핑과 같은 전환을 통해 프레젠테이션에서 3D 모델을 구현할 수 있습니다. [추가 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **새 잉크 효과:** 금속 펜과 무지개, 은하수, 용암, 해양, 금, 은 등의 잉크 효과를 사용하여 세련된 아이디어를 표현할 수 있습니다.
 -   **파일 공유 UI:** 비즈니스용 OneDrive 또는 SharePoint 파일의 경우 리본의 오른쪽 상단 모서리에 있는 공유 단추를 클릭하거나 파일 \> 공유로 이동하면 간단하게 향상된 공유 대화 상자가 나타납니다. 새 파일 또는 로컬에 저장한 파일의 경우 UI는 사용자가 OneDrive에 쉽게 파일을 업로드하여 공동 작업을 시작할 수 있게 합니다.
--   **위험한 확장명을 차단:** 높은 위험 수준으로 간주 하 고 OLE 패키지 개체를 포함 하는 확장을 정품 인증에서 기본적으로 차단 됩니다. 예:.exe,.vbs 및.js 합니다. [자세한 내용](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe, .vbs 및 .js가 있습니다. [자세한 정보](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="project-feature-updates"></a>Project: 기능 업데이트
 -   **Planner에서 작업 관리:** Planner에 Project 작업을 연결하고 계획을 세울 수 있습니다. 작업을 하위 작업으로 나누고, 팀을 추가하고, 작업을 할당하고 작업 보드에서 작업을 관리합니다.
@@ -320,7 +320,7 @@ ms.locfileid: "20334448"
 -   상태 필드가 때때로 요약 작업을 정확하게 계산하지 않는 문제를 해결합니다.
 
 ### <a name="publisher-feature-updates"></a>Publisher: 기능 업데이트
--   **위험한 확장명을 차단:** 높은 위험 수준으로 간주 하 고 OLE 패키지 개체를 포함 하는 확장을 정품 인증에서 기본적으로 차단 됩니다. 예:.exe,.vbs 및.js 합니다. [자세한 내용](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe, .vbs 및 .js가 있습니다. [자세한 정보](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   특정 포트가 차단되거나 IP가 허용 목록에 없는 경우 사용자가 모임에 참가할 수 없는 이유를 설명하는 대화 상자를 추가합니다.
@@ -334,13 +334,13 @@ ms.locfileid: "20334448"
 -   공유가 중지되기 전에 IM 대화의 공유 알림이 해제되는 문제를 수정합니다.
 
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
--   **위험한 확장명을 차단:** 높은 위험 수준으로 간주 하 고 OLE 패키지 개체를 포함 하는 확장을 정품 인증에서 기본적으로 차단 됩니다. 예:.exe,.vbs 및.js 합니다. [자세한 내용](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe, .vbs 및 .js가 있습니다. [자세한 정보](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 -   **3D 모델:** 3D를 사용하여 문서의 시각적 효과 및 창의적 효과를 향상시킬 수 있습니다.  3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [추가 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **새 잉크 효과:** 금속 펜과 무지개, 은하수, 용암, 해양, 금, 은 등의 잉크 효과를 사용하여 세련된 아이디어를 표현할 수 있습니다.
 -   **파일 공유 UI:** 비즈니스용 OneDrive 또는 SharePoint 파일의 경우 리본의 오른쪽 상단 모서리에 있는 공유 단추를 클릭하거나 파일 \> 공유로 이동하면 간단하게 향상된 공유 대화 상자가 나타납니다. 새 파일 또는 로컬에 저장한 파일의 경우 UI는 사용자가 OneDrive에 쉽게 파일을 업로드하여 공동 작업을 시작할 수 있게 합니다.
--   **위험한 확장명을 차단:** 높은 위험 수준으로 간주 하 고 OLE 패키지 개체를 포함 하는 확장을 정품 인증에서 기본적으로 차단 됩니다. 예:.exe,.vbs 및.js 합니다. [자세한 내용](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **위험한 확장 차단:** 위험을 초래할 것으로 간주되며, OLE 패키지 개체로 포함되어 있는 확장명은 기본적으로 활성화되지 않도록 차단됩니다. 예로 .exe, .vbs 및 .js가 있습니다. [자세한 정보](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   새 소식 대화 상자가 나타나지 않는 문제를 해결합니다.
@@ -451,7 +451,7 @@ ms.locfileid: "20334448"
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **공동 작업 편집:** 통합 문서에서 다른 사용자와 동시에 작업합니다. [추가 정보](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
--   **자동 저장:** 클라우드에 저장 하는 통합 문서에 대 한 변경 내용이 자동으로 저장 됩니다 하 고 시간 (초)에서 다른 사용자의 업데이트를 볼 수 있습니다. [자세한 내용](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+-   **자동 저장:** 클라우드에 저장 하는 통합 문서에 대 한 변경 내용이 자동으로 저장 됩니다 하 고 시간 (초)에서 다른 사용자의 업데이트를 볼 수 있습니다. [추가 정보](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 -   **유용한 사운드로 접근성 향상:** 오디오 신호를 켜면 작업할 때 안내를 받을 수 있습니다. 파일 \> 옵션 \> 접근성에서 확인할 수 있습니다. 추가 기능은 필요하지 않습니다. [추가 정보](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **계정별 파일 위치:** 파일을 열거나 저장할 때 위치 목록이 연결된 계정을 기준으로 구성됩니다.
 
@@ -939,7 +939,7 @@ ms.locfileid: "20334448"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
 -   **Windows 알림 스타일:** 들어오는 호출 및 대화에 대한 알림의 모양이 변경되었습니다. [추가 정보](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **후 통화 전송:** 통화를 내와 상의 IM 또는 해당 사용자에 게 통화를 전송 하기 전에 전화를 통해 다른 사용자입니다. [자세한 내용](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **후 통화 전송:** 통화를 내와 상의 IM 또는 해당 사용자에 게 통화를 전송 하기 전에 전화를 통해 다른 사용자입니다. [추가 정보](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **마이크 알림:** 운영 체제에서 마이크가 음소거되어 있거나 마이크에서 오디오를 선택하지 경우 대화 창에 알림 메시지를 표시합니다.
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트

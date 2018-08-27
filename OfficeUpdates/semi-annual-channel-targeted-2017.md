@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에 제공 릴리스 정보 세미콜론 연간 회의 채널 (대상) 릴리스에 대 한 Office 365 ProPlus에 대 한 2017에서
 ms.openlocfilehash: 6014107ae2471707d226602cc71efaa24f1de310
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556282"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017에 세미콜론 연간 회의 채널 (대상) 릴리스에 대 한 릴리스 정보
@@ -22,12 +22,12 @@ ms.locfileid: "19556282"
 이러한 릴리스 정보에서는 새로운 기능, 보안 업데이트 및 2017에서 Office 365 ProPlus에 대 한 세미콜론 연간 회의 채널 (대상) 업데이트에 포함 된 비보안 업데이트 하는 방법에 대 한 정보를 제공 합니다.
  
 > [!NOTE]
-> - 다음도 정보를 제공 새로운 기능, 보안 업데이트 및 비보안 업데이트 하는 방법에 대 한 Visio Pro for Office 365와 Project Online 데스크톱 클라이언트에 대 한 합니다.
-> - 이 정보는 프리미엄 등의 일부 Office 365 계획와 함께 제공 되는 Office 버전에 해당 하는 Office 365 비즈니스에도 적용 됩니다.
+> - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
+> - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 > - 세미콜론 연간 회의 채널 (대상) 2017 년 9 월 하기 전에 지연 채널에 대 한 첫번째 릴리스 이름이 였습니다.
 
 ## <a name="version-1708-december-12"></a>버전 1708: 년 12 월 12
-*버전 (빌드 8431.2131) 1708*
+*버전 1708(빌드 8431.2131)*
 
  ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   [CVE-2017-11935](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11935): Microsoft Excel 원격 코드 실행 취약성
@@ -53,7 +53,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1708-november-14"></a>버전 1708: 년 11 월 14
-*버전 (빌드 8431.2110) 1708*
+*버전 1708(빌드 8431.2110)*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트
 -   콤보 상자의 텍스트 상자에서 텍스트를 선택하려고 하려고 할 때 선택 영역만 표시되지 않고 모든 텍스트가 선택된 것처럼 나타나는 문제를 해결합니다.
@@ -106,7 +106,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1708-october-10"></a>버전 1708: 10 년 10 월
-*버전 (빌드 8431.2107) 1708*
+*버전 1708(빌드 8431.2107)*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트
 -   쿼리에 Microsoft Dynamics와 연결된 테이블의 기본 키를 사용하는 조인이 있으면 해당 쿼리가 실행되지 않는 문제를 수정합니다.
@@ -152,7 +152,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1708-september-12"></a>버전 1708: 9 월 12
-*버전 (빌드 8431.2079) 1708*
+*버전 1708(빌드 8431.2079)*
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
 -   **레이블 이름 속성:** 양식에서 레이블을 컨트롤과 연결하여 접근성을 향상합니다.
@@ -172,7 +172,7 @@ ms.locfileid: "19556282"
 -   **공유 파일 작업:** 파일의 오른쪽 위 구석에 있는 작업 단추를 선택하면 비즈니스용 OneDrive 또는 SharePoint에서 공유되는 파일을 공유하거나, 편집하거나, 이름을 바꾸거나, 복원하는 경우를 알 수 있습니다.
 -   **안전한 링크:** 사용자가 링크를 클릭하면 Office 365 ATP(Advanced Threat Protection)에서 해당 링크의 악성 여부를 검사합니다. 링크가 악성으로 간주되면 사용자는 기존 대상 URL이 아닌 경고 페이지로 리디렉션됩니다. [추가 정보](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **향상된 데이터 가져오기 기능:** 다양한 소스에서 데이터를 쉽게 가져오고 형성할 수 있습니다. 쿼리 및 연결 왼쪽 창에서 통합 문서 쿼리 및 연결을 관리하고 ODC 파일을 통해 다른 사람과 쿼리를 공유합니다. [추가 정보](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
--   **공유 파일의 변경 내용**: 공유 통합 문서를 변경한 사람을 확인하고 이전 버전을 복원합니다. [추가 정보](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **공유 파일의 변경 내용** 공유 통합 문서를 변경한 사람을 확인하고 이전 버전을 복원합니다. [추가 정보](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 -   **펜 단추를 사용하여 올가미 선택:** 리본 메뉴를 방문하지 않고 올가미 선택 잉크에 지원되는 디지털 펜 단추를 사용합니다.
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
@@ -190,13 +190,13 @@ ms.locfileid: "19556282"
 -   필터 영역에 필드가 있는 피벗 테이블이 있지만 다른 어느 곳에도 필드가 없을 때, 워크시트 아무 곳에서도 변경할 수 없는 문제를 수정합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
--   **향상된 내게 필요한 옵션:** 화면 판독기를 사용하는 경우 텍스트, 표, 목록 및 이미지를 더욱 쉽게 읽고 편집할 수 있습니다.
+-   **접근성 개선:** 화면 판독기를 사용하는 경우 텍스트, 표, 목록 및 이미지를 더욱 쉽게 읽고 편집할 수 있습니다.
 -   **새 계정 구성:** 필요한 수동 단계가 줄어든 새 마법사로 새 계정을 설정합니다.
 -   **링크 첨부 대화:** 리본에서 파일 첨부를 사용하여 링크를 첨부할 때, 링크로 추가할지 첨부 파일로 추가할지를 선택할 수 있습니다. 이 대화를 매번 표시하지 않으려면 파일 \> 옵션 \> 일반으로 이동한 다음, “첨부 파일 옵션”에서 링크를 첨부할 방법을 지정하세요.
 -   **온-프레미스 첨부 파일에 대한 지원:** 온-프레미스 SharePoint Server의 파일은 메시지 \> 파일 첨부 아래에 최신 파일로 표시되고 온-프레미스 비즈니스용 OneDrive 및 SharePoint 팀 사이트는 파일 첨부 \> 웹 위치 찾아보기 아래에 표시되며, 로컬 파일은 온-프레미스 비즈니스용 OneDrive 사이트에 업로드될 수 있습니다.
 -   **그룹에 대한 비즈니스 분류:**  Confidential과 같이 테넌트 관리자가 정의한 비즈니스 분류 수준은 그룹을 만들거나 편집하는 경우 할당될 수 있으며 해당 분류는 그룹 헤더에 표시됩니다.
 -   **Office 365의 그룹에 대한 게스트 액세스:** 그룹 대화, 파일, 일정 초대 및 그룹 전자 필기장에 대한 액세스 권한을 부여하 여 조직 외부의 사용자와 공동으로 작업합니다. [추가 정보](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
--   **조치 가능한 메시지:** 개발자를 쉽게 사용자가 Outlook에서 단순 또는 빠른 작업 오른쪽 외부 웹사이트를 전환 하거나 app. [자세한 정보](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build) 를 구분 하지 않고 수행 하는 메시지를 만들 수 있습니다.
+-   **실행 가능한 메시지:** 개발자는 사용자가 외부 웹 사이트나 별도 앱으로 전환하지 않고도 Outlook에서 간편하고 빠르게 조치를 취할 수 있도록 메시지를 만들 수 있습니다. [추가 정보](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Microsoft Office Outlook 보안 기능 바이패스 취약성
@@ -314,7 +314,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1705-august-8"></a>버전 1705: 년 8 월 8
-*버전 1705 (빌드 8201.2171)*
+*버전 1705(빌드 8201.2171)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   메시지 목록을 통해 이동하는 경우 스크롤바를 끌 때 발생하는 문제를 해결합니다.
@@ -326,7 +326,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1705-july-27"></a>버전 1705: 년 7 월 27
-*버전 1705 (빌드 8201.2158)*
+*버전 1705(빌드 8201.2158)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   OneDrive 클라이언트와 동기화되는 문서에 변경 내용을 저장하려고 할 때 오류가 나타나는 문제를 수정합니다.
@@ -347,7 +347,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1705-july-13"></a>버전 1705: 년 7 월 13
-*버전 1705 (빌드 8201.2136)*
+*버전 1705(빌드 8201.2136)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Microsoft Office 메모리 손상 취약성
@@ -381,7 +381,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1705-june-13"></a>버전 1705: 6 월 13 일
-*버전 1705 (빌드 8201.2102)*
+*버전 1705(빌드 8201.2102)*
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
 -   **새로운 기능 대화 상자:** 새 기능으로 Access를 업데이트한 후에 Access를 열 때 나타나는 새로운 Access 기능을 강조 표시하는 대화 상자입니다. 파일 \> 계정 \> 새로운 기능으로 이동하여 이 대화 상자를 사용할 수도 있습니다.
@@ -461,7 +461,7 @@ ms.locfileid: "19556282"
 -   **배경 제거:** 자유 형식 그리기 도구를 사용하여 배경 그림을 제거합니다.
 -   **SVG 이미지:** 프레젠테이션에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **아이콘 삽입:**  삽입 \> 그림 \> 아이콘으로 이동하여 SVG(확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **공동 작성 하는 경우에 실시간 입력:** 여기에서 다른 사용자에 게에서 작업 하는 프레젠테이션 및 보기 변경 내용을 입력 해도으로 참조 합니다. [자세한 내용](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **공동 작성 하는 경우에 실시간 입력:** 여기에서 다른 사용자에 게에서 작업 하는 프레젠테이션 및 보기 변경 내용을 입력 해도으로 참조 합니다. [추가 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 프레젠테이션을 저장합니다.
 -   **정확한 잉크 개체 만들기:** 세그먼트 지우개를 끌어 가장 가까운 선까지 불필요한 잉크를 제거합니다.
 -   **펜으로 개체를 선택한 후 조작:** 디지털 펜의 핸들을 사용하여 개체를 이동, 크기 조정 또는 회전하거나, 올가미 선택 잉크에 지원되는 펜 단추를 사용합니다.
@@ -600,7 +600,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1701-may-9"></a>버전 1701: 5 월 9
-*버전 1701 (빌드 7766.2084)*
+*버전 1701(빌드 7766.2084)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   메시지를 삭제하면 메시지 목록의 메시지 선택 사항이 예기치 않게 이동하여 사용자에게 간헐적으로 표시되는 문제를 해결합니다.
@@ -626,7 +626,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1701-april-11"></a>버전 1701: 년 4 월 11
-*버전 1701 (빌드 7766.2076)*
+*버전 1701(빌드 7766.2076)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   .xls 통합 문서를 열면 새 창이 회색으로 표시되는 문제를 해결합니다.
@@ -650,7 +650,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1701-march-14"></a>버전 1701: 3 월 14
-*버전 1701 (빌드 7766.2071)*
+*버전 1701(빌드 7766.2071)*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트
 -   플라이아웃 메뉴를 해제할 수 없는 문제를 해결합니다.
@@ -689,7 +689,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1701-february-22"></a>버전 1701: 년 2 월 22
-*버전 1701 (빌드 7766.2060)*
+*버전 1701(빌드 7766.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **데이터 변환 및 연결성 향상:** 값 사이의 구분 기호를 사용하여 목록을 새 텍스트 열로 확장하고 SQL에 연결할 경우 장애 조치 옵션을 지정할 수 있습니다.
@@ -789,7 +789,7 @@ ms.locfileid: "19556282"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
 -   **Windows 알림 스타일:** 들어오는 호출 및 대화에 대한 알림의 모양이 변경되었습니다. [추가 정보](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **후 통화 전송:** 통화를 내와 상의 IM 또는 해당 사용자에 게 통화를 전송 하기 전에 전화를 통해 다른 사용자입니다. [자세한 내용](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **후 통화 전송:** 통화를 내와 상의 IM 또는 해당 사용자에 게 통화를 전송 하기 전에 전화를 통해 다른 사용자입니다. [추가 정보](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **마이크 알림:** 운영 체제에서 마이크가 음소거되어 있거나 마이크에서 오디오를 선택하지 경우 대화 창에 알림 메시지를 표시합니다.
 -   **"내 번호" 사용 안 함:** DisableDisplayMyNumber 레지스트리 항목을 사용하여 다이얼 패드에서 "내 번호"를 사용하지 않도록 설정합니다.
 
@@ -914,7 +914,7 @@ ms.locfileid: "19556282"
 
 
 ## <a name="version-1609-january-10"></a>버전 1609: 년 1 월 10
-*버전 1609 (빌드 7369.2102)*
+*버전 1609(빌드 7369.2102)*
 
 참고:이 채널 버전의 Word 버전으로 Microsoft 보안 공지 [MS17-002](https://technet.microsoft.com/library/security/ms17-002) 에서 설명 하는 보안 업데이트 적용 되지 않습니다.
 

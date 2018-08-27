@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2017에서 Office 365 ProPlus에 대 한 세미콜론 연간 회의 채널에 대 한 릴리스 정보와 IT 전문가 해제를 제공 합니다.
 ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556291"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>2017에 세미콜론 연간 회의 채널 릴리스에 대 한 릴리스 정보
 
 이러한 릴리스 정보에서는 새로운 기능, 보안 업데이트 및 2017에서 Office 365 ProPlus에 대 한 세미콜론 연간 회의 채널 업데이트에 포함 된 비보안 업데이트 하는 방법에 대 한 정보를 제공 합니다. 
 > [!NOTE]
-> - 다음도 정보를 제공 새로운 기능, 보안 업데이트 및 비보안 업데이트 하는 방법에 대 한 Visio Pro for Office 365와 Project Online 데스크톱 클라이언트에 대 한 합니다.
-> - 이 정보는 프리미엄 등의 일부 Office 365 계획와 함께 제공 되는 Office 버전에 해당 하는 Office 365 비즈니스에도 적용 됩니다.
-> - 1 월 2018 하기 전에 지연 채널 이름은 세미콜론 연간 회의 채널입니다.
+> - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
+> - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+> - 반기 채널이 2018년 1월 이전에는 지연 채널로 지칭되었습니다.
 
 
 ## <a name="version-1705-december-12"></a>버전 1705: 년 12 월 12
-*버전 1705 (빌드 8201.2213)*
+*버전 1705(빌드 8201.2213)*
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint 정보 노출 취약성
@@ -38,7 +38,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1701-december-12"></a>버전 1701: 년 12 월 12
-*버전 1701 (빌드 7766.2130)*
+*버전 1701(빌드 7766.2130)*
 
 *이 2017 년 6 월 이후 사용할 수 있는 지연 채널 버전입니다. 지원 및 년 1 월 2018까지 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1705 (빌드 8201.2213)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -51,7 +51,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1705-november-24"></a>버전 1705: 년 11 월 24
-*버전 1705 (빌드 8201.2209)*
+*버전 1705(빌드 8201.2209)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   사용자가 파일 \> 옵션으로 이동할 때처럼 Office 앱이 중지되는 Office 64비트 버전의 문제를 수정합니다.
@@ -59,7 +59,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1705-november-14"></a>버전 1705: 년 11 월 14
-*버전 1705 (빌드 8201.2207)*
+*버전 1705(빌드 8201.2207)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Microsoft Excel 보안 기능 바이패스 취약성
@@ -75,7 +75,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1701-november-14"></a>버전 1701: 년 11 월 14
-*버전 1701 (빌드 7766.2122)*
+*버전 1701(빌드 7766.2122)*
 
 *이 2017 년 6 월 이후 사용할 수 있는 지연 채널 버전입니다. 지원 및 년 1 월 2018까지 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1705 (빌드 8201.2207)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -93,7 +93,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1705-october-10"></a>버전 1705: 10 년 10 월
-*버전 1705 (빌드 8201.2200)*
+*버전 1705(빌드 8201.2200)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   피벗 테이블을 확장 또는 축소할 때 피벗 테이블 머리글이 화면 밖으로 이동될 경우 Excel이 일시적으로 응답하지 않는 문제를 해결합니다.
@@ -114,7 +114,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1701-october-10"></a>버전 1701: 10 년 10 월
-*버전 1701 (빌드 7766.2119)*
+*버전 1701(빌드 7766.2119)*
 
 *이 2017 년 6 월 이후 사용할 수 있는 지연 채널 버전입니다. 지원 및 년 1 월 2018까지 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1705 (빌드 8201.2200)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -133,7 +133,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1705-september-12"></a>버전 1705: 9 월 12
-*버전 1705 (빌드 8201.2193)*
+*버전 1705(빌드 8201.2193)*
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
 -   **새로운 기능 대화 상자:** 새 기능으로 Access를 업데이트한 후에 Access를 열 때 나타나는 새로운 Access 기능을 강조 표시하는 대화 상자입니다. 파일 \> 계정 \> 새로운 기능으로 이동하여 이 대화 상자를 사용할 수도 있습니다.
@@ -227,7 +227,7 @@ ms.locfileid: "19556291"
 -   **배경 제거:** 자유 형식 그리기 도구를 사용하여 배경 그림을 제거합니다.
 -   **SVG 이미지:** 프레젠테이션에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **아이콘 삽입:**  삽입 \> 그림 \> 아이콘으로 이동하여 SVG(확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **공동 작성 하는 경우에 실시간 입력:** 여기에서 다른 사용자에 게에서 작업 하는 프레젠테이션 및 보기 변경 내용을 입력 해도으로 참조 합니다. [자세한 내용](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **공동 작성 하는 경우에 실시간 입력:** 여기에서 다른 사용자에 게에서 작업 하는 프레젠테이션 및 보기 변경 내용을 입력 해도으로 참조 합니다. [추가 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 프레젠테이션을 저장합니다.
 -   **정확한 잉크 개체 만들기:** 세그먼트 지우개를 끌어 가장 가까운 선까지 불필요한 잉크를 제거합니다.
 -   **펜으로 개체를 선택한 후 조작:** 디지털 펜의 핸들을 사용하여 개체를 이동, 크기 조정 또는 회전하거나, 올가미 선택 잉크에 지원되는 펜 단추를 사용합니다.
@@ -394,7 +394,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1701-september-12"></a>버전 1701: 9 월 12
-*버전 1701 (빌드 7766.2116)*
+*버전 1701(빌드 7766.2116)*
 
 *이 2017 년 6 월 이후 사용할 수 있는 지연 채널 버전입니다. 지원 및 년 1 월 2018까지 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1705 (빌드 8201.2193)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -418,7 +418,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1701-july-27"></a>버전 1701: 년 7 월 27
-*버전 1701 (빌드 7766.2099)*
+*버전 1701(빌드 7766.2099)*
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Microsoft Office Outlook 보안 기능 바이패스 취약성
@@ -428,7 +428,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1609-july-27"></a>버전 1609: 년 7 월 27
-*버전 1609 (빌드 7369.2154)*
+*버전 1609(빌드 7369.2154)*
 
 *이 2017 년 2 월 이후 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2017 년 9 월 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1701 (빌드 7766.2099)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -440,7 +440,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1701-july-13"></a>버전 1701: 년 7 월 13
-*버전 1701 (빌드 7766.2096)*
+*버전 1701(빌드 7766.2096)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Microsoft Office 메모리 손상 취약성
@@ -452,7 +452,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1609-july-13"></a>버전 1609: 년 7 월 13
-*버전 1609 (빌드 7369.2151)*
+*버전 1609(빌드 7369.2151)*
 
 *이 2017 년 2 월 이후 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2017 년 9 월 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1701 (빌드 7766.2096)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -466,7 +466,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1701-june-13"></a>버전 1701: 6 월 13 일
-*버전 1701 (빌드 7766.2092)*
+*버전 1701(빌드 7766.2092)*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트
 -   플라이아웃 메뉴를 해제할 수 없는 문제를 해결합니다.
@@ -598,7 +598,7 @@ ms.locfileid: "19556291"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 기능 업데이트
 -   **Windows 알림 스타일:** 들어오는 호출 및 대화에 대한 알림의 모양이 변경되었습니다. [추가 정보](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **후 통화 전송:** 통화를 내와 상의 IM 또는 해당 사용자에 게 통화를 전송 하기 전에 전화를 통해 다른 사용자입니다. [자세한 내용](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **후 통화 전송:** 통화를 내와 상의 IM 또는 해당 사용자에 게 통화를 전송 하기 전에 전화를 통해 다른 사용자입니다. [추가 정보](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **마이크 알림:** 운영 체제에서 마이크가 음소거되어 있거나 마이크에서 오디오를 선택하지 경우 대화 창에 알림 메시지를 표시합니다.
 -   **"내 번호" 사용 안 함:** DisableDisplayMyNumber 레지스트리 항목을 사용하여 다이얼 패드에서 "내 번호"를 사용하지 않도록 설정합니다.
 
@@ -747,7 +747,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1609-june-13"></a>버전 1609: 6 월 13 일
-*버전 1609 (빌드 7369.2139)*
+*버전 1609(빌드 7369.2139)*
 
 *이 2017 년 2 월 이후 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2017 년 9 월 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1701 (빌드 7766.2092)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -772,7 +772,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1609-may-9"></a>버전 1609: 5 월 9
-*버전 1609 (빌드 7369.2130)*
+*버전 1609(빌드 7369.2130)*
 
 ### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Microsoft Office 원격 코드 실행 취약성
@@ -789,7 +789,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1605-may-9"></a>버전 1605: 5 월 9
-*버전 1605 (빌드 6965.2150)*
+*버전 1605(빌드 6965.2150)*
 
 *10 월 2016 이후에 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2017 년 6 월 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1609 (빌드 7369.2130)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -808,7 +808,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1609-april-11"></a>버전 1609: 년 4 월 11
-*버전 1609 (빌드 7369.2127)*
+*버전 1609(빌드 7369.2127)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   다른 사용자가 범위를 편집할 수 있도록 사용 권한을 설정하려고 시도하면 Excel이 중단되는 문제를 해결합니다.
@@ -823,7 +823,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1605-april-11"></a>버전 1605: 년 4 월 11
-*버전 1605 (빌드 6965.2145)*
+*버전 1605(빌드 6965.2145)*
 
 *10 월 2016 이후에 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2017 년 6 월 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1609 (빌드 7369.2127)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -837,7 +837,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1609-march-14"></a>버전 1609: 3 월 14
-*버전 1609 (빌드 7369.2120)*
+*버전 1609(빌드 7369.2120)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office용 보안 업데이트(3217868)
@@ -854,7 +854,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1605-march-14"></a>버전 1605: 3 월 14
-*버전 1605 (빌드 6965.2140)*
+*버전 1605(빌드 6965.2140)*
 
 *10 월 2016 이후에 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2017 년 6 월 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1609 (빌드 7369.2120)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -870,7 +870,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1609-february-22"></a>버전 1609: 년 2 월 22
-*버전 1609 (빌드 7369.2118)*
+*버전 1609(빌드 7369.2118)*
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
 -   **dBASE 지원:** dBASE 데이터베이스(.dbf)에 저장된 데이터를 가져오거나 이 데이터에 연결할 수 있습니다. [추가 정보](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
@@ -927,7 +927,7 @@ ms.locfileid: "19556291"
 -   테이블을 삭제하면 OneNote의 작동이 중단되는 문제를 해결합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
--   ** \@멘 션:** 받는 사람을 포함 하 여 입력 또는 작업에 대 한 요청 하는 알고 있는 있는지 확인은 @ 전자 메일 또는 일정 항목의 본문에 해당 사용자의 이름 앞에 오는 기호입니다. 받는 사람 줄에도 자동으로 추가 됩니다이. [자세한 내용](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@멘 션:** 받는 사람을 포함 하 여 입력 또는 작업에 대 한 요청 하는 알고 있는 있는지 확인은 @ 전자 메일 또는 일정 항목의 본문에 해당 사용자의 이름 앞에 오는 기호입니다. 이렇게 해당 사람이 받는 사람 줄에 자동으로 추가됩니다. [추가 정보](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **여행 예약 및 패키지에 대한 요약 카드:** 받은 편지함 및 일정에 자동으로 생성되는 요약 카드를 사용하여 여행 예약 및 패키지 전달을 확인하고 추적합니다. [추가 정보](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **첨부된 사진 미니 미리 보기**: 사진이 전자 메일에 첨부되면 Outlook 메시지에서 사진의 작은 미리 보기 창이 표시됩니다.
 -   **지운 편지함 복구 링크:** 지운 편지함 폴더에서 삭제한 항목 위에 “이 폴더에서 최근에 제거된 항목 복구" 링크가 나타나고, 이 링크를 선택하면 지운 편지함 복구 대화 상자가 표시됩니다.
@@ -1086,7 +1086,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1605-january-10"></a>버전 1605: 년 1 월 10
-*버전 1605 (빌드 6965.2117)*
+*버전 1605(빌드 6965.2117)*
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
 -   Microsoft 보안 공지 [MS17-002](https://technet.microsoft.com/library/security/ms17-002): Microsoft Office용 보안 업데이트(3214291)
@@ -1094,7 +1094,7 @@ ms.locfileid: "19556291"
 
 
 ## <a name="version-1602-january-10"></a>버전 1602: 년 1 월 10
-*버전 1602 (빌드 6741.2105)*
+*버전 1602(빌드 6741.2105)*
 
 *6 월 2016 이후 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2017 년 2 월 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1605 (빌드 6965.2117)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 

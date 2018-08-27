@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에 제공 릴리스 정보 세미콜론 연간 회의 채널 (대상) 릴리스에 대 한 Office 365 ProPlus에 대 한 2015에서
 ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556308"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>2015에 세미콜론 연간 회의 채널 (대상) 릴리스에 대 한 릴리스 정보
@@ -22,13 +22,13 @@ ms.locfileid: "19556308"
 이러한 릴리스 정보에서는 새로운 기능, 보안 업데이트 및 2015에서 Office 365 ProPlus에 대 한 세미콜론 연간 회의 채널 (대상) 업데이트에 포함 된 비보안 업데이트 하는 방법에 대 한 정보를 제공 합니다.
  
 > [!NOTE]
-> - 다음도 정보를 제공 새로운 기능, 보안 업데이트 및 비보안 업데이트 하는 방법에 대 한 Visio Pro for Office 365와 Project Online 데스크톱 클라이언트에 대 한 합니다.
-> - 이 정보는 프리미엄 등의 일부 Office 365 계획와 함께 제공 되는 Office 버전에 해당 하는 Office 365 비즈니스에도 적용 됩니다.
+> - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
+> - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 > - 세미콜론 연간 회의 채널 (대상) 2017 년 9 월 하기 전에 지연 채널에 대 한 첫번째 릴리스 이름이 였습니다.
 
 
 ## <a name="version-1509-december-8"></a>버전 1509: 년 12 월 8
-*버전 1509 (빌드 6001.1043)*
+*버전 1509(빌드 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   Windows 데스크톱 클라이언트를 사용해 만든 XPS 또는 인쇄물이 비Windows 데스크톱 클라이언트에서 빨간색 X로 표시되는 문제를 해결합니다. 이 문제는 해당 클라이언트가 네이티브 XPS 렌더링을 지원하지 않기 때문에 발생합니다.
@@ -57,7 +57,7 @@ ms.locfileid: "19556308"
 
 
 ## <a name="version-1509-november-10"></a>버전 1509: 11 월 10 일
-*버전 1509 (빌드 6001.1038)*
+*버전 1509(빌드 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
 -   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
@@ -126,7 +126,7 @@ ms.locfileid: "19556308"
 
 
 ## <a name="version-1509-october-21"></a>버전 1509: 년 10 월 21 일
-*버전 1509 (빌드 6001.1034)*
+*버전 1509(빌드 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   색 선택에서 테두리에 동일한 색을 두 번 선택하면 OneNote가 중단되는 문제를 해결합니다.
@@ -169,7 +169,7 @@ ms.locfileid: "19556308"
 
 
 ## <a name="version-1509-october-5"></a>버전 1509: 년 10 월 5
-*버전 1509 (빌드 4229.1029)*
+*버전 1509(빌드 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   SharePoint에서 OneNote를 사용하려고 하면 다른 버전의 Office로 업그레이드해야 한다는 내용의 오류 메시지가 표시되는 Office 365 Business의 문제를 해결합니다.
@@ -194,7 +194,7 @@ ms.locfileid: "19556308"
 
 
 ## <a name="version-1509-september-22"></a>버전 1509: 9 월 22
-*버전 1509 (빌드 4229.1024)*
+*버전 1509(빌드 4229.1024)*
 
 이 채널의 첫 번째 릴리스입니다. 이 릴리스를 통해 Office 2016 응용 프로그램을 처음으로 제공합니다.
 

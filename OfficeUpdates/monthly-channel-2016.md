@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 월별 채널에 대 한 릴리스 정보와 IT 전문가 2016에서 Office 365 ProPlus에 대 한 해제를 제공 합니다.
 ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556274"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016에서 월별 채널 릴리스에 대 한 릴리스 정보
@@ -22,12 +22,12 @@ ms.locfileid: "19556274"
 이러한 릴리스 정보에서는 새로운 기능, 보안 업데이트 및 2016에서 Office 365 ProPlus에 대 한 월별 채널 업데이트에 포함 된 비보안 업데이트 하는 방법에 대 한 정보를 제공 합니다.
  
 > [!NOTE]
-> - 다음도 정보를 제공 새로운 기능, 보안 업데이트 및 비보안 업데이트 하는 방법에 대 한 Visio Pro for Office 365와 Project Online 데스크톱 클라이언트에 대 한 합니다.
-> - 이 정보는 프리미엄 등의 일부 Office 365 계획와 함께 제공 되는 Office 버전에 해당 하는 Office 365 비즈니스에도 적용 됩니다.
+> - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
+> - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 > - 월별 채널 2017 년 9 월 하기 전에 현재 채널 이름이 였습니다.
 
 ## <a name="version-1611-december-13"></a>버전 1611: 년 12 월 13
-*버전 1611 (빌드 7571.2075)*
+*버전 1611(빌드 7571.2075)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office용 보안 업데이트(3204068)
@@ -37,7 +37,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1611-december-6"></a>버전 1611: 년 12 월 6
-*버전 1611 (빌드 7571.2072)*
+*버전 1611(빌드 7571.2072)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **지도 차트:** 값을 비교하고 지역별 범주를 표시합니다. [추가 정보](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
@@ -60,7 +60,7 @@ ms.locfileid: "19556274"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 -   **SVG 이미지:** 프레젠테이션에 SVG(확장 가능한 벡터 그래픽)를 삽입하고 편집합니다. [추가 정보](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **아이콘 삽입:**  삽입 \> 그림 \> 아이콘으로 이동하여 SVG(확장 가능한 벡터 그래픽) 파일의 표준 라이브러리에 있는 아이콘을 사용합니다. [추가 정보](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **공동 작성 하는 경우에 실시간 입력:** 여기에서 다른 사용자에 게에서 작업 하는 프레젠테이션 및 보기 변경 내용을 입력 해도으로 참조 합니다. [자세한 내용](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **공동 작성 하는 경우에 실시간 입력:** 여기에서 다른 사용자에 게에서 작업 하는 프레젠테이션 및 보기 변경 내용을 입력 해도으로 참조 합니다. [추가 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **최근 폴더에 저장:** 파일 \> 다른 이름으로 저장으로 이동한 후 최근에 사용한 항목 탭을 사용하여 최근에 사용한 폴더에 프레젠테이션을 저장합니다.
 -   **정확한 잉크 개체 만들기:** 세그먼트 지우개를 끌어 가장 가까운 선까지 불필요한 잉크를 제거합니다.
 -   **펜으로 개체를 선택한 후 조작:** 디지털 펜의 핸들을 사용하여 개체를 이동, 크기 조정 또는 회전하거나, 올가미 선택 잉크에 지원되는 펜 단추를 사용합니다.
@@ -136,7 +136,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1610-november-10"></a>버전 1610: 11 월 10 일
-*버전 (빌드 7466.2038) 1610*
+*버전 1610(빌드 7466.2038)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **잉크 리플레이:** 그리기 \> 잉크 리플레이로 이동하여 필기를 앞뒤로 재생하여 콘텐츠를 숨기거나 표시하거나 단계별 지침을 제공하거나 다른 사람이 가진 생각의 흐름을 보다 잘 이해할 수 있습니다. [추가 정보](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
@@ -199,7 +199,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1609-november-8"></a>버전 1609: 년 11 월 8
-*버전 1609 (빌드 7369.2055)*
+*버전 1609(빌드 7369.2055)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office용 보안 업데이트(3199168)
@@ -210,7 +210,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1609-november-2"></a>버전 1609: 년 11 월 2
-*버전 1609 (빌드 7369.2054)*
+*버전 1609(빌드 7369.2054)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   VBA 코드를 사용하여 워크시트를 복사할 때 숨겨진 워크시트의 숨김이 취소되는 문제를 해결합니다.
@@ -246,7 +246,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1609-october-11"></a>버전 1609: 년 10 월 11
-*버전 1609 (빌드 7369.2038)*
+*버전 1609(빌드 7369.2038)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   컴퓨터에서 레지스트리 쓰기를 금지하는 설정을 레지스트리에 추가할 때 OneNote가 충돌하는 문제를 해결합니다.
@@ -263,7 +263,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1609-october-4"></a>버전 1609: 년 10 월 4
-*버전 1609 (빌드 7369.2024)*
+*버전 1609(빌드 7369.2024)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **데이터 변환 및 연결성 향상:** 쿼리에 매개 변수를 추가하고, 병합 또는 추가 작업에서 새 쿼리를 만들고, 웹 커넥터를 사용하여 웹 페이지를 미리 볼 수 있습니다.
@@ -279,7 +279,7 @@ ms.locfileid: "19556274"
 -   태그를 검색하는 경우 태그 요약 창에서 텍스트 줄의 여러 태그 중 첫 번째 태그만 표시되는 문제를 해결합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
--   ** \@멘 션:** 받는 사람을 포함 하 여 입력 또는 작업에 대 한 요청 하는 알고 있는 있는지 확인은 @ 전자 메일 또는 일정 항목의 본문에 해당 사용자의 이름 앞에 오는 기호입니다. 받는 사람 줄에도 자동으로 추가 됩니다이. [자세한 내용](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@멘 션:** 받는 사람을 포함 하 여 입력 또는 작업에 대 한 요청 하는 알고 있는 있는지 확인은 @ 전자 메일 또는 일정 항목의 본문에 해당 사용자의 이름 앞에 오는 기호입니다. 이렇게 해당 사람이 받는 사람 줄에 자동으로 추가됩니다. [추가 정보](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   사용자 지정 편지지를 기본 테마로 사용할 경우 새 전자 메일 메시지에 필요 없는 줄 바꿈이 추가되고 글꼴이 Calibri로 설정되는 문제를 해결합니다.
@@ -331,7 +331,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1608-september-26"></a>버전 1608: 9 월 26 일
-*버전 (빌드 7341.2035) 1608*
+*버전 1608(빌드 7341.2035)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   올가미 도구에서 잉크 도구를 전환할 때 흐린 잉크 스트로크가 나타나는 문제를 해결합니다.
@@ -343,7 +343,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1608-september-21"></a>버전 1608: 9 월 21 일
-*버전 (빌드 7341.2032) 1608*
+*버전 1608(빌드 7341.2032)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **다음과 같은 전원 쿼리 레이아웃이 보존됩니다.** 쿼리를 새로 고친 후에 가져오기 및 변환을 사용하여 가져온 데이터에 대한 형식 및 계산된 열이 보존됩니다.
@@ -390,7 +390,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1607-september-13"></a>버전 1607: 9 월 13
-*버전 (빌드 7167.2060) 1607*
+*버전 1607(빌드 7167.2060)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
@@ -407,7 +407,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1607-september-6"></a>버전 1607: 9 월 6
-*버전 (빌드 7167.2055) 1607*
+*버전 1607(빌드 7167.2055)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   이진 델타 압축으로 인해 이전 빌드에 대한 업데이트의 다운로드 크기가 정상적인 크기보다 더 커지는 문제를 해결합니다.
@@ -415,7 +415,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1607-august-31"></a>버전 1607: 년 8 월 31 일
-*버전 (빌드 7167.2047) 1607*
+*버전 1607(빌드 7167.2047)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   사용자 정의 양식을 디자인할 때 필드를 양식 위로 끌면 Outlook이 충돌하는 문제를 해결합니다.
@@ -426,7 +426,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1607-august-16"></a>버전 1607: 년 8 월 16
-*버전 (빌드 7167.2040) 1607*
+*버전 1607(빌드 7167.2040)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **데이터 변환 및 연결성 향상:** 추가 날짜/시간 변환 및 텍스트 조작을 수행하고, 통합 문서를 다른 환경으로 마이그레이션하고, 행 필터링을 위해 두 개 이상의 절을 그룹화하고, 쿼리 편집기 창에서 변환을 문서화할 수 있습니다.
@@ -466,7 +466,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1606-august-9"></a>버전 1606: 년 8 월 9
-*버전 (빌드 7070.2036) 1606*
+*버전 1606(빌드 7070.2036)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   최근 보안 업데이트로 인한 문제를 해결합니다. 이 문제로 인해 신뢰할 수 없는 위치에서 HTML 파일을 열 때 제한된 보기에서 파일을 열 수 있도록 허용하는 대신, 오류가 표시되지 않는 빈 화면으로 Excel이 열립니다.
@@ -492,7 +492,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1606-july-26"></a>버전 1606: 7 월 26 일
-*버전 (빌드 7070.2033) 1606*
+*버전 1606(빌드 7070.2033)*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트
 -   Access 앱에서 또는 Access 데이터베이스 엔진을 데이터 공급자로 사용하는 추가 기능 등에 Access 데이터베이스 엔진을 사용할 때 하나의 정렬이 적용된 쿼리를 실행하면 앱의 작동이 중단되는 문제를 수정합니다.
@@ -511,7 +511,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1606-july-20"></a>버전 1606: 년 7 월 20
-*버전 (빌드 7070.2028) 1606*
+*버전 1606(빌드 7070.2028)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   이동 핸들을 페이지 위로 이동하면 사라지는 문제를 해결합니다.
@@ -526,7 +526,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1606-july-12"></a>버전 1606: 년 7 월 12
-*버전 (빌드 7070.2026) 1606*
+*버전 1606(빌드 7070.2026)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office용 보안 업데이트(3170008)
@@ -549,7 +549,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1606-july-5"></a>버전 1606: 년 7 월 5
-*버전 (빌드 7070.2022) 1606*
+*버전 1606(빌드 7070.2022)*
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
 -   **dBASE 지원:** dBASE 데이터베이스(.dbf)에 저장된 데이터를 가져오거나 이 데이터에 연결할 수 있습니다. [추가 정보](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
@@ -576,7 +576,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1605-june-30"></a>버전 1605: 6 월 30 일
-*버전 1605 (빌드 6965.2063)*
+*버전 1605(빌드 6965.2063)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   높은 DPI를 사용할 때 표를 포함하는 메시지의 모양이 향상됩니다.
@@ -598,7 +598,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1605-june-14"></a>버전 1605: 년 6 월 14
-*버전 1605 (빌드 6965.2058)*
+*버전 1605(빌드 6965.2058)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   수동 입력 시 임의 스트로크가 선택된 후 선택 취소할 수 없는 문제를 해결합니다.
@@ -629,10 +629,10 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1605-june-6"></a>버전 1605: 년 6 월 6
-*버전 1605 (빌드 6965.2053)*
+*버전 1605(빌드 6965.2053)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
--   **가져오기 및 향상 된 변환:** 새롭거나 향상 된 데이터 변환 및 전원 쿼리에 대 한 데이터 연결 기능입니다. [자세한 내용](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **가져오기 및 향상 된 변환:** 새롭거나 향상 된 데이터 변환 및 전원 쿼리에 대 한 데이터 연결 기능입니다. [추가 정보](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   여러 워크시트를 포함하는 통합 문서에서 데이터 유효성 검사 드롭다운 목록이 손상되고 자체적으로 복제되는 문제를 해결합니다.
@@ -643,7 +643,7 @@ ms.locfileid: "19556274"
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 -   **간단한 프로필 만들기:** Office 365 계정에 로그인한 경우 Office 365 사서함에 대한 추가 Outlook 프로필을 설정하기 위한 단순화된 UI(사용자 인터페이스) 환경입니다.
 
-    참고:이 기능은 배포할 시간 일정 기간 동안 구독자에이 기능은 즉시 표시 되지 않을 수 있도록 합니다. 이 기능을 받을 때의 타이밍은 또한 조직에서 Office를 업데이트 하는 방법에 따라 달라 집니다.
+    참고: 이 기능은 일정 시간 동안 구독자에게 롤아웃되므로 즉시 보이지 않을 수도 있습니다. 이 기능을 받는 시기도 조직에서 Office를 업데이트하는 방식에 따라 달라집니다.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   .rtf 형식으로 전자 메일을 보낼 때 확장 기호 문자가 “1”로 변경되는 문제를 해결합니다.
@@ -671,7 +671,7 @@ ms.locfileid: "19556274"
 -   **리본 메뉴에 그룹화되어 있는 공동 작업 기능:** 공유, 채팅, 설명, 문서 활동, 현재 문서를 편집하는 사람 등과 같은 기능이 Word 및 PowerPoint의 리본 메뉴에 그룹화되어 있습니다. [추가 정보](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
 -   **AD RMS 권한 정책 템플릿 설정:** 되도록 설정을 사용 하지 않도록 하는 경우에 특히 새 Word, Excel 및 PowerPoint 문서에 적용 하는 경우 "소유자 (작성자) 모든 권한 부여 만료 없이 오른쪽"에 대 한 설정이 적용 됩니다. 설정, 사용 하지 않도록 설정 하는 경우 적용 된 서식 파일은 문서에 대 한 액세스를 제한할 수 있습니다 하 라는 경고가 표시 됩니다.
 
-    참고: 이미 구성 된이 설정 했던 서식 파일을 보호 하는 기존 문서 변경 되지 않습니다. 소유자는 여전히 모든 권한 및 만료 안함을 이러한 문서에 있습니다.
+    참고: 이 설정이 구성된 템플릿으로 이미 보호되는 기존 문서는 변경되지 않습니다. 소유자는 해당 문서에 대한 전체 권한을 가지며 만료 기한은 없습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   Office 365 ProPlus와 같은 Office 2013 버전의 Office 365 클라이언트에서 Office 2016 버전으로의 Microsoft 시작 업그레이드를 진행하기 전에 일부 Office 2013 라이선스 및 프로그램 설치 정보가 삭제되도록 하는 캐싱 문제를 해결합니다.
@@ -679,7 +679,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1604-may-23"></a>버전 1604: 5 월 23
-*버전 1604 (빌드 6868.2067)*
+*버전 1604(빌드 6868.2067)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   받은 편지함 또는 지운 편지함 폴더와 같은 폴더의 메시지 목록 맨 아래에 서버의 이전 메일 메시지를 볼 수 있는 링크가 나타나지 않는 문제를 해결합니다.
@@ -703,7 +703,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1604-may-10"></a>버전 1604: 5 월 10
-*버전 1604 (빌드 6868.2062)*
+*버전 1604(빌드 6868.2062)*
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office용 보안 업데이트(3155544)
@@ -714,7 +714,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1604-may-4"></a>버전 1604: 5 월 4
-*버전 1604 (빌드 6868.2060)*
+*버전 1604(빌드 6868.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **추가 데이터 연결:** JSON 및 Azure SQL 데이터 웨어하우스 원본에서 데이터를 쿼리합니다.
@@ -738,7 +738,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1603-april-28"></a>버전 1603: 년 4 월 28 일
-*버전 (빌드 6769.2040) 1603*
+*버전 1603(빌드 6769.2040)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   데이터 \> 가져오기 및 변환 \> 테이블에서를 사용할 때 명명된 범위를 올바르게 가져오지 않는 문제를 해결합니다.
@@ -747,7 +747,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1603-april-12"></a>버전 1603: 년 4 월 12
-*버전 (빌드 6769.2017) 1603*
+*버전 1603(빌드 6769.2017)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Microsoft Office용 보안 업데이트(3148775)
@@ -758,7 +758,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1603-april-4"></a>버전 1603: 년 4 월 4
-*버전 (빌드 6769.2015) 1603*
+*버전 1603(빌드 6769.2015)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **향상된 파워 쿼리 기능:** 향상된 연결 기능 및 새 변형이 추가되었습니다. [추가 정보](https://blogs.office.com/2016/03/04/march-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
@@ -786,7 +786,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1602-march-24"></a>버전 1602: 3 월 24
-*버전 1602 (빌드 6741.2021)*
+*버전 1602(빌드 6741.2021)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   바로 가기 키를 사용하여 전자 메일의 첨부 파일에 액세스할 때 Outlook이 충돌하는 문제를 해결합니다.
@@ -794,7 +794,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1602-march-17"></a>버전 1602: 3 월 17
-*버전 1602 (빌드 6741.2017)*
+*버전 1602(빌드 6741.2017)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **Power BI에 게시:** 차트, 범위, 표 등의 통합 문서 항목을 저장한 후 powerbi.com에 게시하고 대시보드 형태의 데이터로 상호 작용합니다. Power BI 구독이 필요합니다. [추가 정보](https://support.office.com/article/7342b49c-6567-4155-a7ac-acdc14d9ad0f)
@@ -835,16 +835,16 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1601-march-4"></a>1601 버전: 3 월 4 일
-*1601 (빌드 6568.2036) 버전*
+*버전 1601(빌드 6568.2036)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 -   POP3을 사용하도록 구성된 경우 Outlook에서 메일 메시지를 다운로드한 후에 서버의 모든 메일 메시지가 받은 편지함에서 삭제되는 문제를 해결합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3145116)
--   문제를 수정할 페이지인 p o p 3를 사용 하 여 구성 되 면 메일 메시지를 다운로드 한 여러 번 중복 항목을 발생 합니다. [이 문제에 대 한 자세한 내용](https://support.microsoft.com/kb/3145116)
+-   문제를 수정할 페이지인 p o p 3를 사용 하 여 구성 되 면 메일 메시지를 다운로드 한 여러 번 중복 항목을 발생 합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3145116)
 
 
 
 ## <a name="version-1601-march-3"></a>1601 버전: 3 월 3
-*1601 (빌드 6568.2034) 버전*
+*버전 1601(빌드 6568.2034)*
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-029](https://technet.microsoft.com/library/security/ms16-029): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3141806)
@@ -858,7 +858,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1601-february-16"></a>1601 버전: 년 2 월 16
-*1601 (빌드 6568.2025) 버전*
+*버전 1601(빌드 6568.2025)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **깔때기형 차트:** 점진적으로 감소하는 비율로 값을 표시합니다. [추가 정보](https://support.office.com/article/ba21bcba-f325-4d9f-93df-97074589a70e)
@@ -914,7 +914,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1511-february-9"></a>버전 1511: 년 2 월 9
-*버전 1511 (빌드 6366.2068)*
+*버전 1511(빌드 6366.2068)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3134226)
@@ -925,7 +925,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1511-january-25"></a>버전 1511: 년 1 월 25
-*버전 1511 (빌드 6366.2062)*
+*버전 1511(빌드 6366.2062)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   Application.OnKey()를 사용하여 키 입력을 중단하면 Excel이 중단되는 문제를 해결합니다.
@@ -936,7 +936,7 @@ ms.locfileid: "19556274"
 
 
 ## <a name="version-1511-january-12"></a>버전 1511: 년 1 월 12
-*버전 1511 (빌드 6366.2056)*
+*버전 1511(빌드 6366.2056)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3124585)

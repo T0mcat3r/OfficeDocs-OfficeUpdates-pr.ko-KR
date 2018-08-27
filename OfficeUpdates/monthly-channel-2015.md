@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 월별 채널에 대 한 릴리스 정보와 IT 전문가 2015에서 Office 365 ProPlus에 대 한 해제를 제공 합니다.
 ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556278"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015에서 월별 채널 릴리스에 대 한 릴리스 정보
@@ -22,12 +22,12 @@ ms.locfileid: "19556278"
 이러한 릴리스 정보에서는 새로운 기능, 보안 업데이트 및 2015에서 Office 365 ProPlus에 대 한 월별 채널 업데이트에 포함 된 비보안 업데이트 하는 방법에 대 한 정보를 제공 합니다.
  
 > [!NOTE]
-> - 다음도 정보를 제공 새로운 기능, 보안 업데이트 및 비보안 업데이트 하는 방법에 대 한 Visio Pro for Office 365와 Project Online 데스크톱 클라이언트에 대 한 합니다.
-> - 이 정보는 프리미엄 등의 일부 Office 365 계획와 함께 제공 되는 Office 버전에 해당 하는 Office 365 비즈니스에도 적용 됩니다.
+> - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
+> - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 > - 월별 채널 2017 년 9 월 하기 전에 현재 채널 이름이 였습니다.
 
 ## <a name="version-1511-december-11"></a>버전 1511: 12 월 11 일
-*버전 1511 (빌드 6366.2036)*
+*버전 1511(빌드 6366.2036)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **BI 서식 파일:** 비즈니스 인텔리전스 Excel의 (BI) 기능을 활용 하는 세개의 새 서식 파일: [일정 정보](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40), [재고 분석](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d) [내 Cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
@@ -55,7 +55,7 @@ ms.locfileid: "19556278"
 -   **모핑 전환:** 슬라이드 간의 전환을 매끄럽게 만들고 프레젠테이션에 모션을 도입해 개념과 정보를 효과적으로 전달합니다.[추가 정보](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint Designer:** 콘텐츠를 가져오고 선택할 수 있는 다양한 아이디어를 자동으로 생성하는 새 서비스를 통해 슬라이드를 더욱 보기 좋게 만듭니다. [추가 정보](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    이 서비스는 인터넷 연결이 필요합니다. [최신 그룹 정책 관리 템플릿 파일을 사용](https://www.microsoft.com/download/details.aspx?id=49030) 하는이 기능을 사용 하지 않도록 설정 하려면 PowerPoint 디자이너 옵션 설정을 사용 하도록 설정 합니다. 사용자 구성 아래에서이 정책 설정을 찾을 수\\관리 템플릿\\Microsoft Office 2016\\도구 | 옵션 | 일반 | 서비스 옵션... \\PowerPoint 디자이너 합니다.
+    이 서비스에는 인터넷 연결이 필요합니다. [최신 그룹 정책 관리 템플릿 파일을 사용](https://www.microsoft.com/download/details.aspx?id=49030) 하는이 기능을 사용 하지 않도록 설정 하려면 PowerPoint 디자이너 옵션 설정을 사용 하도록 설정 합니다. 이 정책 설정은 사용자 구성\\관리 템플릿\\Microsoft Office 2016\\도구 | 옵션 | 일반 | 서비스 옵션...\\PowerPoint Designer에서 찾을 수 있습니다.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 -   애니메이션이 포함된 SmartArt가 발표자 보기의 슬라이드 쇼 보기에서 예상된 순서로 나타나지 않는 문제를 해결합니다.
@@ -83,7 +83,7 @@ ms.locfileid: "19556278"
 
 
 ## <a name="version-1509-december-8"></a>버전 1509: 년 12 월 8
-*버전 1509 (빌드 6001.1043)*
+*버전 1509(빌드 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   Windows 데스크톱 클라이언트를 사용해 만든 XPS 또는 인쇄물이 비Windows 데스크톱 클라이언트에서 빨간색 X로 표시되는 문제를 해결합니다. 이 문제는 해당 클라이언트가 네이티브 XPS 렌더링을 지원하지 않기 때문에 발생합니다.
@@ -112,7 +112,7 @@ ms.locfileid: "19556278"
 
 
 ## <a name="version-1509-november-10"></a>버전 1509: 11 월 10 일
-*버전 1509 (빌드 6001.1038)*
+*버전 1509(빌드 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
 -   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
@@ -181,7 +181,7 @@ ms.locfileid: "19556278"
 
 
 ## <a name="version-1509-october-21"></a>버전 1509: 년 10 월 21 일
-*버전 1509 (빌드 6001.1034)*
+*버전 1509(빌드 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   색 선택에서 테두리에 동일한 색을 두 번 선택하면 OneNote가 중단되는 문제를 해결합니다.
@@ -224,7 +224,7 @@ ms.locfileid: "19556278"
 
 
 ## <a name="version-1509-october-5"></a>버전 1509: 년 10 월 5
-*버전 1509 (빌드 4229.1029)*
+*버전 1509(빌드 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
 -   SharePoint에서 OneNote를 사용하려고 하면 다른 버전의 Office로 업그레이드해야 한다는 내용의 오류 메시지가 표시되는 Office 365 Business의 문제를 해결합니다.
@@ -249,7 +249,7 @@ ms.locfileid: "19556278"
 
 
 ## <a name="version-1509-september-22"></a>버전 1509: 9 월 22
-*버전 1509 (빌드 4229.1024)*
+*버전 1509(빌드 4229.1024)*
 
 이 채널의 첫 번째 릴리스입니다. 이 릴리스를 통해 Office 2016 응용 프로그램을 처음으로 제공합니다.
 

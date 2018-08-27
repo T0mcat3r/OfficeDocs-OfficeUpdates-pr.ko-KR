@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2016에서 Office 365 ProPlus에 대 한 세미콜론 연간 회의 채널에 대 한 릴리스 정보와 IT 전문가 해제를 제공 합니다.
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556284"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016에 세미콜론 연간 회의 채널 릴리스에 대 한 릴리스 정보
 
 이러한 릴리스 정보에서는 새로운 기능, 보안 업데이트 및 2016에서 Office 365 ProPlus에 대 한 세미콜론 연간 회의 채널 업데이트에 포함 된 비보안 업데이트 하는 방법에 대 한 정보를 제공 합니다. 
 > [!NOTE]
-> - 다음도 정보를 제공 새로운 기능, 보안 업데이트 및 비보안 업데이트 하는 방법에 대 한 Visio Pro for Office 365와 Project Online 데스크톱 클라이언트에 대 한 합니다.
-> - 이 정보는 프리미엄 등의 일부 Office 365 계획와 함께 제공 되는 Office 버전에 해당 하는 Office 365 비즈니스에도 적용 됩니다.
-> - 1 월 2018 하기 전에 지연 채널 이름은 세미콜론 연간 회의 채널입니다.
+> - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
+> - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+> - 반기 채널이 2018년 1월 이전에는 지연 채널로 지칭되었습니다.
 
 
 ## <a name="version-1605-december-13"></a>버전 1605: 년 12 월 13
-*버전 1605 (빌드 6965.2115)*
+*버전 1605(빌드 6965.2115)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office용 보안 업데이트(3204068)
@@ -42,7 +42,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1602-december-13"></a>버전 1602: 년 12 월 13
-*버전 1602 (빌드 6741.2098)*
+*버전 1602(빌드 6741.2098)*
 
 *6 월 2016 이후 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2017 년 2 월 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1605 (빌드 6965.2115)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -55,7 +55,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1605-november-8"></a>버전 1605: 년 11 월 8
-*버전 1605 (빌드 6965.2105)*
+*버전 1605(빌드 6965.2105)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office용 보안 업데이트(3199168)
@@ -69,7 +69,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1602-november-8"></a>버전 1602: 년 11 월 8
-*버전 1602 (빌드 6741.2088)*
+*버전 1602(빌드 6741.2088)*
 
 *6 월 2016 이후 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2017 년 2 월 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1605 (빌드 6965.2105)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -82,14 +82,14 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1605-october-11"></a>버전 1605: 년 10 월 11
-*버전 1605 (빌드 6965.2092)*
+*버전 1605(빌드 6965.2092)*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트
 -   Access 앱에서 또는 Access 데이터베이스 엔진을 데이터 공급자로 사용하는 추가 기능 등에 Access 데이터베이스 엔진을 사용할 때 하나의 정렬이 적용된 쿼리를 실행하면 앱의 작동이 중단되는 문제를 수정합니다.
 -   데이터 형식에 대한 필드 크기 드롭다운에 값이 표시되지 않아 사용자가 표를 만들거나 수정할 때 숫자 필드의 형식을 지정할 수 없는 문제를 해결합니다.
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
--   **가져오기 및 향상 된 변환:** 새롭거나 향상 된 데이터 변환 및 전원 쿼리에 대 한 데이터 연결 기능입니다. [자세한 내용](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **가져오기 및 향상 된 변환:** 새롭거나 향상 된 데이터 변환 및 전원 쿼리에 대 한 데이터 연결 기능입니다. [추가 정보](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **추가 데이터 연결:** JSON 및 Azure SQL 데이터 웨어하우스 원본에서 데이터를 쿼리합니다.
 -   **파워 쿼리 개선 사항:** 향상된 새 데이터 변환 및 데이터 연결 기능이 있습니다. [추가 정보](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **큰 주소 인식 지원:** 가능한 경우 32비트 버전의 Excel에서 더 많은 메모리를 사용할 수 있습니다. [추가 정보](https://support.microsoft.com/kb/3160741)
@@ -220,7 +220,7 @@ ms.locfileid: "19556284"
 -   **AD RMS 권한 정책 템플릿 설정:** 되도록 설정을 사용 하지 않도록 하는 경우에 특히 새 Word, Excel 및 PowerPoint 문서에 적용 하는 경우 "소유자 (작성자) 모든 권한 부여 만료 없이 오른쪽"에 대 한 설정이 적용 됩니다. 설정, 사용 하지 않도록 설정 하는 경우 적용 된 서식 파일은 문서에 대 한 액세스를 제한할 수 있습니다 하 라는 경고가 표시 됩니다.
  
 
-    참고: 이미 구성 된이 설정 했던 서식 파일을 보호 하는 기존 문서 변경 되지 않습니다. 소유자는 여전히 모든 권한 및 만료 안함을 이러한 문서에 있습니다.
+    참고: 이 설정이 구성된 템플릿으로 이미 보호되는 기존 문서는 변경되지 않습니다. 소유자는 해당 문서에 대한 전체 권한을 가지며 만료 기한은 없습니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office용 보안 업데이트(3155544)
@@ -240,7 +240,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1602-october-11"></a>버전 1602: 년 10 월 11
-*버전 1602 (빌드 6741.2081)*
+*버전 1602(빌드 6741.2081)*
 
 *6 월 2016 이후 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2017 년 2 월 보안 업데이트를 받을 계속 됩니다. 이제 새 지연 채널 릴리스를 사용할 수 있지만 — 버전 1605 (빌드 6965.2092)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -253,7 +253,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1602-september-13"></a>버전 1602: 9 월 13
-*버전 1602 (빌드 6741.2071)*
+*버전 1602(빌드 6741.2071)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office용 보안 업데이트(3185852)
@@ -273,7 +273,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1509-september-13"></a>버전 1509: 9 월 13
-*버전 1509 (빌드 6001.1090)*
+*버전 1509(빌드 6001.1090)*
 
 *2 월 2016 이후 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2016 년 10 월 보안 업데이트를 받을 계속 됩니다. 그러나 새 지연 채널 릴리스는 사용할 수 있는 이제 — 버전 1602 (빌드 6741.2071)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -289,7 +289,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1602-august-9"></a>버전 1602: 년 8 월 9
-*버전 1602 (빌드 6741.2063)*
+*버전 1602(빌드 6741.2063)*
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   최근 보안 업데이트로 인한 문제를 해결합니다. 이 문제로 인해 신뢰할 수 없는 위치에서 HTML 파일을 열 때 제한된 보기에서 파일을 열 수 있도록 허용하는 대신, 오류가 표시되지 않는 빈 화면으로 Excel이 열립니다.
@@ -312,7 +312,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1509-august-9"></a>버전 1509: 년 8 월 9
-*버전 1509 (빌드 6001.1087)*
+*버전 1509(빌드 6001.1087)*
 
 *2 월 2016 이후 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2016 년 10 월 보안 업데이트를 받을 계속 됩니다. 그러나 새 지연 채널 릴리스는 사용할 수 있는 이제 — 버전 1602 (빌드 6741.2063)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -337,7 +337,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1602-july-12"></a>버전 1602: 년 7 월 12
-*버전 1602 (빌드 6741.2056)*
+*버전 1602(빌드 6741.2056)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office용 보안 업데이트(3170008)
@@ -351,7 +351,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1509-july-12"></a>버전 1509: 년 7 월 12
-*버전 1509 (빌드 6001.1085)*
+*버전 1509(빌드 6001.1085)*
 
 *2 월 2016 이후 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2016 년 10 월 보안 업데이트를 받을 계속 됩니다. 그러나 새 지연 채널 릴리스는 사용할 수 있는 이제 — 버전 1602 (빌드 6741.2056)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -367,7 +367,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1602-june-14"></a>버전 1602: 년 6 월 14
-*버전 1602 (빌드 6741.2048)*
+*버전 1602(빌드 6741.2048)*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
 -   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
@@ -451,7 +451,7 @@ ms.locfileid: "19556284"
 -   보낸 사람 드롭다운의 항목이 고대비 모드에서 완전히 강조 표시되지 않는 문제를 해결합니다.
 -   Shift 키를 누른 채로 클릭하여 여러 첨부 파일을 선택해도 첫 번째 첨부 파일만 선택되는 문제를 해결합니다.
 -   POP3을 사용하도록 구성된 경우 Outlook에서 메일 메시지를 다운로드한 후에 서버의 모든 메일 메시지가 받은 편지함에서 삭제되는 문제를 해결합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3145116)
--   문제를 수정할 페이지인 p o p 3를 사용 하 여 구성 되 면 메일 메시지를 다운로드 한 여러 번 중복 항목을 발생 합니다. [이 문제에 대 한 자세한 내용](https://support.microsoft.com/kb/3145116)
+-   문제를 수정할 페이지인 p o p 3를 사용 하 여 구성 되 면 메일 메시지를 다운로드 한 여러 번 중복 항목을 발생 합니다. [이 문제에 대한 자세한 내용](https://support.microsoft.com/kb/3145116)
 -   사용자가 Exchange Server 2010에서 호스트되는 공용 폴더에 액세스하지 못하는 문제를 해결합니다.
 -   높은 dpi 장치와 일반 dpi 모니터 간에 메일을 보내는 경우 이미지가 잘못된 크기로 표시되는 문제를 해결합니다.
 -   메시지 목록에서 스크롤 막대를 끌면 목록의 끝으로 이동하는 문제를 해결합니다.
@@ -465,7 +465,7 @@ ms.locfileid: "19556284"
 -   **모핑 전환:** 슬라이드 간의 전환을 매끄럽게 만들고 프레젠테이션에 모션을 도입해 개념과 정보를 효과적으로 전달합니다.[추가 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **PowerPoint Designer:** 콘텐츠를 가져오고 선택할 수 있는 다양한 아이디어를 자동으로 생성하는 새 서비스를 통해 슬라이드를 더욱 보기 좋게 만듭니다. [추가 정보](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    이 서비스는 인터넷 연결이 필요합니다. [최신 그룹 정책 관리 템플릿 파일을 사용](https://www.microsoft.com/download/details.aspx?id=49030) 하는이 기능을 사용 하지 않도록 설정 하려면 PowerPoint 디자이너 옵션 설정을 사용 하도록 설정 합니다. 사용자 구성 아래에서이 정책 설정을 찾을 수\\관리 템플릿\\Microsoft Office 2016\\도구 | 옵션 | 일반 | 서비스 옵션... \\PowerPoint 디자이너 합니다.
+    이 서비스에는 인터넷 연결이 필요합니다. [최신 그룹 정책 관리 템플릿 파일을 사용](https://www.microsoft.com/download/details.aspx?id=49030) 하는이 기능을 사용 하지 않도록 설정 하려면 PowerPoint 디자이너 옵션 설정을 사용 하도록 설정 합니다. 이 정책 설정은 사용자 구성\\관리 템플릿\\Microsoft Office 2016\\도구 | 옵션 | 일반 | 서비스 옵션...\\PowerPoint Designer에서 찾을 수 있습니다.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트
 -   Microsoft 보안 공지 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3104540)
@@ -582,7 +582,7 @@ ms.locfileid: "19556284"
 -   **파일 \> 열기의 정렬 기능:** Outlook을 제외한 모든 앱의 파일 \> 열기에서 이름 또는 수정된 날짜별로 정렬합니다. Word, Excel 및 PowerPoint의 경우 파일 \> 다른 이름으로 저장에서도 정렬을 사용할 수 있습니다.
 -   **파일 \> 다른 이름으로 저장의 폴더 탐색 기능:** OneDrive 폴더에 대한 Word, Excel, PowerPoint, 비즈니스용 OneDrive 폴더 및 이 PC에서 파일 \> 다른 이름으로 저장의 전체 폴더 탐색을 사용합니다.
 -   **다른 사람 이름으로 보내기 옵션:** Word 또는 PowerPoint의 공유 창에서 문서를 첨부 파일 또는 PDF로 보냅니다.
--   **API 그림 삽입:** 일반적인 office.js 라이브러리의 [document.setSelectedDataAsync 메서드](https://msdn.microsoft.com/library/office/fp142145.aspx) 를 사용 하 여 Word, Excel 또는 PowerPoint에 이미지를 삽입 합니다. Word JavaScript API [본문](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [단락](https://msdn.microsoft.com/library/office/mt598682.aspx)및 Range 개체에 인라인 그림을 설정 하려면 insertInlinePictureFromBase64()를 호출 하는 호스트 관련 메서드를 제공 합니다.
+-   **그림 API 삽입:** 공용 office.js 라이브러리에서 document.setSelectedDataAsync [메서드를 사용해 Word, Excel 또는 PowerPoint에](https://msdn.microsoft.com/library/office/fp142145.aspx) 이미지를 삽입합니다. Word JavaScript API에서는 호스트 전용 메서드 insertInlinePictureFromBase64()를 제공하여 [본문](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [단락](https://msdn.microsoft.com/library/office/mt598682.aspx)및 범위 개체에 인라인 그림을 설정합니다.
 
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
 -   Microsoft 보안 공지 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office의 취약성으로 인해 원격 코드가 실행될 수 있음(3080790)
@@ -639,7 +639,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1509-june-14"></a>버전 1509: 년 6 월 14
-*버전 1509 (빌드 6001.1082)*
+*버전 1509(빌드 6001.1082)*
 
 *2 월 2016 이후 사용할 수 있는 지연 채널 버전입니다. 지원 하 고 이전에 2016 년 10 월 보안 업데이트를 받을 계속 됩니다. 그러나 새 지연 채널 릴리스는 사용할 수 있는 이제 — 버전 1602 (빌드 6741.2056)-새로운 기능, 보안 업데이트 및 비보안 업데이트를 포함 하는 합니다.*
 
@@ -661,7 +661,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1509-may-10"></a>버전 1509: 5 월 10
-*버전 1509 (빌드 6001.1078)*
+*버전 1509(빌드 6001.1078)*
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office용 보안 업데이트(3155544)
@@ -672,7 +672,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1509-april-12"></a>버전 1509: 년 4 월 12
-*버전 1509 (빌드 6001.1073)*
+*버전 1509(빌드 6001.1073)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Microsoft Office용 보안 업데이트(3148775)
@@ -683,7 +683,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1509-march-8"></a>버전 1509: 3 월 8
-*버전 1509 (빌드 6001.1068)*
+*버전 1509(빌드 6001.1068)*
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
 -   Microsoft 보안 공지 [MS16-029](https://technet.microsoft.com/library/security/ms16-029): 원격 코드 실행을 해결하기 위한 Microsoft Office의 보안 업데이트(3141806)
@@ -694,7 +694,7 @@ ms.locfileid: "19556284"
 
 
 ## <a name="version-1509-february-9"></a>버전 1509: 년 2 월 9
-*버전 1509 (빌드 6001.1061)*
+*버전 1509(빌드 6001.1061)*
 
 이 채널의 첫 번째 릴리스입니다. 이 릴리스에는 2015년 9월 22일자 Office 2016에 포함된 기능과 동일한 기능이 포함되어 있습니다.
 
