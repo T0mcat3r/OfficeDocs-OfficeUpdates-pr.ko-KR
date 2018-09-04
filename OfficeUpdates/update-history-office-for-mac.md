@@ -3,20 +3,19 @@ title: Mac용 Office에 대한 업데이트 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/13/2018
+ms.date: 8/16/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-ms.custom: LIL_Placement
 description: 다운로드 패키지 및 업데이트 기록에 대한 링크를 포함하여 Mac용 Office의 최신 업데이트에 대한 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8dcbd9b482da4f79c52ca49ab048a6f60fb0c808
-ms.sourcegitcommit: 232e28bb41446497dd18d359557229335408e220
+ms.openlocfilehash: d013790803cdff324055e81bd1d7bee3d1c18be7
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2018
-ms.locfileid: "20364604"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520730"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac용 Office에 대한 업데이트 기록
 
@@ -27,7 +26,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 
 |**현재 버전**|**릴리스 날짜**|**다운로드 링크**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-16.15(18070902)  <br/> |2018년 7월 10일  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[릴리스 정보](release-notes-office-for-mac.md#july-2018-release) <br/> |
+16.16 (18081201)  <br/> |2018년 8월 14일  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[릴리스 정보](release-notes-office-for-mac.md#august-2018-release) <br/> |
   
 > [!NOTE]
 > - 이 정보는 Mac용 Office 영구 버전인 Mac용 Office 2016에도 적용되며, 소매점 또는 볼륨 라이선스 계약을 통해 일회용 구매 제품으로 사용할 수 있습니다.
@@ -41,12 +40,12 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 |**응용 프로그램**|**버전**|**다운로드 링크**|**설치 패키지용 SHA1 해시**|
 |:-----|:-----|:-----|:-----|
-|Office 제품군(모든 응용 프로그램)  <br/> |16.15.0(18070902)  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |51024F25DF989FFB47952F374E540B8919E93B87  <br/> |
-|Word  <br/> |16.15.0(18070902)  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/> |9C380C622144EE37F260E991379E9205341488C7  <br/> |
-|Excel  <br/> |16.15.0(18070902)   <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/> |2AF99CADFC6284E2D25B753D4BB7B3F1A05C41E2  <br/> |
-|PowerPoint  <br/> |16.15.0(18070902)   <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/> |3CA8B7B99588CE0DEA695B9253E446528493C73C <br/> |
-|Outlook  <br/> |16.15.0(18070902)   <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/> |830FA3120AAD2B07CE4DA889E6E5EA52F1DF9984  <br/> |
-|OneNote  <br/> |16.15.0(18070902)   <br/> |[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.15.18070902_Updater.pkg) <br/> |해당 없음  <br/> |
+|Office 제품군(모든 응용 프로그램)  <br/> |16.16.0 (18081201)  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |39AA6ABD16E72110855EDD13E02E5EC0FCD4342E  <br/> |
+|Word  <br/> |16.16.0 (18081201)  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg) <br/> |51D003A002F9697874230967A0BB9F8B9C632276  <br/> |
+|Excel  <br/> |16.16.0 (18081402)   <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/> |367BF861C1ADD2999E387725F101EE363606C409  <br/> |
+|PowerPoint  <br/> |16.16.0 (18081201)   <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/> |F735ACEDB24D153DDBE3CF177A9B6C028012A9C6 <br/> |
+|Outlook  <br/> |16.16.0 (18081201)   <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/> |74224C4C8AE86065820255F079D8C7C3ECA15ED6  <br/> |
+|OneNote  <br/> |16.16.0 (18081201)   <br/> |[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18081201_Updater.pkg) <br/> |해당 없음  <br/> |
    
 
 ## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Microsoft의 기타 Mac 프로그램용 최신 패키지
@@ -55,9 +54,9 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 |**프로그램**|**버전**|**패키지**|**SHA1 해시**|**추가 정보**|
 |:-----|:-----|:-----|:-----|:-----|
-|MAU(Microsoft 자동 업데이트)  <br/> |4.1.0(18070902)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 5814C06852561F38F6973380E1CBCAAC9C229425  <br/> | 이 업데이트 패키지는 64비트입니다. <br/><br/>[MAU에 대한 릴리스 기록](release-history-microsoft-autoupdate.md) |
-|비즈니스용 Skype  <br/> |16.19.0.132  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | DE04D8CCDD2ABFD7B32C480157B1D69C5CCC9224 <br/> |최신 버전은 2018년 7월 13일에 릴리스되었습니다. <br/><br/>[최신 업데이트](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
-|원격 데스크톱 | 10.1.8(180504) | [다운로드](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | 이 설치 패키지는 64비트입니다. <br/> <br/>[새로운 기능](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
+|MAU(Microsoft 자동 업데이트)  <br/> |4.2 (18081201)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | DF39A56E085790F0905D2EE225A71FA96669C42B  <br/> | 이 업데이트 패키지는 64비트입니다. <br/><br/>[MAU에 대한 릴리스 기록](release-history-microsoft-autoupdate.md) |
+|비즈니스용 Skype  <br/> |16.20.0.90  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | A5158F4676F19E7CE641376A99B6B729187A8D9E <br/> |최신 버전은 2018년 8월 13일에 출시되었습니다. <br/><br/>[최신 업데이트](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|원격 데스크톱 | 10.2.1 (1143) | [다운로드](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | 이 설치 패키지는 64비트입니다. <br/> <br/>[새로운 기능](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Intune 회사 포털 |1.5(52.1805002.000) [180509] | [다운로드](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Microsoft Intune의 새로운 기능](https://docs.microsoft.com/intune/whats-new)|
 |Mac용 Office 2016에 대한 Microsoft SharePoint 온-프레미스 Safari 브라우저 플러그 인  <br/> |15.32.0(170309)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | 이 설치 패키지는 64비트입니다.  <br/> |
    
@@ -71,10 +70,11 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 |**릴리스 날짜**|**버전**|**추가 정보**|**설치 패키지**|**업데이트 패키지**|
 |:-----|:-----|:-----|:-----|:-----|
+|2018년 8월 14일  <br/> |16.16 (18081201)  <br/> |[릴리스 정보](release-notes-office-for-mac.md#august-2018-release) <br/> |[Office 제품군](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.16.18081201_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18081201_Updater.pkg) <br/> |
 |2018년 7월 10일  <br/> |16.15(18070902)  <br/> |[릴리스 정보](release-notes-office-for-mac.md#july-2018-release) <br/> |[Office 제품군](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.15.18070902_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.15.18070902_Updater.pkg) <br/> |
 |2018년 6월 13일  <br/> |16.14.1(18061302)  <br/> |[릴리스 정보](release-notes-office-for-mac.md#june-2018-release) <br/> |[Office 제품군](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.14.18061302_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg) <br/> |
-|2018년 6월 12일  <br/> |16.14.0(18061000)  <br/> |[릴리스 정보](release-notes-office-for-mac.md#june-2018-release) <br/> |[Office 제품군](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.14.18061000_Installer.pkg) <br/> | |
-|2018년 5월 24일  <br/> |16.13.1(18052304)  <br/> |[릴리스 정보](release-notes-office-for-mac.md#may-2018-release) <br/> |[Office 제품군](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.13.18052304_Installer.pkg) <br/> |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.13.18052304_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.13.18052304_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.13.18052304_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.13.18052304_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.13.18052304_Updater.pkg) <br/> |
+|2018년 6월 12일  <br/> |16.14.0(18061000)  <br/> |[릴리스 정보](release-notes-office-for-mac.md#june-2018-release) <br/> |||
+|2018년 5월 24일  <br/> |16.13.1(18052304)  <br/> |[릴리스 정보](release-notes-office-for-mac.md#may-2018-release) <br/> |||
 |2018년 5월 23일  <br/> |16.13.1(18052203)  <br/> |[릴리스 정보](release-notes-office-for-mac.md#may-2018-release) <br/> |||
 |2018년 5월 15일  <br/> |16.13.0(18051301)  <br/> |[릴리스 정보](release-notes-office-for-mac.md#may-2018-release) <br/> |||
 |2018년 4월 11일  <br/> |16.12.0(18041000)  <br/> |[릴리스 정보](release-notes-office-for-mac.md#april-2018-release) <br/> |||
@@ -128,5 +128,4 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |2015년 7월 9일  <br/> |15.11.2(150701)  <br/> |[KB 3074479](https://support.microsoft.com/kb/3074479) <br/>|||
    
 
-[!INCLUDE [LinkedIn Learning Info](common/office/linkedin-learning-info.md)]
 
