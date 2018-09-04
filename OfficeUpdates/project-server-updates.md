@@ -3,7 +3,7 @@ title: Project Server 업데이트
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 한 곳에서 Project Server 2013 및 Project Server 2010용 업데이트를 찾아서 관리합니다. 이 페이지의 링크를 사용하여 업데이트에 대해 자세히 알아보고 업데이트를 다운로드할 수 있습니다.
-ms.openlocfilehash: 522f7301105728c078a1b6c5b7522fe0cf436b29
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: b2aace5f2936b9adc546067940e065433d8a49c1
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246308"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520520"
 ---
 # <a name="project-server-updates"></a>Project Server 업데이트
 
@@ -30,6 +30,7 @@ ms.locfileid: "20246308"
   
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2018년 8월  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
 |2018년 7월  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
 |2018년 6월  <br/> |[KB4022185](https://support.microsoft.com/kb/4022185) <br/>|
 |2018년 5월  <br/> |[KB4018395](https://support.microsoft.com/kb/4018395) <br/>|
@@ -59,7 +60,7 @@ ms.locfileid: "20246308"
 |2016년 3월  <br/> |[KB3114823](https://support.microsoft.com/kb/3114823) <br/> |
 |2016년 2월  <br/> |[KB3114723](https://support.microsoft.com/kb/3114723) <br/> |
 |2016년 1월  <br/> |[KB3114493](https://support.microsoft.com/kb/3114493) <br/> |
-|December 2015  <br/> |[KB3114341](https://support.microsoft.com/kb/3114341) <br/> |
+|2015년 12월  <br/> |[KB3114341](https://support.microsoft.com/kb/3114341) <br/> |
 |2015년 11월  <br/>  |[KB3101369](https://support.microsoft.com/kb/3101369) <br/> |
 |2015년 10월  <br/> |[KB3085489](https://support.microsoft.com/kb/3085489) <br/> |
 |2015년 9월  <br/> |[KB2986195](https://support.microsoft.com/kb/2986195) <br/> |
@@ -78,6 +79,7 @@ ms.locfileid: "20246308"
 
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2018년 8월  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
 |2018년 7월  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
 |2018년 6월  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
 |2018년 5월  <br/>  |[KB4022140](https://support.microsoft.com/kb/4022140) <br/> |
@@ -103,7 +105,7 @@ ms.locfileid: "20246308"
 |2016년 3월  <br/> |[KB3114876](https://support.microsoft.com/kb/3114876) <br/> |
 |2016년 3월  <br/> |[KB3114754](https://support.microsoft.com/kb/3114754) <br/> |
 |2016년 1월  <br/> |[KB3114556](https://support.microsoft.com/kb/3114556) <br/> |
-|December 2015  <br/> |[KB3114405](https://support.microsoft.com/kb/3114405) <br/> |
+|2015년 12월  <br/> |[KB3114405](https://support.microsoft.com/kb/3114405) <br/> |
 |2015년 11월  <br/> |[KB3101530](https://support.microsoft.com/kb/3101530) <br/> |
 |2015년 10월  <br/> |[KB3085598](https://support.microsoft.com/kb/3085598) <br/> |
 |2015년 9월  <br/> |[KB3085517](https://support.microsoft.com/kb/3085517) <br/> |

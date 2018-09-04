@@ -3,19 +3,19 @@ title: Windows Installer(MSI)를 사용하는 Outlook 버전에 대한 최신 �
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Outlook 2016, Outlook 2013 및 Outlook 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a18e16114ac0c8865fc2b238a7c737076f4fd7fd
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 5f11b7c8fa3c653c414720582c75cbaf733e1e12
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21222782"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520500"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Outlook 버전에 대한 최신 업데이트
 
@@ -35,7 +35,7 @@ Office 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 대�
     
   - [Exchange 2016 시스템 요구 사항](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
     
-  - [Exchange 2013 시스템 요구 사항](https://technet.microsoft.com/ko-KR/library/aa996719%28v=exchg.150%29.aspx)
+  - [Exchange 2013 시스템 요구 사항](https://technet.microsoft.com/en-us/library/aa996719%28v=exchg.150%29.aspx)
     
   - [Exchange 2010 시스템 요구 사항](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
@@ -44,18 +44,18 @@ Office 365 및 온-프레미스 환경과의 Outlook 호환성은 배포에 대�
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|해당 없음  <br/> |2016년 3월 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2018년 7월 PU <br/>[KB4022230](https://support.microsoft.com/ko-KR/help/4022230) <br/><br/> Outlook 2016 정크 메일 필터에 대한 2016년 8월 PU  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|해당 없음  <br/> |2016년 3월 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2018년 8월 PU <br/>[KB4032235](https://support.microsoft.com/en-us/help/4032235) <br/><br/> Outlook 2016 정크 메일 필터에 대한 2016년 8월 PU  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Outlook 2013 업데이트
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015년 12월 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2018년 7월 PU <br/>[KB4022242](https://support.microsoft.com/ko-KR/help/4022242) <br/><br/>  Outlook 2013 정크 메일 필터에 대한 2016년 8월 PU <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015년 12월 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2018년 8월 PU <br/>[KB4032240](https://support.microsoft.com/en-us/help/4032240) <br/><br/>  Outlook 2013 정크 메일 필터에 대한 2016년 8월 PU <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 업데이트
 
 |**최신 SP(서비스 팩)**|**최소 필수 업데이트**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |2015년 10월 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP용 Office 2010의 2015년 4월 PU <br/> [KB2956191](https://support.microsoft.com/ko-KR/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2018년 6월 PU <br/>[KB4022205](https://support.microsoft.com/ko-KR/help/4022205) <br/><br/>  Outlook 2010 정크 메일 필터에 대한 2016년 8월 PU <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |2015년 10월 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP용 Office 2010의 2015년 4월 PU <br/> [KB2956191](https://support.microsoft.com/en-us/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2018년 8월 PU <br/>[KB4032222](https://support.microsoft.com/en-us/help/4032222) <br/><br/>  Outlook 2010 정크 메일 필터에 대한 2016년 8월 PU <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
    
 
