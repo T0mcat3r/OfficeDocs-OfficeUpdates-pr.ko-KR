@@ -3,19 +3,19 @@ title: Office 365 ProPlus에 대한 업데이트 기록(버전순)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/15/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 버전별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a9abb37f205f25c5cc755c20aded3bd696e01826
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 189fbb1a1342046e9796d788a2dfa7d26e66b7c1
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520670"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839186"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-version"></a>Office 365 ProPlus에 대한 업데이트 기록(버전순)
  
@@ -30,7 +30,8 @@ ms.locfileid: "23520670"
   
 |**버전**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|
-|1807  <br/> |**[10325.20118](monthly-channel-2018.md#version-1807-august-14) (2018년 8월 14일)** <br/>[10325.20082](monthly-channel-2018.md#version-1807-july-25)(2018년 7월 25일) <br/> |  <br/> | <br> |
+|1808  <br/> |**[10730.20088](monthly-channel-2018.md#version-1808-september-5) (2018년 9월 5일)** <br/> |  <br/> | <br/> |  <br/> |
+|1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14) (2018년 8월 14일) <br/>[10325.20082](monthly-channel-2018.md#version-1807-july-25)(2018년 7월 25일) <br/> |  <br/> | <br> |
 |1806  <br/> |[10228.20134](monthly-channel-2018.md#version-1806-july-17) (2018년 7월 17일) <br/> [10228.20104](monthly-channel-2018.md#version-1806-july-10)(2018년 7월 10일) <br/>  <br/> [10228.20080](monthly-channel-2018.md#version-1806-june-25)(2018년 6월 25일) |  <br/> | <br> |
 |1805  <br/> |[9330.2124](monthly-channel-2018.md#version-1805-june-13)(2018년 6월 13일) <br/> [9330.2118](monthly-channel-2018.md#version-1805-june-12)(2018년 6월 12일) <br/> [9330.2087](monthly-channel-2018.md#version-1805-may-24)(2018년 5월 24일) <br/> [9330.2078](monthly-channel-2018.md#version-1805-may-23)(2018년 5월 23일) <br/> |  <br/> |  <br/> |
 |1804  <br/> |[9226.2156](monthly-channel-2018.md#version-1804-may-14)(2018년 5월 14일) <br/> [9226.2126](monthly-channel-2018.md#version-1804-may-8)(2018년 5월 8일) <br/>  [9226.2114](monthly-channel-2018.md#version-1804-april-25)(2018년 4월 25일) <br/> |  <br/> |  <br/> |

@@ -3,27 +3,57 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/15/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 34a789416bbd4f6ac436842d7d6ebb45a249a732
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520690"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839216"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
 이러한 릴리스 정보에서는 2018년 Office 365 ProPlus에 대한 월별 채널 업데이트에 포함된 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
  
-> [!NOTE]
+ > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+
+## <a name="version-1808-september-5"></a>버전 1808: 9월 5일
+*버전 1808 (빌드 10730.20088)*
+
+### <a name="access-feature-updates"></a>Access: 기능 업데이트
+ - **새로고침, 다시 연결, 또는 연결 테이블을 제거 합니다.** 업데이트 된 연결 테이블 관리자에서 모든 데이터 원본 및 연결 테이블을 관리합니다. [자세한 정보](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+ - **모임에 대한 전달 해제** 참석자가 다른 사용자에게 모임 전달하는 것을 방지합니다. 리본으로 이동 해서 응답 옵션을 클릭합니다. [자세한 정보](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ 
+### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
+ - **다음 표에서 아이콘을 즐겨보세요.** 분석, 아트, 축하, 얼굴, 스포츠 등과 관련된 아이콘을 포함한 26개의 새로운 스텐실에서 선택하세요. 
+ - **Visio 셰이프로 Word 문서를 작성하세요.** 셰이프, 메타데이터 등의 다이어그램 콘텐츠를 Word 문서에 자동으로 추가합니다. 그런 다음, 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세한 정보](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio와 Power BI: 효율적인 통합 사용** 몇 번의 클릭을 통해 Visio 다이어그램을 대화형 Power BI 시각화로 전환합니다. [자세한 정보](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+ ### <a name="project-feature-updates"></a>Project: 기능 업데이트
+ - **작업 보드 카드에서 더 많은 정보를 확인해보세요.** 타이틀만으로 스토리를 설명할 수 없을 때 작업 보드 카드를 사용자 지정하여 중요한 상세 정보를 보여줄 수 있습니다. [자세한 정보](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+- Excel에서 사용자가 복사하기 위해 선택한 셀 범위를 표시하는 점선이 나타나지 않고, 붙여넣기 같은 후속 작업을 한 이후에도 클립보드에 남아있는 등의 문제를 해결합니다. 
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
+ - 여러 개의 Exchange 계정을 가지고 있는 일부 사용자를 위해 검색 결과 리스트에서 누락된 "클릭하여 자세히 보기..." 링크가 발생하는 문제를 해결합니다.
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+ - 특정 시나리오에서 업데이트 설치 시간이 오래 걸리는 문제를 해결합니다.
+ 
+### <a name="lync-non-security-updates"></a>Lync: 비보안 업데이트
+ - IM 메시지에서 이모티콘이 표시되지 않는 문제를 해결합니다. 
+
 
 ## <a name="version-1807-august-14"></a>버전 1807: 8월 14일
 *버전 1807 (빌드 10325.20118)*
@@ -84,12 +114,12 @@ ms.locfileid: "23520690"
 *버전 1806(빌드 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
- - **향상된 셀 및 수식 입력줄 편집:** 이제 Ctrl+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문자에 대한 지원도 개선되었습니다.
+ - **향상된 셀 및 수식 입력줄 편집:** 이제  CTRL + A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문제에 대한 지원도 개선되었습니다.[자세한 내용](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
  - **되풀이 기본값:** 약속 되풀이 대화 상자("되풀이 범위" 아래)에서는 “끝 날짜 지정하지 않음” 대신 “끝 날짜”가 기본 설정이고 첫 번째로 표시되며, 기본 끝 날짜가 설정됩니다.
- - **접근성 검사 개선:** 접근성 검사는 메시지에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다.
+ - **접근성 검사 개선:** 접근성 검사는 메시지에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세한 정보](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
  - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -212,7 +242,7 @@ ms.locfileid: "23520690"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 -   **전자 메일 수신 대기:** Outlook은 전자 메일을 큰 소리로 읽을 수 있으며 읽으면서 텍스트를 강조 표시합니다. [자세한 정보](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **미리 알림 누락 방지:** 미리 알림이 작업 중인 창 위에 팝업되도록 설정합니다. 그렇지 않은 경우 Outlook이 주의를 끌기 위해 작업 표시줄에서 깜박입니다.
+-   **미리 알림 누락 방지:** 미리 알림이 작업 중인 창 위에 팝업되도록 설정합니다. 그렇지 않은 경우 Outlook이 주의를 끌기 위해 작업 표시줄에서 깜박입니다.[자세한 내용](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **삭제된 항목을 읽은 상태로 표시:** 이제 삭제하는 모든 메시지를 읽은 상태로 설정할 수 있습니다. 파일 \> 옵션 \> 메일 \> 기타로 이동하여 옵트인합니다.
 -   **암호화 옵션:** Office 365 메시지 암호화 사용자는 메시지를 암호화한 후 조직 내부 또는 외부의 누구에게나 보낼 수 있습니다. 암호화 옵션은 메시지를 만들 때 옵션 \> 사용 권한 아래에 표시됩니다. [자세한 정보](https://aka.ms/omeoverview)
 
