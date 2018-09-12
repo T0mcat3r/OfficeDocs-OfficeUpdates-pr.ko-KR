@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 29b3aad0a46edfb8dbd767259ed0362204b13a24
-ms.sourcegitcommit: f965e1176a976c8f7333cbcb49445bc5a953417f
+ms.openlocfilehash: 8e99458552d1532dbac1a71391b2f081a8da1b65
+ms.sourcegitcommit: 7cae3bec4f951ad7b10bd88c53c5b99a8dd66643
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/11/2018
-ms.locfileid: "23936667"
+ms.locfileid: "23940309"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -31,7 +31,7 @@ ms.locfileid: "23936667"
   
 |**릴리스 날짜**|**버전**|**추가 정보**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
-|2018년 9월 11일  <br/> |4.3.0  <br/> |[릴리스 정보](release-notes-office-for-mac.md#september-2018-release) <br/> |[MAU 4.2.0 다운로드](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
+|2018년 9월 11일  <br/> |4.3.0  <br/> |[릴리스 정보](release-notes-office-for-mac.md#september-2018-release) <br/> |[MAU 4.3.0 다운로드](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
 |2018년 8월 14일  <br/> |4.2.0  <br/> |[릴리스 정보](release-notes-office-for-mac.md#august-2018-release) <br/> |[MAU 4.2.0 다운로드](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
 |2018년 7월 10일  <br/> |4.1.0  <br/> |[릴리스 정보](release-notes-office-for-mac.md#july-2018-release) <br/> |[MAU 4.1.0 다운로드](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> |
 |2018년 6월 12일  <br/> |4.0.0  <br/> |||
