@@ -3,25 +3,26 @@ title: MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 06d294c7ad348451fc9b8acabc5fd58a826338d9
-ms.sourcegitcommit: 977f06b0e459e7a29fdcae5bc3ed9d72f7c55bdb
+ms.openlocfilehash: 29b3aad0a46edfb8dbd767259ed0362204b13a24
+ms.sourcegitcommit: f965e1176a976c8f7333cbcb49445bc5a953417f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "23796742"
+ms.lasthandoff: 09/11/2018
+ms.locfileid: "23936667"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
 항상 최신 버전의 MAU(Microsoft 자동 업데이트)로 업데이트하는 것이 좋습니다.
 
 다음 표에서는 Microsoft 자동 업데이트에 대한 릴리스 기록 정보를 제공합니다. 이 표는 가장 최근 릴리스 날짜부터 나열되어 있습니다. 모든 업데이트 패키지는 64비트입니다.
+
 
 > [!NOTE]
 > - 최신 버전의 Microsoft 자동 업데이트는 [https://go.microsoft.com/fwlink/p/?linkid=830196](https://go.microsoft.com/fwlink/p/?linkid=830196)에서 항상 사용할 수 있습니다.
@@ -30,9 +31,10 @@ ms.locfileid: "23796742"
   
 |**릴리스 날짜**|**버전**|**추가 정보**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
+|2018년 9월 11일  <br/> |4.3.0  <br/> |[릴리스 정보](release-notes-office-for-mac.md#september-2018-release) <br/> |[MAU 4.2.0 다운로드](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
 |2018년 8월 14일  <br/> |4.2.0  <br/> |[릴리스 정보](release-notes-office-for-mac.md#august-2018-release) <br/> |[MAU 4.2.0 다운로드](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
 |2018년 7월 10일  <br/> |4.1.0  <br/> |[릴리스 정보](release-notes-office-for-mac.md#july-2018-release) <br/> |[MAU 4.1.0 다운로드](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> |
-|2018년 6월 12일  <br/> |4.0.0  <br/> ||[MAU 4.0.0 다운로드](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |
+|2018년 6월 12일  <br/> |4.0.0  <br/> |||
 |2018년 5월 15일  <br/> |4.0.0  <br/> |||
 |2018년 4월 10일  <br/> |3.18  <br/> |[릴리스 정보](release-notes-office-for-mac.md#april-2018-release) <br/> ||
 |2018년 3월 13일  <br/> |3.17  <br/> |||
