@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839216"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952428"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,20 @@ ms.locfileid: "23839216"
  > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+
+## <a name="version-1808-september-11"></a>버전 1808: 9월 11일
+*버전 1808 (빌드 10730.20102)*
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 공개 취약성
+
+### <a name="word-security-updates"></a>Word: 보안 업데이트
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Word PDF 원격 코드 실행 취약성
+
+### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Win32k Graphics 원격 코드 실행 취약성
+
 
 ## <a name="version-1808-september-5"></a>버전 1808: 9월 5일
 *버전 1808 (빌드 10730.20088)*
@@ -43,7 +57,7 @@ ms.locfileid: "23839216"
  - **작업 보드 카드에서 더 많은 정보를 확인해보세요.** 타이틀만으로 스토리를 설명할 수 없을 때 작업 보드 카드를 사용자 지정하여 중요한 상세 정보를 보여줄 수 있습니다. [자세한 정보](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
-- Excel에서 사용자가 복사하기 위해 선택한 셀 범위를 표시하는 점선이 나타나지 않고, 붙여넣기 같은 후속 작업을 한 이후에도 클립보드에 남아있는 등의 문제를 해결합니다. 
+-  Excel에서 사용자가 복사하기 위해 선택한 셀 범위를 표시하는 점선이 나타나지 않고, 붙여넣기 같은 후속 작업을 한 이후에도 클립보드에 남아있는 등의 문제를 해결합니다. 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
  - 여러 개의 Exchange 계정을 가지고 있는 일부 사용자를 위해 검색 결과 리스트에서 누락된 "클릭하여 자세히 보기..." 링크가 발생하는 문제를 해결합니다.
@@ -114,7 +128,7 @@ ms.locfileid: "23839216"
 *버전 1806(빌드 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
- - **향상된 셀 및 수식 입력줄 편집:** 이제  CTRL + A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문제에 대한 지원도 개선되었습니다.[자세한 내용](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+ - **향상된 셀 및 수식 입력줄 편집:** 이제 CTRL+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문제에 대한 지원도 개선되었습니다.[자세한 내용](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
@@ -164,7 +178,7 @@ ms.locfileid: "23839216"
 
 - MAPI API를 호출 응용 프로그램에서 충돌이 발생될 수 있는 문제를 해결합니다.
 
-### <a name="project-non-security-updates"></a>Project 비보안 업데이트
+### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 
 - 마스터 프로젝트의 컨텍스트를 통해 작업할 때 하위 프로젝트를 저장하지 못하는 문제를 해결합니다.
 
@@ -474,4 +488,4 @@ ms.locfileid: "23839216"
 -   VBA 코드가 프로젝트에서 손실되는 문제를 해결합니다.
 
 > [!NOTE]
-> Office 사용 문제와 관련하여 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)질문을 게시하거나 [고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
+> Office 사용 문제와 관련하여 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.

@@ -3,19 +3,19 @@ title: 2018년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f7d33739981dcbe14a9a940ea09c93ba9e9a46fc
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: f1f0e3b40a49db9d2c3b66c7d07fab2fb864902b
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520660"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952448"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -25,6 +25,36 @@ ms.locfileid: "23520660"
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 > - 반기 채널이 2018년 1월 이전에는 지연 채널로 지칭되었습니다.
+
+## <a name="version-1803-september-11"></a>버전 1803: 9월 11일
+*버전 1803 (빌드 9126.2282)*
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 공개 취약성
+
+### <a name="word-security-updates"></a>Word: 보안 업데이트
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Word PDF 원격 코드 실행 취약성
+
+### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Win32k Graphics 원격 코드 실행 취약성
+
+
+## <a name="version-1708-september-11"></a>버전 1708: 9월 11일
+*버전 1708 (빌드 8431.2309)*
+
+*2018년 1월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1803(빌드 16.0.9126.2282)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 공개 취약성
+
+### <a name="word-security-updates"></a>Word: 보안 업데이트
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Word PDF 원격 코드 실행 취약성
+
+### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Win32k Graphics 원격 코드 실행 취약성
+
 
 ## <a name="version-1803-august-14"></a>버전 1803: 8월 14일
 *버전 1803 (빌드 9126.2275)*
@@ -825,4 +855,4 @@ ms.locfileid: "23520660"
 -   [공지 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 심층 방어 업데이트
 
 > [!NOTE]
-> Office 사용 관련 문제에 대해 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)질문을 게시하거나 [고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
+> Office 사용 관련 문제에 대해 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
