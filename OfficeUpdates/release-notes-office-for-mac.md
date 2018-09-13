@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: df6fa0c538e42af077c0c033bee48c1480510b94
-ms.sourcegitcommit: 7cae3bec4f951ad7b10bd88c53c5b99a8dd66643
+ms.openlocfilehash: 5ec4d94714d59fe29735faa4c5f138b14d8f7304
+ms.sourcegitcommit: 5b6837d06af9089e443466b04c286f104411c6c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2018
-ms.locfileid: "23940319"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "23959333"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -44,10 +44,10 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |:-----|:-----|:-----|
 |Word  <br/> |**다음의 멘션으로 주의를 끌어보세요. \@멘션:** 메모의 @mentions를 사용하여 여러분이 공동 작업자의 입력을 필요로 하고 있다는 것을 알립니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**잉크를 사용하여 그립니다. :** 마우스 또는 터치 패드, 드로우 탭의 펜을 사용해 쓰고 그리며 강조 표시를 합니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**모든 각도를 확인하는 3D 모델 삽입:** 3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세한 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
 |Excel  <br/> |**잉크를 사용하여 그립니다. :** 마우스 또는 터치 패드, 드로우 탭의 펜을 사용해 쓰고 그리며 강조 표시를 합니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**모든 각도를 확인하는 3D 모델 삽입:** 3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세한 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**사용자 지정 바로 가기가 돌아왔습니다:** 여러분의 의견을 반영했습니다. 여러분의 요청에 따라, 사용자 지정 바로 가기 키를 복구했습니다. [자세한 정보](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성 <br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
-|PowerPoint  <br/> |**다음의 멘션으로 주의를 끌어보세요. \@멘션:** 메모의 @mentions를 사용하여 여러분이 공동 작업자의 입력을 필요로 하고 있다는 것을 알립니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**잉크를 사용하여 그립니다. :** 마우스 또는 터치 패드, 드로우 탭의 펜을 사용해 쓰고 그리며 강조 표시를 합니다.[ ](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**모든 각도를 확인하는 3D 모델 삽입:** 3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세한 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**선택한 글꼴이 표시됩니다. :** 파일에서 사용자 지정 글꼴을 포함하기 때문에 파일의 위치에 따라 글꼴도 함께 이동합니다. [자세한 정보](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**다음의 멘션으로 주의를 끌어보세요. \@멘션:** 메모의 @mentions를 사용하여 여러분이 공동 작업자의 입력을 필요로 하고 있다는 것을 알립니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**잉크를 사용하여 그립니다. :** 마우스 또는 터치 패드, 드로우 탭의 펜을 사용해 쓰고 그리며 강조 표시를 합니다.[](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**모든 각도를 확인하는 3D 모델 삽입:** 3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세한 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**선택한 글꼴이 표시됩니다. :** 파일에서 사용자 지정 글꼴을 포함하기 때문에 파일의 위치에 따라 글꼴도 함께 이동합니다. [자세한 정보](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.2  <br/> |||[Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
-|Office 제품군  <br/> ||[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Graphics 원격 코드 실행 취약성 <br/>||
+|Office 제품군  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Microsoft Graphics 원격 코드 실행 취약성 <br/>||
 
 ## <a name="august-2018-release"></a>2018년 8월 출시
 

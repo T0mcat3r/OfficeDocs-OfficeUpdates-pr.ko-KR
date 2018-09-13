@@ -3,19 +3,19 @@ title: 2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 1c6283259c9d6521fde11d1dcdeca2e6031fa601
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: bb6e9f8f4a2740f7ee98b178563afa03aad561e7
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520630"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952438"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,160 @@ ms.locfileid: "23520630"
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+
+ ## <a name="version-1808-september-11"></a>버전 1808: 9월 11일
+*버전 1808 (빌드 10730.20102)*
+
+### <a name="access-feature-updates"></a>Access: 기능 업데이트
+ - **새 차트로 데이터 시각화:** 11개 차트 중에서 선택한 후 폼 및 보고서에 추가하여 데이터를 보다 잘 시각화하고 합리적인 의사 결정을 내릴 수 있습니다. [자세한 정보](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
+ 
+ ### <a name="access-security-updates"></a>Access: 보안 업데이트
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
+
+### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
+ - **협동 편집:** 워크북에서 다른 사람들과 동시에 작업합니다. [자세한 정보](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
+ - **클라우드 파일을 위한 자동 저장이 이제 기본적으로 가능합니다.** 2018년 9월 반기 채널 릴리스(대상 지정)에서 자동 저장이 기본적으로 활성화됩니다. 이러한 변경으로, 사용자는 OneDrive 또는 SharePoint Online에 저장된 문서의 변경 내용이 손실되는 것을 염려할 필요가 없습니다. 변경 내용이 클라우드에 자동으로 저장되기 때문에 사용자가 더 이상 Ctrl + S 또는 저장 버튼을 누를 필요가 없습니다. 하지만, 사용자는 이 변경된 동작을 이해하여 실수로 문서를 변경하지 않도록 해야 합니다. 자동 저장은 화면 상단에 위치한 자동 저장 토글을 사용하여 끌 수 있음을 알려 드립니다. 이 변경 사항을 사용자들에게 알리고 Office 365에서 이 새로운 기능을 최대한 활용할 수 있는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대한 자세한 정보](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [IT 관리자가 자동 저장에 대해 알아야 할 사항에 대한 자세한 정보](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **향상된 셀 및 수식 입력줄 편집:** 이제 CTRL+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문제에 대한 지원도 개선되었습니다.[자세한 내용](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **접근성 검사 개선:** 접근성 검사는 통합 문서에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세한 정보](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **원치 않는 편집 방지:** 실수로 변경하지 않으려면 워크북을을 읽기 전용으로 설정합니다. 파일 > 정보 > 워크북 보호 > 항상 읽기 전용으로 열기
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 공개 취약성
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel 정보 공개 취약성
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Microsoft Excel 원격 코드 실행 취약성
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Microsoft Excel 정보 노출 취약성
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+-   원래 셀 집합으로부터 차트의 소스 데이터를 변경하는 경우 Excel이 중단되는 문제를 해결합니다.
+-   FullCalcOnLoad 속성을 설정한 경우에도 다시 계산하지 않는 문제를 해결합니다.  
+-   일본 시대 달력이 날짜 셀 형식으로 사용될 때 잘못된 연도가 표시되는 문제를 해결합니다.
+-   Excel 데이터 모델에 데이터를 가져올 때 들어오는 음의 0 값이 오류를 발생합니다. 수정 프로그램은 이러한 값을 0으로 가져옵니다.
+-   Excel 피벗 테이블의 그룹화(또는 그룹 해제) 작업이 경우에 따라 충돌이 발생할 수 있는 문제를 해결합니다.
+-   차트 작업으로 인해 Excel 작동이 중단될 수도 있는 문제를 해결합니다.
+-   일부 사용자가 파워 뷰 추가 기능을 사용할 수 없는 문제를 해결합니다.
+-   문서 복구 중에 생성된 임시 자동 복구 파일이 정리되지 않는 문제를 해결합니다.
+-   보호된 통합 문서의 텍스트 파일에 새 연결을 시도하면 “통합 문서가 보호되어 변경할 수 없습니다”라는 오류 메시지가 나타나는 문제를 해결합니다.
+-   Outlook 전자 메일에 첨부된 Excel 통합 문서를 빠른 인쇄 기능으로 인쇄할 수 없는 문제를 해결합니다.
+-   하이퍼링크를 클릭하면 Excel의 작동이 중단되는 문제를 해결합니다.
+-   큐브 함수를 사용할 때 Excel의 작동이 중단되는 문제를 해결합니다.
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+ - **자동 입력:** 말로 불러 주어 이메일을 작성할할 수 있습니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **되풀이 기본값:** 약속 되풀이 대화 상자("되풀이 범위" 아래)에서는 “끝 날짜 지정하지 않음” 대신 “끝 날짜”가 기본 설정이고 첫 번째로 표시되며, 기본 끝 날짜가 설정됩니다.
+ - **접근성 검사 개선:** 접근성 검사는 메시지에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세한 정보](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **프로필 선택에서 프로필 관리:** Outlook을 시작할 때 프로필 선택을 사용하는 경우, 이제 제어판으로 이동하지 않고 변경할 수 있습니다. 프로필 선택에서 프로필 생성 및 삭제, 설정 변경을 모두 할 수 있습니다.
+- **기본 제공된 접근성:** 이미지를 설명하는 대체 텍스트를 추가하여 모든 사용자가 메시지에 접근할 수 있도록 합니다.
+- **Outlook 추가 기능 경고:** 가끔씩 Outlook COM 추가 기능에 문제가 발생하여 Outlook의 나머지 속도가 느려질 수 있습니다. 이러한 문제는 Outlook 폴더 사이의 전환, 새 이메일의 도착, Calendar 항목 열기 등과 같은 이벤트의 대기 시간 때문에 일어날 수 있습니다. 이러한 문제가 발생하면 Outlook의 알림 표시줄에 경고 메시지가 표시됩니다.
+- **모임에 함께할 대상 파악:** 이제 이끌이가 아니더라도 모임 요청에 대한 다른 사람의 응답을 볼 수 있습니다.
+- **미리 알림 누락 방지:** 미리 알림이 작업 중인 창 위에 팝업되도록 설정합니다. 그렇지 않은 경우 Outlook이 주의를 끌기 위해 작업 표시줄에서 깜박입니다.[자세한 내용](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+- **삭제된 항목을 읽은 상태로 표시:** 이제 삭제하는 모든 메시지를 읽은 상태로 설정할 수 있습니다. 파일 \> 옵션 \> 메일 \> 기타로 이동하여 옵트인합니다.
+- **3개의 표준 시간대 보기:** 표준 시간대가 다른 지역 간에 모임을 예약해야 하나요? 여러 표준 시간대를 캘린더에 추가하여 모든 사용자의 가용성을 쉽게 확인하고 모두가 참여할 수 있는 시간을 선택할 수 있습니다. [자세한 정보](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
+- **그룹 생성에 대한 사용자 환경 개선:** 그룹 생성에 대한 사용자 환경을 더욱 현대적이고 매끄럽도록 개선하였습니다.[자세한 정보](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
+- **BCC(숨은 참조) 경고:** 귀하가 숨은 참조로 포함된 메시지에 대해 전체 회신을 선택하면 경고가 표시됩니다.
+
+### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Microsoft Office 변조 취약성
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 권한 상승 취약성
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook 보안 기능 바이패스 취약성
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 심층 방어 업데이트
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
+-   시스템 언어를 일본어로 변경하고 일본 문자를 Outlook 내 VBA IDE에 입력할 때 중지되는 문제를 해결합니다.
+-   보낼 편지함 또는 보낸 편지함 폴더로 전환하면 Outlook이 중단되는 문제를 해결합니다.
+-   모임 본문 또는 첨부 파일이 변경될 때 참석자에게 선택적으로만 모임 업데이트를 보내지 않고, 모든 참석자가 모임 업데이트를 받게 되는 문제를 해결합니다.
+-   사용자가 User-Agent 문자열 변경 때문에 EWS 및 REST 끝점에 연결할 수 없게 되는 문제를 해결합니다.
+-   참석자에 대한 모임 장소 업데이트 시 새 위치가 아닌 이전 위치가 표시되는 문제를 해결합니다.
+-   읽기 창에서 첨부 파일을 미리 볼 때 오류가 표시되는 문제를 해결합니다.
+-   사용자가 전자 메일을 작성할 때 표시 이름이 전자 메일 주소로 확인될 경우 Outlook이 중단되는 문제를 해결합니다.
+-   일부 사용자가 해당 테넌트 관리자에 의해 활성화된 지원 기능을 받지 못하는 문제를 해결합니다.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트 
+- **자동 입력:** 말로 불러주어 프리젠테이션을 작성할할 수 있습니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **클라우드 파일을 위한 자동 저장이 이제 기본적으로 가능합니다.** 2018년 9월 반기 채널 릴리스(대상 지정)에서 자동 저장이 기본적으로 활성화됩니다. 이러한 변경으로, 사용자는 OneDrive 또는 SharePoint Online에 저장된 문서의 변경 내용이 손실되는 것을 염려할 필요가 없습니다. 변경 내용이 클라우드에 자동으로 저장되기 때문에 사용자가 더 이상 Ctrl + S 또는 저장 버튼을 누를 필요가 없습니다. 하지만, 사용자는 이 변경된 동작을 이해하여 실수로 프리젠테이션을 변경하지 않도록 해야 합니다. 자동 저장은 화면 상단에 위치한 자동 저장 토글을 사용하여 끌 수 있음을 알려 드립니다. 이 변경 사항을 사용자들에게 알리고 Office 365에서 이 새로운 기능을 최대한 활용할 수 있는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대한 자세한 정보](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [IT 관리자가 자동 저장에 대해 알아야 할 사항에 대한 자세한 정보](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **향상된 셀 및 수식 입력줄 편집:** 이제 CTRL+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문제에 대한 지원도 개선되었습니다.[자세한 내용](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **잉크 변환:** 메모와 그림을 낙서한 후, 읽을 수 있는 텍스트와 정돈된 모양으로 세련되게 변환합니다. [자세한 정보](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
+- **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **펜으로 슬라이드 제목 쓰기:** 펜을 사용하여 제목을 잉크로 쓰면 PowerPoint에서 텍스트로 변환합니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **원치 않는 편집 방지:** 실수로 변경하지 않으려면 워크북을을 읽기 전용으로 설정합니다. 파일 > 정보 > 워크북 보호 > 항상 읽기 전용으로 열기
+- **Microsoft Stream에 게시합니다.** Microsoft Stream을 사용하여 조직 내에서 프리리젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [추가 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
+- **Microsoft Forms:** 슬라이드에 퀴즈 또는 설문 조사를 넣습니다. Office가 응답을 수집하고 저장합니다. [자세한 정보](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **접근성 검사 개선:** 접근성 검사는 프리리젠테이션에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세한 정보](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
+-   테이블이 두꺼운 테두리로 잘못 렌더링되는 문제를 해결합니다.
+-   Shape.Visibile 속성을 변경할 때 잠재적인 작동 중단이 발생할 수 있는 문제를 해결합니다.
+-   공동 작성된 문서를 변경하면 병합되지 못하는 문제를 해결합니다.
+-   ActiveX 컨트롤을 포함하는 문서의 공동 작성이 실패하도록 하는 문제를 해결합니다.
+-   모양에서 맞춤법 검사를 진행하면 PowerPoint의 작동이 중지하는 문제를 해결합니다.
+-   SharePoint Onoline에서 파일을 열면 PowerPoint 작업이 중단되는 문제를 해결합니다.
+-   자동 저장이 켜져 있을 때 복구 창이 올바르게 표시되지 않는 문제를 해결합니다.
+-   로그인이 표시되지 않아 사용자가 파일에 액세스하지 못하게 되는 문제를 해결합니다.
+-   여러 사용자가 동일한 프레젠테이션을 공동으로 작성할 경우 슬라이드 마스터가 잘못 복제되는 문제를 해결합니다.
+-   OneDrive에 저장된 파일을 열 경우 제한된 보기를 끝낼 때 PowerPoint가 중단되는 문제를 해결합니다.
+
+### <a name="project-feature-updates"></a>Project: 기능 업데이트 
+- **스프린트 관리:** 스프린트를 신속하게 추가, 업데이트, 삭제할 수 있습니다.
+- **작업 보드 필터링:** 주요 리소스 또는 요약 작업을 필터링하여 작업 보드를 간소화합니다.
+- **작업 보드에서 완료율 설정:** 각 열에 대한 완료율을 선택한 다음, 끌어서 놓기를 통해 작업 완료 상태를 업데이트합니다.
+- **스프린트 탐색:** 스프린트 보기 간을 전환하고 스프린트 간에 작업을 빠르게 이동합니다.
+- **스프린트를 관리하는 새로운 방법:** 작업 보드에서 작업할 때 Agile 접근 방법을 선택합니다. 스프린트 관리로 이동하여 프로젝트가 발전함에 따라 스프린트를 추가하고 제거합니다.
+- **최근 저장 위치 유지:** Project에서는 다른 프로젝트를 저장한 위치 목록을 유지합니다. 프로젝트를 저장할 준비가 되면 최근 저장 위치 중 하나를 선택하여 편리하게 저장할 수 있습니다.
+
+### <a name="project-non-security-updates"></a>Project 비보안 업데이트
+- 마스터 프로젝트의 컨텍스트를 통해 작업할 때 하위 프로젝트를 저장하지 못하는 문제를 해결합니다.
+
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+-   TLS 1.2 지원와 관련된 문제를 해결합니다.
+-   모임에서 'Skype 통화'를 선택하여 사용자를 추가하면 오류가 발생하는 문제를 해결합니다.
+-   Skype 룸이 위치에 추가되고 모임에 팀 모임 좌표가 이미 포함되어 있는 경우 모임에 Skype 좌표를 추가하도록 사용자에게 요청하는 메시지를 제거합니다.
+-   UseLocationForE911Only가 true로 설정되어 있어도 위치가 채워지는 문제를 수정합니다.
+-   “회의 센터를 사용하여 통화” 옵션을 사용하여 로스터에서 사용자를 초대할 때 비즈니스용 Skype가 중지되는 문제를 수정합니다.
+-   비즈니스용 Skype 모임을 만드는 동안 터미널 서버에서 실행하는 Outlook이 중지되는 문제를 수정합니다.
+-   EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket의 기본값을 true로 변경합니다.
+
+### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
+- **다이어그램 및 원본을 동기화 상태로 유지:** Visio에서 데이터 시각화 도우미 다이어그램을 편집하면 연결된 Excel 원본 데이터를 최신 다이어그램 콘텐츠로 업데이트하는 옵션이 제공됩니다.
+- **데이터 시각화 도우미 감사 템플릿:** Excel에서 콘텐츠를 가져와서 금융 거래, 재고 관리 등에 대한 감사 다이어그램을 만듭니다.
+- **시작 다이어그램:** 조직도, 브레인스토밍 및 SDL 서식 파일에 이제 더 빠르게 시작하고 작동하기 위한 새로운 시작 다이어그램이 포함되어 있습니다.
+ - **Visio 셰이프로 Word 문서를 작성하세요.** 셰이프, 메타데이터 등의 다이어그램 콘텐츠를 Word 문서에 자동으로 추가합니다. 그런 다음, 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세한 정보](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+- **자동 입력:** 말로만 문서를 쓸 수 있습니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **클라우드 파일을 위한 자동 저장이 이제 기본적으로 가능합니다.** 2018년 9월 반기 채널 릴리스(대상 지정)에서 자동 저장이 기본적으로 활성화됩니다. 이러한 변경으로, 사용자는 OneDrive 또는 SharePoint Online에 저장된 문서의 변경 내용이 손실되는 것을 염려할 필요가 없습니다. 변경 내용이 클라우드에 자동으로 저장되기 때문에 사용자가 더 이상 Ctrl + S 또는 저장 버튼을 누를 필요가 없습니다. 하지만, 사용자는 이 변경된 동작을 이해하여 실수로 프리젠테이션을 변경하지 않도록 해야 합니다. 자동 저장은 화면 상단에 위치한 자동 저장 토글을 사용하여 끌 수 있음을 알려 드립니다. 이 변경 사항을 사용자들에게 알리고 Office 365에서 이 새로운 기능을 최대한 활용할 수 있는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대한 자세한 정보](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [IT 관리자가 자동 저장에 대해 알아야 할 사항에 대한 자세한 정보]
+- **접근성 검사 개선:** 접근성 검사는 문서에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세한 정보](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-security-updates"></a>Word: 보안 업데이트
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Word PDF 원격 코드 실행 취약성
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성
+
+### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
+-   메모리 부족 메시지가 표시되는 문제를 해결합니다.
+-   다른 조직의 사용자가 이 조직의 사용자에게 IRM으로 보호되는 문서와 이메일을 공유하는 경우 이러한 문서를 열지 못하던 일련의 문제를 수정했습니다.
+-   일부 성능 문제를 해결했습니다.
+
+### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Win32k Graphics 원격 코드 실행 취약성
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office 정보 공개 취약성
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+-  특정 시나리오에서 업데이트 설치 시간이 오래 걸리는 문제를 해결합니다.
+-  응용 프로그램을 열 때 안전 모드에서 시작된다는 메시지가 표시된 후 응용 프로그램이 열리지 않는 문제를 해결합니다.
+-  일부 성능 문제를 해결했습니다.
 
 ## <a name="version-1803-august-14"></a>버전 1803: 8월 14일
 *버전 1803 (빌드 9126.2275)*
@@ -55,7 +209,7 @@ ms.locfileid: "23520630"
 -   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
--   일본 Era 달력이 날짜 셀 형식으로 사용될 때 잘못된 연도가 표시되는 문제를 해결합니다.
+-   일본 시대 달력이 날짜 셀 형식으로 사용될 때 잘못된 연도가 표시되는 문제를 해결합니다.
 -   Excel 데이터 모델에 데이터를 가져올 때 들어오는 음의 0 값이 오류를 발생합니다. 수정 프로그램은 이러한 값을 0으로 가져옵니다.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
@@ -193,7 +347,7 @@ ms.locfileid: "23520630"
 -   참석자에 대한 모임 장소 업데이트 시 새 위치가 아닌 이전 위치가 표시되는 문제를 해결합니다.
 -   읽기 창에서 첨부 파일을 미리 볼 때 오류가 표시되는 문제를 해결합니다.
 -   사용자가 전자 메일을 작성할 때 표시 이름이 전자 메일 주소로 확인될 경우 Outlook이 중단되는 문제를 해결합니다.
--   일부 사용자가 해당 테넌트 관리자에 대해 사용되도록 설정된 지원 기능을 받지 못하는 문제를 해결합니다.
+-   일부 사용자가 해당 테넌트 관리자에 의해 활성화된 지원 기능을 받지 못하는 문제를 해결합니다.
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
 -   Windows 7 실행 컴퓨터에서 고객 환경 및 원격 분석에 대한 [업데이트가 설치되지 않은 경우 Word가 열리지 않는 문제를](https://support.microsoft.com/help/3080149/update-for-customer-experience-and-diagnostic-telemetry)해결합니다.
@@ -432,6 +586,7 @@ ms.locfileid: "23520630"
 -   [공지 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 심층 방어 업데이트
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+-   응용 프로그램을 열 때 안전 모드에서 시작된다는 메시지가 표시된 후 응용 프로그램이 열리지 않는 문제를 해결합니다.
 -   Office 365 클라이언트 업데이트가 System Center Configuration Manager에 의해 관리되도록 Office COM 개체가 사용 가능하게 업데이트될 때 지금 업데이트 옵션이 파일 \> 계정 \> 업데이트 옵션에서 숨겨집니다.
 -   사용자가 Office 정품 인증 대화 상자를 사용하여 Office의 정품을 인증하려고 시도하면 Office 앱이 중지하는 문제를 수정합니다.
 -   동적 DPI 환경의 Office 추가 기능에서 확대/축소 및 배율 조정 시 발생하는 문제를 해결합니다.
@@ -496,4 +651,4 @@ ms.locfileid: "23520630"
 
 
 > [!NOTE]
-> Office 사용 관련 문제에 대해 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)질문을 게시하거나 [고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
+> Office 사용 관련 문제에 대해 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
