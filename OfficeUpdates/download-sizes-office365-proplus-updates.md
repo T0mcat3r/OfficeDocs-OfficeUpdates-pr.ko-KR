@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: d67b2e60def009d3a266de701b939e901fdc6935
+ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954824"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "23965144"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -101,8 +101,9 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 |버전 1805(빌드 9330.2124)  <br/> |2018년 6월 13일  <br/> |149  <br/> |
 |버전 1805(빌드 9330.2118)  <br/> |2018년 6월 12일  <br/> |401  <br/> |
 |버전 1805(빌드 9330.2087)  <br/> |2018년 5월 24일  <br/> |150  <br/> |
-
-가장 최신 버전은 버전 1803(빌드 9126.2259)입니다.
+  
+### <a name="semi-annual-channel"></a>반기 채널
+가장 최근 버전은 버전 1803(빌드 9126.2259)입니다.
   
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기 (MB)**|
 |:-----|:-----|:-----|
