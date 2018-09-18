@@ -3,19 +3,19 @@ title: 2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/12/2018
+ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: bb6e9f8f4a2740f7ee98b178563afa03aad561e7
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 8d89c9f250fcec6994cbc2763a6a094ae1b58064
+ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952438"
+ms.lasthandoff: 09/17/2018
+ms.locfileid: "23991946"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -35,7 +35,7 @@ ms.locfileid: "23952438"
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
- - **협동 편집:** 워크북에서 다른 사람들과 동시에 작업합니다. [자세한 정보](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
+ - **공동 작업 편집:** 통합 문서에서 다른 사용자와 동시에 작업합니다. [자세한 정보](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
  - **클라우드 파일을 위한 자동 저장이 이제 기본적으로 가능합니다.** 2018년 9월 반기 채널 릴리스(대상 지정)에서 자동 저장이 기본적으로 활성화됩니다. 이러한 변경으로, 사용자는 OneDrive 또는 SharePoint Online에 저장된 문서의 변경 내용이 손실되는 것을 염려할 필요가 없습니다. 변경 내용이 클라우드에 자동으로 저장되기 때문에 사용자가 더 이상 Ctrl + S 또는 저장 버튼을 누를 필요가 없습니다. 하지만, 사용자는 이 변경된 동작을 이해하여 실수로 문서를 변경하지 않도록 해야 합니다. 자동 저장은 화면 상단에 위치한 자동 저장 토글을 사용하여 끌 수 있음을 알려 드립니다. 이 변경 사항을 사용자들에게 알리고 Office 365에서 이 새로운 기능을 최대한 활용할 수 있는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대한 자세한 정보](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [IT 관리자가 자동 저장에 대해 알아야 할 사항에 대한 자세한 정보](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **향상된 셀 및 수식 입력줄 편집:** 이제 CTRL+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문제에 대한 지원도 개선되었습니다.[자세한 내용](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **접근성 검사 개선:** 접근성 검사는 통합 문서에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세한 정보](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
@@ -70,7 +70,7 @@ ms.locfileid: "23952438"
 -   큐브 함수를 사용할 때 Excel의 작동이 중단되는 문제를 해결합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
- - **자동 입력:** 말로 불러 주어 이메일을 작성할할 수 있습니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **자동 입력:** 말로만 전자 메일을 쓸 수 있습니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **되풀이 기본값:** 약속 되풀이 대화 상자("되풀이 범위" 아래)에서는 “끝 날짜 지정하지 않음” 대신 “끝 날짜”가 기본 설정이고 첫 번째로 표시되며, 기본 끝 날짜가 설정됩니다.
  - **접근성 검사 개선:** 접근성 검사는 메시지에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세한 정보](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
  - **프로필 선택에서 프로필 관리:** Outlook을 시작할 때 프로필 선택을 사용하는 경우, 이제 제어판으로 이동하지 않고 변경할 수 있습니다. 프로필 선택에서 프로필 생성 및 삭제, 설정 변경을 모두 할 수 있습니다.
@@ -79,7 +79,7 @@ ms.locfileid: "23952438"
 - **모임에 함께할 대상 파악:** 이제 이끌이가 아니더라도 모임 요청에 대한 다른 사람의 응답을 볼 수 있습니다.
 - **미리 알림 누락 방지:** 미리 알림이 작업 중인 창 위에 팝업되도록 설정합니다. 그렇지 않은 경우 Outlook이 주의를 끌기 위해 작업 표시줄에서 깜박입니다.[자세한 내용](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 - **삭제된 항목을 읽은 상태로 표시:** 이제 삭제하는 모든 메시지를 읽은 상태로 설정할 수 있습니다. 파일 \> 옵션 \> 메일 \> 기타로 이동하여 옵트인합니다.
-- **3개의 표준 시간대 보기:** 표준 시간대가 다른 지역 간에 모임을 예약해야 하나요? 여러 표준 시간대를 캘린더에 추가하여 모든 사용자의 가용성을 쉽게 확인하고 모두가 참여할 수 있는 시간을 선택할 수 있습니다. [자세한 정보](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
+- **3개의 표준 시간대 보기:** 표준 시간대가 다른 지역 간에 모임을 예약해야 하나요? 여러 표준 시간대를 캘린더에 추가하면 모든 사용자의 가용성을 쉽게 확인해서 모두가 참여할 수 있는 시간을 선택할 수 있습니다. [자세한 정보](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
 - **그룹 생성에 대한 사용자 환경 개선:** 그룹 생성에 대한 사용자 환경을 더욱 현대적이고 매끄럽도록 개선하였습니다.[자세한 정보](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
 - **BCC(숨은 참조) 경고:** 귀하가 숨은 참조로 포함된 메시지에 대해 전체 회신을 선택하면 경고가 표시됩니다.
 
@@ -100,14 +100,14 @@ ms.locfileid: "23952438"
 -   일부 사용자가 해당 테넌트 관리자에 의해 활성화된 지원 기능을 받지 못하는 문제를 해결합니다.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트 
-- **자동 입력:** 말로 불러주어 프리젠테이션을 작성할할 수 있습니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **자동 입력:** 말로만 프레젠테이션을 쓸 수 있습니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
 - **클라우드 파일을 위한 자동 저장이 이제 기본적으로 가능합니다.** 2018년 9월 반기 채널 릴리스(대상 지정)에서 자동 저장이 기본적으로 활성화됩니다. 이러한 변경으로, 사용자는 OneDrive 또는 SharePoint Online에 저장된 문서의 변경 내용이 손실되는 것을 염려할 필요가 없습니다. 변경 내용이 클라우드에 자동으로 저장되기 때문에 사용자가 더 이상 Ctrl + S 또는 저장 버튼을 누를 필요가 없습니다. 하지만, 사용자는 이 변경된 동작을 이해하여 실수로 프리젠테이션을 변경하지 않도록 해야 합니다. 자동 저장은 화면 상단에 위치한 자동 저장 토글을 사용하여 끌 수 있음을 알려 드립니다. 이 변경 사항을 사용자들에게 알리고 Office 365에서 이 새로운 기능을 최대한 활용할 수 있는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대한 자세한 정보](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [IT 관리자가 자동 저장에 대해 알아야 할 사항에 대한 자세한 정보](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **향상된 셀 및 수식 입력줄 편집:** 이제 CTRL+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문제에 대한 지원도 개선되었습니다.[자세한 내용](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **잉크 변환:** 메모와 그림을 낙서한 후, 읽을 수 있는 텍스트와 정돈된 모양으로 세련되게 변환합니다. [자세한 정보](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **펜으로 슬라이드 제목 쓰기:** 펜을 사용하여 제목을 잉크로 쓰면 PowerPoint에서 텍스트로 변환합니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **원치 않는 편집 방지:** 실수로 변경하지 않으려면 워크북을을 읽기 전용으로 설정합니다. 파일 > 정보 > 워크북 보호 > 항상 읽기 전용으로 열기
-- **Microsoft Stream에 게시합니다.** Microsoft Stream을 사용하여 조직 내에서 프리리젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [추가 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
+- **Microsoft Stream에 게시합니다.** Microsoft Stream을 사용하여 조직 내에서 프레젠테이션을 비디오로 더 안전하게 공유할 수 있습니다. [추가 정보](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
 - **Microsoft Forms:** 슬라이드에 퀴즈 또는 설문 조사를 넣습니다. Office가 응답을 수집하고 저장합니다. [자세한 정보](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 - **접근성 검사 개선:** 접근성 검사는 프리리젠테이션에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세한 정보](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
@@ -131,7 +131,7 @@ ms.locfileid: "23952438"
 - **스프린트를 관리하는 새로운 방법:** 작업 보드에서 작업할 때 Agile 접근 방법을 선택합니다. 스프린트 관리로 이동하여 프로젝트가 발전함에 따라 스프린트를 추가하고 제거합니다.
 - **최근 저장 위치 유지:** Project에서는 다른 프로젝트를 저장한 위치 목록을 유지합니다. 프로젝트를 저장할 준비가 되면 최근 저장 위치 중 하나를 선택하여 편리하게 저장할 수 있습니다.
 
-### <a name="project-non-security-updates"></a>Project 비보안 업데이트
+### <a name="project-non-security-updates"></a>프로젝트 비보안 업데이트
 - 마스터 프로젝트의 컨텍스트를 통해 작업할 때 하위 프로젝트를 저장하지 못하는 문제를 해결합니다.
 
 ### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
@@ -173,6 +173,7 @@ ms.locfileid: "23952438"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
+-   **보안상의 이유로 Office에서 활성화가 차단되는 Flash, Silverlight 및 Shockwave 컨트롤:** 보안상의 이유로 Windows에서 Office 365의 Microsoft Office 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다. 자세한 정보는 [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)와 [여기](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)에서 알아보세요.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -  특정 시나리오에서 업데이트 설치 시간이 오래 걸리는 문제를 해결합니다.

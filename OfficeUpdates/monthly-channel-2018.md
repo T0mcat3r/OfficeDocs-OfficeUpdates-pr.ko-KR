@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 03c65ea79f989e380f4c51dc1bcade10ee609e01
+ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952428"
+ms.lasthandoff: 09/17/2018
+ms.locfileid: "23991936"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -35,34 +35,34 @@ ms.locfileid: "23952428"
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
 -   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Word PDF 원격 코드 실행 취약성
 
-### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+### <a name="office-suite-security-updates"></a>오피스 제품군: 보안 업데이트
 -   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Win32k Graphics 원격 코드 실행 취약성
 
 
 ## <a name="version-1808-september-5"></a>버전 1808: 9월 5일
 *버전 1808 (빌드 10730.20088)*
 
-### <a name="access-feature-updates"></a>Access: 기능 업데이트
- - **새로고침, 다시 연결, 또는 연결 테이블을 제거 합니다.** 업데이트 된 연결 테이블 관리자에서 모든 데이터 원본 및 연결 테이블을 관리합니다. [자세한 정보](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+### <a name="access-feature-updates"></a>액세스: 기능 업데이트
+ - **새로고침, 다시 연결, 또는 연결 테이블을 제거 합니다.** 업데이트 된 연결 테이블 관리자에서 모든 데이터 원본 및 연결 테이블을 관리합니다. [자세히 알아보기](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
- - **모임에 대한 전달 해제** 참석자가 다른 사용자에게 모임 전달하는 것을 방지합니다. 리본으로 이동 해서 응답 옵션을 클릭합니다. [자세한 정보](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ - **모임에 대한 전달 해제** 참석자가 다른 사용자에게 모임 전달하는 것을 방지합니다. 리본으로 이동 해서 응답 옵션을 클릭합니다. [자세히 알아보기](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
  - **다음 표에서 아이콘을 즐겨보세요.** 분석, 아트, 축하, 얼굴, 스포츠 등과 관련된 아이콘을 포함한 26개의 새로운 스텐실에서 선택하세요. 
- - **Visio 셰이프로 Word 문서를 작성하세요.** 셰이프, 메타데이터 등의 다이어그램 콘텐츠를 Word 문서에 자동으로 추가합니다. 그런 다음, 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세한 정보](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio와 Power BI: 효율적인 통합 사용** 몇 번의 클릭을 통해 Visio 다이어그램을 대화형 Power BI 시각화로 전환합니다. [자세한 정보](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **Visio 셰이프로 Word 문서를 작성하세요.** 셰이프, 메타데이터 등의 다이어그램 콘텐츠를 Word 문서에 자동으로 추가합니다. 그런 다음, 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세히 알아보기](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio와 Power BI: 효율적인 통합 사용** 몇 번의 클릭을 통해 Visio 다이어그램을 대화형 Power BI 시각화로 전환합니다. [자세히 알아보기](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
- ### <a name="project-feature-updates"></a>Project: 기능 업데이트
- - **작업 보드 카드에서 더 많은 정보를 확인해보세요.** 타이틀만으로 스토리를 설명할 수 없을 때 작업 보드 카드를 사용자 지정하여 중요한 상세 정보를 보여줄 수 있습니다. [자세한 정보](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+ ### <a name="project-feature-updates"></a>프로젝트: 기능 업데이트
+ - **작업 보드 카드에서 더 많은 정보를 확인해보세요.** 타이틀만으로 스토리를 설명할 수 없을 때 작업 보드 카드를 사용자 지정하여 중요한 상세 정보를 보여줄 수 있습니다. [자세히 알아보기](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
-### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+### <a name="excel-non-security-updates"></a>Excel:비보안 업데이트
 -  Excel에서 사용자가 복사하기 위해 선택한 셀 범위를 표시하는 점선이 나타나지 않고, 붙여넣기 같은 후속 작업을 한 이후에도 클립보드에 남아있는 등의 문제를 해결합니다. 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
  - 여러 개의 Exchange 계정을 가지고 있는 일부 사용자를 위해 검색 결과 리스트에서 누락된 "클릭하여 자세히 보기..." 링크가 발생하는 문제를 해결합니다.
 
-### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+### <a name="office-suite-non-security-updates"></a>오피스 제품군: 비보안 업데이트
  - 특정 시나리오에서 업데이트 설치 시간이 오래 걸리는 문제를 해결합니다.
  
 ### <a name="lync-non-security-updates"></a>Lync: 비보안 업데이트
@@ -72,7 +72,7 @@ ms.locfileid: "23952428"
 ## <a name="version-1807-august-14"></a>버전 1807: 8월 14일
 *버전 1807 (빌드 10325.20118)*
 
-### <a name="access-security-updates"></a>Access: 보안 업데이트
+### <a name="access-security-updates"></a>액세스: 보안 업데이트
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
@@ -83,7 +83,7 @@ ms.locfileid: "23952428"
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
 -   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 심층 방어 업데이트 
 
-### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+### <a name="office-suite-security-updates"></a>오피스 제품군: 보안 업데이트
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office 정보 공개 취약성 
 
 ## <a name="version-1807-july-25"></a>버전 1807: 7월 25일
@@ -102,25 +102,25 @@ ms.locfileid: "23952428"
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
  - **IRM을 사용하여 변경 내용 추적:** 이제 모든 사용 권한 없이도 Word에서 IRM으로 보호되는 문서에 변경 내용 추적 기능을 사용할 수 있습니다.
 
-### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+### <a name="office-suite-non-security-updates"></a>오피스 제품군: 비보안 업데이트
  - 다른 조직의 사용자가 이 조직의 사용자에게 IRM으로 보호되는 문서와 이메일을 공유하는 경우 이러한 문서를 열지 못하던 일련의 문제를 수정했습니다.
 
 ## <a name="version-1806-july-17"></a>버전 1806: 7월 17일
 *버전 1806 (빌드 10228.20134)*
 
-### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+### <a name="office-suite-non-security-updates"></a>오피스 제품군: 비보안 업데이트
  - 일부 성능 문제를 해결했습니다.
 
 ## <a name="version-1806-july-10"></a>버전 1806: 7월 10일
 *버전 1806(빌드 10228.20104)*
 
-### <a name="access-security-updates"></a>Access: 보안 업데이트
+### <a name="access-security-updates"></a>액세스: 보안 업데이트
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Microsoft Office 변조 취약성
 
-### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+### <a name="office-suite-security-updates"></a>오피스 제품군: 보안 업데이트
 -   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Microsoft Office 원격 코드 실행 취약성
 
 
@@ -133,7 +133,7 @@ ms.locfileid: "23952428"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
  - **되풀이 기본값:** 약속 되풀이 대화 상자("되풀이 범위" 아래)에서는 “끝 날짜 지정하지 않음” 대신 “끝 날짜”가 기본 설정이고 첫 번째로 표시되며, 기본 끝 날짜가 설정됩니다.
- - **접근성 검사 개선:** 접근성 검사는 메시지에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세한 정보](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **접근성 검사 개선:** 접근성 검사는 메시지에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세히 알아보기](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
  - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -178,7 +178,7 @@ ms.locfileid: "23952428"
 
 - MAPI API를 호출 응용 프로그램에서 충돌이 발생될 수 있는 문제를 해결합니다.
 
-### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
+### <a name="project-non-security-updates"></a>프로젝트: 비보안 업데이트
 
 - 마스터 프로젝트의 컨텍스트를 통해 작업할 때 하위 프로젝트를 저장하지 못하는 문제를 해결합니다.
 
@@ -246,7 +246,7 @@ ms.locfileid: "23952428"
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook 보안 기능 바이패스 취약성
 
-### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+### <a name="office-suite-security-updates"></a>오피스 제품군: 보안 업데이트
 -   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office 원격 코드 실행 취약성
 -   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office 원격 코드 실행 취약성
 
@@ -288,11 +288,11 @@ ms.locfileid: "23952428"
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
 -   메모리 부족 메시지가 표시되는 문제를 해결합니다.
 
-### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+### <a name="office-suite-security-updates"></a>오피스 제품군: 보안 업데이트
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
-
+-   **보안상의 이유로 Office에서 활성화가 차단되는 Flash, Silverlight 및 Shockwave 컨트롤:** 보안상의 이유로 Windows에서 Office 365의 Microsoft Office 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다.  자세한 정보는 [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)와 [여기](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)에서 알아보세요.
 
 ## <a name="version-1803-march-27"></a>버전 1803: 3월 27일
 *버전 1803(빌드 9126.2116)*
@@ -300,7 +300,7 @@ ms.locfileid: "23952428"
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **Microsoft Translator:** Microsoft Translator를 사용하여 단어, 구 또는 문장을 다른 언어로 번역할 수 있습니다. 리본 메뉴에 있는 검토 탭에서 이 작업을 수행할 수 있습니다.
 
-### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+### <a name="excel-non-security-updates"></a>Excel:비보안 업데이트
 -   Outlook 전자 메일에 첨부된 Excel 통합 문서를 빠른 인쇄 기능으로 인쇄할 수 없는 문제를 해결합니다.
 -   하이퍼링크를 클릭하면 Excel의 작동이 중단되는 문제를 해결합니다.
 -   큐브 함수를 사용할 때 Excel의 작동이 중단되는 문제를 해결합니다.
@@ -330,7 +330,7 @@ ms.locfileid: "23952428"
 ## <a name="version-1802-march-13"></a>버전 1802: 3월 13일
 *버전 1802(빌드 9029.2253)*
 
-### <a name="access-security-updates"></a>Access: 보안 업데이트
+### <a name="access-security-updates"></a>액세스: 보안 업데이트
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): Microsoft Access 원격 코드 실행 취약성
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
@@ -372,7 +372,7 @@ ms.locfileid: "23952428"
 -   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 권한 상승 취약성
 -   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Microsoft Office Outlook 메모리 손상 취약성
 
-### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+### <a name="office-suite-security-updates"></a>오피스 제품군: 보안 업데이트
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Microsoft Office 메모리 손상 취약성
 -   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): Microsoft Office 정보 노출 취약성
 
@@ -380,7 +380,7 @@ ms.locfileid: "23952428"
 ## <a name="version-1801-february-7"></a>버전 1801: 2월 7일
 *버전 1801(빌드 9001.2144)*
 
-### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+### <a name="excel-non-security-updates"></a>Excel:비보안 업데이트
 -   홈 탭에서 새 글꼴을 선택하려고 하거나 편집할 때 편집 언어가 일본어, 중국어 또는 한국어인 경우 Excel이 중단되는 문제를 해결합니다.
 
 
@@ -404,7 +404,7 @@ ms.locfileid: "23952428"
 ## <a name="version-1712-january-30"></a>버전 1712: 1월 30일
 *버전 1712(빌드 8827.2179)*
 
-### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+### <a name="excel-non-security-updates"></a>Excel:비보안 업데이트
 -   Excel을 초기화한 상태에서 통합 문서를 열 때 스크롤 막대가 없어지는 문제를 해결합니다.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
@@ -418,7 +418,7 @@ ms.locfileid: "23952428"
 -   **SVG 아이콘을 도형으로 변환:** 모든 SVG 그림 및 아이콘의 색, 크기 또는 질감을 변경할 수 있도록 Office 도형으로 변환합니다.
 -   **셀 선택 취소:** 워크시트에서 선택을 수행한 후, 실수로 클릭한 셀을 선택 취소할 수 있으므로 처음부터 다시 시작할 필요가 없습니다.
 
-### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+### <a name="excel-non-security-updates"></a>Excel:비보안 업데이트
 -   파일 탐색기에서 파일 이름을 두 번 클릭하여 여러 통합 문서를 열 때 통합 문서 참조가 실패하는 문제를 해결합니다.
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
@@ -469,7 +469,7 @@ ms.locfileid: "23952428"
 -   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): Microsoft Word 원격 코드 실행 취약성
 -   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): Microsoft Word 메모리 손상 취약성
 
-### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트
+### <a name="office-suite-security-updates"></a>오피스 제품군: 보안 업데이트
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office 원격 코드 실행 취약성
 -   [공지 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 심층 방어 업데이트
 
@@ -477,7 +477,7 @@ ms.locfileid: "23952428"
 ## <a name="version-1711-january-2"></a>버전 1711: 1월 2일
 *버전 1711(빌드 8730.2165)*
 
-### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+### <a name="excel-non-security-updates"></a>Excel:비보안 업데이트
 -   프로그래밍 방식으로 피벗 테이블을 생성한 후 프로그래밍 방식으로 새로 고칠 경우 Excel이 중단되는 문제를 해결합니다.
 -   Workbook.Open()을 프로그래밍 방식으로 호출하면 Excel 작동이 중단될 수 있는 문제를 해결합니다.
 
@@ -488,4 +488,4 @@ ms.locfileid: "23952428"
 -   VBA 코드가 프로젝트에서 손실되는 문제를 해결합니다.
 
 > [!NOTE]
-> Office 사용 문제와 관련하여 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
+> Office 사용 문제와 관련하여 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나[고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
