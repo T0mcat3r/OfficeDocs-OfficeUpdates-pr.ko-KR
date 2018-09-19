@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0075744d2adeae80a8ab591c598970b49c54d668
-ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
+ms.openlocfilehash: 275e38720009a2201df50c2edc1d7558529f79f3
+ms.sourcegitcommit: 02b7e0005dd4397f74aa831598ee35e7ed36d051
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "23965154"
+ms.lasthandoff: 09/18/2018
+ms.locfileid: "23998557"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -33,7 +33,7 @@ ms.locfileid: "23965154"
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
 |2018년|9월 11일   |[**버전 1808 (빌드 10730.20102)**](monthly-channel-2018.md#version-1808-september-11)|[**버전 1808 (빌드 10730.20102)**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[**버전 1803 (빌드 9126.2282)**](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [버전 1708 (빌드 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
-|2018년|9월 5일   |[버전 1808 (빌드 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
+|2018년|9월 5일   |[버전 1808 (빌드 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
 |2018년|8월 14일   |[버전 1807 (빌드 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[버전 1803 (빌드 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[버전 1803 (빌드 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [버전 1708 (빌드 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||7월 25일   |[버전 1807(빌드 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
 ||7월 17일   |[버전 1806 (빌드 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
@@ -158,5 +158,5 @@ ms.locfileid: "23965154"
 - [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> Office 사용 문제와 관련하여 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
+> Office 사용 문제와 관련하여 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나[고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
