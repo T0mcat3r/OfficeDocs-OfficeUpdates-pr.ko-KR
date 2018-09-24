@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트의 다운로드 크기
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/6/2018
+ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d67b2e60def009d3a266de701b939e901fdc6935
-ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
+ms.openlocfilehash: a24200136bb968725bb78cc6df179932c8b35eed
+ms.sourcegitcommit: df20f4e7260515436bf69201c1e5e8a60b9b92e2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "23965144"
+ms.lasthandoff: 09/21/2018
+ms.locfileid: "24960948"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -35,6 +35,38 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 > - 지난 4개월 동안의 릴리스만 나와 있습니다.
 > - 가장 최근의 이전 릴리스만 표에 나와 있습니다. 더 이전 버전에서 업데이트하려는 경우 다운로드 크기가 더 커집니다.
 > - 다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로) 업데이트 크기가 표에 나오는 것보다 훨씬 더 커질 수 있습니다. 이로 인해 전체 다운로드가 필요할 수 있으며 그 규모는 1GB 이상일 수 있습니다. 
+
+  ## <a name="september-11-2018"></a>2018년 9월 11일
+
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 버전은 버전 1808(빌드 10730.20102)입니다.
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기 (MB)**|
+|:-----|:-----|:-----|
+|버전 1808 (빌드 10730.20088)  <br/> |2018년 9월 5일  <br/> |96  <br/> |
+|버전 1807 (빌드 10325.20118)  <br/> |2018년 8월 14일  <br/> |239 <br/> |
+|버전 1807(빌드 10325.20082)  <br/> |2018년 7월 25일  <br/> |240  <br/> |
+
+  
+### <a name="semi-annual-channel"></a>반기 채널
+
+가장 최근 버전은 버전 1803(빌드 9126.2282)입니다.
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기 (MB)**|
+|:-----|:-----|:-----|
+|버전 1803(빌드 9126.2259)  <br/> |2018년 7월 10일  <br/> |99  <br/> |
+|버전 1708 (빌드 9126.2275)  <br/> |2018년 8월 14일  <br/> |99 <br/> |
+
+  
+### <a name="semi-annual-channel-targeted"></a>반기 채널(대상 지정)
+
+가장 최근 버전은 버전 1808(빌드 10730.20102)입니다.
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기 (MB)**|
+|:-----|:-----|:-----|
+|버전 1803 (빌드 9126.2275)  <br/> |2018년 8월 14일  <br/> |289 <br/> |
+|버전 1803(빌드 9126.2259)  <br/> |2018년 7월 10일  <br/>   |287  <br/>|
 
   ## <a name="september-5-2018"></a>2018년 9월 5일
 
