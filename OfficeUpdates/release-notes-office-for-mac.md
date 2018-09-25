@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c06385280194586ef995851505ac9faa9817409f
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 8db9d034e7a95d69e9d0eca05731e57e217f6bcc
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056147"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004455"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -23,11 +23,13 @@ ms.locfileid: "24056147"
 Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데이트 및 비보안 업데이트를 제공하기 위해 정기적으로 업데이트됩니다.
   
 업데이트는 Microsoft 자동 업데이트(MAU)에서 사용할 수 있습니다. Microsoft 자동 업데이트를 사용하려면 Word와 같은 Office 응용 프로그램을 시작하고 **도움말** > **업데이트 확인**을 선택합니다. 관리자이며 기존 소프트웨어 배포 도구를 사용하여 조직의 컴퓨터를 업데이트하려는 경우 각 응용 프로그램에 대한 업데이트 패키지를 다운로드하고 배포할 수 있습니다.
+
   
 > [!NOTE]
 > - Mac용 Office 릴리스 및 추가 다운로드 링크 목록을 보려면 [Mac용 Office에 대한 업데이트 기록](update-history-office-for-mac.md)을 참조하세요. 
 > - Office 참가자인 경우 [초기 참가자 빌드용 릴리스 정보](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)를 참조하세요.
-> - 이 정보는, Mac용 Office의 영구 버전으로서 소매점의 일회성 구매로 또는 대량 라이선스 계약을 통해 구입할 수 있는 Mac용 Office 2016에는 더 이상 적용되지 않습니다.  16.16까지의 구버전은 Mac용 Office 2016 대량 라이선스로 활성화할 수 있습니다. 그러나 16.17부터는 2016 대량 라이선스를 더 이상 함께 사용할 수 없습니다.
+> - 이 릴리스 정보는, 2018년 9월의 16,17 릴리스부터 소매점 또는 볼륨 라이선스 계약을 통한 1회성 구매 제품인 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다. 하지만 릴리스 정보에 나열된 일부 기능은 Office 365 구독이 있는 경우에만 사용할 수 있습니다.
+> - 16.16 및 이전 버전에 대한 릴리스 정보는 1회성 구매로 제공되는 Mac용 Office 버전인 Mac용 Office 2016에도 적용됩니다. 버전 16.16까지의 구버전은 Mac용 Office 2016 볼륨 라이선스로 정품 인증할 수 있습니다. 버전 16.17를 포함한 이후 버전은 Mac용 Office 2016 볼륨 라이선스로 정품 인증할 수 없습니다. 
 > - 다운로드 링크는 가장 최근 릴리스에 대해서만 제공됩니다.
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 
