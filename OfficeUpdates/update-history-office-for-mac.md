@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 업데이트 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 다운로드 패키지 및 업데이트 기록에 대한 링크를 포함하여 Mac용 Office의 최신 업데이트에 대한 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 3cfecfaadaa03e8f1177cbcdc8a578a0a6958015
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 5b6bc3cb28625ebe85523e3a75f97fa6bebad0d6
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056137"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004445"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac용 Office에 대한 업데이트 기록
 
@@ -29,7 +29,8 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 16.17 (18090901)  <br/> |2018년 9월 11일  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[릴리스 정보](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - 이 정보는, Mac용 Office의 영구 버전으로서 소매점의 일회성 구매로  또는 대량 라이선스 계약을 통해 구입할 수 있는 Mac용 Office 2016에는 더 이상 적용되지 않습니다.  16.16까지의 구버전은 Mac용 Office 2016 대량 라이선스로 활성화할 수 있습니다. 그러나 16.17부터는 2016 대량 라이선스를 더 이상 함께 사용할 수 없습니다.
+> - 이 정보는, 2018년 9월의 16,17 릴리스부터 소매점 또는 볼륨 라이선스 계약을 통한 1회성 구매 제품인 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다.
+> - 버전 16.16 및 이전 버전에 대한 업데이트 기록 정보는 1회성 구매로 제공되는 Mac용 Office 버전인 Mac용 Office 2016에도 적용됩니다. 버전 16.16까지의 구버전은 Mac용 Office 2016 볼륨 라이선스로 정품 인증할 수 있습니다. 버전 16.17를 포함한 이후 버전은 Mac용 Office 2016 볼륨 라이선스로 정품 인증할 수 없습니다.
 > - 지정된 Mac용 Office 릴리스에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 내용은 [Mac용 Office에 대한 릴리스 정보](release-notes-office-for-mac.md)를 참조하세요.
 > - 새 릴리스에 미리 액세스하려면 [Office 참가자](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac) 프로그램에 가입하세요.
 
