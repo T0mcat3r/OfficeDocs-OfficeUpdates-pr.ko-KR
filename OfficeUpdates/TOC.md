@@ -8,23 +8,24 @@
 ### 월별 채널
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
-#### [2016](monthly-channel-2016.md)
+#### [2016년](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
 ### 반기 채널
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
-#### [2016](semi-annual-channel-2016.md)
+#### [2016년](semi-annual-channel-2016.md)
 
 ### 반기 채널(대상 지정)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
-#### [2016](semi-annual-channel-targeted-2016.md)
+#### [2016년](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
 # Mac용 Office
-## [업데이트 기록](update-history-office-for-mac.md)
-## [릴리스 정보](release-notes-office-for-mac.md)
+## [업데이트 기록 (Office 365, 2019)](update-history-office-for-mac.md)
+## [릴리스 정보 (Office 365, 2019)](release-notes-office-for-mac.md)
+## [릴리스 정보 (2016)](release-notes-office-2016-mac.md)
 ## [MAU 버전 기록](release-history-microsoft-autoupdate.md)
 
 # Office (영구)
