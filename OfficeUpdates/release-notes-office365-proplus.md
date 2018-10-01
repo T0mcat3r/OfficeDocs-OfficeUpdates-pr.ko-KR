@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/18
+ms.date: 9/28/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus의 최신 릴리스, 업데이트 채널 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 86a81b16337785d3d33046cd9e52edd0f26538c1
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 56d4196a2927ab36e3f6155b9e47e02f58d2efcc
+ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952388"
+ms.lasthandoff: 09/28/2018
+ms.locfileid: "25346984"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트에 대한 릴리스 정보
 
@@ -26,7 +26,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
   
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**해당 날짜까지 지원 되는 버전**|
 |:-----|:-----|:-----|:-----|:-----|
-|월 단위  <br/> |1808  <br/> |[10730.20102](monthly-channel-2018.md#version-1808-september-11)  <br/> | 2018년 9월 11일  <br/> |버전 1809이 릴리스됨 <br/>|
+|월별  <br/> |1809  <br/> |[10827.20138](monthly-channel-2018.md#version-1809-september-27)  <br/> | 2018년 9월 27일  <br/> |버전 1810이 릴리스됨 <br/>|
 |반기(대상 지정)  <br/> |1808  <br/> |[10730.20102](semi-annual-channel-targeted-2018.md#version-1808-September-11)  <br/> | 2018년 9월 11일  <br/> | 2019년 3월 13일 <br/>|
 |반기 <br/> |1803  <br/> | [9126.2282](semi-annual-channel-2018.md#version-1803-september-11) <br/> | 2018년 9월 11일  <br/> | 2019년 9월 10일 <br/>|
 |반기 <br/> |1708  <br/> |[8431.2309](semi-annual-channel-2018.md#version-1708-september-11)  <br/> | 2018년 9월 11일  <br/> | 2019년 3월 13일 <br/>|
@@ -69,4 +69,4 @@ Office 365 ProPlus를 포함하는 모든 Office 365 구독 계획에 포함된 
 - [Microsoft 보안 업데이트 가이드](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
-> Office 사용 문제와 관련하여 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
+> Office 사용 문제와 관련하여 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나[고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
