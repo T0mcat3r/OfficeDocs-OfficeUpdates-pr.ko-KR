@@ -1,25 +1,23 @@
 ---
-title: >
-  Mac용 Office에 대한 업데이트 기록
+title: Mac용 Office에 대한 업데이트 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/27/2018
+ms.date: 10/1/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 다운로드 패키지 및 업데이트 기록에 대한 링크를 포함하여 Mac용 Office에 대한 최신 업데이트 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b143ab1be848e0efe17709fcce92302e04855c2a
-ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
+ms.openlocfilehash: 6771df21cbb5bad3f5cd01a79d8f02a9c1adc221
+ms.sourcegitcommit: 2a0ed40f3028b7e4e1239491b924adbc2ae9fb52
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2018
-ms.locfileid: "25341383"
+ms.lasthandoff: 10/02/2018
+ms.locfileid: "25354298"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac용 Office에 대한 업데이트 기록
-
 
   
 Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데이트 및 비보안 업데이트를 제공하기 위해 정기적으로 업데이트됩니다. 다음 정보는 주로 조직의 사용자에게 Mac용 Office를 배포하는 IT 전문가를 위해 작성되었습니다.
@@ -31,8 +29,8 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 16.17 (18090901)  <br/> |2018년 9월 11일  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[릴리스 정보](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - 이 정보는 2018년 9월 16.17 릴리스부터 소매점에서 또는 볼륨 라이선스 계약을 통해 일회성으로로 구매할 수 있는 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다.
-> - 16.16 및 이전 버전에 대한 업데이트 기록 정보는 일회성으로 구매할 수 있는 Mac용 Office 버전인 Mac용 Office 2016에도 적용됩니다. 16.16 및 이전 버전은 Mac용 Office 2016 볼륨 라이선스로 활성화할 수 있습니다. 16.17 및 이후 버전은 Mac용 Office 2016 볼륨 라이선스로 활성화할 수 없습니다. 9월 이후 Mac용 Office 2016 릴리스에 대한 정보를 알아보려면 다음을 참조하세요.[Mac용 Office 2016 릴리스 정보](release-notes-office-2016-mac.md) 참조
+> - 이 정보는, 2018년 9월의 16,17 릴리스부터 소매점 또는 볼륨 라이선스 계약을 통한 1회성 구매 제품인 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다.
+> - 버전 16.16 및 이전 버전에 대한 업데이트 기록 정보는 1회성 구매로 제공되는 Mac용 Office 버전인 Mac용 Office 2016에도 적용됩니다. 버전 16.16까지의 구버전은 Mac용 Office 2016 볼륨 라이선스로 정품 인증할 수 있습니다. 버전 16.17를 포함한 이후 버전은 Mac용 Office 2016 볼륨 라이선스로 정품 인증할 수 없습니다. 9월 이후의 Mac용 Office 2016 릴리스에 대한 정보는 [Mac용 Office 2016 릴리스 정보](release-notes-office-2016-mac.md)를 참조하세요.
 > - 지정된 Mac용 Office 릴리스에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 내용은 [Mac용 Office 릴리스 정보](release-notes-office-for-mac.md)를 참조하세요.
 > - 새 릴리스에 미리 액세스하려면 [Office 참가자](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac) 프로그램에 가입하세요.
 
@@ -58,10 +56,10 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |**프로그램**|**버전**|**패키지**|**SHA1 해시**|**추가 정보**|
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft 자동 업데이트(MAU)  <br/> |4.3 (18090901)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | 이 업데이트 패키지는 64비트입니다. <br/><br/>[MAU 릴리스 기록](release-history-microsoft-autoupdate.md) |
-|비즈니스용 Skype  <br/> |16.21.0.75  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | A530ADCB7DEF1EFDB9590B159CDB27DE571D1269 <br/> |최신 버전은 2018년 9월 26일에 릴리스되었습니다. <br/><br/>[최신 업데이트](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|비즈니스용 Skype  <br/> |16.21.0.87  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 27E3FB163AB42003A9A452A74388557EFAB4F67D <br/> |최신 버전은 2018년 10월 1일에 릴리스되었습니다. <br/><br/>[최신 업데이트](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
 |원격 데스크톱 | 10.2.1 (1143) | [다운로드](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | 이 설치 패키지는 64비트입니다. <br/> <br/>[새로운 기능](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Intune 회사 포털 |1.5(52.1805002.000) [180509] | [다운로드](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [다운로드](https://docs.microsoft.com/intune/whats-new)|
-|Mac용 Office 2016를 위한 Microsoft SharePoint 온-프레미스 Safari 브라우저 플러그인  <br/> |15.32.0(170309)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | 이 설치 패키지는 64비트입니다.  <br/> |
+|Mac용 Office 2016을 위한 Microsoft SharePoint 온-프레미스 Safari 브라우저 플러그인  <br/> |15.32.0(170309)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | 이 설치 패키지는 64비트입니다.  <br/> |
    
 
 ## <a name="release-history-for-office-for-mac"></a>Mac용 Office 릴리스 기록

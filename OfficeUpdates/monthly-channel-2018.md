@@ -1,22 +1,7 @@
 ---
-title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
-ms.date: 9/28/2018
-ms.audience: ITPro
-ms.topic: reference
-ms.service: o365-proplus-itpro
-localization_priority: Critical
-ms.collection: RelNotes_ProPlus
-description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 60d4edfce49b15246cccf5ecbc441db2e0cfeb79
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
-ms.translationtype: HT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25347014"
+제목: "2018년 월별 채널 릴리스에 대한 릴리스 정보" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus 설명: "IT 전문가에게 2018년 Office 365 ProPlus 월별 채널 릴리스에 대한 릴리스 정보를 제공"
 ---
+
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
 이러한 릴리스 정보에서는 2018년 Office 365 ProPlus에 대한 월별 채널 업데이트에 포함된 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
@@ -26,7 +11,7 @@ ms.locfileid: "25347014"
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 
 ## <a name="version-1809-september-27"></a>버전 1809: 9월 27일
-*버전 1809(빌드 10827.20138)*
+*버전 1809 (빌드 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 - **빠른 조회** VLOOKUP, HLOOKUP 및 MATCH 계산 기능을 개선하여 답변을 빠르게 확인할 수 있도록 했습니다.
@@ -50,7 +35,7 @@ ms.locfileid: "25347014"
 - **수식 편집기 변환기** 변환기를 사용하여 Microsoft 수식 편집기를 사용하여 만든 수식을 편집이 가능한 Office Math ML 형식으로 변환시킬 수 있습니다. 
 
 ## <a name="version-1808-september-11"></a>버전 1808: 9월 11일
-*버전 1808(빌드 10730.20102)*
+*버전 1808 (빌드 10730.20102)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성
@@ -64,7 +49,7 @@ ms.locfileid: "25347014"
 
 
 ## <a name="version-1808-september-5"></a>버전 1808: 9월 5일
-*버전 1808(빌드 10730.20088)*
+*버전 1808 (빌드 10730.20088)*
 
 ### <a name="access-feature-updates"></a>액세스: 기능 업데이트
  - **새로고침, 다시 연결, 또는 연결 테이블을 제거 합니다.** 업데이트 된 연결 테이블 관리자에서 모든 데이터 원본 및 연결 테이블을 관리합니다. [자세한 정보](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
@@ -94,7 +79,7 @@ ms.locfileid: "25347014"
 
 
 ## <a name="version-1807-august-14"></a>버전 1807: 8월 14일
-*버전 1807(빌드 10325.20118)*
+*버전 1807 (빌드 10325.20118)*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
@@ -130,7 +115,7 @@ ms.locfileid: "25347014"
  - 다른 조직의 사용자가 이 조직의 사용자에게 IRM으로 보호되는 문서와 이메일을 공유하는 경우 이러한 문서를 열지 못하던 일련의 문제를 수정했습니다.
 
 ## <a name="version-1806-july-17"></a>버전 1806: 7월 17일
-*버전 1806(빌드 10228.20134)*
+*버전 1806 (빌드 10228.20134)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
  - 일부 성능 문제를 해결했습니다.
@@ -265,7 +250,7 @@ ms.locfileid: "25347014"
 -   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Microsoft Excel 원격 코드 실행 취약성
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Microsoft Excel 원격 코드 실행 취약성
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Microsoft Excel 원격 코드 실행 취약성
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Microsoft Excel 정보 공개 취약성
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Microsoft Excel 정보 노출 취약성
 
 ### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook 보안 기능 바이패스 취약성
@@ -297,7 +282,7 @@ ms.locfileid: "25347014"
 
 
 ## <a name="version-1803-april-11"></a>버전 1803: 4월 11일
-*버전 1803(빌드 9126.2152)*
+*버전 1803 (빌드 9126.2152)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Microsoft Excel 원격 코드 실행 취약성
@@ -306,7 +291,7 @@ ms.locfileid: "25347014"
 -   여러 사용자가 동일한 프레젠테이션을 공동으로 작성할 경우 슬라이드 마스터가 잘못 복제되는 문제를 해결합니다.
 -   OneDrive에 저장된 파일을 열 경우 제한된 보기를 끝낼 때 PowerPoint가 중단되는 문제를 해결합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
 -   TLS 1.2 지원과 관련된 문제를 해결합니다.
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
@@ -319,7 +304,7 @@ ms.locfileid: "25347014"
 -   **보안상의 이유로 Office에서 활성화가 차단되는 Flash, Silverlight 및 Shockwave 컨트롤:** 보안상의 이유로 Windows에서 Office 365의 Microsoft Office 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다.  자세한 정보는 [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)와 [여기](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)에서 알아보세요.
 
 ## <a name="version-1803-march-27"></a>버전 1803: 3월 27일
-*버전 1803(빌드 9126.2116)*
+*버전 1803 (빌드 9126.2116)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 -   **Microsoft Translator:** Microsoft Translator를 사용하여 단어, 구 또는 문장을 다른 언어로 번역할 수 있습니다. 리본 메뉴에 있는 검토 탭에서 이 작업을 수행할 수 있습니다.
@@ -338,17 +323,17 @@ ms.locfileid: "25347014"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 -   **Microsoft Translator:** Microsoft Translator를 사용하여 단어, 구 또는 문장을 다른 언어로 번역할 수 있습니다. 리본 메뉴에 있는 검토 탭에서 이 작업을 수행할 수 있습니다.
--   **고해상도 디스플레이에 대한 지원 개선**: 여러 대의 모니터 또는 노트북 도크를 사용할 경우 디스플레이의 배율 설정이 다르더라도 모든 디스플레이에서 Office 앱이 끊어져 보입니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **고해상도 디스플레이에 대한 지원 개선**: 여러 대의 모니터 또는 노트북 도크를 사용할 경우 디스플레이의 배율 설정이 다르더라도 모든 디스플레이에서 Office 앱이 선명하게 보입니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
 -   모임에서 'Skype 통화'를 선택하여 사용자를 추가하면 오류가 발생하는 문제를 해결합니다.
 -   Skype Room이 위치로 추가되고 모임에 팀 모임 좌표가 이미 포함되어 있는 경우 모임에 Skype 좌표를 추가하도록 사용자에게 요청하는 메시지를 제거합니다.
 
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
--   **고해상도 디스플레이에 대한 지원 개선**: 여러 대의 모니터 또는 노트북 도크를 사용할 경우 디스플레이의 배율 설정이 다르더라도 모든 디스플레이에서 Office 앱이 끊어져 보입니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **고해상도 디스플레이에 대한 지원 개선**: 여러 대의 모니터 또는 노트북 도크를 사용할 경우 디스플레이의 배율 설정이 다르더라도 모든 디스플레이에서 Office 앱이 선명하게 보입니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
--   **고해상도 디스플레이에 대한 지원 개선**: 여러 대의 모니터 또는 노트북 도크를 사용할 경우 디스플레이의 배율 설정이 다르더라도 모든 디스플레이에서 Office 앱이 끊어져 보입니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **고해상도 디스플레이에 대한 지원 개선**: 여러 대의 모니터 또는 노트북 도크를 사용할 경우 디스플레이의 배율 설정이 다르더라도 모든 디스플레이에서 Office 앱이 선명하게 보입니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 
 ## <a name="version-1802-march-13"></a>버전 1802: 3월 13일
@@ -361,7 +346,7 @@ ms.locfileid: "25347014"
 -   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel 보안 기능 바이패스
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 공개 취약성
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office 정보 노출 취약성
 
 
 ## <a name="version-1802-february-26"></a>버전 1802: 2월 26일
@@ -374,7 +359,7 @@ ms.locfileid: "25347014"
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   세션 집합에서 둘 이상의 기준을 설정하면 MOD\_DATE 값이 동일하게 설정되는 문제를 수정합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
 -   UseLocationForE911Only가 true로 설정되어 있어도 위치가 채워지는 문제를 수정합니다.
 -   “회의 센터를 사용하여 통화” 옵션을 사용하여 로스터에서 사용자를 초대할 때 비즈니스용 Skype가 중지되는 문제를 해결합니다.
 -   비즈니스용 Skype 모임을 만드는 동안 터미널 서버에서 실행하는 Outlook이 중지되는 문제를 수정합니다.
@@ -417,7 +402,7 @@ ms.locfileid: "25347014"
 -   일정 웹 파트에서 완료 날짜를 편집할 때 태스크가 시간에 따라 분산되지 않고 하루 8시간을 유지하는 문제를 해결합니다.
 -   "진행점 모양"이 예기치 않은 위치에 그려지는 문제를 해결합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
 -   모임이 전체 화면 모드일 때 "기타 옵션" 및 "다른 사용자 초대" 단추가 숨겨지는 문제를 해결합니다.
 -   P2P 화상 회의 창 또는 전화 회의 창에 참여하려고 하면 창이 투명해지는 문제를 해결합니다.
 -   예정된 Skype 모임이 모임 탭에 표시되지 않는 문제를 해결합니다.
@@ -453,7 +438,7 @@ ms.locfileid: "25347014"
 -   **3D 애니메이션:** 가볍게 흔들거나 점프 및 회전하는 것과 같은 애니메이션으로 3D 모델에 생동감을 줄 수 있습니다.
 -   **SVG 아이콘을 도형으로 변환:** 모든 SVG 그림 및 아이콘의 색, 크기 또는 질감을 변경할 수 있도록 Office 도형으로 변환합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
 -   들어오는 PSTN 호출에 대한 알림 UI에서 통화 전달 단추를 추가할 수 있습니다.
 -   ChatDefaultClient 및 CallDefaultClient가 Teams로 설정될 경우 통화 및 채팅이 팀에 전달될 것임을 나타내는 알림이 사용자에게 전송될 수 있습니다.
 -   사용자가 모임에 참여하지 않고 비즈니스용 Skype에서 사용되지 않도록 설정되고, 모임 참가 환경이 Native Limited Client로 설정될 때 사용자의 현재 상태를 오프라인으로 표시할 수 있습니다.
