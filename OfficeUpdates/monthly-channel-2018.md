@@ -1,5 +1,5 @@
 ---
-제목: "2018년 월별 채널 릴리스에 대한 릴리스 정보" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus 설명: "IT 전문가에게 2018년 Office 365 ProPlus 월별 채널 릴리스에 대한 릴리스 정보를 제공"
+제목: "2018년 월별 채널 릴리스에 대한 릴리스 정보" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/3/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus 설명: "IT 전문가에게 2018년 Office 365 ProPlus 월별 채널 릴리스에 대한 릴리스 정보를 제공"
 ---
 
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
@@ -14,8 +14,8 @@
 *버전 1809 (빌드 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
-- **빠른 조회** VLOOKUP, HLOOKUP 및 MATCH 계산 기능을 개선하여 답변을 빠르게 확인할 수 있도록 했습니다.
-- **데이터에 대한 더 나은 이해** 인공 지능(AI)를 Office 365 앱에 적용하여 작업 수행을 돕습니다. 아이디어 창에 AI를 적용하여 시간을 절약하고 콘텐츠를 개선할 수 있는 스마트하고 실행 가능한 제안을 줍니다.[자세한 내용](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **빠른 조회** VLOOKUP, HLOOKUP 및 MATCH 계산 기능을 개선하여 답변을 빠르게 확인할 수 있도록 했습니다. [자세한 정보](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **데이터에 대한 더 나은 이해** 인공 지능(AI)을 Office 365 앱에 적용하여 작업 수행을 돕습니다. 아이디어 창에 AI를 적용하여 시간을 절약하고 콘텐츠를 개선할 수 있는 스마트하고 실행 가능한 제안을 줍니다.[자세한 내용](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **가져와서 변환하기 기능 개선** 가져와서 변환하기 기능에서 예제 기능의 열이 개선되었습니다. 그리고 다양한 커넥터도 개선되었습니다. [자세한 정보](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 규격의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
@@ -26,13 +26,14 @@
 - **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 규격의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+- **생동감 있는 슬라이드** 심장 박동, 궤도를 도는 행성, 역동적인 공룡의 모습 등을 화면에 움직이는 3D 그래픽으로 삽입할 수 있습니다.  [자세한 정보](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **새 교정 도구** 작문에 대해 걱정하지 않으셔도 됩니다. 이제 PowerPoint이 문법 및 문장을 추천합니다. [자세한 정보](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 규격의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 - **멘션으로 주의 끌기\@** 동료의 도움이 필요할 때 메모에서 @mentions를 사용하세요. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 규격의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **수식 편집기 변환기** 변환기를 사용하여 Microsoft 수식 편집기를 사용하여 만든 수식을 편집이 가능한 Office Math ML 형식으로 변환시킬 수 있습니다. 
+- **수식 편집기 변환기** 변환기를 사용하여 Microsoft 수식 편집기를 사용하여 만든 수식을 편집이 가능한 Office Math ML 형식으로 변환시킬 수 있습니다.
 
 ## <a name="version-1808-september-11"></a>버전 1808: 9월 11일
 *버전 1808 (빌드 10730.20102)*
@@ -84,7 +85,7 @@
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
 
-### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+### <a name="excel-security-updates"></a>엑셀엑: 보안 업데이트
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel 원격 코드 실행 취약성 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Microsoft Excel 원격 코드 실행 취약성 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel 정보 공개 취약성 
@@ -291,7 +292,7 @@
 -   여러 사용자가 동일한 프레젠테이션을 공동으로 작성할 경우 슬라이드 마스터가 잘못 복제되는 문제를 해결합니다.
 -   OneDrive에 저장된 파일을 열 경우 제한된 보기를 끝낼 때 PowerPoint가 중단되는 문제를 해결합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   TLS 1.2 지원과 관련된 문제를 해결합니다.
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
@@ -323,9 +324,9 @@
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 -   **Microsoft Translator:** Microsoft Translator를 사용하여 단어, 구 또는 문장을 다른 언어로 번역할 수 있습니다. 리본 메뉴에 있는 검토 탭에서 이 작업을 수행할 수 있습니다.
--   **고해상도 디스플레이에 대한 지원 개선**: 여러 대의 모니터 또는 노트북 도크를 사용할 경우 디스플레이의 배율 설정이 다르더라도 모든 디스플레이에서 Office 앱이 선명하게 보입니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **고해상도 디스플레이에 대한 지원 개선**: 여러 대의 모니터 또는 노트북 도크를 사용할 경우 디스플레이의 배율 설정이 다르더라도 모든 디스플레이에서 Office 앱이 끊어져 보입니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
-### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   모임에서 'Skype 통화'를 선택하여 사용자를 추가하면 오류가 발생하는 문제를 해결합니다.
 -   Skype Room이 위치로 추가되고 모임에 팀 모임 좌표가 이미 포함되어 있는 경우 모임에 Skype 좌표를 추가하도록 사용자에게 요청하는 메시지를 제거합니다.
 
@@ -402,7 +403,7 @@
 -   일정 웹 파트에서 완료 날짜를 편집할 때 태스크가 시간에 따라 분산되지 않고 하루 8시간을 유지하는 문제를 해결합니다.
 -   "진행점 모양"이 예기치 않은 위치에 그려지는 문제를 해결합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   모임이 전체 화면 모드일 때 "기타 옵션" 및 "다른 사용자 초대" 단추가 숨겨지는 문제를 해결합니다.
 -   P2P 화상 회의 창 또는 전화 회의 창에 참여하려고 하면 창이 투명해지는 문제를 해결합니다.
 -   예정된 Skype 모임이 모임 탭에 표시되지 않는 문제를 해결합니다.
