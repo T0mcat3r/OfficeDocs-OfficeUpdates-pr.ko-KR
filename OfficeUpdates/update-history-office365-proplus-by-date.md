@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d432974218b8d9d7ffa7d31b5364aa70c48ac28f
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: b43645d1ee37144af913529d421986550776471a
+ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456772"
+ms.locfileid: "25459405"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -32,7 +32,7 @@ ms.locfileid: "25456772"
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기 채널(대상 지정)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018년|10월 9일 |[**버전 1809 (빌드 10827.20150)**](monthly-channel-2018.md#version-1809-october-9)|[**버전 1808 (빌드 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**버전 1808 (빌드 9126.2295)**](semi-annual-channel-2018.md#version-1808-october-9)  <br/>  [버전 1708 (빌드 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018년|10월 9일 |[**버전 1809 (빌드 10827.20150)**](monthly-channel-2018.md#version-1809-october-9)|[**버전 1808 (빌드 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**버전 1803 (빌드 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [버전 1708 (빌드 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018년|9월 27일   |[Version 1809 (빌드 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018년|9월 11일   |[버전 1808 (빌드 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[버전 1808 (빌드 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[버전 1803 (빌드 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [버전 1708 (빌드 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018년|9월 5일   |[버전 1808 (빌드 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
