@@ -3,26 +3,26 @@ title: Office 2013에 대한 업데이트 기록
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2013 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c1227107084ba85f142c4a5941168f58707f09a0
-ms.sourcegitcommit: f965e1176a976c8f7333cbcb49445bc5a953417f
+ms.openlocfilehash: 1723306ef27882f0df9662266397740509eb6a76
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2018
-ms.locfileid: "23936700"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456712"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013에 대한 업데이트 기록
 
 대부분의 Office 2013 제품은 간편 실행이라는 기술을 사용하여 자동으로 최신 상태로 유지됩니다. 최신 상태인지 확인하려는 경우 Office 버전 번호를 확인하고 필요한 경우 Office를 직접 업데이트합니다.
   
 > [!NOTE]
-> Office 2013의 최신 버전인 **15.0.5067.1000**이  2018년 9월 11일에 출시됩니다. 
+> 최신 버전의 Office 2013은 2018년 10월 9일에 릴리스된  **15.0.5075.1001**입니다. 
   
 Office의 버전을 확인하려면 다음을 수행합니다.
   
@@ -34,9 +34,9 @@ Office의 버전을 확인하려면 다음을 수행합니다.
     
     버전 번호가 최신 버전과 일치하는 경우 최신 버전을 사용하는 것입니다. 그렇지 않은 경우 수동으로 업데이트하여 최신 버전의 Office 2013을 가져올 수 있습니다. Office를 업데이트하려면 [다음 단계를 따르세요](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
     
-### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>Office 2013에 대한 업데이트의 릴리스 날짜, 버전 번호 및 수정 정보 목록
+### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>Office 2013 업데이트 릴리스 날짜, 버전 번호 및 수정 정보 목록
 
-다음 표에는 가장 최근 릴리스 날짜부터 Office 2013의 업데이트 목록이 나와 있습니다. 이 표에는 릴리스의 버전 번호와 업데이트에 포함된 수정 사항에 대한 정보를 제공하는 Microsoft KB(기술 자료) 문서에 대한 링크(사용 가능한 경우)가 포함되어 있습니다.
+다음 표에는 가장 최근 릴리스 날짜부터 Office 2013의 업데이트 목록이 나와 있습니다. 이 표에는 릴리스의 버전 번호와 업데이트에 포함된 수정 사항에 대한 정보를 제공하는 Microsoft KB(기술 자료) 문서 링크(사용 가능한 경우)가 포함되어 있습니다.
   
 새 버전에는 이전 버전에 포함된 모든 업데이트가 포함됩니다.
 
@@ -46,7 +46,8 @@ Office의 버전을 확인하려면 다음을 수행합니다.
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-|2018년 |9월 11일   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
+|2018년 |10월 9일   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/en-us/help/4464656)  |
+| |9월 11일   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
 ||8월 14일   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
 ||7월 10일   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
 ||6월 12일   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
@@ -75,11 +76,11 @@ Office의 버전을 확인하려면 다음을 수행합니다.
 ||7월 25일   |15.0.4841.1002   |[KB 3179661](https://support.microsoft.com/kb/3179661)  |
 ||7월 12일   |15.0.4841.1001   |[KB 3173835](https://support.microsoft.com/kb/3173835)  |
 ||6월 14일   |15.0.4833.1001   |[KB 3166910](https://support.microsoft.com/kb/3166910)  |
-||5월 25일   |15.0.4823.1004   |이 버전은 설치 프로세스 중에 발생할 수 있는 중단을 해결합니다.   |
+||5월 25일   |15.0.4823.1004   |이 버전은 설치 프로세스 중에 발생할 수 있는 중단 문제를 해결합니다.   |
 ||5월 10일   |15.0.4823.1002   |[KB 3158453](https://support.microsoft.com/kb/3158453 )  |
 ||4월 12일   |15.0.4815.1002   |[KB 3150264](https://support.microsoft.com/kb/3150264)  |
 ||3월 8일   |15.0.4805.1003   |[KB 3143491](https://support.microsoft.com/kb/3143491)  |
-||2월 17일   |15.0.4797.1003   |이 버전은 창을 스크롤하거나 텍스트르 복사하고 붙여넣을 때 Word, Excel 또는 Outlook과 같은 Office 앱이 중단되거나 느려지는 문제를 해결합니다.   |
+||2월 17일   |15.0.4797.1003   |이 버전은 창을 스크롤하거나 텍스트를 복사하고 붙여넣을 때 Word, Excel 또는 Outlook과 같은 Office 앱이 중단되거나 느려지는 문제를 해결합니다.   |
 ||2월 9일   |15.0.4797.1002   |[KB 3137471](https://support.microsoft.com/kb/3137471)  |
 ||1월 12일   |15.0.4787.1002   |[KB 3131245](https://support.microsoft.com/kb/3131245)  |
 |2015년   |12월 8일   |15.0.4779.1002   |[KB 3121650](https://support.microsoft.com/kb/3121650)  |

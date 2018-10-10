@@ -3,7 +3,7 @@ title: Project Server 업데이트
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,16 +13,16 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 한 곳에서 Project Server 2013 및 Project Server 2010용 업데이트를 찾아서 관리합니다. 이 페이지의 링크를 사용하여 업데이트에 대해 자세히 알아보고 업데이트를 다운로드할 수 있습니다.
-ms.openlocfilehash: a855804aeb3f9ffc07bf2dcf85a74239123f4738
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954794"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456702"
 ---
 # <a name="project-server-updates"></a>Project Server 업데이트
 
-이 페이지의 링크를 사용하여 Project Server 2013 및 Project Server 2010 업데이트에 대해 자세히 알아보고 업데이트를 다운로드할 수 있습니다. 
+Project Server 업데이트 
 > [!NOTE]
 > Project Server 2016은 SharePoint Server 2016 Enteprise Edition에 속하므로 Project Server 2016에 대한 업데이트 정보는 [SharePoint 업데이트](sharepoint-updates.md)를 참조하세요.
   
@@ -30,6 +30,7 @@ ms.locfileid: "23954794"
   
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2018년 10월  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |2018년 9월  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |2018년 8월  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
 |2018년 7월  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
@@ -80,6 +81,7 @@ ms.locfileid: "23954794"
 
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2018년 10월  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |2018년 9월  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |2018년 8월  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
 |2018년 7월  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |

@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/3/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: bdd37742401a72802e5e347cb9263d8e4a40eeda
-ms.sourcegitcommit: 3d0d776ed955ab7c8cc52c8f68986048c1f4b7e3
+ms.openlocfilehash: 0982cb8515d3fb9c5234ca72eb45b6b688e597e1
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362713"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456792"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -23,7 +23,44 @@ ms.locfileid: "25362713"
  
  > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
-> - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+> - 이 정보는 Business Premium 등의 일부 Office 365 계획에 제공되는 Office 버전인 Office 365 Business에도 적용됩니다.
+
+## <a name="version-1809-october-9"></a>버전 1809: 10월 9일
+*버전 1809 (빌드 10827.20150)*
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502): Microsoft Excel 원격 코드 실행 취약성 
+
+### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 심층 방어 업데이트 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트 
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): PowerPoint 원격 코드 실행 취약성
+
+### <a name="word-security-updates"></a>Word: 보안 업데이트 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): Microsoft Word 원격 코드 실행 취약성 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 심층 방어 업데이트 
+
+### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics 원격 코드 실행 취약성 
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트 
+-   2190...2194 범위의 기호가 Cambria Math로 전환되면서 문제가 해결되었습니다. 이로 인해 Excel 셀의 높이가 3배 더 커집니다.
+-   이것은 사용자가 정의한 다양한 이름을 갖는 통합 문서의 서식 옵션에 마우스를 갖다 댈 때 Excel이 반응하지 않는 문제와 옵션에서 실시간 미리 보기가 비활성화되었을 때도 빠른 분석 도구에서 Excel이 반응하지 않는 문제를 해결합니다.
+-   현재 Excel 응용 프로그램 창을 한 바탕화면에서 다른 바탕화면으로 옮길 때 성능이 느려지는 현상을 조사 중입니다. 그동안 느려지는 것을 느끼셨다면, 해결책으로 파일 옵션 대화 상자의 "일반" 탭에서 "여러 디스플레이를 사용하는 경우"에 대해 "호환성을 위해 최적화"를 선택해 보실 것을 권장 드립니다.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
+-   ActiveX 콘텐츠가 포함된 파일을 저장할 때 잠재적인 파일 손상 문제가 해결되었습니다.
+
+### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
+-   Word Document 개체를 삽입할 때 수식 편집기가 표시되는 문제가 해결되었습니다.
+
+### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
+-   인쇄물에 머리말이나 꼬리말을 설정하면 다음에 프로젝트를 인쇄할 때 변경 사항이 유지되지 않는 문제가 해결되었습니다.
+
+### <a name="office-suite-non-security-updates"></a>Office Suite: 비보안 업데이트
+-   접근성 및 성능 설정을 통해 애니메이션을 꺼도 애니메이션을 표시하는 앱 문제가 해결되었습니다. 
+-   형광펜 그리기 도구를 사용할 때 빈 배경으로 바뀌는 문제가 수정되었습니다.
 
 ## <a name="version-1809-september-27"></a>버전 1809: 9월 27일
 *버전 1809 (빌드 10827.20138)*
@@ -99,7 +136,7 @@ ms.locfileid: "25362713"
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access 원격 코드 실행 Use After Free 취약성
 
-### <a name="excel-security-updates"></a>엑셀엑: 보안 업데이트
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel 원격 코드 실행 취약성 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Microsoft Excel 원격 코드 실행 취약성 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel 정보 공개 취약성 
@@ -374,7 +411,7 @@ ms.locfileid: "25362713"
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   세션 집합에서 둘 이상의 기준을 설정하면 MOD\_DATE 값이 동일하게 설정되는 문제를 수정합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
 -   UseLocationForE911Only가 true로 설정되어 있어도 위치가 채워지는 문제를 수정합니다.
 -   “회의 센터를 사용하여 통화” 옵션을 사용하여 로스터에서 사용자를 초대할 때 비즈니스용 Skype가 중지되는 문제를 해결합니다.
 -   비즈니스용 Skype 모임을 만드는 동안 터미널 서버에서 실행하는 Outlook이 중지되는 문제를 수정합니다.
@@ -453,7 +490,7 @@ ms.locfileid: "25362713"
 -   **3D 애니메이션:** 가볍게 흔들거나 점프 및 회전하는 것과 같은 애니메이션으로 3D 모델에 생동감을 줄 수 있습니다.
 -   **SVG 아이콘을 도형으로 변환:** 모든 SVG 그림 및 아이콘의 색, 크기 또는 질감을 변경할 수 있도록 Office 도형으로 변환합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
 -   들어오는 PSTN 호출에 대한 알림 UI에서 통화 전달 단추를 추가할 수 있습니다.
 -   ChatDefaultClient 및 CallDefaultClient가 Teams로 설정될 경우 통화 및 채팅이 팀에 전달될 것임을 나타내는 알림이 사용자에게 전송될 수 있습니다.
 -   사용자가 모임에 참여하지 않고 비즈니스용 Skype에서 사용되지 않도록 설정되고, 모임 참가 환경이 Native Limited Client로 설정될 때 사용자의 현재 상태를 오프라인으로 표시할 수 있습니다.
