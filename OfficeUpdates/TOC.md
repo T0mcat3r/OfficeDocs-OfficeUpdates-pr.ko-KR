@@ -34,6 +34,7 @@
 ## [Skype 비즈니스에 대 한 업데이트](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Office 2016.msp 파일](msp-files-office-2016.md)
 ## [Office 2013.msp 파일](msp-files-office-2013.md)
+## [Office 2019 업데이트](update-history-office-2019.md)
 ## [Office 2013 업데이트](update-history-office-2013.md)
 ## [Office 2010 업데이트](update-history-office-2010-click-to-run.md)
 
