@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0982cb8515d3fb9c5234ca72eb45b6b688e597e1
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: f84a3e87d99fec1687ef447f488ed9767313bbf0
+ms.sourcegitcommit: 1bbcc1cc115559c0a1f9c6a26584590203930f2e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456792"
+ms.locfileid: "25493874"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -35,7 +35,7 @@ ms.locfileid: "25456792"
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 심층 방어 업데이트 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트 
--   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): PowerPoint 원격 코드 실행 취약성
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): Microsoft PowerPoint 원격 코드 실행 취약성
 
 ### <a name="word-security-updates"></a>Word: 보안 업데이트 
 -   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): Microsoft Word 원격 코드 실행 취약성 
@@ -44,23 +44,6 @@ ms.locfileid: "25456792"
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트 
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics 원격 코드 실행 취약성 
 
-### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트 
--   2190...2194 범위의 기호가 Cambria Math로 전환되면서 문제가 해결되었습니다. 이로 인해 Excel 셀의 높이가 3배 더 커집니다.
--   이것은 사용자가 정의한 다양한 이름을 갖는 통합 문서의 서식 옵션에 마우스를 갖다 댈 때 Excel이 반응하지 않는 문제와 옵션에서 실시간 미리 보기가 비활성화되었을 때도 빠른 분석 도구에서 Excel이 반응하지 않는 문제를 해결합니다.
--   현재 Excel 응용 프로그램 창을 한 바탕화면에서 다른 바탕화면으로 옮길 때 성능이 느려지는 현상을 조사 중입니다. 그동안 느려지는 것을 느끼셨다면, 해결책으로 파일 옵션 대화 상자의 "일반" 탭에서 "여러 디스플레이를 사용하는 경우"에 대해 "호환성을 위해 최적화"를 선택해 보실 것을 권장 드립니다.
-
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
--   ActiveX 콘텐츠가 포함된 파일을 저장할 때 잠재적인 파일 손상 문제가 해결되었습니다.
-
-### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
--   Word Document 개체를 삽입할 때 수식 편집기가 표시되는 문제가 해결되었습니다.
-
-### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
--   인쇄물에 머리말이나 꼬리말을 설정하면 다음에 프로젝트를 인쇄할 때 변경 사항이 유지되지 않는 문제가 해결되었습니다.
-
-### <a name="office-suite-non-security-updates"></a>Office Suite: 비보안 업데이트
--   접근성 및 성능 설정을 통해 애니메이션을 꺼도 애니메이션을 표시하는 앱 문제가 해결되었습니다. 
--   형광펜 그리기 도구를 사용할 때 빈 배경으로 바뀌는 문제가 수정되었습니다.
 
 ## <a name="version-1809-september-27"></a>버전 1809: 9월 27일
 *버전 1809 (빌드 10827.20138)*
@@ -291,7 +274,7 @@ ms.locfileid: "25456792"
 *버전 1804(빌드 9226.2156)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
-- 응용 프로그램을 열 때 안전 모드에서 시작된다는 메시지가 표시된 후 응용 프로그램이 열리지 않는 문제를 해결합니다.
+- 응용 프로그램을 열 때, 안전 모드에서 시작된다는 메시지가 표시된 후 응용 프로그램이 열리지 않는 문제를 해결합니다.
 
 
 
@@ -419,7 +402,7 @@ ms.locfileid: "25456792"
 
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
 -   **기본 제공 데이터베이스 모델 다이어그램:** 새 데이터베이스 모델 다이어그램 템플릿을 사용하여 데이터베이스를 Visio 다이어그램으로 정확하게 모델링합니다. 추가 기능은 필요하지 않습니다.
--   **비즈니스 다이어그램용 추가 스텐실:** 최신 셰이프를 사용하거나, 데이터를 벤 다이어그램과 비교 및 대조하거나, 주기형, 매트릭스 또는 피라미드형 다이어그램을 그려 의미를 보다 잘 전달할 수 있습니다.
+-   **비즈니스 다이어그램용 추가 스텐실:** 최신 셰이프를 사용하여 데이터를 벤 다이어그램과 비교 및 대조하거나, 주기형, 매트릭스 또는 피라미드형 다이어그램을 그려 의미를 보다 잘 전달할 수 있습니다.
 -   **다이어그램 및 원본을 동기화 상태로 유지:** Visio에서 데이터 시각화 도우미 다이어그램을 편집하면 연결된 Excel 원본 데이터를 최신 다이어그램 콘텐츠로 업데이트하는 옵션이 제공됩니다.
 
 
