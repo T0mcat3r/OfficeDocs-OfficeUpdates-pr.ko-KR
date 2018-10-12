@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/10/2018
+ms.date: 10/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f84a3e87d99fec1687ef447f488ed9767313bbf0
-ms.sourcegitcommit: 1bbcc1cc115559c0a1f9c6a26584590203930f2e
+ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
+ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25493874"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "25504990"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -50,18 +50,17 @@ ms.locfileid: "25493874"
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 - **빠른 조회** VLOOKUP, HLOOKUP 및 MATCH 계산 기능을 개선하여 답변을 빠르게 확인할 수 있도록 했습니다. [자세한 정보](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **가져와서 변환하기 기능 개선** 가져와서 변환하기 기능에서 예제 기능의 열이 개선되었습니다. 그리고 다양한 커넥터도 개선되었습니다. [자세한 정보](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 규격의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **가져와서 변환하기 기능 개선** 가져와서 변환하기 기능에서 예제 기능의 열이 개선되었습니다. 또한, 많은 커넥터들이 개선되었습니다. [자세한 정보](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 크기의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 - **향후 예정된 사항** 릴리스 전에 새 사용자 경험을 사용해보고 의견을 주시기 바랍니다. [자세한 정보](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
 - **안전한 링크 뒤의 URL 참조** 안전한 링크는 전자 메일 내의 악성 URL로부터 보호해주며 원 URL을 숨깁니다. 안전한 링크 기능으로 보호된 링크 등 원래 URL을 확인하려면 마우스를 URL 위에 놓으세요.
-- **검색 맞춤법 추천 단어 가져오기** 검색을 수행한 후, Outlook이 맞춤법이 교정된 추천 검색 쿼리를 제공합니다.
-- **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 규격의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **추천 검색 맞춤법 단어 가져오기** 검색을 수행한 후 Outlook이 맞춤법이 교정된 검색 쿼리를 추천합니다.
+- **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 크기의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
-- **생동감 있는 슬라이드** 심장 박동, 궤도를 도는 행성, 역동적인 공룡의 모습 등을 화면에 움직이는 3D 그래픽으로 삽입할 수 있습니다.  [자세한 정보](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **새 교정 도구 작**문에 대해 걱정하지 않으셔도 됩니다. 이제 PowerPoint이 문법 및 문장을 추천합니다. [자세한 정보](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **생동감 있는 슬라이드** 심장 박동, 궤도를 도는 행성, 역동적인 공룡의 모습 등을 화면에 움직이는 3D 그래픽으로 삽입할 수 있습니다. [자세한 정보](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 규격의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
@@ -394,7 +393,7 @@ ms.locfileid: "25493874"
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   세션 집합에서 둘 이상의 기준을 설정하면 MOD\_DATE 값이 동일하게 설정되는 문제를 수정합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   UseLocationForE911Only가 true로 설정되어 있어도 위치가 채워지는 문제를 수정합니다.
 -   “회의 센터를 사용하여 통화” 옵션을 사용하여 로스터에서 사용자를 초대할 때 비즈니스용 Skype가 중지되는 문제를 해결합니다.
 -   비즈니스용 Skype 모임을 만드는 동안 터미널 서버에서 실행하는 Outlook이 중지되는 문제를 수정합니다.
@@ -473,7 +472,7 @@ ms.locfileid: "25493874"
 -   **3D 애니메이션:** 가볍게 흔들거나 점프 및 회전하는 것과 같은 애니메이션으로 3D 모델에 생동감을 줄 수 있습니다.
 -   **SVG 아이콘을 도형으로 변환:** 모든 SVG 그림 및 아이콘의 색, 크기 또는 질감을 변경할 수 있도록 Office 도형으로 변환합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>Project: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
 -   들어오는 PSTN 호출에 대한 알림 UI에서 통화 전달 단추를 추가할 수 있습니다.
 -   ChatDefaultClient 및 CallDefaultClient가 Teams로 설정될 경우 통화 및 채팅이 팀에 전달될 것임을 나타내는 알림이 사용자에게 전송될 수 있습니다.
 -   사용자가 모임에 참여하지 않고 비즈니스용 Skype에서 사용되지 않도록 설정되고, 모임 참가 환경이 Native Limited Client로 설정될 때 사용자의 현재 상태를 오프라인으로 표시할 수 있습니다.
