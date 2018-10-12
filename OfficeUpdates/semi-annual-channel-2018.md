@@ -3,19 +3,19 @@ title: 2018년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/10/2018
+ms.date: 10/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a9edf21d49e4d7d7946ac22f6f014d2a5d242b8a
-ms.sourcegitcommit: d0a66098beda134e12800930e4b236f673d5dd72
+ms.openlocfilehash: b86989758569962d53d3bc3314ad3d5293dee79a
+ms.sourcegitcommit: 315bbe7877eefa63817f05967b5521a3047d8916
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25492778"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "25498269"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -45,22 +45,8 @@ ms.locfileid: "25492778"
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트 
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics 원격 코드 실행 취약성 
 
-### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트 
--   2190...2194 범위의 기호가 Cambria Math로 전환되면서 문제가 해결되었습니다. 이로 인해 Excel 셀의 높이가 3배 더 커집니다.
--   이것은 사용자가 정의한 다양한 이름을 갖는 통합 문서의 서식 옵션에 마우스를 갖다 댈 때 Excel이 반응하지 않는 문제와 옵션에서 실시간 미리 보기가 비활성화되었을 때도 빠른 분석 도구에서 Excel이 반응하지 않는 문제를 해결합니다.
--   현재 Excel 응용 프로그램 창을 한 바탕화면에서 다른 바탕화면으로 옮길 때 성능이 느려지는 현상을 조사 중입니다. 그동안 느려지는 것을 느끼셨다면, 해결책으로 파일 옵션 대화 상자의 "일반" 탭에서 "여러 디스플레이를 사용하는 경우"에 대해 "호환성을 위해 최적화"를 선택해 보실 것을 권장 드립니다.
-
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
--   ActiveX 콘텐츠가 포함된 파일을 저장할 때 잠재적인 파일 손상 문제가 해결되었습니다.
-
-### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
--   Word Document 개체를 삽입할 때 수식 편집기가 표시되는 문제가 해결되었습니다.
-
-### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
--   인쇄물에 머리말이나 꼬리말을 설정하면 다음에 프로젝트를 인쇄할 때 변경 사항이 유지되지 않는 문제가 해결되었습니다.
-
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
--   접근성 및 성능 설정을 통해 애니메이션을 꺼도 애니메이션을 표시하는 앱 문제가 해결되었습니다. 
+-   접근성 및 성능 설정을 통해 애니메이션을 꺼도 애니메이션을 표시하는 앱 문제가 해결되었습니다.
 -   형광펜 그리기 도구를 사용할 때 빈 배경으로 바뀌는 문제를 해결하였습니다.
 
 ## <a name="version-1708-october-9"></a>버전 1708: 10월 9일
@@ -84,23 +70,6 @@ ms.locfileid: "25492778"
 ### <a name="office-suite-security-updates"></a>Office 제품군: 보안 업데이트 
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics 원격 코드 실행 취약성 
 
-### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트 
--   2190...2194 범위의 기호가 Cambria Math로 전환되면서 문제가 해결되었습니다. 이로 인해 Excel 셀의 높이가 3배 더 커집니다.
--   이것은 사용자가 정의한 다양한 이름을 갖는 통합 문서의 서식 옵션에 마우스를 갖다 댈 때 Excel이 반응하지 않는 문제와 옵션에서 실시간 미리 보기가 비활성화되었을 때도 빠른 분석 도구에서 Excel이 반응하지 않는 문제를 해결합니다.
--   현재 Excel 응용 프로그램 창을 한 바탕화면에서 다른 바탕화면으로 옮길 때 성능이 느려지는 현상을 조사 중입니다. 그동안 느려지는 것을 느끼셨다면, 해결책으로 파일 옵션 대화 상자의 "일반" 탭에서 "여러 디스플레이를 사용하는 경우"에 대해 "호환성을 위해 최적화"를 선택해 보실 것을 권장 드립니다.
-
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
--   ActiveX 콘텐츠가 포함된 파일을 저장할 때 잠재적인 파일 손상 문제가 해결되었습니다.
-
-### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
--   Word Document 개체를 삽입할 때 수식 편집기가 표시되는 문제가 해결되었습니다.
-
-### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
--   인쇄물에 머리말이나 꼬리말을 설정하면 다음에 프로젝트를 인쇄할 때 변경 사항이 유지되지 않는 문제가 해결되었습니다.
-
-### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
--   접근성 및 성능 설정을 통해 애니메이션을 꺼도 애니메이션을 표시하는 앱 문제가 해결되었습니다. 
--   형광펜 그리기 도구를 사용할 때 빈 배경으로 바뀌는 문제를 해결하였습니다.
 
 ## <a name="version-1803-september-11"></a>버전 1803: 9월 11일
 *버전 1803 (빌드 9126.2282)*
