@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/24/2018
+ms.date: 10/16/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ea8fc3ac72f23561f2b0b3375787673c1517116e
-ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
+ms.openlocfilehash: f975ab214afef354fb5bbc653ec75f0639361f45
+ms.sourcegitcommit: 576ac4e4615156add1d957b1a6d176c26a08fd32
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "25505000"
+ms.lasthandoff: 10/16/2018
+ms.locfileid: "25577137"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -28,10 +28,27 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 > [!NOTE]
 > - Mac용 Office 릴리스 및 추가 다운로드 링크 목록을 보려면 [Mac용 Office에 대한 업데이트 기록](update-history-office-for-mac.md)을 참조하세요. 
 > - Office 참가자인 경우 [초기 참가자 빌드용 릴리스 정보](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)를 참조하세요.
-> - 이러한 릴리스 정보는 2018년 9월 16.17 릴리스부터 소매점에서 또는 볼륨 라이선스 계약을 통해 일회성으로 구매할 수 있는 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다. 하지만 릴리스 정보에 나열된 일부 기능은 Office 365 구독이 있는 경우에만 사용할 수 있습니다.
-> - 16.16 및 이전 버전에 대한 릴리스 정보는 일회성으로 구매할 수 있는 Mac용 Office 버전인 Mac용 Office 2016에도 적용됩니다. 16.16 및 이전 버전은 Mac용 Office 2016 볼륨 라이선스로 활성화할 수 있습니다. 16.17 및 이후 버전은 Mac용 Office 2016 볼륨 라이선스로 활성화할 수 없습니다. 9월 이후 Mac용 Office 2016 릴리스에 대한 정보를 알아보려면 다음을 참조하세요.[Mac용 Office 2016 릴리스 정보](release-notes-office-2016-mac.md)
+> - 2018년 9월의 16.17 릴리스부터 이러한 릴리스 정보는 소매점에서 또는 대량 라이선스 계약을 통해 일회성으로 구입할 수 있는 Mac용 Office 버전인 Office 2019 for Mac에도 적용됩니다. 그러나 릴리스 정보에 열거된 일부 기능은 Office 365 가입이 있는 경우에만 제공됩니다.
+> - 16.16 및 이전 버전에 대한 릴리스 정보는 1회성 구매로 제공되는 Mac용 Office 버전인 Office 2016 for Mac에도 적용됩니다. 버전 16.16까지의 구버전은 Mac용 Office 2016 볼륨 라이선스로 정품 인증할 수 있습니다. Office 2016 for Mac 대량 라이선스로는 버전 16.17을 포함한 이후 버전을 활성화할 수 없습니다. 9월부터의 Office 2016 for Mac  릴리스에 대한 정보는 [Office 2016 for Mac 릴리스 정보](release-notes-office-2016-mac.md)를 참조하십시오.
 > - 다운로드 링크는 가장 최근 릴리스에 대해서만 제공됩니다.
-> - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
+> - Microsoft AutoUpdate는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft AutoUpdate를 업데이트하라는 알림을 받을 수 있습니다.
+
+## <a name="october-2018-release"></a>2018년 10월 릴리스
+
+ **릴리스 날짜:** 2018년 10월 16일 
+  
+ *버전 16.18.0 (빌드 18101400)* 
+  
+이 릴리스는 다음 업데이트를 제공합니다:
+
+|**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
+|:-----|:-----|:-----|
+|Word  <br/>|** \@언급으로 주의 끌기:** 코멘트에서 @mentions를 사용하여 동료의 의견이 필요함을 알리세요. [자세히 알아보기](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/> <br/>**이미지를 이해해 가능하게 만들기:** 사진을 삽입하는 경우 Office는 시각장애인이 읽을 수 있는 캡션을 제안합니다.  <br/> ||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
+|Excel  <br/>|**코멘트를 이용한 공동 작업:** 회신 상자가 내장된 스프레드시트에 대화를를 계속 보관하십시오.  [자세히 알아보기](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/> **데이터에 대한 더 나은 이해** Office 365 앱에는 인공 지능(AI)이 적용되어 최선의 작업 수행을 돕습니다. 아이디어 창은 AI를 사용하여  스마트하고 실행 가능한 제안을 하므로 시간이 절약되고 콘텐츠를 개선할 수 있습니다. [자세히 알아보기](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) <br/><br/> **AutoComplete의 더 많은 "자동":** 수식을 입력할 때 유용한 AutoComplete 메뉴가 나타나 선택할 수 있는 인수 옵션을 보여줍니다.  <br/><br/> **이제 개선: VoiceOver 탐색:** Excel에서 VoiceOver 사용? VO+U를 눌러 시트들 사이에 이동합니다. macOS Trackpad 커맨더를 활성화하여 이를 수행할 수도 있습니다. <br/> ||[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
+|PowerPoint  <br/>|**\@언급으로 주의 끌기:** 코멘트에서 @mentions를 사용하여 동료의 의견이 필요함을 알리세요. [자세히 알아보기](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/> **이미지를 이해해 가능하게 만들기:** 사진을 삽입하는 경우 Office는 시각장애인이 읽을 수 있는 캡션을 제안합니다.  <br/><br/> **애니메이션 트리거가 여기에 있습니다:** 원하시는 그대로 입니다! 애니메이션 트리거가 더 이상 Windows만을 위한 것이 아닙니다. 애니메이션 탭에서 찾을 수 있습니다. [자세히 알아보기](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
+|Outlook  <br/>|**검색 기능 개선:** 최근 검색 이력에 근거한 빠른 제안을 위해 검색 상자를 선택합니다. 타이핑이 요구되지 않습니다.  [자세히 알아보기](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
+|Office 제품군  <br/>| |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics 구성 요소 원격 코드 집집행 취약성 <br/>||
+
 
 ## <a name="september-2018-release"></a>2018년 9월 릴리스
 
@@ -39,14 +56,13 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 16.17.0 (빌드 18090901)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
-
+이 릴리스는 다음 업데이트를 제공합니다:
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
-|Word  <br/> |**다음의 멘션으로 주의를 끌어보세요. \@멘션:** 메모의 @mentions를 사용하여 여러분이 공동 작업자의 입력을 필요로 하고 있다는 것을 알립니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**잉크를 사용하여 그립니다. :** 마우스 또는 터치 패드, 드로우 탭의 펜을 사용해 쓰고 그리며 강조 표시를 합니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**3D 모델 삽입으로 모든 각도 확인 :** 3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세한 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
-|Excel  <br/> |**잉크를 사용하여 그립니다. :** 마우스 또는 터치 패드, 드로우 탭의 펜을 사용해 쓰고 그리며 강조 표시를 합니다. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D 모델 삽입으로 모든 각도 확인 :** 3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세한 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**사용자 지정 바로 가기가 돌아왔습니다:** 여러분의 의견을 반영했습니다. 여러분의 요청에 따라, 사용자 지정 바로 가기 키를 복구했습니다. [자세한 정보](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성 <br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
-|PowerPoint  <br/> |**다음의 멘션으로 주의를 끌어보세요. \@멘션:** 메모의 @mentions를 사용하여 여러분이 공동 작업자의 입력을 필요로 하고 있다는 것을 알립니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**잉크를 사용하여 그립니다. :** 마우스 또는 터치 패드, 드로우 탭의 펜을 사용해 쓰고 그리며 강조 표시를 합니다.[ ](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D 모델 삽입으로 모든 각도 확인 :** 3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세한 정보](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**선택한 글꼴이 표시됩니다. :** 파일에서 사용자 지정 글꼴을 포함하기 때문에 파일의 위치에 따라 글꼴도 함께 이동합니다. [자세한 정보](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
+|Word  <br/> |<br/>**잉크로 그리기:** 마우스 또는 터치 패드, 그리고 그리기기 탭의 펜을 사용해 쓰고 그리며 강조 표시를 하십시오. [자세히 알아보기](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**모든 각도를 확인하는 3D 모델 삽입:** 3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세히 알아보기](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**잉크로 그리기:** 마우스 또는 터치 패드, 그리고 그리기기 탭의 펜을 사용해 쓰고 그리며 강조 표시를 하십시오. [자세히 알아보기](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**모든 각도를 확인하는 3D 모델 삽입:** 3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세히 알아보기](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**사용자 지정 바로 가기가 돌아왔습니다:** 여러분의 의견을 반영했습니다. 여러분의 요청에 따라, 사용자 지정 바로 가기 키를 복구했습니다. [자세히 알아보기](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성 <br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |<br/>**잉크로 그리기:** 마우스 또는 터치 패드, 그리고 그리기기 탭의 펜을 사용해 쓰고 그리며 강조 표시를 하십시오.[자세히 알아보기](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D 모델 삽입으로 모든 각도 확인 :** 3D 모델을 간편하게 삽입한 후 360도로 회전할 수 있습니다. [자세히 알아보기](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**선택한 글꼴이 표시됩니다. :** 파일에서 사용자 지정 글꼴을 포함하기 때문에 파일의 위치에 따라 글꼴도 함께 이동합니다. [자세히 알아보기](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.3  <br/> |||[Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
 |Office 제품군  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Microsoft Graphics 원격 코드 실행 취약성 <br/>||
@@ -57,7 +73,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 16.16.0 (빌드 18081201)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
@@ -74,7 +90,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 16.15.0(빌드 18070902)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
@@ -100,7 +116,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 16.14.0(빌드 18061000)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
@@ -136,7 +152,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 16.13.0(빌드 18051301)*
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
@@ -153,7 +169,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 16.12.0(빌드 18041000)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**비보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|:-----|
@@ -179,7 +195,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 16.11.0(빌드 18031100)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|**비보안 업데이트**|
 |:-----|:-----|:-----|:-----|:-----|
@@ -197,7 +213,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 16.10.0(빌드 18021001)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**비보안 업데이트**|
 |:-----|:-----|:-----|
@@ -219,13 +235,13 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 16.9.0(빌드 18011602)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|
-|Word  <br/> |**다른 사용자와 함께 실시간으로 편집:** 창의 오른쪽 위 모서리에 있는 미리 보기에 공유 문서에서 함께 작업 중인 다른 사용자가 표시됩니다. 플래그 아이콘에는 다른 사용자가 작업 중인 위치가 표시되며 해당 사용자가 입력하면 변경 내용을 볼 수 있습니다. [자세한 정보](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **안전한 자동 저장 기능** 클라우드에 저장된 문서, 워크시트 및 프레젠테이션의 변경 내용이 자동으로 저장되므로 다른 사람이 업데이트한 내용을 바로 볼 수 있습니다. 롤백해야 합니까? 버전 기록에서 변경 내용 목록을 확인하고 이전 버전에 액세스할 수 있습니다. [자세한 정보](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **사이트와 그룹에 빠르게 액세스:** 열기 메뉴에서 자주 사용하는 사이트 및 그룹에 저장된 프레젠테이션을 빠르게 찾을 수 있습니다.  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): Microsoft Word 원격 코드 실행 취약성  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): Microsoft Word 원격 코드 실행 취약성 |
-|Excel  <br/> |**공동 작업 편집:** 통합 문서에서 다른 사용자와 동시에 작업합니다. 창의 오른쪽 위 모서리에 표시되는 미리 보기에 사용자와 함께 파일을 보거나 편집하고 있는 다른 사용자가 표시됩니다. [자세한 정보](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104#ID0EAABAAA=Mac)  <br/><br/> **안전한 자동 저장 기능** 클라우드에 저장된 문서, 워크시트 및 프레젠테이션의 변경 내용이 자동으로 저장되므로 다른 사람이 업데이트한 내용을 바로 볼 수 있습니다. 롤백해야 합니까? 버전 기록에서 변경 내용 목록을 확인하고 이전 버전에 액세스할 수 있습니다. [자세한 정보](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac)  <br/><br/> **더 많은 차트:** 깔대기형, 선버스트 및 히스토그램과 같은 새로운 차트를 사용하여 데이터를 전문적으로 시각화하거나 새로운 지도 차트 형식을 사용하여 몇 단계만으로 지리적 데이터를 지도로 변환할 수 있습니다.   <br/><br/> **더 많은 함수:** 새 논리 함수, [IFS 함수](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45) 및 [SWITCH 함수](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e)를 사용하여 작성하는 수식을 줄일 수 있습니다.   <br/><br/> **사이트와 그룹에 빠르게 액세스:** 열기 메뉴에서 자주 사용하는 사이트 및 그룹에 저장된 프레젠테이션을 빠르게 찾을 수 있습니다.  <br/> <br/> **피벗 테이블 차트에 대한 지원 개선:** 피벗 테이블에서 필터를 변경할 수 있으며, 만든 차트가 자동으로 조정되어 원하는 내용이 정확히 표시됩니다.  <br/> <br/> **다중 스레드 계산** Excel에서 여러 처리 스레드를 사용하기 때문에 값이 변경될 때 수식이 더 빠르게 업데이트됩니다. |
-|PowerPoint  <br/> |**다른 사용자와 함께 실시간으로 편집:** 창의 오른쪽 위 모서리에 있는 미리 보기에 공유 문서에서 함께 작업 중인 다른 사용자가 표시됩니다. 플래그 아이콘에는 다른 사용자가 작업 중인 위치가 표시되며 해당 사용자가 입력하면 변경 내용을 볼 수 있습니다. [자세한 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **안전한 자동 저장 기능** 클라우드에 저장된 문서, 워크시트 및 프레젠테이션의 변경 내용이 자동으로 저장되므로 다른 사람이 업데이트한 내용을 바로 볼 수 있습니다. 롤백해야 합니까? 버전 기록에서 변경 내용 목록을 확인하고 이전 버전에 액세스할 수 있습니다. [자세한 정보](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **변경 내용 확인:** 부재 시에 다른 사용자가 수정한 슬라이드가 강조 표시됩니다. [자세한 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **빠른 리서치 시작:** 처음부터 새로 시작하는 것은 어렵습니다. 빠른 시작은 추천된 논점으로 선택 항목에 대한 개요를 자동으로 만들고 프레젠테이션이 돋보이게 디자인합니다. [자세한 정보](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **미디어 트리밍:** 오디오 또는 비디오 클립의 끝 부분에서 원치 않는 콘텐츠를 제거합니다. [자세한 정보](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **사이트와 그룹에 빠르게 액세스:** 열기 메뉴에서 자주 사용하는 사이트 및 그룹에 저장된 프레젠테이션을 빠르게 찾을 수 있습니다.  <br/> <br/> **슬라이드 쇼의 레이저 포인터:** 마우스를 레이저 포인터로 사용하여 슬라이드의 특정 부분에 관심을 집중합니다. |
+|Word  <br/> |**다른 사용자와 함께 실시간으로 편집:** 창의 오른쪽 위 모서리에 있는 미리 보기에 공유 문서에서 함께 작업 중인 다른 사용자가 표시됩니다. 플래그 아이콘에는 다른 사용자가 작업 중인 위치가 표시되며 해당 사용자가 입력하면 변경 내용을 볼 수 있습니다. [자세한 정보](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **안전한 자동 저장 기능!** 클라우드에 저장된 문서, 워크시트 및 프리젠테이션의 변경 내용이 자동으로 저장되므로 다른 사람이 업데이트한 내용을 바로 볼 수 있습니다. 롤백해야 합니까? 버전 이력에서 변경 내용 목록을 확인하고 이전 버전에 액세스할 수 있습니다. [자세한 정보](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **사이트와 그룹에 빠르게 액세스:** 열기 메뉴에서 자주 사용하는 사이트 및 그룹에 저장된 프레젠테이션을 빠르게 찾을 수 있습니다.  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): Microsoft Word 원격 코드 실행 취약성  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): Microsoft Word 원격 코드 실행 취약성 |
+|Excel  <br/> |**공동 작업 편집:** 통합 문서에서 다른 사용자와 동시에 작업합니다. 창의 오른쪽 위 모서리에 표시되는 미리 보기에 사용자와 함께 파일을 보거나 편집하고 있는 다른 사용자가 표시됩니다. [자세한 정보](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104#ID0EAABAAA=Mac)  <br/><br/> **안전한 자동 저장 기능!** 클라우드에 저장된 문서, 워크시트 및 프리젠테이션의 변경 내용이 자동으로 저장되므로 다른 사람이 업데이트한 내용을 바로 볼 수 있습니다. 롤백해야 합니까? 버전 이력에서 변경 내용 목록을 확인하고 이전 버전에 액세스할 수 있습니다. [자세한 정보](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac)  <br/><br/> **더 많은 차트:** 깔대기형, 선버스트 및 히스토그램과 같은 새로운 차트를 사용하여 데이터를 전문적으로 시각화하거나 새로운 지도 차트 형식을 사용하여 몇 단계만으로 지리적 데이터를 지도로 변환할 수 있습니다.   <br/><br/> **더 많은 함수:** 새 논리 함수, [IFS 함수](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45) 및 [SWITCH 함수](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e)를 사용하여 작성하는 수식을 줄일 수 있습니다.   <br/><br/> **사이트와 그룹에 빠르게 액세스:** 열기 메뉴에서 자주 사용하는 사이트 및 그룹에 저장된 프레젠테이션을 빠르게 찾을 수 있습니다.  <br/> <br/> **피벗 테이블 차트에 대한 지원 개선:** 피벗 테이블에서 필터를 변경할 수 있으며, 만든 차트가 자동으로 조정되어 원하는 내용이 정확히 표시됩니다.  <br/> <br/> **다중 스레드 계산** Excel에서 여러 처리 스레드를 사용하기 때문에 값이 변경될 때 수식이 더 빠르게 업데이트됩니다. |
+|PowerPoint  <br/> |**다른 사용자와 함께 실시간으로 편집:** 창의 오른쪽 위 모서리에 있는 미리 보기에 공유 문서에서 함께 작업 중인 다른 사용자가 표시됩니다. 플래그 아이콘에는 다른 사용자가 작업 중인 위치가 표시되며 해당 사용자가 입력하면 변경 내용을 볼 수 있습니다. [자세한 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **안전한 자동 저장 기능!** 클라우드에 저장된 문서, 워크시트 및 프리젠테이션의 변경 내용이 자동으로 저장되므로 다른 사람이 업데이트한 내용을 바로 볼 수 있습니다. 롤백해야 합니까? 버전 이력에서 변경 내용 목록을 확인하고 이전 버전에 액세스할 수 있습니다. [자세한 정보](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **변경 내용 확인:** 부재 시에 다른 사용자가 수정한 슬라이드가 강조 표시됩니다. [자세한 정보](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **빠른 리서치 시작:** 처음부터 새로 시작하는 것은 어렵습니다. 빠른 시작은 추천된 논점으로 선택 항목에 대한 개요를 자동으로 만들고 프레젠테이션이 돋보이게 디자인합니다. [자세한 정보](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **미디어 트리밍:** 오디오 또는 비디오 클립의 끝 부분에서 원치 않는 콘텐츠를 제거합니다. [자세한 정보](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **사이트와 그룹에 빠르게 액세스: **열기 메뉴에서 자주 사용하는 사이트 및 그룹에 저장된 프리리젠테이션을 빠르게 찾을 수 있습니다.  <br/> <br/> **슬라이드 쇼의 레이저 포인터:** 마우스를 레이저 포인터로 사용하여 슬라이드의 특정 부분에 관심을 집중합니다. |
 |Outlook  <br/> |**한 번 살짝 밀어 보관 또는 삭제:** 두 손가락으로 터치 패드를 왼쪽으로 살짝 밀어 전자 메일을 보관하고, 오른쪽으로 살짝 밀어 삭제함으로써 받은 편지함 관리 시간을 단축할 수 있습니다.  <br/> |[CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook 원격 코드 실행 취약성 |
 
    
@@ -242,7 +258,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.41.0(빌드 17120500)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**보안 업데이트**|
 |:-----|:-----|
@@ -256,7 +272,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.40.0(빌드 17110800)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**보안 업데이트**|
 |:-----|:-----|
@@ -271,12 +287,12 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.39.0(빌드 17101000)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|
-|Word  <br/> |**향상된 Visual Basic Editor: **IntelliSense, VBA 메뉴 및 도구 모음, 디버그 도구, 개체 브라우저 등을 사용하여 Visual Basic Editor에서 매크로를 만들고 편집할 수 있습니다.   |
-|Excel  <br/> |**향상된 Visual Basic Editor: **IntelliSense, VBA 메뉴 및 도구 모음, 디버그 도구, 개체 브라우저 등을 사용하여 Visual Basic Editor에서 매크로를 만들고 편집할 수 있습니다.  |
+|Word  <br/> |**향상된 Visual Basic Editor:** IntelliSense, VBA 메뉴 및 도구 모음, 디버그 도구, 개체 브라우저 등을 사용하여 Visual Basic Editor에서 매크로를 만들고 편집할 수 있습니다.   |
+|Excel  <br/> |**향상된 Visual Basic Editor:** IntelliSense, VBA 메뉴 및 도구 모음, 디버그 도구, 개체 브라우저 등을 사용하여 Visual Basic Editor에서 매크로를 만들고 편집할 수 있습니다.  |
 |PowerPoint  <br/> |**향상된 Visual Basic Editor: **IntelliSense, VBA 메뉴 및 도구 모음, 디버그 도구, 개체 브라우저 등을 사용하여 Visual Basic Editor에서 매크로를 만들고 편집할 수 있습니다.  |
 |Outlook  <br/> |**가독성 및 접근성 개선:** 이제 전자 메일 메시지와 모임 초대 머리글이 눈에 더 잘 띕니다. 덜 복잡해지고 키보드 탐색이 더 쉬워지고 VoiceOver는 개선되었습니다.   |
 |Office 제품군  <br/> ||[CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Microsoft Office 원격 코드 실행 취약성  |
@@ -289,7 +305,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.38.0(빌드 17090200)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|
@@ -304,7 +320,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.37.0(빌드 17081500)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|
 |:-----|:-----|
@@ -328,7 +344,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.36.0(빌드 17070201)* 
 
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|
@@ -351,7 +367,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.35.0(빌드 17061000)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|
@@ -365,12 +381,12 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.34.0(빌드 17051500)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|
-|Word  <br/> |**포커스 모드용 최신 배경:** **보기** 탭에서 포커스 모드를 사용할 때 여명 또는 극야 배경에서 선택할 수 있습니다. [자세한 정보](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 패밀리입니다. [자세한 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 패밀리입니다. [자세한 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Word  <br/> |**포커스 모드용 최신 배경:** **보기** 탭에서 포커스 모드를 사용할 때 여명 또는 극야 배경에서 선택할 수 있습니다. [자세한 정보](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 집합입니다. [자세한 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 집합입니다. [자세한 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |PowerPoint  <br/> |**두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 패밀리입니다. [자세한 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**그룹:** 상위 10개 그룹을 보고, 그룹 폴더에서 직접 그룹 대화를 읽거나 회신할 수 있습니다.  <br/> <br/> **두바이 글꼴:** 아랍어 스크립트를 사용하는 주요 언어와 서유럽 언어를 모두 지원하는 글꼴 패밀리입니다. [자세한 정보](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Office 제품군  <br/> ||[CVE-2017-0254:](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254) Microsoft Office 메모리 손상 취약성   |
@@ -379,11 +395,11 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
    
  **릴리스 날짜:** 2017년 5월 9일 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**비보안 업데이트**|
 |:-----|:-----|
-|Microsoft 자동 업데이트 3.9.1  <br/> | "자동 확인"을 선택한 경우 자동 업데이트 알림이 표시되지 않도록 하는 심각한 문제를 해결합니다.  <br/><br/>  OS X 10.10에서 자동 업데이트가 중단되는 문제를 해결합니다.  <br/><br/> 업데이트가 보류 중인 경우 앱이 시작되지 않는 문제를 해결합니다.   <br/><br/> **중요:** Microsoft 자동 업데이트 3.9.0으로 업데이트했으며 자동 업데이트 설정이 "자동 확인"으로 지정되어 있는 경우, 다음 방법 중 하나를 사용하여 수동으로 Microsoft 자동 업데이트 3.9.1로 업데이트해야 합니다.  <br/><br/>  **도움말** > **업데이트 확인**으로 이동한 후 **업데이트 확인**을 선택합니다.  <br/><br/>  **도움말** > **업데이트 확인**으로 이동한 후 **자동 다운로드 및 설치**를 선택합니다.  |
+|Microsoft 자동 업데이트 3.9.1  <br/> | "자동 확인"을 선택한 경우 자동 업데이트 알림이 표시되지 않도록 하는 심각한 문제를 해결합니다.  <br/><br/>  - OS X 10.10에서 AutoUpdate가 중단되는 문제를 해결합니다.  <br/><br/> 업데이트가 대기 중인 경우 앱이 시작되지 않는 문제를 해결합니다.   <br/><br/> **중요:** Microsoft 자동 업데이트 3.9.0으로 업데이트했으며 자동 업데이트 설정이 "자동 확인"으로 지정되어 있는 경우, 다음 방법 중 하나를 사용하여 수동으로 Microsoft 자동 업데이트 3.9.1로 업데이트해야 합니다.  <br/><br/>  **도움말** > **업데이트 확인**으로 이동한 후 **업데이트 확인**을 선택합니다.  <br/><br/>  **도움말** > **업데이트 확인**으로 이동한 후 **자동 다운로드 및 설치**를 선택합니다.  |
    
 ## <a name="april-2017-release"></a>2017년 4월 릴리스
 
@@ -392,11 +408,11 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.33.0(빌드 17040900)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|
 |:-----|:-----|
-|Microsoft 자동 업데이트  <br/> | - 월별 업데이트 크기를 50%까지 줄여주는 제품군 델타 업데이트가 지원됩니다.  <br/><br/>  - 관리자 자격 증명을 요구하지 않고 MAU가 자동으로 업데이트될 수 있는 MAU 셀프 업데이트가 지원됩니다.  <br/> |이 버전의 MAU는 다운로드할 수 없습니다.  <br/> |
+|Microsoft 자동 업데이트  <br/> | - 월 업데이트 크기를 50% 줄여주는 제품군 델타 업데이트가 지원됩니다.  <br/><br/>  - 관리자 자격 증명을 요구하지 않고 MAU가 자동으로 업데이트될 수 있는 MAU 셀프 업데이트가 지원됩니다.  <br/> |이 버전의 MAU는 다운로드할 수 없습니다.  <br/> |
    
 ## <a name="march-2017-release"></a>2017년 3월 릴리스
 
@@ -404,7 +420,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.32.0(빌드 17030901)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|
@@ -419,7 +435,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.31.0(빌드 17021600)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**비보안 업데이트**|
 |:-----|:-----|:-----|
@@ -435,7 +451,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.30.0(빌드 17010700)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**비보안 업데이트**|
 |:-----|:-----|:-----|
@@ -457,7 +473,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.29.0(빌드 16120900)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**비보안 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|:-----|
@@ -465,7 +481,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |Excel  <br/> | 접근성 높은 문서를 만들고, 문서를 읽고 편집하기 위한 VoiceOver 및 기타 보조 기술 지원이 개선되었습니다. [자세한 정보](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | 데이터 유효성 검사를 사용하는 경우 오류 메시지 상자에 텍스트를 입력하면 Excel이 중단되는 문제를 해결합니다.  <br/> |Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office용 보안 업데이트(3204068)   |
 |PowerPoint  <br/> | 접근성 높은 문서를 만들고, 문서를 읽고 편집하기 위한 VoiceOver 및 기타 보조 기술 지원이 개선되었습니다. [자세한 정보](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
 |Office 제품군  <br/> | 3가지 추가 언어 지원: 이제 그리스어, 헝가리어, 슬로바키아어가 지원됩니다.  <br/> ||Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office용 보안 업데이트(3204068)  |
-|Microsoft 자동 업데이트  <br/> || - 버전 번호가 3.8.2로 업데이트되었습니다.  <br/> - 안정성이 개선되고 경미한 버그가 수정되었습니다.  <br/> |Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office용 보안 업데이트(3204068)  |
+|Microsoft 자동 업데이트  <br/> || - 버전 번호가 3.8.2로 업데이트되었습니다.  <br/> - 신뢰성이 향상되고 사소한 버그가 수정되었습니다.  <br/> |Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office용 보안 업데이트(3204068)  |
    
 ## <a name="november-2016-release"></a>2016년 11월 릴리스
 
@@ -491,7 +507,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
  *버전 15.28.0(빌드 16111300)* 
   
-이 릴리스는 다음과 같은 업데이트를 제공합니다.
+이 릴리스는 다음 업데이트를 제공합니다.
   
 |**응용 프로그램**|**기능 업데이트**|**비보안 업데이트**|**보안 업데이트**|
 |:-----|:-----|:-----|:-----|
@@ -499,8 +515,8 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |Excel  <br/> || Excel이 NetApp FAS 장치와 같은 특정 엔터프라이즈 저장소 구성에 대한 변경 내용을 저장하지 못하는 장기적인 문제를 해결합니다. 이제 Excel은 Word와 동일한 파일 저장 패턴을 채택합니다.  <br/> |Microsoft 보안 공지 [MS16-133](https://technet.microsoft.com/library/security/MS16-133): Microsoft Office용 보안 업데이트(3199168)  <br/> |
 |PowerPoint  <br/> |Windows용 PowerPoint 2016에서 확대/축소 명령을 사용하여 만든 대화형 요약 및 자동 탐색 링크를 봅니다.  <br/> | 이미지가 렌더링되지 않고 rID#를 참조하는 오류로 바뀌는 문제를 해결합니다.  ||
 |Outlook  <br/> |접근성 검사를 사용하여 메시지나 초대를 작성할 때 발생하는 접근성 문제를 찾아서 해결합니다. [자세한 정보](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | 전자 메일을 작성할 때 자동 언어 감지 관련 문제를 해결합니다. ||
-|Office 제품군  <br/> || - 접근성 요구 사항이 있는 사용자에 맞게 획기적으로 개선되었습니다.  <br/><br/>  - 마지막 충돌 로그를 디스크에 저장하도록 Microsoft 오류 보고를 구성할 수 있습니다(기본값 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE). <br/> <br/>  - E1/K1 사용자에 대한 정품 인증 메시지가 개선되었습니다. 더 이상 오류가 발생되었다고 표시되지 않으며 보기 전용 환경이 제공됩니다.  <br/><br/> - 설치 관리자 및 업데이트 관리자 파일 이름 형식이 변경되었습니다. 예를 들어 Microsoft_Office_2016_15.28.0_161113_Installer.pkg 대신 Microsoft_Office_2016_15.28.16111300_Installer.pkg가 사용됩니다.  ||
-|Microsoft 자동 업데이트  <br/> |업데이트를 자동으로 감지, 다운로드 및 설치하기 위한 새로운 옵션이 포함되어 있습니다.  <br/> | - 버전 번호가 3.8.1로 업데이트되었습니다.  <br/> <br/>- 이전 버전의 Microsoft Silverlight가 설치되어 있을 때 MAU가 작동 중단될 수 있는 문제를 수정합니다. 특히 Silverlight가 null LCID로 등록된 경우의 문제가 해결되었습니다.  <br/><br/>  - ManifestServer 기본 설정을 사용할 때 MAU가 중단될 수 있는 문제를 수정합니다.  <br/><br/> - Microsoft AU 데몬 번들 표시 이름이 "Microsoft 업데이트 도우미"로 변경되었습니다.  <br/><br/> - 2016 앱용 MAU XML 피드가 더 이상 트리거 사전을 포함하지 않으며 버전 검색을 위해 "업데이트 버전"을 활용합니다.  <br/><br/> - MAU가 이제 앱 업데이트 창에 전체 버전 문자열을 표시합니다. 예를 들어 15.28이 아니라 15.28.16110300을 표시합니다.  ||
+|Office 제품군  <br/> || - 접근성 니즈가 있는 사용자에 맞게 획기적으로 개선되었습니다.  <br/><br/>  - 마지막 충돌 로그를 디스크에 저장하도록 Microsoft 오류 보고를 구성할 수 있습니다(기본값 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE). <br/> <br/>  - E1/K1 사용자에 대한 정품 인증 메시지가 개선되었습니다. 더 이상 오류가 발생되었다고 표시되지 않으며 보기 전용 환경이 제공됩니다.  <br/><br/> - 설치 관리자 및 업데이트 관리자 파일 이름 형식이 변경되었습니다. 예를 들어 Microsoft_Office_2016_15.28.0_161113_Installer.pkg 대신 Microsoft_Office_2016_15.28.16111300_Installer.pkg가 사용됩니다.  ||
+|Microsoft 자동 업데이트  <br/> |업데이트를 자동으로 감지, 다운로드 및 설치하기 위한 새로운 옵션이 포함되어 있습니다.  <br/> | - 버전 번호가 3.8.1로 업데이트되었습니다.  <br/> <br/>- 이전 버전의 Microsoft Silverlight가 설치되어 있을 때 MAU가 작동 중단될 수 있는 문제를 수정합니다. 특히 Silverlight가 null LCID로 등록된 경우의 문제가 해결되었습니다.  <br/><br/>  - ManifestServer 기본 설정을 사용할 때 MAU가 중단될 수 있는 문제를 수정합니다.  <br/><br/> - Microsoft AU Daemon 번들 표시 이름이 "Microsoft 업데이트 도우미"로 변경되었습니다.  <br/><br/> - 2016 앱용 MAU XML 피드가 더 이상 트리거 사전을 포함하지 않으며 버전 검색을 위해 "업데이트 버전"을 활용합니다.  <br/><br/> - MAU가 이제 앱 업데이트 창에 전체 버전 문자열을 표시합니다. 예를 들어 15.28이 아니라 15.28.16110300을 표시합니다.  ||
    
 
    
