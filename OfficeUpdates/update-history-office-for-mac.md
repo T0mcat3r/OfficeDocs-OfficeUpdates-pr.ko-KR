@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 다운로드 패키지 및 업데이트 기록에 대한 링크를 포함하여 Mac용 Office에 대한 최신 업데이트 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 53b0327479414c17788bce2686f59d830959ad12
-ms.sourcegitcommit: 576ac4e4615156add1d957b1a6d176c26a08fd32
+ms.openlocfilehash: 6c4f45903c180a2be6c6edf0ec0b0e7ae49098eb
+ms.sourcegitcommit: 6f2752d626a3c59bcfa984d4351e944cad171b8d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2018
-ms.locfileid: "25577127"
+ms.lasthandoff: 10/17/2018
+ms.locfileid: "25578939"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac용 Office에 대한 업데이트 기록
 
@@ -30,7 +30,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 > [!NOTE]
 > - 보안 이유로 Microsoft는 SHA-1의 사용을 중단시켰습니다. [자세한 정보](https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2017/4010323)
-> - 2018년 9월의 16.17 릴리스부터 이 정보는 소매점에서 또는 대량 라이선스 계약을 통한 1회성 구매 제품인 Mac용 Office 버전인 Office 2019 for Mac에도 적용됩니다.
+> - 2018년 9월의 16.17 릴리스부터 이 정보는 소매점 또는 대량 라이선스 계약을 통한 1회성 구매 제품인 Mac용 Office 버전 Office 2019 for Mac에도 적용됩니다.
 > - 16.16 및 이전 버전에 대한 업데이트 기록 정보는 일회성으로 구매할 수 있는 Mac용 Office 버전인 Mac용 Office 2016에도 적용됩니다. 16.16 및 이전 버전은 Mac용 Office 2016 볼륨 라이선스로 활성화할 수 있습니다. 16.17 및 이후 버전은 Mac용 Office 2016 볼륨 라이선스로 활성화할 수 없습니다. 9월 이후 Mac용 Office 2016 릴리스에 대한 정보를 알아보려면 다음을 참조하세요.[Mac용 Office 2016 릴리스 정보](release-notes-office-2016-mac.md) 참조
 > - 지정된 Mac용 Office 릴리스에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 내용은 [Mac용 Office 릴리스 정보](release-notes-office-for-mac.md)를 참조하세요.
 > - 새 릴리스에 미리 액세스하려면 [Office 참가자](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac) 프로그램에 가입하세요.
@@ -42,7 +42,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 |**응용 프로그램**|**버전**|**다운로드 링크**|**설치 패키지를 위한 SHA-256 해시**|
 |:-----|:-----|:-----|:-----|
-|Office 제품군(모든 응용 프로그램)  <br/> |16.18.0 (18101400)  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |8FE6258B09FCE370E73F1CCCF5ADD7C3655EED016511B9B91B2E42CC6B343016 <br/> |
+|Office 제품군 (모든 응용 프로그램)  <br/> |16.18.0 (18101400)  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |8FE6258B09FCE370E73F1CCCF5ADD7C3655EED016511B9B91B2E42CC6B343016 <br/> |
 |Word  <br/> |16.18.0 (18101400)  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/> |8DFC0CF63AFE1BA2FE42F422EFB21D6CC5DF67F836650326E8A92C7F32B22F71 <br/> |
 |Excel  <br/> |16.18.0 (18101400)   <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/> |3015EED14959467545A6EF67C9FF61F6CD46721AAD3E87989AB066C458E5ABBA  <br/> |
 |PowerPoint  <br/> |16.18.0 (18101400)   <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/> |EC6B10A988E51B9F0F5A708F0A7518EC2CFAD5335D2EA807296F9CE2DF6DC561<br/> |
@@ -58,7 +58,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft 자동 업데이트(MAU)  <br/> |4.3 (18090901)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | 이 업데이트 패키지는 64비트입니다. <br/><br/>[MAU 릴리스 기록](release-history-microsoft-autoupdate.md) |
 |비즈니스용 Skype  <br/> |16.22.0.160 <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |최신 버전은 2018년 10월 12일에 릴리스되었습니다. <br/><br/>[최신 업데이트](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
-|원격 데스크톱 | 10.2.1 (1143) | [다운로드](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | 이 설치 패키지는 64비트입니다. <br/> <br/>[새로운 기능](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
+|원격 데스크톱 | 10.2.2 (1291)  | [다운로드](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | 이 설치 패키지는 64비트입니다. <br/> <br/>[새로운 기능](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Intune 회사 포털 |1.5(52.1805002.000) [180509] | [다운로드](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [다운로드](https://docs.microsoft.com/intune/whats-new)|
 |Mac용 Office 2016을 위한 Microsoft SharePoint 온-프레미스 Safari 브라우저 플러그인  <br/> |15.32.0(170309)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | 이 설치 패키지는 64비트입니다.  <br/> |
    
