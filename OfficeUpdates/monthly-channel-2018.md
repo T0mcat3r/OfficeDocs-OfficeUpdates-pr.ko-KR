@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/11/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
-ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
+ms.openlocfilehash: c1d7be28e55cb87e07b5e2b36a3b6bd59683715d
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "25504990"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607355"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -25,7 +25,14 @@ ms.locfileid: "25504990"
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 Business Premium 등의 일부 Office 365 계획에 제공되는 Office 버전인 Office 365 Business에도 적용됩니다.
 
-## <a name="version-1809-october-9"></a>버전 1809: 10월 9일
+## <a name="version-1809-october-16"></a>Version 1809: 10월 16일
+*버전 1809 (빌드 10827.20181)* 
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트 
+-  다양한 성능 문제를 해결합니다.
+
+
+## <a name="version-1809-october-9"></a>Version 1809: 10월 16일
 *버전 1809 (빌드 10827.20150)*
 
 ### <a name="excel-security-updates"></a>Excel: 보안 업데이트
@@ -61,11 +68,11 @@ ms.locfileid: "25504990"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 - **생동감 있는 슬라이드** 심장 박동, 궤도를 도는 행성, 역동적인 공룡의 모습 등을 화면에 움직이는 3D 그래픽으로 삽입할 수 있습니다. [자세한 정보](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 규격의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 크기의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 - **멘션으로 주의 끌기\@** 동료의 도움이 필요할 때 메모에서 @mentions를 사용하세요. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 규격의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **새로워진 리본 아이콘 디자인** 작동 방식은 기존과 동일합니다. 또한, 모든 크기의 화면에서 잘 표시됩니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **수식 편집기 변환기** 변환기를 사용하여 Microsoft 수식 편집기를 사용하여 만든 수식을 편집이 가능한 Office Math ML 형식으로 변환시킬 수 있습니다.
 
 ## <a name="version-1808-september-11"></a>버전 1808: 9월 11일
@@ -130,7 +137,7 @@ ms.locfileid: "25504990"
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office 정보 공개 취약성 
 
 ## <a name="version-1807-july-25"></a>버전 1807: 7월 25일
-*버전 1807(빌드 10325.20082)*
+*버전 1807 (빌드 10325.20082)*
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 - **Outlook 추가 기능 경고:** 가끔씩 Outlook COM 추가 기능에 문제가 발생하여 Outlook의 나머지 속도가 느려질 수 있습니다. 이러한 문제는 Outlook 폴더 사이의 전환, 새 이메일의 도착, Calendar 항목 열기 등과 같은 이벤트의 대기 시간 때문에 일어날 수 있습니다. 이러한 문제가 발생하면 Outlook의 알림 표시줄에 경고 메시지가 표시됩니다.
