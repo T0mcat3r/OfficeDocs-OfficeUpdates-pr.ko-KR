@@ -10,32 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus의 최신 릴리스, 업데이트 채널 및 릴리스 정보와 업데이트 기록에 대한 링크 목록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f4b6580d0466a6a04bba6f22f98ccdfa0859d1b4
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: 1d1f776e7616d967ecb7a555b7cfa41fe587509d
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607315"
+ms.locfileid: "25638158"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트에 대한 릴리스 정보
 
-Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데이트로 정기적으로 업데이트됩니다. 이러한 업데이트를 [업데이트 채널](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)을 사용하여 릴리스됩니다. 각 업데이트 채널의 각 릴리스에는 버전 및 빌드 번호가 할당되어 표시됩니다. 
-
-다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다. 빌드 번호는 해당 릴리스의 릴리스 정보에 직접 연결됩니다. 
-
-  
-|**채널**|**버전**|**빌드**|**릴리스 날짜**|**해당 날짜까지 지원 되는 버전**|
-|:-----|:-----|:-----|:-----|:-----|
-|월별  <br/> |1809  <br/> |[10827.20181](monthly-channel-2018.md#version-1809-october-16)  <br/> | 2018년 10월 16일  <br/> |버전 1810이 릴리스됨 <br/>|
-|반기(대상 지정)  <br/> |1808  <br/> |[10730.20155](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 2018년 10월 9일  <br/> | 2019년 3월 13일 <br/>|
-|반기 <br/> |1803  <br/> | [9126.2295](semi-annual-channel-2018.md#version-1803-october-9) <br/> |2018년 10월 9일  <br/> | 2019년 12월 10일 <br/>|
-|반기 <br/> |1708  <br/> |[8431.2316](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |2018년 10월 9일  <br/> | 2019년 3월 13일 <br/>|
-
-이전 버전의 Office 365 ProPlus에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
-
 > [!NOTE]
-> - 이러한 버전 및 빌드 번호는 Office 365 Business, Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에도 적용됩니다. Office 365 Business는 Business Premium과 같은 일부 Office 365 계획에 포함된 Office 버전입니다.
-> - 표에 나열되지 않은 업데이트 채널의 버전은 더 이상 지원되지 않습니다. 예를 들어 월별 채널의 버전 1704는 더 이상 지원되지 않습니다. 
+> - 각 업데이트 채널에 대해 지원되는 버전을 나열하는 표는 [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)으로 옮겨졌습니다.
+
 
 
 ## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 ProPlus 릴리스에 대한 업데이트 기록
