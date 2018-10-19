@@ -3,37 +3,49 @@ title: Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/18/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6dc23cbac49f4443bc0110b555e31fe39f51440f
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: bd92012c83b7438edac74990f3e18608d96fe251
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607325"
+ms.locfileid: "25638178"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
-다음 표에서는 월별, 반기(대상 지정) 및 반기의 업데이트 채널에 릴리스된 각 Office 365 ProPlus 업데이트에 대한 버전 및 빌드 번호 목록을 제공합니다. 표의 각 항목은 해당 릴리스에 대한 릴리스 정보에 직접 연결됩니다. 릴리스 정보는 Office 365 ProPlus에 대한 업데이트에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
+Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데이트로 정기적으로 업데이트됩니다. 이러한 업데이트는 [업데이트 채널](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)을 사용하여 릴리스됩니다. 각 업데이트 채널의 각 릴리스에는 버전 및 빌드 번호가 할당되어 표시됩니다. 
 
 
 > [!NOTE]
 > - 이러한 버전 및 빌드 번호는 Office 365 Business, Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에도 적용됩니다. Office 365 Business는 Business Premium과 같은 일부 Office 365 계획에 포함된 Office 버전입니다.
 > - 이 표는 릴리스 날짜순으로 정렬되어 가장 최근의 릴리스가 먼저 나열됩니다. 
-> - 굵은 텍스트로 표시된 버전 및 빌드 번호는 해당 특정 업데이트 채널에 대한 최신 버전 및 빌드 번호를 나타냅니다.
 > - 업데이트 채널에 대한 자세한 내용은 [Office 365 ProPlus 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)를 참조하세요.
 
+다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다. 
+ 
+|**채널**|**버전**|**빌드**|**릴리스 날짜**|**해당 날짜까지 지원 되는 버전**|
+|:-----|:-----|:-----|:-----|:-----|
+|월별  <br/> |1809  <br/> |10827.20181 <br/> | 2018년 10월 16일  <br/> |버전 1810이 릴리스됨 <br/>|
+|반기(대상 지정)  <br/> |1808  <br/> |10730.20155 <br/> | 2018년 10월 9일  <br/> | 2019년 3월 13일 <br/>|
+|반기 <br/> |1803  <br/> | 9126.2295<br/> |2018년 10월 9일  <br/> | 2019년 12월 10일 <br/>|
+|반기 <br/> |1708  <br/> |8431.2316  <br/> |2018년 10월 9일  <br/> | 2019년 3월 13일 <br/>|
+
+이전 버전의 Office 365 ProPlus에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
+
+
+다음 표에서는 월별, 반기(대상 지정) 및 반기의 업데이트 채널에 릴리스된 각 Office 365 ProPlus 업데이트에 대한 버전 및 빌드 번호 목록을 제공합니다. 표의 각 항목은 해당 릴리스에 대한 릴리스 정보에 직접 연결됩니다. 릴리스 정보는 Office 365 ProPlus에 대한 업데이트에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
 
 
 |**연도**|**릴리스 날짜**|**월별 채널**|**반기 채널 (대상 지정)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018년|10월 16일 |[**버전 1809 (빌드 10827.20181)**](monthly-channel-2018.md#version-1809-october-16)| | |
-|2018년|10월 9일 |[버전 1809 (빌드 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[**버전 1808 (빌드 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**버전 1803 (빌드 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [버전 1708 (빌드 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018년|10월 16일 |[버전 1809 (빌드 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
+|2018년|10월 9일 |[버전 1809 (빌드 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[버전 1808 (빌드 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[버전 1803 (빌드 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [버전 1708 (빌드 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018년|9월 27일   |[Version 1809 (빌드 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018년|9월 11일   |[버전 1808 (빌드 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[버전 1808 (빌드 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[버전 1803 (빌드 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [버전 1708 (빌드 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018년|9월 5일   |[버전 1808 (빌드 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
