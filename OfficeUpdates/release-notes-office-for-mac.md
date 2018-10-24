@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a27ee420c88373802be4ec0b874ec5f7a70175fa
-ms.sourcegitcommit: f9fd919ac17ebaaea3d9c382f66210fe267b1cdb
+ms.openlocfilehash: 9c39c4845d600c86e2f0019fe4095ae3e64417da
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2018
-ms.locfileid: "25676975"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718982"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -31,7 +31,8 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 > - 이러한 릴리스 정보는 2018년 9월 16.17 릴리스부터 소매점에서 또는 볼륨 라이선스 계약을 통해 일회성으로 구매할 수 있는 Mac용 Office 버전인 Mac용 Office 2019에도 적용됩니다. 하지만 릴리스 정보에 나열된 일부 기능은 Office 365 구독이 있는 경우에만 사용할 수 있습니다.
 > - 16.16 및 이전 버전에 대한 릴리스 정보는 일회성으로 구매할 수 있는 Mac용 Office 버전인 Mac용 Office 2016에도 적용됩니다. 16.16 및 이전 버전은 Mac용 Office 2016 볼륨 라이선스로 활성화할 수 있습니다. 16.17 및 이후 버전은 Mac용 Office 2016 볼륨 라이선스로 활성화할 수 없습니다. 9월 이후 Mac용 Office 2016 릴리스에 대한 정보를 알아보려면 다음을 참조하세요.[Mac용 Office 2016 릴리스 정보](release-notes-office-2016-mac.md)
 > - 다운로드 링크는 가장 최근 릴리스에 대해서만 제공됩니다.
-> - Microsoft AutoUpdate는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft AutoUpdate를 업데이트하라는 알림을 받을 수 있습니다.
+> - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수도 있습니다.
+> - 일정한 기간에 걸쳐 월별 채널로 기능(또는 수정 사항)을 릴리스하는 경우가 있습니다. 이를 통해 더 많은 사용자에게 기능을 출시하기 전에 기능이 원활하게 작동하는지 확인할 수 있습니다. 따라서, 다음에 설명된 기능 중에 없는 것이 있더라도 곧 릴리스되므로 걱정하지 않으셔도 됩니다. [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 ## <a name="october-2018-release"></a>2018년 10월 릴리스
 
@@ -399,7 +400,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 |**응용 프로그램**|**비보안 업데이트**|
 |:-----|:-----|
-|Microsoft 자동 업데이트 3.9.1  <br/> | "자동 확인"을 선택한 경우 자동 업데이트 알림이 표시되지 않도록 하는 심각한 문제를 해결합니다.  <br/><br/>  - OS X 10.10에서 AutoUpdate가 중단되는 문제를 해결합니다.  <br/><br/> - 업데이트가 보류 중인 경우 앱이 시작되지 않는 문제를 해결합니다.   <br/><br/> **중요:** Microsoft 자동 업데이트 3.9.0으로 업데이트했으며 자동 업데이트 설정이 "자동 확인"으로 지정되어 있는 경우, 다음 방법 중 하나를 사용하여 수동으로 Microsoft 자동 업데이트 3.9.1로 업데이트해야 합니다.  <br/><br/>  **도움말** > **업데이트 확인**으로 이동한 후 **업데이트 확인**을 선택합니다.  <br/><br/>  - **도움말** > **업데이트 확인**으로 이동한 후 **자동 다운로드 및 설치**를 선택합니다.  |
+|Microsoft 자동 업데이트 3.9.1  <br/> | - "자동 확인"을 선택한 경우 자동 업데이트 알림이 표시되지 않도록 하는 심각한 문제를 해결합니다.  <br/><br/>  - OS X 10.10에서 자동 업데이트가 중단되는 문제를 해결합니다.  <br/><br/> - 업데이트가 보류 중인 경우 앱이 시작되지 않는 문제를 해결합니다.   <br/><br/> **중요:** Microsoft 자동 업데이트 3.9.0으로 업데이트했으며 자동 업데이트 설정이 "자동 확인"으로 지정되어 있는 경우, 다음 방법 중 하나를 사용하여 수동으로 Microsoft 자동 업데이트 3.9.1로 업데이트해야 합니다.  <br/><br/>  - **도움말** > **업데이트 확인**으로 이동한 후 **업데이트 확인**을 선택합니다.  <br/><br/>  - **도움말** > **업데이트 확인**으로 이동한 후 **자동 다운로드 및 설치**를 선택합니다.  |
    
 ## <a name="april-2017-release"></a>2017년 4월 릴리스
 
@@ -412,7 +413,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 |**응용 프로그램**|**기능 업데이트**|
 |:-----|:-----|
-|Microsoft 자동 업데이트  <br/> | - 월 업데이트 크기를 50% 줄여주는 제품군 델타 업데이트가 지원됩니다.  <br/><br/>  - 관리자 자격 증명을 요구하지 않고 MAU가 자동으로 업데이트되는 MAU 셀프 업데이트가 지원됩니다.  <br/> |이 버전의 MAU는 다운로드할 수 없습니다.  <br/> |
+|Microsoft 자동 업데이트  <br/> | - 월별 업데이트 크기를 50% 줄여주는 제품군 델타 업데이트가 지원됩니다.  <br/><br/>  - 관리자 자격 증명을 요구하지 않고 MAU가 자동으로 업데이트되는 MAU 셀프 업데이트가 지원됩니다.  <br/> |이 버전의 MAU는 다운로드할 수 없습니다.  <br/> |
    
 ## <a name="march-2017-release"></a>2017년 3월 릴리스
 
@@ -481,7 +482,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |Excel  <br/> | 접근성 높은 문서를 만들고, 문서를 읽고 편집하기 위한 VoiceOver 및 기타 보조 기술 지원이 개선되었습니다. [자세한 정보](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | 데이터 유효성 검사를 사용하는 경우 오류 메시지 상자에 텍스트를 입력하면 Excel이 중단되는 문제를 해결합니다.  <br/> |Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office용 보안 업데이트(3204068)   |
 |PowerPoint  <br/> | 접근성 높은 문서를 만들고, 문서를 읽고 편집하기 위한 VoiceOver 및 기타 보조 기술 지원이 개선되었습니다. [자세한 정보](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
 |Office 제품군  <br/> | 3가지 추가 언어 지원: 이제 그리스어, 헝가리어, 슬로바키아어가 지원됩니다.  <br/> ||Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office용 보안 업데이트(3204068)  |
-|Microsoft 자동 업데이트  <br/> || - 버전 번호가 3.8.2로 업데이트되었습니다.  <br/> - 신뢰성이 향상되고 사소한 버그가 수정되었습니다.  <br/> |Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office용 보안 업데이트(3204068)  |
+|Microsoft 자동 업데이트  <br/> || - 버전 번호가 3.8.2로 업데이트되었습니다.  <br/> - 안정성이 개선되고 경미한 버그가 수정되었습니다.  <br/> |Microsoft 보안 공지 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office용 보안 업데이트(3204068)  |
    
 ## <a name="november-2016-release"></a>2016년 11월 릴리스
 
@@ -515,8 +516,8 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |Excel  <br/> || Excel이 NetApp FAS 장치와 같은 특정 엔터프라이즈 저장소 구성에 대한 변경 내용을 저장하지 못하는 장기적인 문제를 해결합니다. 이제 Excel은 Word와 동일한 파일 저장 패턴을 채택합니다.  <br/> |Microsoft 보안 공지 [MS16-133](https://technet.microsoft.com/library/security/MS16-133): Microsoft Office용 보안 업데이트(3199168)  <br/> |
 |PowerPoint  <br/> |Windows용 PowerPoint 2016에서 확대/축소 명령을 사용하여 만든 대화형 요약 및 자동 탐색 링크를 봅니다.  <br/> | 이미지가 렌더링되지 않고 rID#를 참조하는 오류로 바뀌는 문제를 해결합니다.  ||
 |Outlook  <br/> |접근성 검사를 사용하여 메시지나 초대를 작성할 때 발생하는 접근성 문제를 찾아서 해결합니다. [자세한 정보](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | 전자 메일을 작성할 때 자동 언어 감지 관련 문제를 해결합니다. ||
-|Office 제품군  <br/> || 접근성 니즈가 있는 사용자에 맞게 획기적으로 개선되었습니다.  <br/><br/>  - 마지막 충돌 로그를 디스크에 저장하도록 Microsoft 오류 보고를 구성할 수 있습니다(기본값 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE). <br/> <br/>  E1/K1 사용자에 대한 정품 인증 메시지가 개선되었습니다. 더 이상 오류가 발생되었다고 표시되지 않으며 보기 전용 환경이 제공됩니다.  <br/><br/> -설치 프로그램 및 updater 파일 이름 형식 변경 되었습니다. 예: Microsoft_Office_2016_15.28.0_161113_Installer.pkg 대신 Microsoft_Office_2016_15.28.16111300_Installer.pkg 합니다.  ||
-|Microsoft 자동 업데이트  <br/> |업데이트를 자동으로 감지, 다운로드 및 설치하기 위한 새로운 옵션이 포함되어 있습니다.  <br/> | - 버전 번호가 3.8.1로 업데이트되었습니다.  <br/> <br/>- 이전 버전의 Microsoft Silverlight가 설치되어 있을 때 MAU가 작동 중단될 수 있는 문제를 수정합니다. 특히 Silverlight가 null LCID로 등록된 경우의 문제가 해결되었습니다.  <br/><br/>  ManifestServer 기본 설정을 사용할 때 MAU가 중단될 수 있는 문제를 수정합니다.  <br/><br/> - Microsoft AU Daemon 번들 표시 이름이 "Microsoft 업데이트 도우미"로 변경되었습니다.  <br/><br/> 2016 앱용 MAU XML 피드가 더 이상 트리거 사전을 포함하지 않으며 버전 검색을 위해 "업데이트 버전"을 활용합니다.  <br/><br/> - MAU가 이제 앱 업데이트 창에 전체 버전 문자열을 표시합니다. 예를 들어 15.28이 아니라 15.28.16110300을 표시합니다.  ||
+|Office 제품군  <br/> || - 액세스를 필요로 하는 사용자에 맞게 획기적으로 개선되었습니다.  <br/><br/>  - 마지막 충돌 로그를 디스크에 저장하도록 Microsoft 오류 보고를 구성할 수 있습니다(defaults write com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE). <br/> <br/>  - E1/K1 사용자에 대한 정품 인증 메시지가 개선되었습니다. 더 이상 오류가 발생하였다고 표시되지 않으며 보기 전용 환경이 제공됩니다.  <br/><br/> -설치 프로그램 및 업데이트 프로그램 파일 이름 형식이 변경되었습니다. 예: Microsoft_Office_2016_15.28.0_161113_Installer.pkg에서 Microsoft_Office_2016_15.28.16111300_Installer.pkg로 변경되었습니다.  ||
+|Microsoft 자동 업데이트  <br/> |업데이트를 자동으로 감지, 다운로드 및 설치하기 위한 새로운 옵션이 포함되어 있습니다.  <br/> | - 버전 번호가 3.8.1로 업데이트되었습니다.  <br/> <br/>- 이전 버전의 Microsoft Silverlight가 설치되어 있을 때 MAU가 중단될 수 있는 문제를 해결합니다. 특히 Silverlight가 null LCID로 등록된 경우의 문제를 해결합니다.  <br/><br/>  - ManifestServer 기본 설정을 사용할 때 MAU가 중단될 수 있는 문제를 해결합니다.  <br/><br/> - Microsoft AU Daemon 번들 표시 이름이 "Microsoft Update Assistant"로 변경되었습니다.  <br/><br/> - 2016 앱용 MAU XML 피드가 더 이상 트리거 사전을 포함하지 않으며 버전 검색을 위해 "업데이트 버전"을 활용합니다.  <br/><br/> - MAU가 이제 앱 업데이트 창에 전체 버전 문자열을 표시합니다. 예를 들어 15.28이 아니라 15.28.16110300을 표시합니다.  ||
    
 
    

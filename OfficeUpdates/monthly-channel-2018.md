@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c1d7be28e55cb87e07b5e2b36a3b6bd59683715d
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: a14a4c99d586c58fc118182148acaf54adb37673
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607355"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718972"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,8 +24,10 @@ ms.locfileid: "25607355"
  > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 Business Premium 등의 일부 Office 365 계획에 제공되는 Office 버전인 Office 365 Business에도 적용됩니다.
+> - 일정한 기간에 걸쳐 월 단위로 기능(또는 수정 사항)을 릴리스하는 경우가 있습니다. 이렇게 함으로써 더 많은 사용자에게 기능을 출시하기 전에 기능이 원활하게 작동하는지 확인할 수 있습니다. 따라서, 다음에 설명된 기능 중에 없는 것이 있더라도 곧 릴리스되므로 걱정하지 않으셔도 됩니다. [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
-## <a name="version-1809-october-16"></a>Version 1809: 10월 16일
+
+## <a name="version-1809-october-16"></a>버전 1809: 10월 16일
 *버전 1809 (빌드 10827.20181)* 
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트 
@@ -332,7 +334,7 @@ ms.locfileid: "25607355"
 -   여러 사용자가 동일한 프레젠테이션을 공동으로 작성할 경우 슬라이드 마스터가 잘못 복제되는 문제를 해결합니다.
 -   OneDrive에 저장된 파일을 열 경우 제한된 보기를 끝낼 때 PowerPoint가 중단되는 문제를 해결합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비 보안 업데이트
 -   TLS 1.2 지원과 관련된 문제를 해결합니다.
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
@@ -366,7 +368,7 @@ ms.locfileid: "25607355"
 -   **Microsoft Translator:** Microsoft Translator를 사용하여 단어, 구 또는 문장을 다른 언어로 번역할 수 있습니다. 리본 메뉴에 있는 검토 탭에서 이 작업을 수행할 수 있습니다.
 -   **고해상도 디스플레이에 대한 지원 개선**: 여러 대의 모니터 또는 노트북 도크를 사용할 경우 디스플레이의 배율 설정이 다르더라도 모든 디스플레이에서 Office 앱이 끊어져 보입니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비 보안 업데이트
 -   모임에서 'Skype 통화'를 선택하여 사용자를 추가하면 오류가 발생하는 문제를 해결합니다.
 -   Skype Room이 위치로 추가되고 모임에 팀 모임 좌표가 이미 포함되어 있는 경우 모임에 Skype 좌표를 추가하도록 사용자에게 요청하는 메시지를 제거합니다.
 
@@ -400,7 +402,7 @@ ms.locfileid: "25607355"
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 -   세션 집합에서 둘 이상의 기준을 설정하면 MOD\_DATE 값이 동일하게 설정되는 문제를 수정합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비 보안 업데이트
 -   UseLocationForE911Only가 true로 설정되어 있어도 위치가 채워지는 문제를 수정합니다.
 -   “회의 센터를 사용하여 통화” 옵션을 사용하여 로스터에서 사용자를 초대할 때 비즈니스용 Skype가 중지되는 문제를 해결합니다.
 -   비즈니스용 Skype 모임을 만드는 동안 터미널 서버에서 실행하는 Outlook이 중지되는 문제를 수정합니다.
@@ -443,7 +445,7 @@ ms.locfileid: "25607355"
 -   일정 웹 파트에서 완료 날짜를 편집할 때 태스크가 시간에 따라 분산되지 않고 하루 8시간을 유지하는 문제를 해결합니다.
 -   "진행점 모양"이 예기치 않은 위치에 그려지는 문제를 해결합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비 보안 업데이트
 -   모임이 전체 화면 모드일 때 "기타 옵션" 및 "다른 사용자 초대" 단추가 숨겨지는 문제를 해결합니다.
 -   P2P 화상 회의 창 또는 전화 회의 창에 참여하려고 하면 창이 투명해지는 문제를 해결합니다.
 -   예정된 Skype 모임이 모임 탭에 표시되지 않는 문제를 해결합니다.
@@ -479,7 +481,7 @@ ms.locfileid: "25607355"
 -   **3D 애니메이션:** 가볍게 흔들거나 점프 및 회전하는 것과 같은 애니메이션으로 3D 모델에 생동감을 줄 수 있습니다.
 -   **SVG 아이콘을 도형으로 변환:** 모든 SVG 그림 및 아이콘의 색, 크기 또는 질감을 변경할 수 있도록 Office 도형으로 변환합니다.
 
-### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비 보안 업데이트
 -   들어오는 PSTN 호출에 대한 알림 UI에서 통화 전달 단추를 추가할 수 있습니다.
 -   ChatDefaultClient 및 CallDefaultClient가 Teams로 설정될 경우 통화 및 채팅이 팀에 전달될 것임을 나타내는 알림이 사용자에게 전송될 수 있습니다.
 -   사용자가 모임에 참여하지 않고 비즈니스용 Skype에서 사용되지 않도록 설정되고, 모임 참가 환경이 Native Limited Client로 설정될 때 사용자의 현재 상태를 오프라인으로 표시할 수 있습니다.
