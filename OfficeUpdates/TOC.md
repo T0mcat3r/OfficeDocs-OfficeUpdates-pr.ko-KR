@@ -1,6 +1,5 @@
 # Office 365 ProPlus
 ## [(날짜) 하 여 업데이트 내용](update-history-office365-proplus-by-date.md)
-## [(버전)에 의해 업데이트 내용](update-history-office365-proplus-by-version.md)
 ## [크기를 업데이트 합니다.](download-sizes-office365-proplus-updates.md)
 
 ## [릴리스 정보](release-notes-office365-proplus.md)
@@ -8,18 +7,18 @@
 ### 월별 채널
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
-#### [2016년](monthly-channel-2016.md)
+#### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
 ### 반기 채널
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
-#### [2016년](semi-annual-channel-2016.md)
+#### [2016](semi-annual-channel-2016.md)
 
 ### 반기 채널(대상 지정)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
-#### [2016년](semi-annual-channel-targeted-2016.md)
+#### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
 # Mac용 Office
@@ -44,7 +43,7 @@
 ## [SharePoint 업데이트](sharepoint-updates.md)
 ## [Skype 비즈니스 서버에 대 한 업데이트](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
-# 관련 링크
+# 관련된 링크
 ## [Windows 10 해제](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Microsoft 수명 주기 정책](https://support.microsoft.com/lifecycle)
 
