@@ -3,23 +3,23 @@ title: Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/18/2018
+ms.date: 10/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: bd92012c83b7438edac74990f3e18608d96fe251
-ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
+ms.openlocfilehash: 8fd677a9fc2db7e44bfc771a062f4f4f8d0e88e8
+ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25638178"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "25841264"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
-Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데이트로 정기적으로 업데이트됩니다. 이러한 업데이트는 [업데이트 채널](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)을 사용하여 릴리스됩니다. 각 업데이트 채널의 각 릴리스에는 버전 및 빌드 번호가 할당되어 표시됩니다. 
+Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데이트로 정기적으로 업데이트됩니다. 이러한 업데이트를 [업데이트 채널](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)을 사용하여 릴리스됩니다. 각 업데이트 채널의 각 릴리스에는 버전 및 빌드 번호가 할당되어 표시됩니다. 
 
 
 > [!NOTE]
@@ -29,9 +29,9 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다. 
  
-|**채널**|**버전**|**빌드**|**릴리스 날짜**|**해당 날짜까지 지원 되는 버전**|
+|**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월별  <br/> |1809  <br/> |10827.20181 <br/> | 2018년 10월 16일  <br/> |버전 1810이 릴리스됨 <br/>|
+|월 단위  <br/> |1810  <br/> |11001.20074<br/> | 2018년 10월 29일  <br/> |버전 1811이 릴리스됨 <br/>|
 |반기(대상 지정)  <br/> |1808  <br/> |10730.20155 <br/> | 2018년 10월 9일  <br/> | 2019년 3월 13일 <br/>|
 |반기 <br/> |1803  <br/> | 9126.2295<br/> |2018년 10월 9일  <br/> | 2019년 12월 10일 <br/>|
 |반기 <br/> |1708  <br/> |8431.2316  <br/> |2018년 10월 9일  <br/> | 2019년 3월 13일 <br/>|
@@ -39,48 +39,49 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 이전 버전의 Office 365 ProPlus에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
 
 
-다음 표에서는 월별, 반기(대상 지정) 및 반기의 업데이트 채널에 릴리스된 각 Office 365 ProPlus 업데이트에 대한 버전 및 빌드 번호 목록을 제공합니다. 표의 각 항목은 해당 릴리스에 대한 릴리스 정보에 직접 연결됩니다. 릴리스 정보는 Office 365 ProPlus에 대한 업데이트에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
+다음 표에서는 월별, 반기(대상 지정) 및 반기의 업데이트 채널에 릴리스된 각 Office 365 ProPlus 업데이트에대 한 버전 및 빌드 번호 목록을 제공합니다. 표의 각 항목은 해당 릴리스에 대한 릴리스 정보에 직접 연결됩니다. 릴리스 정보는 Office 365 ProPlus에 대한 업데이트에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
 
 
-|**연도**|**릴리스 날짜**|**월별 채널**|**반기 채널 (대상 지정)**|**반기 채널**|
+|**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018년|10월 16일 |[버전 1809 (빌드 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
-|2018년|10월 9일 |[버전 1809 (빌드 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[버전 1808 (빌드 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[버전 1803 (빌드 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [버전 1708 (빌드 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
-|2018년|9월 27일   |[Version 1809 (빌드 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
-|2018년|9월 11일   |[버전 1808 (빌드 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[버전 1808 (빌드 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[버전 1803 (빌드 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [버전 1708 (빌드 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
-|2018년|9월 5일   |[버전 1808 (빌드 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
-|2018년|8월 14일   |[버전 1807 (빌드 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[버전 1803 (빌드 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[버전 1803 (빌드 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [버전 1708 (빌드 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+|2018년|10월 29일 |[버전 1810(빌드 11001.20074)](monthly-channel-2018.md#version-1810-october-29)| | |
+|2018년|10월 16일 |[버전 1809(빌드 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
+|2018년|10월 9일 |[버전 1809(빌드 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[버전 1808(빌드 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[버전 1803(빌드 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [버전 1708(빌드 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018년|9월 27일   |[버전 1809(빌드 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
+|2018년|9월 11일   |[버전 1808(빌드 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[버전 1808(빌드 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[버전 1803(빌드 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [버전 1708(빌드 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
+|2018년|9월 5일   |[버전 1808(빌드 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
+|2018년|8월 14일   |[버전 1807(빌드 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[버전 1803(빌드 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[버전 1803(빌드 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [버전 1708(빌드 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||7월 25일   |[버전 1807(빌드 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
-||7월 17일   |[버전 1806 (빌드 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
-||7월 10일   |[버전 1806 (빌드 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[버전 1803 (빌드 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[버전 1803 (빌드 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [버전 1708 (빌드 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
-||6월 25일   |[버전 1806 (빌드 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
-||6월 13일   |[버전 1805 (빌드 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
-||6월 12일   |[버전 1805 (빌드 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[버전 1803 (빌드 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[버전 1708 (빌드 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [버전 1705 (빌드 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
-||5월 24일   |[버전 1805 (빌드 9330.2087)](monthly-channel-2018.md#version-1805-may-24) |||
-||5월 23일   |[버전 1805 (빌드 9330.2078)](monthly-channel-2018.md#version-1805-may-23)  |  |  |
-||5월 18일   |  |[버전 1803 (빌드 9126.2210)](semi-annual-channel-targeted-2018.md#version-1803-may-18)  |  |
-||5월 14일   |[버전 1804 (빌드 9226.2156)](monthly-channel-2018.md#version-1804-may-14)  |  |  |
-||5월 8일   |[버전 1804 (빌드 9226.2126)](monthly-channel-2018.md#version-1804-may-8)  |[버전 1803 (빌드 9126.2191)](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[버전 1708 (빌드 8431.2250)](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [버전 1705 (빌드 8201.2278)](semi-annual-channel-2018.md#version-1705-may-8)   |
-||4월 25일   | [버전 1804 (빌드 9226.2114)](monthly-channel-2018.md#version-1804-april-25)   |   |   |
-||4월 11일   | [버전 1803 (빌드 9126.2152)](monthly-channel-2018.md#version-1803-april-11)   |   |   |
-||4월 10일   |   | [버전 1803 (빌드 9126.2152)](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [버전 1708 (빌드 8431.2242)](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [버전 1705 (빌드 8201.2272)](semi-annual-channel-2018.md#version-1705-april-10)   |
-||3월 27일   | [버전 1803 (빌드 9126.2116)](monthly-channel-2018.md#version-1803-march-27)   |   |   |
-||3월 20일   |   | [버전 1803 (빌드 9126.2098)](semi-annual-channel-targeted-2018.md#version-1803-march-20)   |   |
-||3월 13일  | [버전 1802 (빌드 9029.2253)](monthly-channel-2018.md#version-1802-march-13)   | [버전 1803 (빌드 9126.2072)](semi-annual-channel-targeted-2018.md#version-1803-march-13)   | [버전 1708 (빌드 8431.2236)](semi-annual-channel-2018.md#version-1708-march-13) <br/>    [버전 1705 (빌드 8201.2265)](semi-annual-channel-2018.md#version-1705-march-13)   |
-||2월 26일   | [버전 1802 (빌드 9029.2167)](monthly-channel-2018.md#version-1802-february-26)   |   |   |
-||2월 13일   | [버전 1801 (빌드 9001.2171)](monthly-channel-2018.md#version-1801-february-13)   | [버전 1708 (빌드 8431.2215)](semi-annual-channel-targeted-2018.md#version-1708-february-13)   | [버전 1708 (빌드 8431.2215)](semi-annual-channel-2018.md#version-1708-february-13)  <br/>   [버전 1705 (빌드 8201.2258)](semi-annual-channel-2018.md#version-1705-february-13)   |
-||2월 7일   | [버전 1801 (빌드 9001.2144)](monthly-channel-2018.md#version-1801-february-7)   |   |   |
-||2월 1일   | [버전 1801 (빌드 9001.2138)](monthly-channel-2018.md#version-1801-february-1)   |   |   |
-||1월 30일   | [버전 1712 (빌드 8827.2179)](monthly-channel-2018.md#version-1712-january-30)  |   |   |
-||1월 17일   | [버전 1712 (빌드 8827.2148)](monthly-channel-2018.md#version-1712-january-17)   |   |   |
-||1월 9일   | [버전 1711 (빌드 8730.2175)](monthly-channel-2018.md#version-1711-january-9)   | [버전 1708 (빌드 8431.2153)](semi-annual-channel-targeted-2018.md#version-1708-january-9)   | [버전 1708 (빌드 8431.2153)](semi-annual-channel-2018.md#version-1708-january-9)  <br/>   [버전 1705 (빌드 8201.2217)](semi-annual-channel-2018.md#version-1705-january-9)   |
-||1월 2일   | [버전 1711 (빌드 8730.2165)](monthly-channel-2018.md#version-1711-january-2)   |   |   |
-|2017년|12월 12일  <br/> | [버전 1711 (빌드 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [버전 1708 (빌드 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [버전 1705 (빌드 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [버전 1701 (빌드 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
-||12월 6일  <br/> | [버전 1711 (빌드 8730.2122)](monthly-channel-2017.md#version-1711-december-6)  <br/> |  <br/> |  <br/> |
-||11월 27일  <br/> | [버전 1710 (빌드 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |
-||11월 24일  <br/> |  <br/> |  <br/> |[버전 1705 (빌드 8201.2209)](semi-annual-channel-2017.md#version-1705-november-24)  <br/> |
-||11월 20일  <br/> | [버전 1710 (빌드 8625.2132)](monthly-channel-2017.md#version-1710-november-20)  <br/> |  <br/> |  <br/> |
-||11월 14일  <br/> | [버전 1710 (빌드 8625.2127)](monthly-channel-2017.md#version-1710-november-14)  <br/> | [버전 1708 (빌드 8431.2110)](semi-annual-channel-targeted-2017.md#version-1708-november-14)  <br/> | [버전 1705 (빌드 8201.2207)](semi-annual-channel-2017.md#version-1705-november-14)  <br/>  [버전 1701 (빌드 7766.2122)](semi-annual-channel-2017.md#version-1701-november-14)  <br/> |
+||7월 17일   |[버전 1806(빌드 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
+||7월 10일   |[버전 1806(빌드 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[버전 1803(빌드 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[버전 1803(빌드 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [버전 1708(빌드 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+||6월 25일   |[버전 1806(빌드 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
+||6월 13일   |[버전 1805(빌드 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
+||6월 12일   |[버전 1805(빌드 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[버전 1803(빌드 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[버전 1708(빌드 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [버전 1705(빌드 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
+||5월 24일   |[버전 1805(빌드 9330.2087)](monthly-channel-2018.md#version-1805-may-24) |||
+||5월 23일   |[버전 1805(빌드 9330.2078)](monthly-channel-2018.md#version-1805-may-23)  |  |  |
+||5월 18일   |  |[버전 1803(빌드 9126.2210)](semi-annual-channel-targeted-2018.md#version-1803-may-18)  |  |
+||5월 14일   |[버전 1804(빌드 9226.2156)](monthly-channel-2018.md#version-1804-may-14)  |  |  |
+||5월 8일   |[버전 1804(빌드 9226.2126)](monthly-channel-2018.md#version-1804-may-8)  |[버전 1803(빌드 9126.2191)](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[버전 1708(빌드 8431.2250)](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [버전 1705(빌드 8201.2278)](semi-annual-channel-2018.md#version-1705-may-8)   |
+||4월 25일   | [버전 1804(빌드 9226.2114)](monthly-channel-2018.md#version-1804-april-25)   |   |   |
+||4월 11일   | [버전 1803(빌드 9126.2152)](monthly-channel-2018.md#version-1803-april-11)   |   |   |
+||4월 10일   |   | [버전 1803(빌드 9126.2152)](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [버전 1708(빌드 8431.2242)](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [버전 1705(빌드 8201.2272)](semi-annual-channel-2018.md#version-1705-april-10)   |
+||3월 27일   | [버전 1803(빌드 9126.2116)](monthly-channel-2018.md#version-1803-march-27)   |   |   |
+||3월 20일   |   | [버전 1803(빌드 9126.2098)](semi-annual-channel-targeted-2018.md#version-1803-march-20)   |   |
+||3월 13일  | [버전 1802(빌드 9029.2253)](monthly-channel-2018.md#version-1802-march-13)   | [버전 1803(빌드 9126.2072)](semi-annual-channel-targeted-2018.md#version-1803-march-13)   | [버전 1708(빌드 8431.2236)](semi-annual-channel-2018.md#version-1708-march-13) <br/>    [버전 1705(빌드 8201.2265)](semi-annual-channel-2018.md#version-1705-march-13)   |
+||2월 26일   | [버전 1802(빌드 9029.2167)](monthly-channel-2018.md#version-1802-february-26)   |   |   |
+||2월 13일   | [버전 1801(빌드 9001.2171)](monthly-channel-2018.md#version-1801-february-13)   | [버전 1708(빌드 8431.2215)](semi-annual-channel-targeted-2018.md#version-1708-february-13)   | [버전 1708(빌드 8431.2215)](semi-annual-channel-2018.md#version-1708-february-13)  <br/>   [버전 1705(빌드 8201.2258)](semi-annual-channel-2018.md#version-1705-february-13)   |
+||2월 7일   | [버전 1801(빌드 9001.2144)](monthly-channel-2018.md#version-1801-february-7)   |   |   |
+||2월 1일   | [버전 1801(빌드 9001.2138)](monthly-channel-2018.md#version-1801-february-1)   |   |   |
+||1월 30일   | [버전 1712(빌드 8827.2179)](monthly-channel-2018.md#version-1712-january-30)  |   |   |
+||1월 17일   | [버전 1712(빌드 8827.2148)](monthly-channel-2018.md#version-1712-january-17)   |   |   |
+||1월 9일   | [버전 1711(빌드 8730.2175)](monthly-channel-2018.md#version-1711-january-9)   | [버전 1708(빌드 8431.2153)](semi-annual-channel-targeted-2018.md#version-1708-january-9)   | [버전 1708(빌드 8431.2153)](semi-annual-channel-2018.md#version-1708-january-9)  <br/>   [버전 1705(빌드 8201.2217)](semi-annual-channel-2018.md#version-1705-january-9)   |
+||1월 2일   | [버전 1711(빌드 8730.2165)](monthly-channel-2018.md#version-1711-january-2)   |   |   |
+|2017|12월 12일  <br/> | [버전 1711(빌드 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [버전 1708(빌드 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [버전 1705(빌드 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [버전 1701(빌드 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
+||12월 6일  <br/> | [버전 1711(빌드 8730.2122)](monthly-channel-2017.md#version-1711-december-6)  <br/> |  <br/> |  <br/> |
+||11월 27일  <br/> | [버전 1710(빌드 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |
+||11월 24일  <br/> |  <br/> |  <br/> |[버전 1705(빌드 8201.2209)](semi-annual-channel-2017.md#version-1705-november-24)  <br/> |
+||11월 20일  <br/> | [버전 1710(빌드 8625.2132)](monthly-channel-2017.md#version-1710-november-20)  <br/> |  <br/> |  <br/> |
+||11월 14일  <br/> | [버전 1710(빌드 8625.2127)](monthly-channel-2017.md#version-1710-november-14)  <br/> | [버전 1708(빌드 8431.2110)](semi-annual-channel-targeted-2017.md#version-1708-november-14)  <br/> | [버전 1705(빌드 8201.2207)](semi-annual-channel-2017.md#version-1705-november-14)  <br/>  [버전 1701(빌드 7766.2122)](semi-annual-channel-2017.md#version-1701-november-14)  <br/> |
 ||11월 2일  <br/> |[버전 1710(빌드 8625.2121)](monthly-channel-2017.md#version-1710-november-2)  <br/> |  <br/> |  <br/> |
 ||10월 25일  <br/> | [버전 1709(빌드 8528.2147)](monthly-channel-2017.md#version-1709-october-25)  <br/> |  <br/> |  <br/> |
 ||10월 16일  <br/> | [버전 1709(빌드 8528.2139)](monthly-channel-2017.md#version-1709-october-16)  <br/> |  <br/> |  <br/> |
@@ -106,7 +107,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 ||5월 18일  <br/> | [버전 1704(빌드 8067.2115)](monthly-channel-2017.md#version-1704-may-18)  <br/> |  <br/> |  <br/> |
 ||5월 9일  <br/> | [버전 1703(빌드 7967.2161)](monthly-channel-2017.md#version-1703-may-9)  <br/> | [버전 1701(빌드 7766.2084)](semi-annual-channel-targeted-2017.md#version-1701-may-9)  <br/> | [버전 1609(빌드 7369.2130)](semi-annual-channel-2017.md#version-1609-may-9)  <br/>  [버전 1605(빌드 6965.2150)](semi-annual-channel-2017.md#version-1605-may-9)  <br/> |
 ||4월 21일  <br/> | [버전 1703(빌드 7967.2139)](monthly-channel-2017.md#version-1703-april-21)  <br/> |  <br/> |  <br/> |
-||4월 11일  <br/> | [버전 1702(빌드 7870.2038)](monthly-channel-2017.md#version-1702-april-11)  <br/> | [버전 1701(빌드 7766.2076)](semi-annual-channel-targeted-2017.md#version-1701-april-11)  <br/> | [버전 1701(빌드 7766.2076)](semi-annual-channel-2017.md#version-1609-april-11)  <br/>  [버전 1701 (빌드 7766.2076)](semi-annual-channel-2017.md#version-1605-april-11)  <br/> |
+||4월 11일  <br/> | [버전 1702(빌드 7870.2038)](monthly-channel-2017.md#version-1702-april-11)  <br/> | [버전 1701(빌드 7766.2076)](semi-annual-channel-targeted-2017.md#version-1701-april-11)  <br/> | [버전 1609(빌드 7369.2127)](semi-annual-channel-2017.md#version-1609-april-11)  <br/>  [버전 1605(빌드 6965.2145)](semi-annual-channel-2017.md#version-1605-april-11)  <br/> |
 ||3월 27일  <br/> | [버전 1702(빌드 7870.2031)](monthly-channel-2017.md#version-1702-march-27)  <br/> |  <br/> |  <br/> |
 ||3월 14일  <br/> | [버전 1702(빌드 7870.2024)](monthly-channel-2017.md#version-1702-march-14)  <br/> | [버전 1701(빌드 7766.2071)](semi-annual-channel-targeted-2017.md#version-1701-march-14)  <br/> | [버전 1609(빌드 7369.2120)](semi-annual-channel-2017.md#version-1609-march-14)  <br/>  [버전 1605(빌드 6965.2140)](semi-annual-channel-2017.md#version-1605-march-14)  <br/> |
 ||3월 9일  <br/> | [버전 1702(빌드 7870.2020)](monthly-channel-2017.md#version-1702-march-9)  <br/> |  <br/> |  <br/> |
@@ -116,7 +117,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 ||1월 25일  <br/> | [버전 1612(빌드 7668.2066)](monthly-channel-2017.md#version-1612-january-25)  <br/> |  <br/> |  <br/> |
 ||1월 10일  <br/> |  <br/> | [버전 1609(빌드 7369.2102)](semi-annual-channel-targeted-2017.md#version-1609-january-10)  <br/> | [버전 1605(빌드 6965.2117)](semi-annual-channel-2017.md#version-1605-january-10)  <br/>  [버전 1602(빌드 6741.2105)](semi-annual-channel-2017.md#version-1602-january-10)  <br/> |
 ||1월 4일  <br/> | [버전 1611(빌드 7571.2109)](monthly-channel-2017.md#version-1611-january-4)  <br/> |  <br/> |  <br/> |
-|2016년|12월 13일  <br/> | [버전 1611(빌드 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |[버전 1609(빌드 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [버전 1605(빌드 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [버전 1602(빌드 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
+|2016|12월 13일  <br/> | [버전 1611(빌드 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |[버전 1609(빌드 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [버전 1605(빌드 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [버전 1602(빌드 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
 ||12월 6일  <br/> | [버전 1611(빌드 7571.2072)](monthly-channel-2016.md#version-1611-december-6)  <br/> |  <br/> |  <br/> |
 ||11월 10일  <br/> | [버전 1610(빌드 7466.2038)](monthly-channel-2016.md#version-1610-november-10)  <br/> |  <br/> |  <br/> |
 ||11월 8일  <br/> |[버전 1609(빌드 7369.2055)](monthly-channel-2016.md#version-1609-november-8)  <br/> | [버전 1609(빌드 7369.2055)](semi-annual-channel-targeted-2016.md#version-1609-november-8)  <br/> | [버전 1605(빌드 6965.2105)](semi-annual-channel-2016.md#version-1605-november-8)  <br/>  [버전 1602(빌드 6741.2088)](semi-annual-channel-2016.md#version-1602-november-8)  <br/> |
@@ -125,7 +126,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 ||10월 4일  <br/> | [버전 1609(빌드 7369.2024)](monthly-channel-2016.md#version-1609-october-4)  <br/> |  <br/> |  <br/> |
 ||9월 26일  <br/> |[버전 1608(빌드 7341.2035)](monthly-channel-2016.md#version-1608-september-26)  <br/> |  <br/> |  <br/> |
 ||9월 21일  <br/> |[버전 1608(빌드 7341.2032)](monthly-channel-2016.md#version-1608-september-21)  <br/> |  <br/> |  <br/> |
-||9월 13일  <br/> |[버전 1607(빌드 7167.2060)](monthly-channel-2016.md#version-1607-september-13)  <br/> |[버전 1607(빌드 7167.2060)](semi-annual-channel-targeted-2016.md#version-1605-september-13)  <br/> | [버전 1607(빌드 7167.2060)](semi-annual-channel-2016.md#version-1602-september-13)  <br/>  [버전 1509(빌드 6001.1090)](semi-annual-channel-2016.md#version-1509-september-13)  <br/> |
+||9월 13일  <br/> |[버전 1607(빌드 7167.2060)](monthly-channel-2016.md#version-1607-september-13)  <br/> |[버전 1605(빌드 6965.2084)](semi-annual-channel-targeted-2016.md#version-1605-september-13)  <br/> | [버전 1602(빌드 6741.2071)](semi-annual-channel-2016.md#version-1602-september-13)  <br/>  [버전 1509(빌드 6001.1090)](semi-annual-channel-2016.md#version-1509-september-13)  <br/> |
 ||9월 6일  <br/> |[버전 1607(빌드 7167.2055)](monthly-channel-2016.md#version-1607-september-6)  <br/> |  <br/> |  <br/> |
 ||8월 31일  <br/> |[버전 1607(빌드 7167.2047)](monthly-channel-2016.md#version-1607-august-31)  <br/> |  <br/> |  <br/> |
 ||8월 16일  <br/> |[버전 1607(빌드 7167.2040)](monthly-channel-2016.md#version-1607-august-16)  <br/> |  <br/> |  <br/> |
@@ -144,7 +145,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 ||5월 4일  <br/> |[버전 1604(빌드 6868.2060)](monthly-channel-2016.md#version-1604-may-4)  <br/> |  <br/> |  <br/> |
 ||5월 3일  <br/> |  <br/> |[버전 1602(빌드 6741.2033)](semi-annual-channel-targeted-2016.md#version-1602-may-3)  <br/> |  <br/> |
 ||4월 28일  <br/> |[버전 1603(빌드 6769.2040)](monthly-channel-2016.md#version-1603-april-28)  <br/> |  <br/> |  <br/> |
-||4월 12일  <br/> |[버전 1603(빌드 6769.2017)](monthly-channel-2016.md#version-1603-april-12)  <br/> |[버전 1602(빌드 6741.2026) ](semi-annual-channel-targeted-2016.md#version-1602-april-12) <br/> |[버전 1509(빌드 6001.1073)](semi-annual-channel-2016.md#version-1509-april-12)  <br/> |
+||4월 12일  <br/> |[버전 1603(빌드 6769.2017)](monthly-channel-2016.md#version-1603-april-12)  <br/> |[버전 1602(빌드 6741.2026)](semi-annual-channel-targeted-2016.md#version-1602-april-12) <br/> |[버전 1509(빌드 6001.1073)](semi-annual-channel-2016.md#version-1509-april-12)  <br/> |
 ||4월 4일  <br/> |[버전 1603(빌드 6769.2015)](monthly-channel-2016.md#version-1603-april-4)  <br/> |[버전 1602(빌드 6741.2025)](semi-annual-channel-targeted-2016.md#version-1602-april-4)  <br/> |  <br/> |
 ||3월 24일  <br/> |[버전 1602(빌드 6741.2021)](monthly-channel-2016.md#version-1602-march-24)  <br/> |  <br/> |  <br/> |
 ||3월 23일  <br/> |  <br/> |[버전 1602(빌드 6741.2021)](semi-annual-channel-targeted-2016.md#version-1602-march-23)  <br/> |  <br/> |
@@ -173,5 +174,5 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 - [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> Office 사용 문제와 관련하여 도움이 필요한 경우 [Microsoft의 Answer 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나[고객 지원팀](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
+> Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
 
