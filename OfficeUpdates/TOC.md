@@ -38,7 +38,7 @@
 ## [Office 2010 업데이트](update-history-office-2010-click-to-run.md)
 
 # Office 서버 제품
-## [Exchange Server 업데이트](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+## [Exchange Server 업데이트](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 ## [Project Server 업데이트](project-server-updates.md)
 ## [SharePoint 업데이트](sharepoint-updates.md)
 ## [Skype 비즈니스 서버에 대 한 업데이트](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
