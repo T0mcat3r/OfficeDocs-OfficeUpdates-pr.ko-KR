@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Office에 대 한 링크와 IT 전문가 Office 365 ProPlus, Mac 용 Office, 영구 Office 및 Office Server에 대 한 콘텐츠를 릴리스하고 제공 제품
-ms.openlocfilehash: 1d4801133b50bd1de838c43afc564c88237a6c50
-ms.sourcegitcommit: 8153b40a75720fd5d01f43c898ea227f17f7fbec
+ms.openlocfilehash: 7bd39ca0929047841f1f40333029cb63a8d2a10c
+ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "25018521"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "26024562"
 ---
 # <a name="office-updates"></a>Office 업데이트
 
@@ -62,7 +62,7 @@ Office 제품을 포함 하 여 Office 365 ProPlus, Office for Mac, 기능, 보�
                 <div class="card">
                     <div class="cardText">
                         <h3>Office 서버 제품</h3>
-                        <p><a href="https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx">Exchange Server 업데이트</a></p>
+                        <p><a href="https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates">Exchange Server 업데이트</a></p>
                         <p><a href="project-server-updates.md">Project Server 업데이트</a></p>
                         <p><a href="sharepoint-updates.md">SharePoint Server 업데이트</a></p>
                         <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype 비즈니스 서버에 대 한 업데이트</a></p>
@@ -97,8 +97,8 @@ Office 제품을 포함 하 여 Office 365 ProPlus, Office for Mac, 기능, 보�
                     <div class="cardText">
                         <h3>기타 Office 리소스</h3>
                             <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Office 365의 새로운 기능</a></p>
-                            <p><a href="https://products.office.com/business/office-365-roadmap">Office 365 로드맵</a></p>
-                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Office 365 변경 위에 계속 해 서</a></p>
+                            <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Office 365 로드맵</a></p>
+                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Office 365 변경 내용 파악</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Office 블로그 (영문)</a></p>
                     </div>
                 </div>
