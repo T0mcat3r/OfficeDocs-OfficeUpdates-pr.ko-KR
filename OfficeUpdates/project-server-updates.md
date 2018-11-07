@@ -13,16 +13,16 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 한 곳에서 Project Server 2013 및 Project Server 2010용 업데이트를 찾아서 관리합니다. 이 페이지의 링크를 사용하여 업데이트에 대해 자세히 알아보고 업데이트를 다운로드할 수 있습니다.
-ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: d8e5e8801d639d8a2b48ade63dc62571aed2c782
+ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456702"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "26024592"
 ---
 # <a name="project-server-updates"></a>Project Server 업데이트
 
-Project Server 업데이트 
+이 페이지의 링크를 사용하여 Project Server 2013 및 Project Server 2010 업데이트에 대해 자세히 알아보고 업데이트를 다운로드할 수 있습니다. 
 > [!NOTE]
 > Project Server 2016은 SharePoint Server 2016 Enteprise Edition에 속하므로 Project Server 2016에 대한 업데이트 정보는 [SharePoint 업데이트](sharepoint-updates.md)를 참조하세요.
   
@@ -62,7 +62,7 @@ Project Server 업데이트
 |2016년 3월  <br/> |[KB3114823](https://support.microsoft.com/kb/3114823) <br/> |
 |2016년 2월  <br/> |[KB3114723](https://support.microsoft.com/kb/3114723) <br/> |
 |2016년 1월  <br/> |[KB3114493](https://support.microsoft.com/kb/3114493) <br/> |
-|2015년 12월  <br/> |[KB3114341](https://support.microsoft.com/kb/3114341) <br/> |
+|December 2015  <br/> |[KB3114341](https://support.microsoft.com/kb/3114341) <br/> |
 |2015년 11월  <br/>  |[KB3101369](https://support.microsoft.com/kb/3101369) <br/> |
 |2015년 10월  <br/> |[KB3085489](https://support.microsoft.com/kb/3085489) <br/> |
 |2015년 9월  <br/> |[KB2986195](https://support.microsoft.com/kb/2986195) <br/> |
@@ -109,7 +109,7 @@ Project Server 업데이트
 |2016년 3월  <br/> |[KB3114876](https://support.microsoft.com/kb/3114876) <br/> |
 |2016년 3월  <br/> |[KB3114754](https://support.microsoft.com/kb/3114754) <br/> |
 |2016년 1월  <br/> |[KB3114556](https://support.microsoft.com/kb/3114556) <br/> |
-|2015년 12월  <br/> |[KB3114405](https://support.microsoft.com/kb/3114405) <br/> |
+|December 2015  <br/> |[KB3114405](https://support.microsoft.com/kb/3114405) <br/> |
 |2015년 11월  <br/> |[KB3101530](https://support.microsoft.com/kb/3101530) <br/> |
 |2015년 10월  <br/> |[KB3085598](https://support.microsoft.com/kb/3085598) <br/> |
 |2015년 9월  <br/> |[KB3085517](https://support.microsoft.com/kb/3085517) <br/> |
@@ -132,5 +132,5 @@ Project Server 업데이트
 
 ## <a name="related-topics"></a>관련 항목
 
-- [Exchange Server 업데이트](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+- [Exchange Server 업데이트](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 - [SharePoint 업데이트](sharepoint-updates.md)
