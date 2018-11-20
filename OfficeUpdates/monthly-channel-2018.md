@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/6/2018
+ms.date: 11/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 817aad039b91c3b23eceaf95123b02605825cbd4
-ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
+ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
+ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "26031647"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "26526393"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -24,47 +24,81 @@ ms.locfileid: "26031647"
  > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
-> - Microsoft는 일정 기간 동안 매월 기능(및 경우에 따라 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다. 
-  [자세한 정보](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Microsoft는 일정 기간 동안 매달 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1810-november-13"></a>버전 1810: 11월 13일
+*버전 1810(빌드 11001.20108)* 
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트
+
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8574): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8577): Microsoft Excel 원격 코드 실행 취약성 
+
+### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트 
+
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8522): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8524): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook 정보 공개 취약성 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8576): Microsoft Outlook 원격 코드 실행 취약성 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook 정보 공개 취약성 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8582): Microsoft Outlook 원격 코드 실행 취약성 
+
+### <a name="project-security-updates"></a>Project: 보안 업데이트 
+
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8575): Microsoft Word 원격 코드 실행 취약성 
+
+### <a name="word-security-updates"></a>Word: 보안 업데이트  
+
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8573): Microsoft Word 원격 코드 실행 취약성 
+
+### <a name="skype-for-business-security-updates"></a>비즈니스용 Skype: 보안 업데이트 
+
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8546): Microsoft 비즈니스용 Skype 서비스 거부 취약성 
+
+ ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
+
+ - Project Online에 프로젝트를 저장/게시할 때 상태 표시줄이 항상 최신 상태를 표시하도록 업데이트되지 않는 문제를 해결했습니다.
+ - 새로운 최신 환경에 있는 SharePoint 문서 라이브러리의 프로젝트 파일을 사용하는 경우 체크 아웃 필요 및 읽기 전용 작업이 올바르게 연결되지 않는 문제를 해결했습니다.
+
 
 ## <a name="version-1810-october-29"></a>버전 1810: 10월 29일
 *버전 1810(빌드 11001.20074)* 
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트 
 
-- **메모를 사용하여 공동 작업:** 기본 제공 회신 상자를 사용하여 스프레드시트에서 바로 대화를 진행합니다. [자세한 정보](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-- **간단하게 확인 가능한 주식 시세:** 새로운 주식 데이터 형식으로 최신 주식 가격, 가격 변동 등 다양한 정보를 검색합니다. 새로운 지리 데이터 형식도 있습니다. [자세한 정보](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
-- **그림 뒤에 있는 내용 표시:** 워크시트에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 모두 완료되었습니다. [자세한 정보](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **수식 입력줄에서 쉽게 편집:** 이제 Ctrl+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문자에 대한 지원도 개선되었습니다. [자세한 정보](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
+- **메모를 사용하여 공동 작업:** 기본 제공 회신 상자를 사용하여 스프레드시트에서 바로 대화를 진행합니다. [자세히 알아보기](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+- **간단하게 확인 가능한 주식 시세:** 새로운 주식 데이터 형식으로 최신 주식 가격, 가격 변동 등 다양한 정보를 검색합니다. 새로운 지리 데이터 형식도 있습니다니다. [자세히 알아보기](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **그림 뒤에 있는 내용 표시:** 워크시트에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **수식 입력줄에서 쉽게 편집:** 이제 Ctrl+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문자에 대한 지원도 개선되었습니다. [자세히 알아보기](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트 
 
-- **일정 도우미의 사용자 제안:** 모임을 예약할 때 참석자가 추가하는 권장 사항을 참조하세요. 이제 일정 도우미 및 받는 사람 줄 간을 전환할 필요가 없습니다. [자세한 정보](https://support.office.com/article/d284c6d9-206e-4926-92b4-5addc0fcbefb)
-- **더욱 간편해진 회의실 예약:** 둘 이상의 회의실 목록을 사용하여 회의실을 찾고, 선택한 회의실을 그대로 유지하면서 목록 간을 전환합니다.
-- **지난 이벤트에 대한 미리 알림 표시 안 함:** 이벤트가 종료된 후에 이벤트의 미리 알림을 자동으로 해제하도록 일정을 설정할 수 있습니다. [자세한 정보](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+- **일정 도우미의 사용자 제안:** 모임을 예약할 때 참석자가 추가하는 권장 사항을 참조하세요. 이제 일정 도우미와 받는 사람 줄 사이를 전환할 필요가 없습니다. [자세히 알아보기](https://support.office.com/article/d284c6d9-206e-4926-92b4-5addc0fcbefb)
+- **더욱 간편해진 회의실 예약:** 둘 이상의 회의실 목록을 사용하여 회의실을 찾고, 선택한 회의실을 그대로 유지하면서 목록을 전환합니다.
+- **지난 이벤트에 대한 미리 알림 표시 안 함:** 이벤트가 종료된 후에 이벤트의 미리 알림을 자동으로 해제하도록 일정을 설정할 수 있습니다. [자세히 알아보기](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트 
 
-- **그림 뒤에 있는 내용 표시:** 슬라이드에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 모두 완료되었습니다. [자세한 정보](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **새로운 교정 도구:** 단어를 틀릴까봐 스트레스 받지 마세요. 이제 PowerPoint는 문법 및 맞춤법 제안 사항을 제공합니다.
-- **스케치를 세련되게 변형:** 손으로 그린 텍스트와 도형을 세련된 다이어그램으로 바꾸어드립니다. 잉크 스트로크만 선택하면 됩니다. [자세한 정보](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **그림 뒤에 있는 내용 표시:** 슬라이드에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **새로운 교정 도구:** 단어를 틀릴까 봐 스트레스받지 마세요. 이제 PowerPoint에서 문법과 맞춤법 제안 사항을 제공합니다.
+- **스케치를 세련되게 변형:** 손으로 그린 텍스트와 도형을 세련된 다이어그램으로 바꾸어 드립니다. 시작하려면 잉크 스트로크만 선택하면 됩니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트 
 
-- **그림 뒤에 있는 내용 표시:** 문서에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 모두 완료되었습니다. [자세한 정보](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **문서에 생동감 주기:** 페이지에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세한 정보](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **그림 뒤에 있는 내용 표시:** 문서에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **문서에 생동감 주기:** 페이지에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세히 알아보기](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트 
-- **새로운 모습의 리본 아이콘** 모든 기능은 동일하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="publisher-feature-updates"></a>Publisher: 기능 업데이트 
-- **새로운 모습의 리본 아이콘** 모든 기능은 동일하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="project-feature-updates"></a>Project: 기능 업데이트 
-- **새로운 모습의 리본 아이콘** 모든 기능은 동일하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트 
-- **새로운 모습의 리본 아이콘** 모든 기능은 동일하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 
 ## <a name="version-1809-october-16"></a>버전 1809: 10월 16일
@@ -98,23 +132,23 @@ ms.locfileid: "26031647"
 *버전 1809(빌드 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
-- **빠른 조회** 더 빠른 답변을 얻을 수 있도록 VLOOKUP, HLOOKUP 및 MATCH 계산을 가속화했습니다. [자세한 정보](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **모든 가져오기 및 변환 팬 호출** 가져오기 및 변환 작업을 많이 사용하는 편이라면 개선된 예제의 열 기능으로 유용하게 작업할 수 있습니다. 또한 많은 커넥터도 개선되었습니다. [자세한 정보](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **새로운 모습의 리본 아이콘** 모든 기능은 동일하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **빠른 조회** 더 빠른 답변을 얻을 수 있도록 VLOOKUP, HLOOKUP 및 MATCH 계산을 가속화했습니다. [자세히 알아보기](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **가져오기 및 변환 팬 모두 호출** 가져오기 및 변환 작업을 많이 사용하는 편이라면 개선된 예제의 열 기능으로 유용하게 작업할 수 있습니다. 또한 많은 커넥터도 개선되었습니다. [자세히 알아보기](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
-- **출시 예정 기능 확인** 출시 전에 새로운 사용자 환경을 체험해보고 의견을 보내 주세요. [자세한 정보](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **안전한 링크 뒤에 URL 표시** 안전한 링크는 전자 메일에 수신된 악의적인 URL로부터 보호하지만 원래 URL을 숨깁니다. 이제 URL 위로 마우스를 가져가면 안전한 링크로 보호되더라도 원본을 볼 수 있습니다.
-- **검색 시 제안된 맞춤법 표시** 검색을 수행한 후에 Outlook은 맞춤법 수정 사항을 포함하는 제안된 검색 쿼리를 제공합니다.
-- **새로운 모습의 리본 아이콘** 모든 기능은 동일하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **출시 예정 기능 확인** 출시 전에 새로운 사용자 환경을 체험해 보고 의견을 보내 주세요. [자세히 알아보기](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
+- **안전한 링크 뒤에 URL 표시** 안전한 링크는 전자 메일로 받은 악의적인 URL로부터 보호해 주지만 원래 URL을 숨깁니다. 하지만 이제 URL 위로 마우스를 가져가면 안전한 링크로 보호되더라도 원본을 볼 수 있습니다.
+- **검색 시 제안된 맞춤법 표시** 검색한 후 Outlook에서 맞춤법 수정 사항을 포함하는 제안된 검색 쿼리를 제공합니다.
+- **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
-- **슬라이드에 생동감 주기:** 화면에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다.  [자세한 정보](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **새로운 모습의 리본 아이콘** 모든 기능은 동일하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **슬라이드에 생동감 주기** 화면에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세히 알아보기](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
-- **\@mentions로 주의 끌기** 메모에 @mentions를 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **새로운 모습의 리본 아이콘** 모든 기능은 동일하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **\@mentions로 주의 끌기** 메모에 @mentions를 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. [자세히 알아보기](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **수식 편집기 변환기** 변환기를 사용하여 Microsoft 수식 편집기로 만든 수식을 Office Math ML 형식으로 변환하여 편집할 수 있습니다.
 
 ## <a name="version-1808-september-11"></a>버전 1808: 9월 11일
@@ -135,18 +169,18 @@ ms.locfileid: "26031647"
 *버전 1808(빌드 10730.20088)*
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
- - **연결된 테이블 새로 고침, 다시 연결 또는 제거** 업데이트된 연결된 테이블 관리자에서 모든 데이터 원본 및 연결된 테이블을 관리할 수 있습니다. [자세한 정보](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+ - **연결된 테이블 새로 고침, 다시 연결 또는 제거** 업데이트된 연결된 테이블 관리자에서 모든 데이터 원본 및 연결된 테이블을 관리할 수 있습니다. [자세히 알아보기](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
- - **모임 전달 해제** 참석자가 모임을 다른 사용자에게 전달하지 못하도록 합니다. 리본으로 이동한 후 응답 옵션을 클릭하면 됩니다. [자세한 정보](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ - **모임 전달 해제** 참석자가 모임을 다른 사용자에게 전달하지 못하도록 합니다. 리본으로 이동한 후 응답 옵션을 클릭하면 됩니다. [자세히 알아보기](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
- - **다음 다이어그램에서 상징적 순간 즐기기** 분석, 예술, 경축, 얼굴, 스포츠 등에 대한 아이콘을 포함하는 26가지 새 스텐실 중에서 선택할 수 있습니다. 
- - **Visio 셰이프에서 Word 문서 만들기** 셰이프 및 메타데이터를 포함하는 다이어그램 콘텐츠를 Word 문서에 자동으로 추가합니다. 그런 후 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세한 정보](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio 및 Power BI: 보다 나은 통합** 몇 번의 클릭만으로 Visio 다이어그램을 대화형 Power BI 시각화로 변환합니다. [자세한 정보](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **다음 다이어그램에서 상징적 순간 즐기기** 분석, 예술, 경축, 얼굴, 스포츠 등에 대한 아이콘이 있는 새 스텐실 26가지 중에서 선택할 수 있습니다. 
+ - **Visio 셰이프로 Word 문서 만들기** 셰이프, 메타데이터 등의 다이어그램 콘텐츠를 Word 문서에 자동으로 추가합니다. 그런 다음, 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세히 알아보기](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio 및 Power BI: 보다 나은 통합** 몇 번의 클릭만으로 Visio 다이어그램을 대화형 Power BI 시각화로 변환합니다. [자세히 알아보기](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project: 기능 업데이트
- - **작업 보드 카드에 자세한 정보 표시** 제목만으로 이야기를 전달하지 못할 경우 중요한 세부 사항을 표시하도록 작업 보드 카드를 사용자 지정합니다. [자세한 정보](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+ - **작업 보드 카드에 자세한 정보 표시** 제목만으로 이야기를 전달하지 못할 경우 중요한 세부 사항을 표시하도록 작업 보드 카드를 사용자 지정합니다. [자세히 알아보기](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -  사용자가 복사하기 위해 선택한 셀 범위를 표시하는 점선이 붙여넣기와 같은 후속 사용자 작업 이후에도 사라지지 않고 클립보드에 남아 있는 Excel의 문제를 수정합니다. 
@@ -220,12 +254,12 @@ ms.locfileid: "26031647"
 *버전 1806(빌드 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
- - **향상된 셀 및 수식 입력줄 편집:** 이제 Ctrl+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문자에 대한 지원도 개선되었습니다.[자세한 정보](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+ - **향상된 셀 및 수식 입력줄 편집:** 이제 Ctrl+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문자에 대한 지원도 개선되었습니다. [자세히 알아보기](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
  - **되풀이 기본값:** 약속 되풀이 대화 상자("되풀이 범위" 아래)에서는 “끝 날짜 지정하지 않음” 대신 “끝 날짜”가 기본 설정이고 첫 번째로 표시되며, 기본 끝 날짜가 설정됩니다.
- - **접근성 검사 개선:** 접근성 검사는 메시지에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세한 정보](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **접근성 검사 개선:** 접근성 검사에서는 메시지에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세히 알아보기](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
  - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -289,7 +323,7 @@ ms.locfileid: "26031647"
  - **새 차트로 데이터 시각화:** 11개 차트 중에서 선택한 후 폼 및 보고서에 추가하여 데이터를 보다 잘 시각화하고 합리적인 의사 결정을 내릴 수 있습니다. [자세한 정보](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
- - **편집하는 동안 공동 작성자와 채팅:** Excel을 종료하지 않고도 공동 작성자와 채팅하여 더욱 효율적으로 공동 작업을 할 수 있습니다. 이 기능은 일부 지역에서 사용할 수 없습니다.[자세한 정보](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **편집하는 동안 공동 작성자와 채팅:** Excel을 종료하지 않고도 공동 작성 들과 채팅하여 더욱 효율적으로 공동 작업을 할 수 있습니다. 일부 지역에서는 이 기능을 사용할 수 없습니다. [자세히 알아보기](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
  - **자동 입력:** 말로만 전자 메일을 쓸 수 있습니다. 입력할 필요가 없습니다. [자세한 정보](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
@@ -347,8 +381,8 @@ ms.locfileid: "26031647"
 *버전 1804(빌드 9226.2114)*
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
--   **전자 메일 수신 대기:** Outlook은 전자 메일을 큰 소리로 읽을 수 있으며 읽으면서 텍스트를 강조 표시합니다. [자세한 정보](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **미리 알림 누락 방지:** 작업 중인 창에 미리 알림이 팝업되도록 설정합니다. 그렇지 않은 경우 Outlook이 주의를 끌기 위해 작업 표시줄에서 깜박입니다.[자세한 정보](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+-   **전자 메일 수신 대기:** Outlook은 전자 메일을 큰 소리로 읽을 수 있으며 읽으면서 텍스트를 강조 표시합니다. [자세히 알아보기](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
+-   **미리 알림 누락 방지:** 미리 알림이 작업 중인 창 위에 팝업되도록 설정합니다. 그렇지 않은 경우 Outlook이 주의를 끌기 위해 작업 표시줄에서 깜박입니다. [자세히 알아보기](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **삭제된 항목을 읽은 상태로 표시:** 이제 삭제하는 모든 메시지를 읽은 상태로 설정할 수 있습니다. 파일 \> 옵션 \> 메일 \> 기타로 이동하여 옵트인합니다.
 -   **암호화 옵션:** Office 365 메시지 암호화 사용자는 메시지를 암호화한 후 조직 내부 또는 외부의 누구에게나 보낼 수 있습니다. 암호화 옵션은 메시지를 만들 때 옵션 \> 사용 권한 아래에 표시됩니다. [자세한 정보](https://aka.ms/omeoverview)
 
@@ -384,8 +418,8 @@ ms.locfileid: "26031647"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-0950): Microsoft Office 정보 노출 취약성
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1026): Microsoft Office 원격 코드 실행 취약성
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-1030): Microsoft Office 원격 코드 실행 취약성
--   **보안상의 이유로 Office에서 Flash, Silverlight 및 Shockwave 컨트롤이 활성화되지 않도록 차단:** 보안상의 이유로 Windows의 Office 365용 Microsoft Office의 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다.  
-  [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 및 [여기](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)에서 자세한 내용을 참조하세요.
+-   
+  **보안상의 이유로 Office에서 Flash, Silverlight 및 Shockwave 컨트롤이 활성화되지 않도록 차단:** 보안상의 이유로 Windows의 Office 365용 Microsoft Office의 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다. [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 및 [여기](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)에서 자세히 알아보세요.
 
 ## <a name="version-1803-march-27"></a>버전 1803: 3월 27일
 *버전 1803(빌드 9126.2116)*

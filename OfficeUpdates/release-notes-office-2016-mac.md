@@ -7,15 +7,15 @@ ms.date: 11/15/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
-localization_priority: Priority
+localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018년 9월 이후부터 Mac용 Office 2016 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 479e50848de36ad16ffea8fabd5edcb8dc4d6bf3
-ms.sourcegitcommit: 48a8c199876f17579ae095e6d4665d41cfc99ed3
+ms.openlocfilehash: 20c7fa686db9f41396fff213c5098b10350399bb
+ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26538078"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "26618398"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Mac용 Office 2016에 대한 릴리스 정보
 
