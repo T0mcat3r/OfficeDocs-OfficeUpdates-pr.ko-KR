@@ -3,48 +3,50 @@ title: Office 2019에 대한 업데이트 기록
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 1e5bce4402470c436821a33ee4ac3d2560498415
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: a0133c76468487018701ba3d76c4f362490c2685
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459909"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296578"
 ---
 # <a name="update-history-for-office-2019"></a>Office 2019에 대한 업데이트 기록
 
-Microsoft는 안정성 및 성능 향상을 제공하는 업데이트와 같이, 필요한 경우 Office 2019에 대한 보안 업데이트 및 품질 업데이트를 제공합니다. 이러한 업데이트는 약 한 달에 한 번, 일반적으로 매월 둘째 화요일에 릴리스됩니다.
+Microsoft는 필요에 따라 Office 2019에 대해 안정성 또는 성능 개선을 제공하는 업데이트와 같은 보안 업데이트 및 품질 업데이트를 릴리스합니다. 이러한 업데이트는 한 달에 1번, 보통 매월 둘째 주 화요일에 릴리스됩니다.
 
 최신 상태인지 확인하려는 경우 Office 버전 번호를 확인하고 필요한 경우 Office를 직접 업데이트합니다. Office의 버전을 확인하려면 다음을 수행합니다.
 
   1.    Word 또는 Excel과 같은 Office 2019 응용 프로그램을 엽니다.
-  2.     **파일 > 계정**을 선택합니다.
-  3.     **제품 정보** 아래에서, **섹션 정보** 아래의 버전 번호를 확인합니다.
+  2.    **파일 > 계정**을 선택합니다.
+  3.    **제품 정보**에서 **정보 섹션** 아래의 버전 번호를 확인합니다.
 
-버전 번호가 최신 버전과 일치하는 경우, 최신 상태입니다. 그렇지 않은 경우, Office 2019의 최신 버전을 수동으로 업데이트할 수 있습니다. Office를 업데이트하려면, [다음 단계를 수행](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)하세요.
+버전 번호가 최신 버전과 일치하는 경우 최신 버전을 사용하는 것입니다. 그렇지 않은 경우 수동으로 업데이트하여 최신 버전의 Office 2019를 가져올 수 있습니다. Office를 업데이트하려면 [다음 단계를 따르세요](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 
-다음 표에는 최신의 릴리스 날짜순으로 나열된 Office 2019의 업데이트 내역이 나와 있습니다. 이 표에는 릴리스의 버전 및 빌드 번호가 포함되어 있으며 릴리스에 포함된 보안 업데이트와 보안 업데이트에 대한 추가 정보 링크가 명시되어 있습니다.
+다음 표에는 가장 최근 릴리스 날짜부터 Office 2019의 업데이트 목록이 나와 있습니다. 이 표에는 릴리스의 버전 및 빌드 번호가 포함되며 보안 업데이트에 대한 추가 정보를 제공하는 링크와 릴리스에 포함된 보안 업데이트가 표시됩니다.
 
 새 버전에는 이전 버전에 포함된 모든 업데이트가 포함됩니다.
 
-## <a name="volume-licensed-versions-of-office-2019"></a>Office 2019의 볼륨 라이선스 버전
-Office Professional Plus 2019와 같은 볼륨 라이선스 계약을 통해 구입한 Office 2019의 볼륨 라이선스 버전에는 다음 정보가 적용됩니다.
+## <a name="volume-licensed-versions-of-office-2019"></a>볼륨 라이선스 버전의 Office 2019
+다음 정보는 볼륨 라이선싱 계약을 통해 구입한 Office Professional Plus 2019와 같은 볼륨 라이선스 버전의 Office 2019에 적용됩니다.
 
   
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
-|2018년 10월 9일   |버전 1808 (빌드 10337.20021)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180026) <br/>|
+|2018년 11월 13일   |버전 1808(빌드 10338.20019)  |[CVE-2018-8522](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8522) <br/> [CVE-2018-8524](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8524) <br/> [CVE-2018-8546](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8546) <br/> [CVE-2018-8558](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8558) <br/> [CVE-2018-8573](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8573) <br/> [CVE-2018-8574](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8574) <br/> [CVE-2018-8575](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8575) <br/> [CVE-2018-8576](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8576) <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8577) <br/> [CVE-2018-8579](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8579) <br/> [CVE-2018-8582](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8582) <br/>|
+|2018년 10월 9일   |버전 1808(빌드 10337.20021)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV180026) <br/>|
 
-## <a name="retail-versions-of-office-2019"></a>Office 2019의 소매 버전
-다음과 같은 정보가 소매점에서 구입한 Office Professional 2019와 같은 Office 2019의 소매 버전에 적용됩니다.
+## <a name="retail-versions-of-office-2019"></a>Office 2019 정품 버전
+다음 정보는 소매점에서 구입한 Office Professional 2019와 같은 정품 버전의 Office 2019에 적용됩니다.
 
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
-|2018년 10월 9일   |버전 1809 (빌드 10827.20150)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180026) <br/>|
+|2018년 11월 13일   |버전 1810(빌드 11001.20108)  |[CVE-2018-8522](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8522) <br/> [CVE-2018-8524](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8524) <br/> [CVE-2018-8546](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8546) <br/> [CVE-2018-8558](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8558) <br/> [CVE-2018-8573](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8573) <br/> [CVE-2018-8574](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8574) <br/> [CVE-2018-8575](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8575) <br/> [CVE-2018-8576](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8576) <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8577) <br/> [CVE-2018-8579](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8579) <br/> [CVE-2018-8582](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8582) <br/>|
+|2018년 10월 9일   |버전 1809(빌드 10827.20150)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/ADV180026) <br/>|

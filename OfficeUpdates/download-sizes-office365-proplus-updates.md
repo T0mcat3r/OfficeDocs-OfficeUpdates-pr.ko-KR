@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트의 다운로드 크기
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/6/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: cdef21f3a216ef3e53d9c61fa6d5b3887edd92dd
-ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
+ms.openlocfilehash: 28cd4f213edada1ecb0cb10f240dfa30c7d950c5
+ms.sourcegitcommit: 9e7dba93366d357248b8b0af79ce436b0bd42c89
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "26031667"
+ms.lasthandoff: 11/14/2018
+ms.locfileid: "26299091"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -37,20 +37,20 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 > - 다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로) 업데이트 크기가 표에 나오는 것보다 훨씬 더 커질 수 있습니다. 이로 인해 전체 다운로드가 필요할 수 있으며 그 규모는 1GB 이상일 수 있습니다. 
 
 
-## <a name="november-11-2018"></a>2018년 11월 11일
+## <a name="november-13-2018"></a>2018년 11월 13일
 
 ### <a name="monthly-channel"></a>월별 채널
 
-미정 릴리스는 버전 1810<(빌드 11001.20094)>입니다. 
+가장 최근 버전은 버전 1810(빌드 11001.20108)입니다. 
   
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
 |버전 1809(빌드 10827.20181)  <br/> |2018년 10월 16일  <br/> |188<br/> |
-|버전 1809(빌드 11001.20074)  <br/> |2018년 10월 29일  <br/> |61<br/> |
+|버전 1809(빌드 11001.20074)  <br/> |2018년 10월 29일  <br/> |64<br/> |
 
 ### <a name="semi-annual-channel"></a>반기 채널
 
-미정 릴리스는 버전 <1803(빌드 9126.2315)>입니다.
+가장 최근 버전은 버전 1803(빌드 9126.2315)입니다.
   
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
@@ -59,7 +59,7 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 
 ### <a name="semi-annual-channel-targeted"></a>반기 채널(대상 지정)
 
-미정 릴리스는 버전 <1808(빌드 10730.20205)>입니다.
+가장 최근 버전은 버전 1808(빌드 10730.20205)입니다.
   
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
