@@ -3,7 +3,7 @@
 
 
 
-## <a name="week-of-october-8-2018"></a>2018, 10 월 8 일 주간
+## <a name="week-of-october-8-2018"></a>2018년 10월 8일 주
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
@@ -32,7 +32,7 @@
 | 10/12/2018 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
 
 
-## <a name="week-of-october-15-2018"></a>2018, 10 월 15 일 주간
+## <a name="week-of-october-15-2018"></a>2018년 10월 15일 주
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
@@ -62,7 +62,7 @@
 | 10/23/2018 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
 
 
-## <a name="week-of-october-29-2018"></a>2018, 10 월 29 일 주간
+## <a name="week-of-october-29-2018"></a>2018년 10월 29일 주
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
@@ -70,13 +70,13 @@
 | 10/29/2018 | [Office 365 ProPlus 업데이트의 다운로드 크기](/OfficeUpdates/download-sizes-office365-proplus-updates) | 수정한 날짜 |
 | 10/29/2018 | [2018년 월별 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/monthly-channel-2018) | 수정한 날짜 |
 | 10/29/2018 | [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](/OfficeUpdates/update-history-office365-proplus-by-date) | 수정한 날짜 |
-| 10/30/2018 | [Mac용 Office 2016에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-2016-mac) | 수정한 날짜 |
-| 10/30/2018 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
+| 2018년 10월 30일 | [Mac용 Office 2016에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-2016-mac) | 수정한 날짜 |
+| 2018년 10월 30일 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
 | 10/31/2018 | [Office 365 ProPlus 업데이트의 다운로드 크기](/OfficeUpdates/download-sizes-office365-proplus-updates) | 수정한 날짜 |
 | 10/31/2018 | Office 365 ProPlus에 대한 업데이트 기록(버전순) | 제거 |
 
 
-## <a name="week-of-november-05-2018"></a>2018 년 11 월 5 일 주간
+## <a name="week-of-november-05-2018"></a>2018년 11월 5일 주
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
@@ -121,3 +121,13 @@
 | 11/14/2018 | [Mac용 Office에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-for-mac) | 수정한 날짜 |
 | 11/14/2018 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
 | 2018/11/15 | [Mac용 Office 2016에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-2016-mac) | 수정한 날짜 |
+
+
+## <a name="week-of-november-19-2018"></a>2018 년 11 월 19 일 주간
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 11/19/2018 | [Mac용 Office 2016에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-2016-mac) | 수정한 날짜 |
+| 11/19/2018 | [2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-targeted-2018) | 수정한 날짜 |
+| 11/19/2018 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
