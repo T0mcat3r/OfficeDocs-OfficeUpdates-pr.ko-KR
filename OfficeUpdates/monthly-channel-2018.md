@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526393"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706652"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -25,6 +25,28 @@ ms.locfileid: "26526393"
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 > - Microsoft는 일정 기간 동안 매달 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1811-november-27"></a>버전 1811: 11월 27일
+*버전 1811(빌드 11029.20079)* 
+
+### <a name="access-feature-updates"></a>Access: 기능 업데이트
+
+- **검은색으로 페인트, 회색으로 페인트:** Access의 모양을 원하는 만큼 자주 변경할 수 있습니다. 색상형, 진한 회색, 검은색 또는 흰색의 네 가지 테마 중에서 선택할 수 있습니다. [자세히 알아보기](https://support.office.com/article/9d76a8b4-bfff-48a9-b8c8-8e133461bc94)
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+
+- **확대/축소 및 고정:** 메시지를 읽을 때마다 확대/축소를 조정하지 않고, 모든 메시지에 사용할 기본값을 선택합니다. [자세히 알아보기](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **Outlook에서 비동기적으로 메시지 이동:** 메시지 이동을 비동기적으로 수행하여 Outlook 사용자의 생산성을 향상시킬 수 있습니다.
+- **중요 받은 편지함 설정 및 해제 환경 개선:** 중요 받은 편지함 기능이 해제되어 있으면 받은 편지함이 아닌 모든 폴더에 읽지 않은 메일이 표시됩니다. 플래그 상태별로 정렬도 추가되었습니다. 중요 받은 편지함 기능이 검색에 보다 잘 통합됩니다. 즉, 검색이 시작될 때까지 중요 받은 편지함 기능이 유지됩니다. 검색이 완료된 후에 ‘결과’ 텍스트가 표시됩니다.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+
+- **인쇄된 유인물에서 슬라이드 번호 확인:** 유인물의 인쇄 복사본에 슬라이드 번호를 추가할 수 있습니다. [자세히 알아보기](https://support.office.com/article/91c62c83-9032-497c-ab76-cae8f3e1a402)
+
+### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
+
+- **정보 위치에서 새로 노출된 단추와 문서 공유 및 문서 업로드:** 이전에는 문서 저장 경로 뒤에서만 공유, 클립보드에 경로 복사 및 파일 위치 열기 단추에 액세스할 수 있었습니다. 이제 정보 위치에 이러한 단추가 명확하게 표시됩니다. 파일 > 정보로 이동하면 평소처럼 이러한 단추가 표시됩니다.
+
 
 ## <a name="version-1810-november-13"></a>버전 1810: 11월 13일
 *버전 1810(빌드 11001.20108)* 
