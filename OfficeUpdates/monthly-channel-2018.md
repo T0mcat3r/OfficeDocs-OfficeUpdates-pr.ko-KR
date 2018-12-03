@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 11/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
+ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706652"
+ms.lasthandoff: 11/29/2018
+ms.locfileid: "26987098"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -37,7 +37,8 @@ ms.locfileid: "26706652"
 
 - **확대/축소 및 고정:** 메시지를 읽을 때마다 확대/축소를 조정하지 않고, 모든 메시지에 사용할 기본값을 선택합니다. [자세히 알아보기](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
 - **Outlook에서 비동기적으로 메시지 이동:** 메시지 이동을 비동기적으로 수행하여 Outlook 사용자의 생산성을 향상시킬 수 있습니다.
-- **중요 받은 편지함 설정 및 해제 환경 개선:** 중요 받은 편지함 기능이 해제되어 있으면 받은 편지함이 아닌 모든 폴더에 읽지 않은 메일이 표시됩니다. 플래그 상태별로 정렬도 추가되었습니다. 중요 받은 편지함 기능이 검색에 보다 잘 통합됩니다. 즉, 검색이 시작될 때까지 중요 받은 편지함 기능이 유지됩니다. 검색이 완료된 후에 ‘결과’ 텍스트가 표시됩니다.
+- ** Outlook에서 사용자의 LinkedIn 세부 정보 보기:** 이제 연락처의 프로필 카드를 열면 LinkedIn 프로필을확인하여 사용자에 대한 더 많은 정보를 얻을 수 있습니다.
+- **중요 받은 편지함 설정 및 해제 기능 개선:** 중요 받은 편지함을 사용하지 않는 고객의 경우 모든 폴더의 메시지 목록의 읽지 않음 탭을 다시 제공했습니다. 플래그가 지정된 항목을 더 쉽게 찾을 수 있도록 플래그별 정렬을 추가했습니다. 마지막으로 중요 받은 편지함에 검색을 통한 더 효과적인 상호 작용 모델이 적용됩니다. 사용자가 검색을 시작할 때까지 중요 받은 편지함이 있는 받은 편지함이 유지되고 검색이 완료되면 '결과' 텍스트가 표시됩니다.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
