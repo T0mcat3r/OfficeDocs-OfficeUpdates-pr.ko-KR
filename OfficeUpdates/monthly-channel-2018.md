@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/29/2018
+ms.date: 12/04/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
-ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
+ms.openlocfilehash: 70ed82679a17446751d9e9e4e3d7cc8a056ce668
+ms.sourcegitcommit: d37f49e4efc9d1b4187711951bcb7049e18138bb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/29/2018
-ms.locfileid: "26987098"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "27154826"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -25,6 +25,7 @@ ms.locfileid: "26987098"
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 > - Microsoft는 일정 기간 동안 매달 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
 
 ## <a name="version-1811-november-27"></a>버전 1811: 11월 27일
 *버전 1811(빌드 11029.20079)* 
@@ -39,6 +40,7 @@ ms.locfileid: "26987098"
 - **Outlook에서 비동기적으로 메시지 이동:** 메시지 이동을 비동기적으로 수행하여 Outlook 사용자의 생산성을 향상시킬 수 있습니다.
 - ** Outlook에서 사용자의 LinkedIn 세부 정보 보기:** 이제 연락처의 프로필 카드를 열면 LinkedIn 프로필을확인하여 사용자에 대한 더 많은 정보를 얻을 수 있습니다.
 - **중요 받은 편지함 설정 및 해제 기능 개선:** 중요 받은 편지함을 사용하지 않는 고객의 경우 모든 폴더의 메시지 목록의 읽지 않음 탭을 다시 제공했습니다. 플래그가 지정된 항목을 더 쉽게 찾을 수 있도록 플래그별 정렬을 추가했습니다. 마지막으로 중요 받은 편지함에 검색을 통한 더 효과적인 상호 작용 모델이 적용됩니다. 사용자가 검색을 시작할 때까지 중요 받은 편지함이 있는 받은 편지함이 유지되고 검색이 완료되면 '결과' 텍스트가 표시됩니다.
+- **SMIME 암호화 및 서명된 전자 메일에서 기본적으로 외부 콘텐츠 다운로드 차단:** SMIME 프로토콜의 취약점으로 인해 Outlook에서는 암호화되었거나 SMIME를 통해 서명된 메시지에 외부 콘텐츠 다운로드를 차단합니다. 사용자는 Outlook UI를 통해 한 번 클릭으로 외부 콘텐츠를 다운로드할 수 없어 보안 취약점으로부터 보호합니다. 사용자가 이전 동작으로 되돌릴 수 있도록 허용하는 새로운 옵션이 옵션 대화 상자에 있습니다. 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
