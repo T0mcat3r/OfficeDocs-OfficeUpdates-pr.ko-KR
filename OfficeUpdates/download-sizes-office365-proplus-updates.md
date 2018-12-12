@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
-ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
+ms.openlocfilehash: 17a7e5458382394128e85b024315cb19886c5eba
+ms.sourcegitcommit: 3c5daa87f8ef4e8dbc0185c2ab9080caf9cbd325
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "27180778"
+ms.lasthandoff: 12/07/2018
+ms.locfileid: "27194919"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -90,7 +90,7 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
   
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
-|버전 1803(빌드 9126.2282) <br/> |2018년 10월 9일  <br/> |61 <br/> |
+|버전 1803(빌드 9126.2295) <br/> |2018년 10월 9일  <br/> |61 <br/> |
 |버전 1803(빌드 9126.2282)  <br/> |2018년 9월 11일  <br/> |58<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>반기 채널(대상 지정)
@@ -192,7 +192,7 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
 |버전 1803(빌드 9126.2259)  <br/> |2018년 7월 10일  <br/> |99  <br/> |
-|버전 1708(빌드 9126.2275)  <br/> |2018년 8월 14일  <br/> |99 <br/> |
+|버전 1803(빌드 9126.2275)  <br/> |2018년 8월 14일  <br/> |99 <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>반기 채널(대상 지정)
@@ -233,8 +233,8 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
   
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
-|버전 1803(빌드 8431.2259)  <br/> |2018년 7월 10일  <br/> |86  <br/> |
-|버전 1708(빌드 8431.2270)  <br/> |2018년 6월 12일  <br/> |279  <br/> |
+|버전 1803(빌드 9126.2259)  <br/> |2018년 7월 10일  <br/> |86  <br/> |
+|버전 1708(빌드 8431.2280)  <br/> |2018년 7월 10일  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>반기 채널(대상 지정)
