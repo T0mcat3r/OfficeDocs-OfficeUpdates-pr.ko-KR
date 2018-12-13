@@ -3,19 +3,19 @@ title: MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/032018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: ccc2c87990f913a220359d54331e3b807ee5bc04
-ms.sourcegitcommit: 635e48db44bb7ba94f298748ad90dfc55843fb5c
+ms.openlocfilehash: 0a63a09cd202c0ae6cec9031cc44d6dc9d869221
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2018
-ms.locfileid: "27134249"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241299"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -31,9 +31,10 @@ ms.locfileid: "27134249"
   
 |**릴리스 날짜**|**버전**|**추가 정보**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
-|2018년 11월 14일 <br/> |4.5.0 <br/> |[릴리스 정보](release-notes-office-for-mac.md#november-2018-release) <br/> |[MAU 4.5.0 다운로드](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
-|2018년 10월 16일 <br/> |4.4.0 <br/> |[릴리스 정보](release-notes-office-for-mac.md#october-2018-release) <br/> |<br/> |
-|2018년 9월 11일  <br/> |4.3.0  <br/> |[릴리스 정보](release-notes-office-for-mac.md#september-2018-release) <br/> |> |
+|2018년 12월 11일 <br/>|4.6.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#december-2018-release) <br/> |[MAU 4.6.0 다운로드](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|2018년 11월 14일 <br/> |4.5.0 <br/> |[릴리스 정보](release-notes-office-for-mac.md#november-2018-release) <br/> | |
+|2018년 10월 16일 <br/> |4.4.0 <br/> |[릴리스 정보](release-notes-office-for-mac.md#october-2018-release) <br/> | |
+|2018년 9월 11일  <br/> |4.3.0  <br/> |[릴리스 정보](release-notes-office-for-mac.md#september-2018-release) <br/> | |
 |2018년 8월 14일  <br/> |4.2.0  <br/> |[릴리스 정보](release-notes-office-for-mac.md#august-2018-release) <br/> | |
 |2018년 7월 10일  <br/> |4.1.0  <br/> |[릴리스 정보](release-notes-office-for-mac.md#july-2018-release) <br/> | |
 |2018년 6월 12일  <br/> |4.0.0  <br/> |||

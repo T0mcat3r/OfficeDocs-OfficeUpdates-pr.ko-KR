@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 4476a4fba6d423eba0f40f7c98ec8c1fa65bf3c6
-ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
+ms.openlocfilehash: 8ba613b04a8a91d438891cbcda75216cd4715456
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/29/2018
-ms.locfileid: "26999452"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241259"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
 
@@ -24,6 +24,25 @@ ms.locfileid: "26999452"
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트의 보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+## <a name="december-11-2018"></a>2018년 12월 11일
+월간 채널: 버전 1811 (빌드 11029.20108)  
+반기 채널: 버전 1803 (빌드 9126.2336)  
+반기 채널 (대상 지정): 버전 1808 (빌드 10730.20262)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597)
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627)
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8598)
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8636)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8587)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628)
 
 ## <a name="november-13-2018"></a>2018년 11월 13일
 월별 채널: 버전 1810(빌드 11001.20108)  
