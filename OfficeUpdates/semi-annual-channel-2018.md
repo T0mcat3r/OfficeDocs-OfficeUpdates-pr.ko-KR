@@ -3,19 +3,19 @@ title: 2018년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8018fdf91a14b24f725f19a80298f951a14be7c0
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: ff46d626dc9c767e19da8e1a5bfacf7522c54b27
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526433"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241499"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -25,6 +25,62 @@ ms.locfileid: "26526433"
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 > - 반기 채널이 2018년 1월 이전에는 지연 채널로 지칭되었습니다.
+
+> [!NOTE]
+> - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
+
+## <a name="version-1803-december-11"></a>버전 1803: 12월 11일
+*버전 1803(빌드 9126.2336)*
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8598): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8636): Microsoft Excel 원격 코드 실행 취약성 
+
+### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook 원격 코드 실행 취약성 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 
+
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: 비보안 업데이트
+
+- 특정 연락처 필드를 업데이트할 때 예기치 않게 Outlook이 닫히는 문제를 해결했습니다.
+- "규칙 및 알림 관리" 대화 상자를 시작하면 사용자에게 오류가 표시되는 문제를 해결합니다.
+- 일부 추가 기능을 실행하는 동안 Outlook 사용자에게 충돌을 경험하게 하는 문제를 해결합니다.
+
+
+## <a name="version-1708-december-11"></a>버전 1708: 12월 11일
+*버전 1708(빌드 8431.2351)*
+
+*2018년 1월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1803(빌드 16.0.9126.2336)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8598): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8636): Microsoft Excel 원격 코드 실행 취약성 
+
+### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook 원격 코드 실행 취약성 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: 비보안 업데이트
+
+- 특정 연락처 필드를 업데이트할 때 예기치 않게 Outlook이 닫히는 문제를 해결했습니다.
+- "규칙 및 알림 관리" 대화 상자를 시작하면 사용자에게 오류가 표시되는 문제를 해결합니다.
+- 일부 추가 기능을 실행하는 동안 Outlook 사용자에게 충돌을 경험하게 하는 문제를 해결합니다.
+
 
 ## <a name="version-1803-november-13"></a>버전 1803: 11월 13일
 *버전 1803(빌드 9126.2315)*

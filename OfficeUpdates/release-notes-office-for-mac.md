@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c38a599be2719cd869d4265c1a387ae1764d3635
-ms.sourcegitcommit: 635e48db44bb7ba94f298748ad90dfc55843fb5c
+ms.openlocfilehash: f32d92ccff3db5b15e8d640e917ae48dd9c9c982
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2018
-ms.locfileid: "27134269"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241479"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -33,6 +33,24 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 > - 다운로드 링크는 가장 최근 릴리스에 대해서만 제공됩니다.
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 > - 종종 일정 기간 월 단위 채널에 기능(및 때때로 수정 항목)을 출시하기도 합니다. 이를 통해 기능을 더 많은 대상 그룹에 출시하기 전에 모두 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 문제가 보이지 않는 이상 결국 받게 되니 아무것도 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="december-2018-release"></a>2018년 12월 릴리스
+
+ **릴리스 날짜:** 2018년 12월 11일 
+  
+ *버전 16.20.0(빌드 18120801)* 
+  
+이 릴리스는 다음과 같은 업데이트를 제공합니다.
+
+|**애플리케이션**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
+|:-----|:-----|:-----|
+|Word  <br/>| **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **텍스트의 모양을 유지:** 글꼴을 포함하여 모든 컴퓨터에서 문서의 텍스트 모양이 같도록 합니다. 더는 당황하지 않아도 됩니다. [자세히 알아보기](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>| |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **iPhone에서 즉시 PowerPoint로:** Apple 연속성 카메라를 사용하여 iPhone에서 사진을 슬라이드에 삽입합니다. MacOS Mojave가 필요합니다. [자세히 알아보기](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Outlook  <br/>|  **어두운 모드를 사용하여 눈에 편안함을 주기:** 어두운 배경은 빛이 약한 환경에서 눈에 더 편안합니다. MacOS Mojave가 필요합니다. <br/><br/>  **일정 공유:** 가족과 친과, 동료와 캘린더를 공유합니다. Mac, PC 또는 클라우드 버전의 Outlook에서 공유된 캘린더를 엽니다. [자세히 알아보기](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **모임 전달 해제:** 참석자가 모임을 다른 사람에게 전달하지 못하도록 합니다. [잫자세히 알아보기](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **팀을 사용하여 모임에 연결:** 원격 팀과 함께 작업하세요? Outlook에서 팀을 사용하여 모임을 예약하고 온라인으로 참여합니다. [자세히 알아보기](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**모임에 참여하는 사람 알아보기:** 캘린더에 있는 모든 모임 또는 이벤트를 클릭하여 누가 참여할 계획인지 알아봅니다.<br/><br/> **세 가지 표준 시간대 보기:** 표준 시간대가 다른 지역 간에 모임을 예약해야 하나요? 여러 표준 시간대를 캘린더에 추가하여 모든 사람의 가용성을 쉽게 확인하고 모두가 참여할 수 있는 시간을 선택할 수 있습니다. [자세히 알아보기](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
+|Microsoft 자동 업데이트 4.6 <br/>| SHA-1 대신 SHA-256 해시를 포함하도록 업데이트된 보안 카탈로그 <br/>|<br/> | [Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
+|Office 제품군  <br/>| |<br/>||
+
 
 ## <a name="november-2018-release"></a>2018년 11월 릴리스
 
@@ -62,7 +80,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |**애플리케이션**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
 |Word  <br/>|||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
-|Excel  <br/>|**메모를 사용하여 공동 작업:** 기본 제공 회신 상자를 사용하여 스프레드시트에서 바로 대화를 진행합니다. [자세히 알아보기](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/> **자세한 데이터 분석:** 새 아이디어 단추는 데이터에서 패턴을 찾은 후 이를 사용하여 개인 설정된 지능형 제안을 만들어냅니다.  [자세히 알아보기](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) <br/><br/> **자동 완성의 "자동" 기능 강화:** 수식을 입력하면 유용한 자동 완성 메뉴가 나타나며 선택 가능한 인수 옵션을 표시합니다.  <br/><br/> **더욱 향상된 VoiceOver 탐색:** Excel에서 VoiceOver를 사용하려면? VO + U를 눌러 시트에서 시트로 이동합니다. macOS Trackpad Commander를 사용하여 이동할 수도 있습니다. <br/> ||[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
+|Excel  <br/>|**메모를 사용하여 공동 작업:** 기본 제공 회신 상자를 사용하여 스프레드시트에서 바로 대화를 진행합니다. [자세히 알아보기](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/>  **자동 완성의 "자동" 기능 강화:** 수식을 입력하면 유용한 자동 완성 메뉴가 나타나며 선택 가능한 인수 옵션을 표시합니다.  <br/><br/> **더욱 향상된 VoiceOver 탐색:** Excel에서 VoiceOver를 사용하려면? VO + U를 눌러 시트에서 시트로 이동합니다. macOS Trackpad Commander를 사용하여 이동할 수도 있습니다. <br/> ||[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**이미지를 액세스 가능하게 만들기:** 그림을 삽입하면 시각 장애를 가진 사용자가 읽을 수 있도록 Office가 캡션을 제안합니다.  <br/><br/> **애니메이션 트리거 기능:** 요청이 많았던 기능입니다. 애니메이션 트리거는 이제 Windows 밖에서도 사용 가능합니다. 애니메이션 탭에서 해당 기능을 찾아보세요. [자세히 알아보기](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
 |Outlook  <br/>|**향상 된 검색:** 상자를 선택하면 최근 검색 기록에 따라 빠르게 단어를 제안합니다. 입력이 필요 없습니다.  [자세히 알아보기](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
 |Office 제품군  <br/>| |[CVE-2018-8432](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8432) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성 <br/>||
