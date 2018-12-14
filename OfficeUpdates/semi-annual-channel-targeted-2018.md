@@ -3,19 +3,19 @@ title: 2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/19/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
-ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
+ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "26618438"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241519"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -24,6 +24,55 @@ ms.locfileid: "26618438"
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+
+ 
+> [!NOTE]
+> - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
+
+## <a name="version-1808-december-11"></a>버전 1808: 12월 11일
+*버전 1808(빌드 10730.20262)*
+
+### <a name="excel-security-updates"></a>Excel: 보안 업데이트 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8598): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8636): Microsoft Excel 원격 코드 실행 취약성 
+
+### <a name="outlook-security-updates"></a>Outlook: 보안 업데이트 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook 원격 코드 실행 취약성 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: 보안 업데이트 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트 
+
+- 다른 사용자가 슬라이서에서 데이터에 열 필터를 적용 한 후 슬라이서가 제대로 업데이트되지 않는 공동 작성 세션에서의 문제를 해결했습니다.
+- 사용자 중 하나가 슬라이서에 대한 설명을 지우고 이것이 공동 작성 세션에서 다른 사용자가 Excel 충돌을 경험하게 하는 공동 작성 세션에서의 문제를 해결했습니다.
+- 데이터의 같은 열에 바인딩된 여러 표 슬라이서를 만든 다음 데이터의 해당 열을 삭제할 때 발생할 수 있는 충돌을 해결했습니다.
+- 열 너비를 자동으로 조정하는 옵션이 해제되었을 때 셀의 래핑된 텍스트를 포함하는 필터링된 쿼리 테이블을 새로 고치는 동안 Excel이 이따금씩 충돌하는 문제를 해결했습니다.
+- 슬라이서에 표시된 항목의 수가 변경되면 Excel 2007에서 저장된 슬라이서가 최신 버전의 Excel에서 열 때 충돌을 트리거할 수 있는 문제를 해결했습니다.
+- 대화 기록 폴더를 열 때 사용자가 작동 중단을 경험하는 문제를 해결했습니다.
+- 지원 요청에 대한 조사를 간편하게 하기 위한 진단 가져오기 버튼에 대한 지원을 소개합니다.
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: 비보안 업데이트
+
+- "규칙 및 알림 관리" 대화 상자를 시작하면 사용자에게 오류가 표시되는 문제를 해결했습니다.
+- 사용자가 데이터 통신 연결을 사용하는 경우 DirectAccess를 통해 사서함에 연결하지 못할 수 있는 문제를 해결했습니다.
+- 사용자가 공용 폴더에 저장된 무료 문서를 오류로 "제한된 보기"로 열리는 것을 보게 되는 문제를 해결했습니다.
+- 사용자가 인라인 첨부 파일이 포함된 항목을 전달할 때 예기치 않은 첨부 파일을 보게 되는 문제를 해결했습니다.
+- OFT 파일이 첨부 파일로 전송된 후 잘 못 표현되는 문제를 해결했습니다.
+- 공유 캘린더에 모임을 추가할 때 일부 추가 기능 사용자가 충돌을 경험하는 문제를 해결했습니다.
+
+### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
+
+- Project에서 새 베네수엘라 통화를 지원하는 것에 관한 문제를 해결했습니다.
+- 외부 모니터에 연결된 Surface 4를 사용하는 경우 Project가 중단될 수 있는 문제를 해결했습니다.
+- Project를 XML 형식으로 저장할 때 Project가 충돌할 수 있는 문제를 해결했습니다.
+- 자원의 캘린더를 편집한 후 Enterprise 자원 사용자 정의 필드가 삭제될 수 있는 문제를 해결했습니다.
+- 한국어 표시 이름을 검색할 때 사용자가 충돌을 경험하는 문제를 해결했습니다.
 
 ## <a name="version-1808-november-13"></a>버전 1808: 11월 13일
 *버전 1808(빌드 10730.20205)*
