@@ -29,15 +29,15 @@
 ## [릴리스 정보(2016)](release-notes-office-2016-mac.md)
 ## [MAU 릴리스 기록](release-history-microsoft-autoupdate.md)
 
-# Office(영구)
-## [Office 업데이트(MSI)](office-updates-msi.md)
-## [Outlook 업데이트(MSI)](outlook-updates-msi.md)
-## [비즈니스용 Skype 업데이트](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
+# Office (영구)
+## [Office 2019 업데이트](update-history-office-2019.md)
+## [Office 2010, 2013 및 2016 업데이트 (MSI)](office-updates-msi.md)
+## [Outlook 2010, 2013 및 2016 업데이트 (MSI)](outlook-updates-msi.md)
+## [Office 2013 업데이트 (C2R)](update-history-office-2013.md)
+## [Office 2010 업데이트 (C2R)](update-history-office-2010-click-to-run.md)
+## [비즈니스용 Skype 업데이트 (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Office 2016 .msp 파일](msp-files-office-2016.md)
 ## [Office 2013 .msp 파일](msp-files-office-2013.md)
-## [Office 2019 업데이트](update-history-office-2019.md)
-## [Office 2013 업데이트](update-history-office-2013.md)
-## [Office 2010 업데이트](update-history-office-2010-click-to-run.md)
 
 # Office 서버 제품
 ## [Exchange Server 업데이트](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
