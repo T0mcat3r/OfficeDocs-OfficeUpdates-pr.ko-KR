@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 업데이트 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/13/2018
+ms.date: 12/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 다운로드 패키지 및 업데이트 기록에 대한 링크를 포함하여 Mac용 Office의 최신 업데이트에 대한 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a5458f6c5cc795c3ffaeb5505632e5364de6ab6b
-ms.sourcegitcommit: 9b6f17fd40e7565dec1a6b205de3f6f06d7aaf34
+ms.openlocfilehash: 911d7d5378d2cd1ed18ef87625c19b8e23c783ee
+ms.sourcegitcommit: 6c090794632dc563050b8457ed2058dbe98791ea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 12/14/2018
-ms.locfileid: "27264227"
+ms.locfileid: "27279689"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac용 Office에 대한 업데이트 기록
 
@@ -41,7 +41,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 |**응용 프로그램**|**버전**|**다운로드 링크**|**설치 패키지용 SHA-256 해시**|
 |:-----|:-----|:-----|:-----|
-|Office 제품군(모든 응용 프로그램)  <br/> |16.20.0 (18120801)  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |182C7F59C4D8D0F55F944979AE9B2E85BBB1269B4E1A542BFF1BD9BD79A6C235 <br/> |
+|Office 제품군(모든 응용 프로그램)  <br/> |16.20.0 (18120801)  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |61ED9026F803A31D442E0F6A2896328E84E0E350A264C6EA9314B68C066EB5CC <br/> |
 |Word  <br/> |16.20.0 (18120801)   <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/> |23A62FCCB9C834DA37233EF9AF9E037D496F0F7D11CF060432E0C914219C9AAF <br/> |
 |Excel  <br/> |16.20.0 (18120801)   <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.20.18120801_Updater.pkg) <br/> |3B95883B8739F47F6FBEDA9DFE15FEF12BA63CACF94A244E207AF34EF10856D4  <br/> |
 |PowerPoint  <br/> |16.20.0 (18120801)    <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/> |75A9A05648FB4449582ACF4FF774BED65C61F304B8962734F5F27C297BFE2492 <br/> |
@@ -57,7 +57,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |:-----|:-----|:-----|:-----|:-----|
 |MAU(Microsoft 자동 업데이트)  <br/> |4.6 (18120801)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   이 업데이트 패키지는 64비트입니다. <br/><br/>[MAU에 대한 릴리스 기록](release-history-microsoft-autoupdate.md)<br/> |5FB669DB651237FEC165E45BE4E82F3A82F969042B06DB6FA00A10B79B1BEDE6 <br/>|
 |비즈니스용 Skype  <br/> |16.23.0.64 <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |최신 버전은 2018년 11월 14일에 릴리스되었습니다. <br/><br/>[최신 업데이트](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 2030D149B52E37D338CAE99437219FFB7D148B4C0F85A2131A8974C5A3949F78 <br/> |
-|원격 데스크톱 | 10.2.4.1  | [다운로드](https://go.microsoft.com/fwlink/?linkid=868963) | 이 설치 패키지는 64비트입니다. <br/> <br/>[새로운 기능](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  e3e4af2c716c5d5f10354075b56149b914f8793fd6c36f153b7168872d0113d1 <br/> |
+|원격 데스크톱 | 10.2.5  | [다운로드](https://go.microsoft.com/fwlink/?linkid=868963) | 이 설치 패키지는 64비트입니다. <br/> <br/>[새로운 기능](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  1933ebe38bfc3990ba5b3bd1153935868c12be7a90a487c0b1c3ae808bc40d65 <br/> |
 |Intune 회사 포털 |1.5(52.1805002.000) [180509] | [다운로드](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune의 새로운 기능](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
 |Mac용 Office 2016에 대한 Microsoft SharePoint 온-프레미스 Safari 브라우저 플러그 인  <br/> |15.32.0(170309)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |이 설치 패키지는 64비트입니다.  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
