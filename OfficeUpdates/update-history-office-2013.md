@@ -3,26 +3,26 @@ title: Office 2013에 대한 업데이트 기록
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 12/20/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2013 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c9bc33cbb9fbac0fece3da84a954f99eed8a33bd
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 1115ae73e04ab24b5059323f1ffc517e318a0045
+ms.sourcegitcommit: 521ec634035dc680126a01d94c513493df7251a2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241409"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "27378538"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013에 대한 업데이트 기록
 
 대부분의 Office 2013 제품은 간편 실행이라는 기술을 사용하여 자동으로 최신 상태로 유지됩니다. 최신 상태인지 확인하려는 경우 Office 버전 번호를 확인하고 필요한 경우 Office를 직접 업데이트합니다.
   
 > [!NOTE]
-> 최신 버전의 Office 2013은 2018년 11월 13일에 릴리스된 **15.0.5085.1000**입니다. 
+> 최신 버전의 Office 2013은 2018년 12월 19일에 릴리스된 **15.0.5093.1001**입니다. 
   
 Office의 버전을 확인하려면 다음을 수행합니다.
   
@@ -46,7 +46,8 @@ Office의 버전을 확인하려면 다음을 수행합니다.
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-|2018년|11월 13일   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/ko-KR/help/4469617)  |
+|2018년|12월 19일   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/ko-KR/help/4477615)  |
+||11월 13일   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/ko-KR/help/4469617)  |
 ||10월 9일   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/ko-KR/help/4464656)  |
 | |9월 11일   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/ko-KR/help/4459402)  |
 ||8월 14일   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/ko-KR/help/4346823)  |
