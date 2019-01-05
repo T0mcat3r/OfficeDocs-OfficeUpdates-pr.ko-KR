@@ -3,19 +3,19 @@ title: Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 751079b24cfe9ac537ad2dc61f4c79ee637e5a1a
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: fb609e400e9c091545ee3a0ae7248a1046c3018b
+ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241429"
+ms.lasthandoff: 01/04/2019
+ms.locfileid: "27525779"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -31,7 +31,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
  
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월 단위  <br/> |1811  <br/> |11029.20108<br/> | 2018년 12월 11일  <br/> |버전 1812가 릴리스됨 <br/>|
+|월 단위  <br/> |1812  <br/> |11126.20188<br/> | 2019년 1월 3일 <br/> |버전 1901이 릴리스됨 <br/>|
 |반기(대상 지정)  <br/> |1808  <br/> |10730.20262 <br/> | 2018년 12월 11일  <br/> | 2019년 3월 12일 <br/>|
 |반기 <br/> |1803  <br/> | 9126.2336<br/> | 2018년 12월 11일 <br/> |  2019년 9월 10일 <br/>|
 |반기 <br/> |1708  <br/> | 8431.2351  <br/> | 2018년 12월 11일 <br/> |  2019년 3월 12일 <br/>|
@@ -44,6 +44,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|1월 3일   |[버전 1812(빌드 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018년|12월 11일 |[버전 1811 (빌드 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[버전 1808 (빌드 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[버전 1803 (빌드 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [버전 1708 (빌드 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018년|11월 27일   |[버전 1811(빌드 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | |
 |2018년|11월 13일 |[버전 1810(빌드 11001.20108)](monthly-channel-2018.md#version-1810-november-13)|[버전 1808(빌드 10730.20205)](semi-annual-channel-targeted-2018.md#version-1808-november-13) |[버전 1803(빌드 9126.2315)](semi-annual-channel-2018.md#version-1803-november-13)  <br/>  [버전 1708(빌드 8431.2329)](semi-annual-channel-2018.md#version-1708-november-13)   |

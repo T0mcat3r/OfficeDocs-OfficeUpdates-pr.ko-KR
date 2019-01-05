@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트의 다운로드 크기
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 01/03/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 52394a5132cc5a2a2dc2a0d691976a6a11851b62
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: dc2f2bba78c335ccb26d1edafcd566bb0aa5a5f7
+ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241359"
+ms.lasthandoff: 01/04/2019
+ms.locfileid: "27525789"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -36,6 +36,16 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 > - 가장 최근의 이전 릴리스만 표에 나와 있습니다. 더 이전 버전에서 업데이트하려는 경우 다운로드 크기가 더 커집니다.
 > - 다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로) 업데이트 크기가 표에 나오는 것보다 훨씬 더 커질 수 있습니다. 이로 인해 전체 다운로드가 필요할 수 있으며 그 규모는 1GB 이상일 수 있습니다. 
 
+## <a name="january-3-2019"></a>2019년 1월 3일
+
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 버전은 버전 1812 (빌드 11126.20188)입니다. 
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1810(빌드 11029.20079)  <br/> |2018년 11월 27일  <br/> |179<br/> |
+|버전 1811 (빌드 11029.20108)  <br/> |2018년 12월 11일  <br/> |176<br/> |
 
 ## <a name="december-11-2018"></a>2018년 12월 11일
 
