@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트의 다운로드 크기
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/03/2019
+ms.date: 01/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: dc2f2bba78c335ccb26d1edafcd566bb0aa5a5f7
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 30e3215285589e1e576ab79efad70dd425585923
+ms.sourcegitcommit: 37c86e1ba884e8750c7376862b6b1d0151e62921
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 01/04/2019
-ms.locfileid: "27525789"
+ms.locfileid: "27733115"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -35,6 +35,36 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 > - 지난 4개월 동안의 릴리스만 나와 있습니다.
 > - 가장 최근의 이전 릴리스만 표에 나와 있습니다. 더 이전 버전에서 업데이트하려는 경우 다운로드 크기가 더 커집니다.
 > - 다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로) 업데이트 크기가 표에 나오는 것보다 훨씬 더 커질 수 있습니다. 이로 인해 전체 다운로드가 필요할 수 있으며 그 규모는 1GB 이상일 수 있습니다. 
+
+## <a name="january-8-2019"></a>2019년 1월 8일
+
+### <a name="monthly-channel"></a>월별 채널
+
+예상된 릴리스는 버전 1812(빌드 11126.20196)입니다. 
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1812(빌드 11126.20188)  <br/> |2019년 1월 3일  <br/> |75<br/> |
+|버전 1811(빌드 11029.20108)  <br/> |2018년 12월 11일  <br/> |177<br/> |
+
+### <a name="semi-annual-channel"></a>반기 채널
+
+예상된 릴리스는 버전 1808(빌드 10730.20264)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1803(빌드 9126.2336) <br/> |2018년 12월 11일  <br/> | 281<br/> |
+|버전 1803(빌드 9126.2315)  <br/> |2018년 11월 13일  <br/> |281 <br/> |
+  
+### <a name="semi-annual-channel-targeted"></a>반기 채널 (대상 지정)
+
+예상된 릴리스는 버전 1808(빌드 10730.20264)입니다.
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1808(빌드 10730.20262)  <br/> |2018년 12월 11일  <br/> |83 <br/> |
+|버전 1808(빌드 10730.20205)  <br/> |2018년 11월 13일  <br/>   |96  <br/>|
+
 
 ## <a name="january-3-2019"></a>2019년 1월 3일
 
@@ -74,7 +104,7 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
 |버전 1803(빌드 10730.20155)  <br/> |2018년 10월 9일  <br/> |90 <br/> |
-|버전 1808(빌드 10730.20205)  <br/> |2018년 11월 13일  <br/>   |77  <br/>|
+|버전 1803(빌드 10730.20205)  <br/> |2018년 11월 13일  <br/>   |77  <br/>|
 
 ## <a name="november-27-2018"></a>2018년 11월 27일
 
