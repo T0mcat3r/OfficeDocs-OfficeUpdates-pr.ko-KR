@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2019 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 455b94312ee32139602ed925eb92f1389338f179
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: 7b4a0334bc9ad63c7fb28f8111cab157fb38ea08
+ms.sourcegitcommit: 19bde490bd56c4b49a6ed51d62a24048792bbf3b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770049"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "27791646"
 ---
 # <a name="update-history-for-office-2019"></a>Office 2019에 대한 업데이트 기록
 
@@ -37,7 +37,6 @@ Microsoft는 필요에 따라 Office 2019에 대해 안정성 또는 성능 개�
 ## <a name="volume-licensed-versions-of-office-2019"></a>볼륨 라이선스 버전의 Office 2019
 다음 정보는 볼륨 라이선싱 계약을 통해 구입한 Office Professional Plus 2019와 같은 볼륨 라이선스 버전의 Office 2019에 적용됩니다.
 
-  
 |**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|
 |2019년 1월 8일   |버전 1808 (빌드 10340.20017)  |[CVE-2019-0541](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0541) <br/> [CVE-2019-0559](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0559) <br/> [CVE-2019-0560](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0560) <br/> [CVE-2019-0561](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0561) <br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0585) <br/> |
