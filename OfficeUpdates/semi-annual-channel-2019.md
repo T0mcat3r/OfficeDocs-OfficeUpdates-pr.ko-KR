@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: da269198a90b18ef62ae293273028d7206efd330
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: e6c20afbeb967d0fc3c559e5be7f798b51b6d7bd
+ms.sourcegitcommit: 3cabf1996522b156bf438969f8aa086f54baec7d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27773200"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27777454"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -31,6 +31,11 @@ ms.locfileid: "27773200"
 
 ## <a name="version-1808-january-8"></a>버전 1808: 1월 8일
 *버전 1808 (빌드 10730.20264)*
+
+### <a name="access-feature-updates"></a>Access: 기능 업데이트
+
+ - **새 차트로 데이터 시각화:** 11개 차트 중에서 선택한 후 폼 및 보고서에 추가하여 데이터를 보다 잘 시각화하고 합리적인 의사 결정을 내릴 수 있습니다. [자세한 정보](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
+
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
  - **공동 작업 편집:** 통합 문서에서 다른 사용자와 동시에 작업합니다. [자세히 알아보기](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
