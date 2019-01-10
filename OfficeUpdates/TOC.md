@@ -51,5 +51,3 @@
 # 관련 링크
 ## [Windows 10 릴리스](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Microsoft 수명 주기 정책](https://support.microsoft.com/lifecycle)
-
-
