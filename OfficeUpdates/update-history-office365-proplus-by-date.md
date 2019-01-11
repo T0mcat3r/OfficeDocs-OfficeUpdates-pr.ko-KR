@@ -3,19 +3,19 @@ title: Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/3/2019
+ms.date: 1/8/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: fb609e400e9c091545ee3a0ae7248a1046c3018b
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 9bc0c8007bb551f1578eea1255a3e641e89fc510
+ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27525779"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "27801505"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -31,10 +31,11 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
  
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월 단위  <br/> |1812  <br/> |11126.20188<br/> | 2019년 1월 3일 <br/> |버전 1901이 릴리스됨 <br/>|
-|반기(대상 지정)  <br/> |1808  <br/> |10730.20262 <br/> | 2018년 12월 11일  <br/> | 2019년 3월 12일 <br/>|
-|반기 <br/> |1803  <br/> | 9126.2336<br/> | 2018년 12월 11일 <br/> |  2019년 9월 10일 <br/>|
-|반기 <br/> |1708  <br/> | 8431.2351  <br/> | 2018년 12월 11일 <br/> |  2019년 3월 12일 <br/>|
+|월 단위  <br/> |1812  <br/> |11126.20196 <br/> | 2019년 1월 8일 <br/> |버전 1901이 릴리스됨 <br/>|
+|반기(대상 지정)  <br/> |1808  <br/> |10730.20264 <br/> |  2019년 1월 8일 <br/> | 2019년 3월 12일 <br/>|
+|반기 <br/> |1808  <br/> | 10730.20264<br/> | 2019년 1월 8일  <br/> |  2020년 3월 10일 <br/>|
+|반기 <br/> |1803  <br/> | 9126.2351  <br/> | 2019년 1월 8일  <br/> |  2019년 9월 10일 <br/>|
+|반기 <br/> |1708  <br/> | 8431.2366  <br/> | 2019년 1월 8일  <br/> |  2019년 3월 12일 <br/>|
 
 이전 버전의 Office 365 ProPlus에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
 
@@ -44,6 +45,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|1월 8일 |[버전 1812 (빌드 11126.20196 )](monthly-channel-2019.md#version-1812-january-8)|[버전 1808 (빌드 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[버전 1808 (빌드 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [버전 1803 (빌드 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [버전 1708(빌드 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
 |2019|1월 3일   |[버전 1812(빌드 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018년|12월 11일 |[버전 1811 (빌드 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[버전 1808 (빌드 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[버전 1803 (빌드 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [버전 1708 (빌드 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018년|11월 27일   |[버전 1811(빌드 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | |
