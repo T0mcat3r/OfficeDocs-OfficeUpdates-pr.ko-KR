@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 1/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f2e1c394266de2b07acaad5ae95d6d19cfc17684
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 9a12200522acbb2f46f7a814affa4b2be5d8d7b9
+ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241489"
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "27992132"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -191,11 +191,13 @@ ms.locfileid: "27241489"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 - **슬라이드에 생동감 주기** 화면에서 애니메이션 3D 그래픽을 삽입하여 심장 박동, 행성 궤도 및 공룡 난동 모습을 표시합니다. [자세히 알아보기](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **대상 그룹에 퀴즈를 내거나 설문 조사하기:** 슬라이드에 퀴즈 또는 설문 조사를 넣습니다. Office가 응답을 수집하고 저장합니다. [자세한 정보](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 - **\@mentions로 주의 끌기** 메모에 @mentions를 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. [자세히 알아보기](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **수식 편집기 변환기** 변환기를 사용하여 Microsoft 수식 편집기로 만든 수식을 Office Math ML 형식으로 변환하여 편집할 수 있습니다.
+- **평범한 문서를 훌륭한 문서로 개선하기:** 모든 장치에서 문서가 잘 보이도록 공유하기 쉬운 대화형의 웹 페이지로 변환합니다. [자세히 알아보기](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ## <a name="version-1808-september-11"></a>버전 1808: 9월 11일
 *버전 1808(빌드 10730.20102)*

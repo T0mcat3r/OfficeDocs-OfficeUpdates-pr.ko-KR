@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e6c20afbeb967d0fc3c559e5be7f798b51b6d7bd
-ms.sourcegitcommit: 3cabf1996522b156bf438969f8aa086f54baec7d
+ms.openlocfilehash: 6ac26aaa333a9391e72ccc75b5319bf659540801
+ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27777454"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "27801495"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -39,7 +39,7 @@ ms.locfileid: "27777454"
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
  - **공동 작업 편집:** 통합 문서에서 다른 사용자와 동시에 작업합니다. [자세히 알아보기](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
- - **이제 클라우드 파일용 자동 저장이 기본적으로 사용하도록 설정됨:** 자동 저장이 2018년 9월 반기 채널(대상 지정)에 기본적으로 사용하도록 설정되었습니다. 이러한 변화는 사용자가 OneDrive 또는 SharePoint Online에 저장된 문서에서 자신의 변경 내용이 손실될까 봐 걱정할 필요가 없음을 의미합니다. 변경 내용이 클라우드에 자동으로 저장되어 사용자가 더 이상 Ctrl + S 또는 저장 단추를 명확하게 누르지 않아도 됩니다. 그러나 사용자가 이 동작의 변화를 이해해야 문서를 실수로 변경하지 않습니다. 사용자는 화면 맨 위에 있는 자동 저장 토글을 이용하여 자동 저장을 끌 수 있습니다. 이 예정된 변화에 대해 사용자에게 알리고 Office 365에서 이 새로운 기능을 가장 잘 활용하는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대해 자세히 알아보기](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [IT 관리자가 자동 저장과 관련해 알아야 할 사항에 대해 자세히 알아보기](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+ - **클라우드 파일용 자동 저장이 기본적으로 실행되도록 설정됨:** 이러한 변화는 사용자가 OneDrive 또는 SharePoint Online에 저장된 문서에 변경 내용이 손실될까 봐 걱정할 필요가 없음을 의미합니다. 변경 내용은 클라우드에 자동으로 저장되어 사용자가 더이상 Ctrl + S 또는 저장 단추를 누르지 않아도 됩니다. 그러나 사용자가 이 동작의 변화를 이해해야 문서를 실수로 변경하지 않습니다. 사용자는 화면 맨 위에 있는 자동 저장 토글을 이용하여 자동 저장을 끌 수 있습니다. 이 예정된 변화에 대해 사용자에게 알리고 Office 365에서 이 새로운 기능을 가장 잘 활용하는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대해 자세히 알아보기](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) 및 [IT 관리자가 자동 저장과 관련해 알아야 할 사항에 대해 자세히 알아보기](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **향상된 셀 및 수식 입력줄 편집:** 이제 Ctrl+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문자에 대한 지원도 개선되었습니다. [자세히 알아보기](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **접근성 검사 개선:** 접근성 검사에서는 통합 문서에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세히 알아보기](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **원치 않는 편집 방지:** 통합 문서를 실수로 변경하지 않도록 읽기 전용으로 설정합니다. 파일 > 정보 > 통합 문서 보호 > 항상 읽기 전용으로 열기로 이동합니다.
@@ -102,7 +102,7 @@ ms.locfileid: "27777454"
 - 동기화 및 삭제된 섹션으로의 이동과 관련해서 발생할 수 있는 안정성 문제를 해결했습니다.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트 
-- **이제 클라우드 파일용 자동 저장이 기본적으로 사용하도록 설정됨:** 자동 저장이 2018년 9월 반기 채널(대상 지정)에 기본적으로 사용하도록 설정되었습니다. 이러한 변화는 사용자가 OneDrive 또는 SharePoint Online에 저장된 문서에서 자신의 변경 내용이 손실될까 봐 걱정할 필요가 없음을 의미합니다. 변경 내용이 클라우드에 자동으로 저장되어 사용자가 더 이상 Ctrl + S 또는 저장 단추를 명확하게 누르지 않아도 됩니다. 그러나 사용자가 이 동작의 변화를 이해해야 프레젠테이션을 실수로 변경하지 않습니다. 사용자는 화면 맨 위에 있는 자동 저장 토글을 이용하여 자동 저장을 끌 수 있습니다. 이 예정된 변화에 대해 사용자에게 알리고 Office 365에서 이 새로운 기능을 가장 잘 활용하는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대해 자세히 알아보기](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [IT 관리자가 자동 저장과 관련해 알아야 할 사항에 대해 자세히 알아보기](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **클라우드 파일용 자동 저장이 기본적으로 실행되도록 설정됨:** 이러한 변화는 사용자가 OneDrive 또는 SharePoint Online에 저장된 문서에 변경 내용이 손실될까 봐 걱정할 필요가 없음을 의미합니다. 변경 내용은 클라우드에 자동으로 저장되어 사용자가 더이상 Ctrl + S 또는 저장 단추를 누르지 않아도 됩니다. 그러나 사용자가 이 동작의 변화를 이해해야 프레젠테이션을 실수로 변경하지 않습니다. 사용자는 화면 맨 위에 있는 자동 저장 토글을 이용하여 자동 저장을 끌 수 있습니다. 이 예정된 변화에 대해 사용자에게 알리고 Office 365에서 이 새로운 기능을 가장 잘 활용하는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대해 자세히 알아보기](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) 및 [IT 관리자가 자동 저장과 관련해 알아야 할 사항에 대해 자세히 알아보기](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **향상된 셀 및 수식 입력줄 편집:** 이제 Ctrl+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문자에 대한 지원도 개선되었습니다. [자세히 알아보기](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **잉크 변환:** 메모와 그림을 낙서한 후, 읽을 수 있는 텍스트와 정돈된 모양으로 세련되게 변환합니다. [자세한 정보](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -141,7 +141,7 @@ ms.locfileid: "27777454"
 - 마스터 프로젝트의 컨텍스트를 통해 작업할 때 하위 프로젝트를 저장하지 못하는 문제를 해결했습니다.
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
-- **이제 클라우드 파일용 자동 저장이 기본적으로 사용하도록 설정됨:** 자동 저장이 2018년 9월 반기 채널(대상 지정)에 기본적으로 사용하도록 설정되었습니다. 이러한 변화는 사용자가 OneDrive 또는 SharePoint Online에 저장된 문서에서 자신의 변경 내용이 손실될까 봐 걱정할 필요가 없음을 의미합니다. 변경 내용이 클라우드에 자동으로 저장되어 사용자가 더 이상 Ctrl + S 또는 저장 단추를 명확하게 누르지 않아도 됩니다. 그러나 사용자가 이 동작의 변화를 이해해야 프레젠테이션을 실수로 변경하지 않습니다. 사용자는 화면 맨 위에 있는 자동 저장 토글을 이용하여 자동 저장을 끌 수 있습니다. 이 예정된 변화에 대해 사용자에게 알리고 Office 365에서 이 새로운 기능을 가장 잘 활용하는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대해 자세히 알아보기](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)[IT 관리자가 자동 저장과 관련해 알아야 할 사항에 대해 자세히 알아보기]
+- **클라우드 파일용 자동 저장이 기본적으로 실행되도록 설정됨:** 이러한 변화는 사용자가 OneDrive 또는 SharePoint Online에 저장된 문서에 변경 내용이 손실될까 봐 걱정할 필요가 없음을 의미합니다. 변경 내용은 클라우드에 자동으로 저장되어 사용자가 더이상 Ctrl + S 또는 저장 단추를 누르지 않아도 됩니다. 그러나 사용자가 이 동작의 변화를 이해해야 프레젠테이션을 실수로 변경하지 않습니다. 사용자는 화면 맨 위에 있는 자동 저장 토글을 이용하여 자동 저장을 끌 수 있습니다. 이 예정된 변화에 대해 사용자에게 알리고 Office 365에서 이 새로운 기능을 가장 잘 활용하는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대해 자세히 알아보기](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) 및 [IT 관리자가 자동 저장과 관련해 알아야 할 사항에 대해 자세히 알아보기](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **접근성 검사 개선:** 접근성 검사에서는 문서에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세히 알아보기](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -175,8 +175,10 @@ ms.locfileid: "27777454"
 ## <a name="version-1803-january-8"></a>버전 1803: 1월 8일
 *버전 1803 (빌드 9126.2351)*
 
-*2018년 1월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1803을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+*2018년 7월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 9월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
+- Office 응용 프로그램 간에 LinkedIn 옵션 기능 패리티를 보장하도록 문제가 수정되었습니다.
 
 
 > [!NOTE]
