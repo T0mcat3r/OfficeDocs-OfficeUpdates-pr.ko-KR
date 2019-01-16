@@ -3,19 +3,19 @@ title: 2019년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2019
+ms.date: 1/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6ac26aaa333a9391e72ccc75b5319bf659540801
-ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
+ms.openlocfilehash: 990e7afafea208c46e58d2e2b11dd6ec7555c7af
+ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "27801495"
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "27992122"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -109,6 +109,7 @@ ms.locfileid: "27801495"
 - **펜으로 슬라이드 제목 쓰기:** 펜을 사용하여 제목을 잉크로 쓰면 PowerPoint에서 텍스트로 변환합니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **원치 않는 편집 방지:** 통합 문서를 실수로 변경하지 않도록 읽기 전용으로 설정합니다. 파일 > 정보 > 통합 문서 보호 > 항상 읽기 전용으로 열기로 이동합니다.
 - **접근성 검사 개선:** 접근성 검사에서는 프레젠테이션에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세히 알아보기](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+-  **대상 그룹에 퀴즈를 내거나 설문 조사하기:** 슬라이드에 퀴즈 또는 설문 조사를 넣습니다. Office가 응답을 수집하고 저장합니다. [자세한 정보](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 - ActiveX 콘텐츠가 있는 파일을 저장할 때 발생할 가능성이 있는 파일 손상 문제를 해결했습니다.
@@ -144,6 +145,7 @@ ms.locfileid: "27801495"
 - **클라우드 파일용 자동 저장이 기본적으로 실행되도록 설정됨:** 이러한 변화는 사용자가 OneDrive 또는 SharePoint Online에 저장된 문서에 변경 내용이 손실될까 봐 걱정할 필요가 없음을 의미합니다. 변경 내용은 클라우드에 자동으로 저장되어 사용자가 더이상 Ctrl + S 또는 저장 단추를 누르지 않아도 됩니다. 그러나 사용자가 이 동작의 변화를 이해해야 프레젠테이션을 실수로 변경하지 않습니다. 사용자는 화면 맨 위에 있는 자동 저장 토글을 이용하여 자동 저장을 끌 수 있습니다. 이 예정된 변화에 대해 사용자에게 알리고 Office 365에서 이 새로운 기능을 가장 잘 활용하는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대해 자세히 알아보기](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) 및 [IT 관리자가 자동 저장과 관련해 알아야 할 사항에 대해 자세히 알아보기](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **접근성 검사 개선:** 접근성 검사에서는 문서에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세히 알아보기](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **평범한 문서를 훌륭한 문서로 개선하기:** 모든 장치에서 문서가 잘 보이도록 공유하기 쉬운 대화형의 웹 페이지로 변환합니다. [자세히 알아보기](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
 - 메모리 부족 메시지가 표시되는 문제를 해결합니다.
