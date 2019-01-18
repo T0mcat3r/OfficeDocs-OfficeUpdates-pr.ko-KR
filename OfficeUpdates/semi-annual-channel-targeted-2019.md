@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 54c9b62bebb657ade63b8c72f1ce0430611dfee6
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: f0ed901d649115b8ea1c3b18339f835d48637b62
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27773198"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325418"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -36,6 +36,10 @@ ms.locfileid: "27773198"
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트 
 
 - 일정 동기화 오류가 발생하는 문제를 해결했습니다.
+
+### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
+
+- 열기 성능을 개선합니다.
 
 
 > [!NOTE]
