@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b92a6a2af96d694576bcc4a51c31de0ba06b8140
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: 0bfbfe046a56b45c90653b90a9bc4db46dd2fe8f
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325458"
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28726711"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -49,6 +49,9 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |PowerPoint  <br/>| **유인물에 슬라이드 번호 인쇄:** 프레젠테이션을 유인물로 인쇄하면 각 슬라이드의 번호가 함께 표시됩니다. <br/><br/> **프레젠테이션에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 프레젠테이션에 민감도 레이블을 적용합니다.[자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/> | <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **메시지에 민감도 레이블 적용:** 조직의 정보 보호 정책을 항상 준수하기 위해 메시지에 민감도 레이블을 적용합니다.[자세히 알아보기](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>  ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft 자동 업데이트 4.7 <br/>| 이제 설치 프로세스의 일환으로 자동 업데이트 디먼이 시작됩니다. 이는 이전에 사용자에게 표시된 헷갈리는 보안 대화를 제거합니다. <br/><br/> Microsoft 자동 업데이트의 보안 기능이 향상되어 SHA256 인증서를 지원할 수 있습니다. <br/>|<br/> | [Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
+> [!NOTE]
+> 버전 16.21부터 Microsoft Teams가 ***새*** 설치에 기본적으로 설치됩니다. 자세한 내용은 [Mac에 Microsoft Teams 설치](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)를 참조하세요.  
 
 
 ## <a name="december-2018-release"></a>2018년 12월 릴리스
