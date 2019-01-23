@@ -3,19 +3,19 @@ title: 2018년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ff46d626dc9c767e19da8e1a5bfacf7522c54b27
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: d7b404c7485bb526ae9cd153a5ebe9e012a6502a
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241499"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27264119"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -48,7 +48,7 @@ ms.locfileid: "27241499"
 -   [CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 
 
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: 비보안 업데이트
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 
 - 특정 연락처 필드를 업데이트할 때 예기치 않게 Outlook이 닫히는 문제를 해결했습니다.
 - "규칙 및 알림 관리" 대화 상자를 시작하면 사용자에게 오류가 표시되는 문제를 해결합니다.
@@ -75,7 +75,7 @@ ms.locfileid: "27241499"
 
 -   [CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성 
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: 비보안 업데이트
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 
 - 특정 연락처 필드를 업데이트할 때 예기치 않게 Outlook이 닫히는 문제를 해결했습니다.
 - "규칙 및 알림 관리" 대화 상자를 시작하면 사용자에게 오류가 표시되는 문제를 해결합니다.
