@@ -3,19 +3,19 @@ title: 2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241519"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27258504"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -54,10 +54,9 @@ ms.locfileid: "27241519"
 - 데이터의 같은 열에 바인딩된 여러 표 슬라이서를 만든 다음 데이터의 해당 열을 삭제할 때 발생할 수 있는 충돌을 해결했습니다.
 - 열 너비를 자동으로 조정하는 옵션이 해제되었을 때 셀의 래핑된 텍스트를 포함하는 필터링된 쿼리 테이블을 새로 고치는 동안 Excel이 이따금씩 충돌하는 문제를 해결했습니다.
 - 슬라이서에 표시된 항목의 수가 변경되면 Excel 2007에서 저장된 슬라이서가 최신 버전의 Excel에서 열 때 충돌을 트리거할 수 있는 문제를 해결했습니다.
-- 대화 기록 폴더를 열 때 사용자가 작동 중단을 경험하는 문제를 해결했습니다.
 - 지원 요청에 대한 조사를 간편하게 하기 위한 진단 가져오기 버튼에 대한 지원을 소개합니다.
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: 비보안 업데이트
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 
 - "규칙 및 알림 관리" 대화 상자를 시작하면 사용자에게 오류가 표시되는 문제를 해결했습니다.
 - 사용자가 데이터 통신 연결을 사용하는 경우 DirectAccess를 통해 사서함에 연결하지 못할 수 있는 문제를 해결했습니다.
@@ -65,6 +64,7 @@ ms.locfileid: "27241519"
 - 사용자가 인라인 첨부 파일이 포함된 항목을 전달할 때 예기치 않은 첨부 파일을 보게 되는 문제를 해결했습니다.
 - OFT 파일이 첨부 파일로 전송된 후 잘 못 표현되는 문제를 해결했습니다.
 - 공유 캘린더에 모임을 추가할 때 일부 추가 기능 사용자가 충돌을 경험하는 문제를 해결했습니다.
+- 대화 기록 폴더를 열 때 사용자가 작동 중단을 경험하는 문제를 해결했습니다.
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 
