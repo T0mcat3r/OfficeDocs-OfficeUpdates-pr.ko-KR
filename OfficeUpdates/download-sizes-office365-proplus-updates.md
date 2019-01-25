@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트의 다운로드 크기
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/04/2019
+ms.date: 01/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 30e3215285589e1e576ab79efad70dd425585923
-ms.sourcegitcommit: 37c86e1ba884e8750c7376862b6b1d0151e62921
+ms.openlocfilehash: d65d738bdfd0f1a36cf2f09cdb4f1d9935099409
+ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27733115"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29442084"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -36,11 +36,22 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 > - 가장 최근의 이전 릴리스만 표에 나와 있습니다. 더 이전 버전에서 업데이트하려는 경우 다운로드 크기가 더 커집니다.
 > - 다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로) 업데이트 크기가 표에 나오는 것보다 훨씬 더 커질 수 있습니다. 이로 인해 전체 다운로드가 필요할 수 있으며 그 규모는 1GB 이상일 수 있습니다. 
 
-## <a name="january-8-2019"></a>2019년 1월 8일
+## <a name="january-14-2019"></a>2019년 1월 14일
 
 ### <a name="monthly-channel"></a>월별 채널
 
-예상된 릴리스는 버전 1812(빌드 11126.20196)입니다. 
+가장 최근 버전은 버전 1812(빌드 11126.20266)입니다. 
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1812(빌드 11126.20188)  <br/> |2019년 1월 3일  <br/> | TBD<br/> |
+|버전 1812(빌드 11126.20196)  <br/> |2019년 1월 8일 <br/> |TBD<br/> |
+
+## <a name="january-8-2019"></a>2019년 1월 8일
+
+### <a name="monthly-channel"></a>월 단위 채널
+
+가장 최근 버전은 버전 1812(빌드 11126.20196)입니다. 
   
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
@@ -49,16 +60,16 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 
 ### <a name="semi-annual-channel"></a>반기 채널
 
-예상된 릴리스는 버전 1808(빌드 10730.20264)입니다.
+가장 최근 버전은 버전 1808(빌드 10730.20264)입니다.
 
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
 |버전 1803(빌드 9126.2336) <br/> |2018년 12월 11일  <br/> | 281<br/> |
 |버전 1803(빌드 9126.2315)  <br/> |2018년 11월 13일  <br/> |281 <br/> |
   
-### <a name="semi-annual-channel-targeted"></a>반기 채널 (대상 지정)
+### <a name="semi-annual-channel-targeted"></a>반기 채널(대상 지정)
 
-예상된 릴리스는 버전 1808(빌드 10730.20264)입니다.
+가장 최근 버전은 버전 1808(빌드 10730.20264)입니다.
   
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
