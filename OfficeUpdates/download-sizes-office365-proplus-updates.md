@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트의 다운로드 크기
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/23/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d65d738bdfd0f1a36cf2f09cdb4f1d9935099409
-ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
+ms.openlocfilehash: 81fe906a9b9a26ec2a6465c0c8047e304c0eeb2d
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29442084"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530263"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -44,8 +44,8 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
   
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
-|버전 1812(빌드 11126.20188)  <br/> |2019년 1월 3일  <br/> | TBD<br/> |
-|버전 1812(빌드 11126.20196)  <br/> |2019년 1월 8일 <br/> |TBD<br/> |
+|버전 1812(빌드 11126.20196)  <br/> |2019년 1월 8일 <br/> |81<br/> |
+|버전 1812(빌드 11126.20188)  <br/> |2018년 12월 11일 <br/> |162<br/> |
 
 ## <a name="january-8-2019"></a>2019년 1월 8일
 
