@@ -3,19 +3,19 @@ title: 2019년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/11/2019
+ms.date: 1/29/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 27022231bfcf8d5cff8ca82f0ac2a1e05cce3939
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d77822fbe8a2fdf87f3c7f080dbc80272e0d9fd6
+ms.sourcegitcommit: 04ecc58188e4af42b54135fb7aa9681b1803f328
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325438"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29647023"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -109,7 +109,7 @@ ms.locfileid: "28325438"
 - **펜으로 슬라이드 제목 쓰기:** 펜을 사용하여 제목을 잉크로 쓰면 PowerPoint에서 텍스트로 변환합니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **원치 않는 편집 방지:** 통합 문서를 실수로 변경하지 않도록 읽기 전용으로 설정합니다. 파일 > 정보 > 통합 문서 보호 > 항상 읽기 전용으로 열기로 이동합니다.
 - **접근성 검사 개선:** 접근성 검사에서는 프레젠테이션에 보다 쉽게 액세스할 수 있도록 국제 표준 및 권장 사항에 대한 지원을 업데이트했습니다. [자세히 알아보기](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
--  **대상 그룹에 퀴즈를 내거나 설문 조사하기:** 슬라이드에 퀴즈 또는 설문 조사를 넣습니다. Office가 응답을 수집하고 저장합니다. [자세한 정보](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 - ActiveX 콘텐츠가 있는 파일을 저장할 때 발생할 가능성이 있는 파일 손상 문제를 해결했습니다.
