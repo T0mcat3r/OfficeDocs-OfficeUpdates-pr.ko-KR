@@ -26,6 +26,10 @@
 #### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
+### Office 참가자 프로그램
+#### [업데이트 기록 참가자 채널](update-history-office-insider.md)
+#### [업데이트 기록 월 단위 채널(대상)](update-history-monthly-channel-targeted.md)
+
 # Mac용 Office
 ## [업데이트 기록(Office 365, 2019)](update-history-office-for-mac.md)
 ## [릴리스 정보(Office 365, 2019)](release-notes-office-for-mac.md)
