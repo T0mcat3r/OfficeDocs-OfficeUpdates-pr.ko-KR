@@ -11,7 +11,7 @@
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
 #### [2016](monthly-channel-2016.md)
-
+#### [2015](monthly-channel-2015.md)
 
 ### 반기 채널
 #### [2019](semi-annual-channel-2019.md)
@@ -24,11 +24,12 @@
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
+#### [2015](semi-annual-channel-targeted-2015.md)
 
-
-### Office 참가자 프로그램
+### Office 참가자 프로그램  
 #### [업데이트 기록 참가자 채널](update-history-office-insider.md)
 #### [업데이트 기록 월 단위 채널(대상)](update-history-monthly-channel-targeted.md)
+####[릴리스 노트 참가자 채널](release-notes-office-insider.md)
 
 # Mac용 Office
 ## [업데이트 기록(Office 365, 2019)](update-history-office-for-mac.md)
