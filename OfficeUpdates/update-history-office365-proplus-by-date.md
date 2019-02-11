@@ -1,7 +1,7 @@
 ---
 title: Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 ms.author: andrewmo
-author: andymosten
+author: anankani
 manager: andrewmo
 ms.date: 1/31/2019
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 1bb67d3e0afd2c1029668b25637a97f94b8bd76e
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: e39cadc41e8403ab656a5d04ba403dea6b99ca2f
+ms.sourcegitcommit: 9b75c404f340d948b6d9bae867b45ee7ee55f43f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690760"
+ms.lasthandoff: 02/11/2019
+ms.locfileid: "29705849"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
