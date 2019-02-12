@@ -3,18 +3,7 @@
 
 
 
-## <a name="week-of-december-31-2018"></a>2018 년 12 월 31 일 주간
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 1/3/2019 | [Office 365 ProPlus 업데이트의 다운로드 크기](/OfficeUpdates/download-sizes-office365-proplus-updates) | 수정한 날짜 |
-| 1/3/2019 | [2019년 월별 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/monthly-channel-2019) | 추가 |
-| 1/3/2019 | [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](/OfficeUpdates/update-history-office365-proplus-by-date) | 수정한 날짜 |
-| 1/4/2019 | [Office 365 ProPlus 업데이트의 다운로드 크기](/OfficeUpdates/download-sizes-office365-proplus-updates) | 수정한 날짜 |
-
-
-## <a name="week-of-january-07-2019"></a>2019년 1월 07일 주
+## <a name="week-of-january-07-2019"></a>2019년 1월 7일 주
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
@@ -74,7 +63,7 @@
 | 1/24/2019 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
 
 
-## <a name="week-of-january-28-2019"></a>2019 년 1 월 28 일 주간
+## <a name="week-of-january-28-2019"></a>2019년 1월 28일의 주
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
@@ -84,6 +73,16 @@
 | 1/31/2019 | [2019년 반기 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-2019) | 수정한 날짜 |
 | 1/31/2019 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
 | 1/31/2019 | [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](/OfficeUpdates/update-history-office365-proplus-by-date) | 수정한 날짜 |
-| 2019/1/2 | [Office 월별 채널 (대상)에 대 한 업데이트 내용](/OfficeUpdates/update-history-monthly-channel-targeted) | 추가 |
+| 2019/1/2 | [업데이트 기록 월 단위 채널(대상)](/OfficeUpdates/update-history-monthly-channel-targeted) | 추가 |
 | 2019/1/2 | [Office 내부 인 채널에 대 한 업데이트 내용](/OfficeUpdates/update-history-office-insider) | 추가 |
 | 2019/1/2 | [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](/OfficeUpdates/update-history-office365-proplus-by-date) | 수정한 날짜 |
+
+
+## <a name="week-of-february-04-2019"></a>2019 년 2 월 4 일 주간
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 2/5/2019 | [Office 365 ProPlus 업데이트의 다운로드 크기](/OfficeUpdates/download-sizes-office365-proplus-updates) | 수정한 날짜 |
+| 2/5/2019 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/release-notes-office-insider) | 추가 |
+| 2/5/2019 | [Office 내부에 대 한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
