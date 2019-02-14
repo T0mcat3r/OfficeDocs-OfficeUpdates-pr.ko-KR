@@ -3,19 +3,19 @@ title: 2019년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/29/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f63a635d72c11c940f295fe05be2ac12ed58a2d5
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690730"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954060"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -28,6 +28,68 @@ ms.locfileid: "29690730"
 
 > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
+> - 반기 채널 사용자가 Office 포털에서 Windows 10용 Office 365를 다운로드 및 설치하면 기본적으로 OneNote 2016이 포함되지 않습니다.
+
+## <a name="version-1808-february-12"></a>버전 1808: 2월 12일
+*버전 1808(빌드 10730.20280)*
+
+### <a name="access-non-security-updates"></a>Access: 비보안 업데이트 
+
+- 이 업데이트는 Access에 대한 새로운 일본 시간대 지원을 추가합니다.
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트 
+
+- 더 이상 존재하지 않는 폴더를 참조하는 규칙이 포함된 사용자로 인해 발생하는 문제를 1로 해결합니다. 규칙과 2를 관리하려 할 때 오류가 표시됩니다. 클라이언트 측 규칙 실행 실패를 참조하세요.
+- 캐시된 대리인 사서함을 가진 사용자로 인해 예측할 수 없는 간격마다 주기적인 중단이 발생하는 문제를 해결합니다.
+- 회의의 종료 시간이 다음날 자정으로 설정되어 종일 회의가 일부 보기에서 의도한 날보다 하루 더 많이 표시되는 문제를 해결합니다.
+- 일본 시간대를 참조하는 새 약속 또는 회의를 만들 때 중단되는 문제를 해결했습니다.
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+
+- [O365 Office 중앙 집중식 배포](https://docs.microsoft.com/ko-KR/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
+
+
+## <a name="version-1803-february-12"></a>버전 1803: 2월 12일
+*버전 1803(빌드 9126.2356)*
+
+*2018년 7월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 9월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808(빌드 10730.20280)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+
+### <a name="access-non-security-updates"></a>Access: 비보안 업데이트 
+
+- 이 업데이트는 Access에 대한 새로운 일본 시간대 지원을 추가합니다.
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트 
+
+- 이 업데이트는 Excel에 대한 새로운 일본 시간대 지원을 추가합니다.
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
+
+- 일본 시간대를 참조하는 새 약속 또는 회의를 만들 때 중단되는 문제를 해결했습니다.
+
+### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
+- 이 업데이트는 Project에 대한 새로운 일본 시간대 지원을 추가합니다.
+
+### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
+
+- 이 업데이트는 Word에 대한 새로운 일본 시간대 지원을 추가합니다.
+
+### <a name="visio-non-security-updates"></a>Visio: 비보안 업데이트
+
+- 이 업데이트는 Visio에 대한 새로운 일본 시간대 지원을 추가합니다.
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+
+- [O365 Office 중앙 집중식 배포](https://docs.microsoft.com/ko-KR/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
+
+## <a name="version-1708-february-12"></a>버전 1708: 2월 12일
+*버전 1708(빌드 8431.2372)*
+
+*2018년 1월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808(빌드 10730.20280)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+
+- [O365 Office 중앙 집중식 배포](https://docs.microsoft.com/ko-KR/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
+
 
 ## <a name="version-1808-january-8"></a>버전 1808: 1월 8일
 *버전 1808 (빌드 10730.20264)*
@@ -35,7 +97,6 @@ ms.locfileid: "29690730"
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
 
  - **새 차트로 데이터 시각화:** 11개 차트 중에서 선택한 후 폼 및 보고서에 추가하여 데이터를 보다 잘 시각화하고 합리적인 의사 결정을 내릴 수 있습니다. [자세한 정보](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
-
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
  - **공동 작업 편집:** 통합 문서에서 다른 사용자와 동시에 작업합니다. [자세히 알아보기](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)

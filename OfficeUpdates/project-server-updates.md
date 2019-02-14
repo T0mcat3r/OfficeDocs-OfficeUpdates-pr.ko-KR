@@ -3,7 +3,7 @@ title: Project Server 업데이트
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 01/09/2019
+ms.date: 02/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 한 곳에서 Project Server 2013 및 Project Server 2010용 업데이트를 찾아서 관리합니다. 이 페이지의 링크를 사용하여 업데이트에 대해 자세히 알아보고 업데이트를 다운로드할 수 있습니다.
-ms.openlocfilehash: 78cf1ddaab810b239d74b4276ef12bb04a097ddb
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: befaaa2d69bfacbde84fa65774a21846135e7a55
+ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770109"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29964610"
 ---
 # <a name="project-server-updates"></a>Project Server 업데이트
 
@@ -30,6 +30,7 @@ ms.locfileid: "27770109"
   
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2019년 2월  <br/> |[KB4462151](https://support.microsoft.com/kb/4462151) <br/>|
 |2019년 1월  <br/> |[KB4461604](https://support.microsoft.com/kb/4461604) <br/>|
 |2018년 12월  <br/> |[KB4461553](https://support.microsoft.com/kb/4461553) <br/>|
 |2018년 11월  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
@@ -84,6 +85,7 @@ ms.locfileid: "27770109"
 
 |**릴리스 날짜**|**KB 번호**|
 |:-----|:-----|:-----|
+|2019년 2월  <br/>  |[KB4462179](https://support.microsoft.com/kb/4462179) <br/>|
 |2019년 1월  <br/>  |[KB4461618](https://support.microsoft.com/kb/4461618) <br/>|
 |2018년 12월  <br/>  |[KB4461572](https://support.microsoft.com/kb/4461572) <br/>|
 |2018년 11월  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|

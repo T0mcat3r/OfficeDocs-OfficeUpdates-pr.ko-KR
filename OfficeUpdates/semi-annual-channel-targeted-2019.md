@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f0ed901d649115b8ea1c3b18339f835d48637b62
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d9ace400fb5f3c92d1e0089c851f51109dfc2228
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325418"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954000"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -28,6 +28,24 @@ ms.locfileid: "28325418"
  
 > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
+
+## <a name="version-1808-february-12"></a>버전 1808: 2월 12일
+*버전 1808(빌드 10730.20280)* 
+
+### <a name="access-non-security-updates"></a>Access: 비보안 업데이트 
+
+- 이 업데이트는 Access에 대한 새로운 일본 시간대 지원을 추가합니다.
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트 
+
+- 더 이상 존재하지 않는 폴더를 참조하는 규칙이 포함된 사용자로 인해 발생하는 문제를 해결합니다. 규칙을 관리하려 할 때 오류가 표시됩니다. 클라이언트 측 규칙 실행 실패를 참조하세요.
+- 캐시된 대리인 사서함을 가진 사용자로 인해 예측할 수 없는 간격마다 주기적인 중단이 발생하는 문제를 해결합니다.
+- 회의의 종료 시간이 다음날 자정으로 설정되어 종일 회의가 일부 보기에서 의도한 날보다 하루 더 많이 표시되는 문제를 해결합니다.
+- 일본 시간대를 참조하는 새 약속 또는 회의를 만들 때 중단되는 문제를 해결했습니다.
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+
+- [O365 Office 중앙 집중식 배포](https://docs.microsoft.com/ko-KR/office/dev/add-ins/publish/centralized-deployment)를 사용하여 배포된 추가 기능이 중지되고 사용할 수 없는 문제를 해결했습니다.
 
 
 ## <a name="version-1808-january-8"></a>버전 1808: 1월 8일

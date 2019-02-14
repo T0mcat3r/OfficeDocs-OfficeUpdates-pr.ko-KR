@@ -3,19 +3,19 @@ title: Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 업
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 01/09/2019
+ms.date: 02/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Office 2016, Office 2013 및 Office 2010 영구 버전의 최신 업데이트 정보에 대한 링크를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 3f1574a551571667f32c3a2b315c68f2a22e0b1d
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: 2e2d6e8c8c167c8eef407f984cafc6b7d720fbc8
+ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770029"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29964530"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows Installer(MSI)를 사용하는 Office 버전에 대한 최신 업데이트
 
@@ -32,23 +32,25 @@ ms.locfileid: "27770029"
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |해당 없음  <br/> |2019년 1월 PU  <br/> [KB4484800](https://support.microsoft.com/help/4484800) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |해당 없음  <br/> |2019년 2월 PU  <br/> [KB4488446](https://support.microsoft.com/help/4488446) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 업데이트
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2019년 1월 PU  <br/> [KB4484800](https://support.microsoft.com/help/4484800) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2019년 2월 PU  <br/> [KB4488446](https://support.microsoft.com/help/4488446) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 업데이트
 
 |**버전 및 제품**|**최신 SP(서비스 팩)**|**최신 PU(공개 업데이트)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 제품군  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 서버  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 제품  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2019년 1월 PU <br/>[KB4484800](https://support.microsoft.com/help/4484800) <br/>|
+|**2010** <br/> Office 2010 제품군  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 서버  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 제품  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2019년 2월 PU <br/>[KB4488446](https://support.microsoft.com/help/4488446) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>지난 12월에 출시된 업데이트
+
+[2019년 2월용 보안 및 비보안 업데이트: KB4488446](https://support.microsoft.com/help/4488446)
 
 [2019년 1월용 보안 및 비보안 업데이트: KB4484800](https://support.microsoft.com/help/4484800)
 
@@ -72,7 +74,7 @@ ms.locfileid: "27770029"
   
 [2018년 3월용 보안 및 비보안 업데이트: KB4090988](https://support.microsoft.com/ko-KR/help/4090988)  
   
-[2018년 2월용 보안 및 비보안 업데이트: KB4077965](https://support.microsoft.com/help/4077965)  
+
   
    
   
