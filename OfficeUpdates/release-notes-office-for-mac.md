@@ -1,21 +1,21 @@
 ---
 title: Mac용 Office에 대한 릴리스 정보
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 01/24/2019
+ms.date: 2/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f8b981f23c1d18c9f7da435d95314844a1ab4165
-ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
+ms.openlocfilehash: ff9655bce5ea379f9164c249f8d17c17c27b61da
+ms.sourcegitcommit: 7c98e6f5ca63da673f6c86b348ab620d351018b2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "29530293"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "29954100"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -34,7 +34,24 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 > - Microsoft 자동 업데이트는 Microsoft의 다양한 Mac 제품에 대한 업데이트를 제공합니다. 따라서 Mac용 Office를 실행하고 있지 않더라도 Microsoft 자동 업데이트를 업데이트하라는 알림을 받을 수 있습니다.
 > - 종종 일정 기간 월 단위 채널에 기능(및 때때로 수정 항목)을 출시하기도 합니다. 이를 통해 기능을 더 많은 대상 그룹에 출시하기 전에 모두 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 문제가 보이지 않는 이상 결국 받게 되니 아무것도 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
-## <a name="january-2019-release"></a>2019 년 1월 릴리스
+## <a name="february-2019-release"></a>2019년 2월 릴리스
+
+ **릴리스 날짜:** 2019년 2월 12일 
+  
+ *버전 16.22.0(빌드 19021100)*
+
+ 이 릴리스는 다음과 같은 업데이트를 제공합니다.
+
+|**애플리케이션**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
+|:-----|:-----|:-----|
+|Word  <br/>| **트랙 패드를 사용하여 스케치:** 트랙 패드 위에서 손가락을 움직여 화면에 표시되는 잉크 흐름을 관찰하세요. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | |[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
+|Excel  <br/>| **트랙 패드를 사용하여 스케치:** 트랙 패드 위에서 손가락을 움직여 화면에 표시되는 잉크 흐름을 관찰하세요. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **트랙 패드를 사용하여 스케치:** 트랙 패드 위에서 손가락을 움직여 화면에 표시되는 잉크 흐름을 관찰하세요. [자세한 정보](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg) <br/>|
+|Outlook  <br/>|  <br/><br/>  ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg) <br/>|
+|Microsoft 자동 업데이트 4.7 <br/>| <br/>|<br/> | [Microsoft 자동 업데이트의 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
+
+## <a name="january-2019-release"></a>2019년 1월 릴리스
 
  **릴리스 날짜:** 2019년 1월 24일 
   
