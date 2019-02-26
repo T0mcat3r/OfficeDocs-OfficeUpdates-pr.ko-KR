@@ -3,23 +3,6 @@
 
 
 
-## <a name="week-of-january-14-2019"></a>2019년 1월 14일의 주
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 1/16/2019 | [Mac용 Office 2016에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-2016-mac) | 수정한 날짜 |
-| 1/16/2019 | [Mac용 Office에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-for-mac) | 수정한 날짜 |
-| 1/16/2019 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
-| 1/16/2019 | [Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보](/OfficeUpdates/office365-proplus-security-updates) | 수정한 날짜 |
-| 1/16/2019 | [MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록](/OfficeUpdates/release-history-microsoft-autoupdate) | 수정한 날짜 |
-| 1/16/2019 | [2019년 반기 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-2019) | 수정한 날짜 |
-| 1/16/2019 | [2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-targeted-2019) | 수정한 날짜 |
-| 1/17/2019 | [2019년 월별 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/monthly-channel-2019) | 수정한 날짜 |
-| 1/17/2019 | [Mac용 Office에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-for-mac) | 수정한 날짜 |
-| 1/17/2019 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
-
-
 ## <a name="week-of-january-21-2019"></a>1 월 21 일 주 2019
 
 
@@ -59,7 +42,7 @@
 | 2/5/2019 | [Office 참가자에 대 한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
 
 
-## <a name="week-of-february-11-2019"></a>2 월 11 일 주 2019
+## <a name="week-of-february-11-2019"></a>2019년 2월 11일의 주
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
@@ -87,3 +70,15 @@
 | 2/15/2019 | [Office 2010 간편 실행 제품에 대 한 업데이트 기록](/OfficeUpdates/update-history-office-2010-click-to-run) | 수정한 날짜 |
 | 2/15/2019 | [Office 참가자에 대 한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
 | 2/15/2019 | [Office 참가자 채널에 대 한 업데이트 기록](/OfficeUpdates/update-history-office-insider) | 수정한 날짜 |
+
+
+## <a name="week-of-february-18-2019"></a>2019 년 2 월 18 일 주
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 2/20/2019 | [Mac용 Office에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-for-mac) | 수정한 날짜 |
+| 2/20/2019 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
+| 2/21/2019 | [Office 2016 C2R 및 Office 2019의 업데이트 기록](/OfficeUpdates/update-history-office-2019) | 수정한 날짜 |
+| 2/22/2019 | [업데이트 기록 월 단위 채널(대상)](/OfficeUpdates/update-history-monthly-channel-targeted) | 수정한 날짜 |
+| 2/22/2019 | [Office 참가자 채널에 대 한 업데이트 기록](/OfficeUpdates/update-history-office-insider) | 수정한 날짜 |
