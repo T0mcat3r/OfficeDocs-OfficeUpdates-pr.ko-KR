@@ -1,12 +1,44 @@
 ---
-제목: "Office 참가자에 대 한 릴리스 정보" andrewmo 만든이: mikho manager: andrewmo ms. 날짜: 2/15/2019. 대상 그룹: Win32 Fast ms. 항목: reference ms. 서비스: o365-proplus-localization_priority: Critical ms. 컬렉션: RelNotes_ProPlus description: "새 주요 기능, 수정 사항 또는 알려진 문제에 대 한 최신 목록을 사용 하 여 참가자의 빠른 대상 그룹을 제공 합니다.
+제목: "Office 참가자에 대 한 릴리스 정보" andrewmo 만든이: mikho manager: andrewmo ms. 날짜: 3/1/2019. 대상 그룹: Win32 Fast ms. 항목: reference ms. 서비스: o365-proplus-localization_priority: Critical ms. 컬렉션: RelNotes_ProPlus description: "새 주요 기능, 수정 사항 또는 알려진 문제에 대 한 최신 목록을 사용 하 여 참가자의 빠른 대상 그룹을 제공 합니다.
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대 한 릴리스 정보
 
 이 문서에는 Word, Excel, PowerPoint, Outlook, Access 및 Windows 데스크톱 프로젝트의 참가자 빌드에 대 한 릴리스 정보가 포함 되어 있습니다. 모든 주에 흥미로운 새로운 기능, 중요 수정 사항 및 알아야 할 중요 한 문제를 강조 합니다. 일정 기간에 걸쳐 각 참가자에 게 기능을 배포 하는 경우가 많습니다. 이렇게 하면 기능을 보다 광범위 한 대상으로 릴리스하기 전에 작업을 원활 하 게 진행할 수 있습니다. 따라서 아래에서 설명 하는 내용이 표시 되지 않으면 결국에는 걱정 하지 않아도 됩니다.  
 
-## <a name="february-12-2019-version-1902-build-1133020014"></a>2 월 12 2019 버전 1902 (빌드 11330.20014)
+## <a name="february-25-2019-version-1903-build-1133020014"></a>2019 년 2 월 25 일 버전 1903 (빌드 11330.20014)
+
+
+## <a name="notable-fixes"></a>주요 수정 사항:
+
+### <a name="word"></a>Word 
+- 옵션에 있는 동안 ' ESC '를 누를 때 발생 하는 충돌 문제를 해결 했습니다.
+- Word에서 PowerPoint Online으로 복사 & 붙여넣기 문제가 해결 되었습니다.
+
+### <a name="excel"></a>Excel
+- 보호 된 문서 및 편집할 수 있는 문서를 열 때 Excel에서 셀을 복사 하면 CPU 사용량이 높아질 수 있는 문제를 해결 했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- PowerPoint에서 @Mentions을 사용할 때 슬라이드 이미지 크기 문제가 해결 되었습니다.
+
+### <a name="outlook"></a>Outlook
+- Outlook 검색이 선택한 시간 정렬을 제공 하지 않는 문제를 해결 했습니다.
+- 특정 전자 메일에 대해 "이 작업 열기" 워크플로 리본 단추가 응답 하지 않는 문제를 해결 했습니다.
+- 사용자가 대화방 Finder에서 사용 가능한 대화방을 선택한 후에는 온-프레미스 대화방에서 Outlook이 지워지지 않는 문제를 해결 했습니다.
+
+### <a name="access"></a>액세스
+- datasource를 사용 하 여 다시 링크 테이블을 확인할 때 표시 되는 프롬프트 텍스트가 업데이트 되었습니다.
+- 어두운 색 테마의 흰색 배경에 흰색 텍스트가 있는 저장 된 가져오기/내보내기 대화 상자를 수정 했습니다.
+- 표 디자인의 예/아니요 필드에 대 한 표시 컨트롤 속성을 사용자가 설정할 수 없는 문제를 해결 했습니다.
+
+### <a name="project"></a>Project
+- 다양 한 성능 및 안정성 수정 사항
+
+</BR></BR>
+
+
+
+## <a name="february-12-2019-version-1903-build-1133020014"></a>2 월 12 2019 버전 1903 (빌드 11330.20014)
 
 ## <a name="whats-new"></a>새로운 기능:
 
@@ -73,6 +105,7 @@ SmartArt와 같은 방법으로 사용
 새 계정 관리자는 모든 회사 및 개인 계정을 한 곳에 표시 하 고 사용자 간의 전환을 제어할 수 있습니다. 이 업데이트 된 환경에서는 사용자가 로그인 하는 방식을 명확히 알 수 있으며, 이제는 복잡 한 대화를 먼저 로그 아웃 하거나 처리할 필요 없이 회사 및 개인 계정 간을 전환할 수도 있습니다.
 
 
+![MeMock-.png](Images/MeMock.png)
 
 #### <a name="scenarios-to-try"></a>시도할 시나리오:
 - 계정 간 전환
@@ -103,7 +136,7 @@ SmartArt와 같은 방법으로 사용
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1902-build-1133020014"></a>2 월 9 2019 버전 1902 (빌드 11330.20014)
+## <a name="february-9-2019-version-1903-build-1133020014"></a>2 월 9 2019 버전 1903 (빌드 11330.20014)
 
 
 ## <a name="notable-fixes"></a>주요 수정 사항:
