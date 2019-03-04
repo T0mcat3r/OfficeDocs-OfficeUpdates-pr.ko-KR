@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 업데이트 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 2/12/2018
+ms.date: 2/26/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 다운로드 패키지 및 업데이트 기록에 대한 링크를 포함하여 Mac용 Office의 최신 업데이트에 대한 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c01806b141677f4af7dfe570802c1b352f1e0190
-ms.sourcegitcommit: cbf28ac3d54fe873f17d57e40714c2647bd4363a
+ms.openlocfilehash: ae14ceca103fb8ebfabb0cbb97403a0e564b638d
+ms.sourcegitcommit: 3af5f3ced6b4775a320ba0305a84faa7ec31e69e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30128104"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "30294601"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac용 Office에 대한 업데이트 기록
 
@@ -58,13 +58,12 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
   
 |**프로그램**|**버전**|**패키지**|**추가 정보**|**SHA-1/SHA-256 해시**|
 |:-----|:-----|:-----|:-----|:-----|
-|MAU(Microsoft 자동 업데이트)  <br/> |4.7 (19011500)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   이 업데이트 패키지는 64비트입니다. <br/><br/>[MAU에 대한 릴리스 기록](release-history-microsoft-autoupdate.md)<br/> |90D8C109CEE96F1113FDEA7C263337545AD84883C97671A985A580C2D65D65B2 <br/>|
+|MAU(Microsoft 자동 업데이트)  <br/> |4.8(19022003)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   이 업데이트 패키지는 64비트입니다. <br/><br/>[MAU에 대한 릴리스 기록](release-history-microsoft-autoupdate.md)<br/> |CEC4E8458027571E69BACE1424079E0C883CCB944398EFA3A8D35ABCB28935B6 <br/>|
 |비즈니스용 Skype  <br/> |16.24.0.191 <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |최신 버전은 2019년 1월 31일에 릴리스되었습니다. <br/><br/>[최신 업데이트](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |  B35E2BE81C90D9E0ABFE1EC3A9384A3DE826C35D9F1304C111C56D5B44BB2A72 <br/> |
 |원격 데스크톱 | 10.2.7  | [다운로드](https://go.microsoft.com/fwlink/?linkid=868963) | 이 설치 패키지는 64비트입니다. <br/> <br/>[새로운 기능](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  f6d33f6573d9d274a4f8b17b5c998f523d440a038e8748e899af274a8b5cf911 <br/> |
 |Intune 회사 포털 |1.5(52.1805002.000) [180509] | [다운로드](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune의 새로운 기능](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
 |Mac용 Office 2016에 대한 Microsoft SharePoint 온-프레미스 Safari 브라우저 플러그 인  <br/> |15.32.0(170309)  <br/> |[다운로드](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |이 설치 패키지는 64비트입니다.  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
-
 ## <a name="release-history-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 기록
 
 다음 표에서는 Mac용 Office에 대한 릴리스 기록 정보와 다운로드 링크를 제공합니다. 이 표는 가장 최근 릴리스부터 정렬됩니다. 빌드 날짜는 버전 번호 다음에 괄호로 묶여 YYMMDD 형식으로 표시됩니다. 2016년 8월 22일 이후의 모든 릴리스는 64비트 전용입니다. 2016년 8월 22일 이전의 모든 릴리스는 32비트 전용입니다.
