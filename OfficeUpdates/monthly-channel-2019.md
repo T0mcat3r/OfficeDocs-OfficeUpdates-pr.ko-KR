@@ -3,19 +3,19 @@ title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 02/28/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 9ad21789db5aa940eb879f14684d7e56c4ddfbb4
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
+ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954010"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379363"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -28,6 +28,44 @@ ms.locfileid: "29954010"
 
  > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다. 
+
+## <a name="version-1902-march-4"></a>버전 1902: 3월 4일
+*버전 1902(빌드 11328.20146)* 
+
+### <a name="access-feature-updates"></a>Access: 기능 업데이트
+
+- **데이터베이스 개체에 탭 유지:** 활성 탭이 무엇인지 명확하게 구분할 수 있고, 간편하게 끌어서 순서를 변경할 수 있고, 클릭 한 번으로 데이터베이스 개체를 닫을 수 있습니다.
+- **더 많은 공간을 사용하여 확대/축소:** 확대/축소 상자의 크기를 키우고, 글꼴을 변경할 수 있습니다. 확대/축소에 이러한 설정이 모두 저장됩니다. [자세한 정보](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
+
+### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
+
+- **\@mention으로 주의 끌기:** 동료들의 의견이 필요하면 메모에 @mention을 사용하여 알릴 수 있습니다. [자세히 알아보기](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **자세한 데이터 분석:** 새로운 아이디어 단추는 데이터에서 패턴을 찾아서 인텔리전트 맞춤형 제안을 만듭니다. [자세히 알아보기](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
+- **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+
+- **연달아 있는 모임 사이에 시간 넣기:** 모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다. [여기](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)와 [여기](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)에서 자세히 알아보기
+- **소리내어 읽기를 사용하여 전자 메일 듣기:** Outlook에서 텍스트를 강조 표시하며 전자 메일을 소리내어 읽어 줍니다. 소리내어 읽기를 설정하려면 접근성 설정으로 이동하세요. [자세히 알아보기](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
+- **메시지 암호화: 암호화 전용 IRM 정책:** Office 365 메시지 암호화 사용자를 위한 옵션 > 사용 권한 메뉴에 새로운 암호화 전용 옵션이 표시됩니다. 이 옵션을 사용하면 메시지를 암호화하여 조직의 내부 또는 외부 사용자에게 보낼 수 있습니다. [자세히 알아보기](https://aka.ms/omeoverview)
+- **되풀이 범위의 새로운 기본값:** 되풀이 대화 상자에서 되풀이 범위의 기본값은 원래 "종료 날짜 없음"이었습니다. 이 기본값을 사용하면 기간이 긴 되풀이를 손쉽게 만들 수 있었지만, 시간이 지나면 손상될 가능성이 있었습니다. 기본값이 일정 관리의 권장 모범 사례를 따르도록, 이제 되풀이 대화 상자의 기본값이 "종료 날짜"로 변경됩니다.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+
+- **그 어느 때보다 쉬운 온라인 비디오 삽입:** 슬라이드에 Vimeo 또는 YouTube 비디오를 삽입해야 하나요? 비디오 페이지 링크만 있으면 됩니다. [자세히 알아보기](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **수식만 쓰세요, 서식은 PowerPoint가 알아서 지정해 드립니다:** 손글씨로 쓴 수학 식을 표준 문자로 변경해 드리겠습니다. 잉크 수식 변환을 선택하고 필기를 선택하기만 하면 됩니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
+- **생동감 있는 색상의 하이퍼링크:** 하이퍼링크에 기존의 파란색이 아닌 원하는 글꼴 색상을 적용할 수 있습니다. [자세히 알아보기](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8) 변경 24843
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+
+- **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
+- **자동 저장이 설정되지 않은 이유 확인** 자동 저장이 해제되어 있을 때 자동 저장 토클을 클릭하면 자동 저장이 해제된 이유를 안내하는 유용한 설명이 표시됩니다. 자동 저장이 해제된 이유가 단순히 해당 문서가 OneDrive 또는 SharePoint에 있는 문서가 아니기 때문인 경우에는 클릭 한 번으로 편리하게 문서를 이동할 수 있도록 지원합니다.
+ 
+### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
+
+- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세히 알아보기](https://docs.microsoft.com/ko-KR/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>버전 1901: 2월 12일
 *버전 1901(빌드 11231.20174)* 
