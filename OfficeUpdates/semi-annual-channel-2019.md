@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
+ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954060"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466115"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -227,8 +227,12 @@ ms.locfileid: "29954060"
 - **다이어그램 및 원본을 동기화 상태로 유지:** Visio에서 데이터 시각화 도우미 다이어그램을 편집하면 연결된 Excel 원본 데이터를 최신 다이어그램 콘텐츠로 업데이트하는 옵션이 제공됩니다.
 - **데이터 시각화 도우미 감사 서식 파일:** Excel에서 콘텐츠를 가져와 금융 거래, 재고 관리 등을 위한 감사 다이어그램을 만들 수 있습니다.
 - **시작 다이어그램:** 이제 조직도, 브레인스토밍 및 SDL 서식 파일에 더 빨리 시작하고 작동하기 위한 새로운 시작 다이어그램이 포함되어 있습니다.
- - **Visio 셰이프로 Word 문서 만들기** 셰이프, 메타데이터 등의 다이어그램 콘텐츠를 Word 문서에 자동으로 추가합니다. 그런 다음, 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세히 알아보기](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+- **Visio 셰이프로 Word 문서 만들기** 셰이프, 메타데이터 등의 다이어그램 콘텐츠를 Word 문서에 자동으로 추가합니다. 그런 다음, 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세히 알아보기](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
+### <a name="office-suite-security-update"></a>Office 제품군: 보안 업데이트
+
+- 
+  **보안상의 이유로 Office에서 Flash, Silverlight 및 Shockwave 컨트롤이 활성화되지 않도록 차단:** 보안상의 이유로 Windows의 Office 365용 Microsoft Office의 새 빌드는 Flash, Silverlight 및 Shockwave 컨트롤의 활성화를 차단합니다. [여기](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 및 [여기](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)에서 자세히 알아보세요.
  
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 - 특정 시나리오에서 업데이트 설치 시간이 오래 걸리는 문제를 해결했습니다.
