@@ -1,5 +1,5 @@
 ---
-제목: "Office 참가자에 대 한 릴리스 정보" andrewmo 만든이: mikho manager: andrewmo ms. 날짜: 3/07/2019. 대상 그룹: Win32 Fast ms. 항목: reference ms. 서비스: o365-proplus-localization_priority: Critical ms. 컬렉션: RelNotes_ProPlus description: "새 주요 기능, 수정 사항 또는 알려진 문제에 대 한 최신 목록을 사용 하 여 참가자의 빠른 대상 그룹을 제공 합니다.
+제목: "Office 참가자에 대 한 릴리스 정보" andrewmo 만든이: mikho manager: andrewmo ms. 날짜: 3/08/2019. 대상 그룹: Win32 Fast ms. 항목: reference ms. 서비스: o365-proplus-localization_priority: Critical ms. 컬렉션: RelNotes_ProPlus description: "새 주요 기능, 수정 사항 또는 알려진 문제에 대 한 최신 목록을 사용 하 여 참가자의 빠른 대상 그룹을 제공 합니다.
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대 한 릴리스 정보
@@ -7,8 +7,56 @@
 이 문서에는 Word, Excel, PowerPoint, Outlook, Access 및 Windows 데스크톱 프로젝트의 참가자 빌드에 대 한 릴리스 정보가 포함 되어 있습니다. 모든 주에 흥미로운 새로운 기능, 중요 수정 사항 및 알아야 할 중요 한 문제를 강조 합니다. 일정 기간에 걸쳐 각 참가자에 게 기능을 배포 하는 경우가 많습니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.  
 
 > [!NOTE]
-> - 릴리스 정보는 매주 게시 되며 여러 빌드를 컴파일할 수 있습니다. 
+> - 릴리스 정보가 매주 게시 되며 여러 빌드의 컴파일 일 수 있습니다.
 > - 릴리스 노트 발행물 날짜가 실제 빌드 릴리스 날짜와 일치 하지 않을 수 있습니다.
+
+
+## <a name="march-8-2019"></a>2019 년 3 월 8 일 
+버전 1903 (빌드 11425.20036)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="word"></a>Word
+
+### <a name="find-what-youre-looking-for-with-microsoft-search"></a>Microsoft 검색에서 찾으려는 사항 찾기
+
+Microsoft Search를 사용 하면 작업을 완료 하는 데 필요한 모든 파일, 작업, 사용자 및 도움말을 찾을 수 있습니다.
+
+#### <a name="getting-started"></a>시작 하기:
+
+- 이 기능은 머리글에서 UI 위에 명확 하 게 표시 됩니다.
+
+#### <a name="scenarios-to-try"></a>시도할 시나리오:
+
+- 가장 자주 사용 하는 리본 메뉴 명령을 검색 하거나 최근 문서를 검색 합니다.
+- 자세한 정보를 보려면 주제 또는 주제 조회
+
+
+## <a name="notable-fixes"></a>주요 수정 사항:
+
+### <a name="word"></a>Word 
+- 옵션에 있는 동안 ' ESC '를 누를 때 발생 하는 충돌 문제를 해결 했습니다.
+- 의견에 회신할 때 발생 하는 충돌 문제를 해결 했습니다.
+- Word에서 PowerPoint Online으로 복사 & 붙여넣기 문제가 해결 되었습니다.
+
+### <a name="excel"></a>Excel
+- 보호 된 문서 및 편집할 수 있는 문서를 열 때 Excel에서 셀을 복사 하면 CPU 사용량이 높아질 수 있는 문제를 해결 했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 다양 한 성능 및 안정성 수정 사항
+
+### <a name="outlook"></a>Outlook
+- Outlook 검색이 선택한 시간 정렬을 제공 하지 않는 문제를 해결 했습니다.
+- 특정 전자 메일에 대해 "이 작업 열기" 워크플로 리본 단추가 응답 하지 않는 문제를 해결 했습니다.
+- 사용자가 대화방 Finder에서 사용 가능한 대화방을 선택한 후에는 온-프레미스 대화방에서 Outlook이 지워지지 않는 문제를 해결 했습니다.
+
+### <a name="access"></a>액세스
+- 어두운 색 테마의 흰색 배경에 흰색 텍스트가 있는 저장 된 가져오기/내보내기 대화 상자를 수정 했습니다.
+- 표 디자인에서 예/아니요 필드에 대 한 DisplayControl 속성을 Textbox로 설정할 수 없는 문제를 해결 했습니다.
+
+### <a name="project"></a>Project
+- 다양 한 성능 및 안정성 수정 사항
+
 
 ## <a name="march-1-2019"></a>2019년 3월 1일 
 버전 1903 (빌드 11414.20014)
