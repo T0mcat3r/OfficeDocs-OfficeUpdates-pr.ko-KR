@@ -3,19 +3,19 @@ title: 업데이트 기록 월 단위 채널(대상)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/01/2019
+ms.date: 03/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: f30eef0585fda90bc28737419386c84469c3ea6c
-ms.sourcegitcommit: 387d908317422401386311c406299e9515a67566
+ms.openlocfilehash: a4b79be302debe7782f193ff15de65888c8d30a1
+ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "30361733"
+ms.lasthandoff: 03/09/2019
+ms.locfileid: "30512777"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows용 월간(대상) 채널의 업데이트 내역
 
@@ -24,6 +24,12 @@ ms.locfileid: "30361733"
 ## <a name="office-insider-versions-and-builds"></a>Office 참가자 버전 및 빌드
 
 이전에 Insider Slow라고 부르던 월 단위 채널 (대상) 수준에 등록한 경우, 한 달에 한 번 정도 새 Office 기능 업데이트가 제공되며 이후 중요한 수정이나 보안 업데이트가 포함 된 빌드가 추가로 제공됩니다. 다음 목록은 최근 월 단위 채널(대상) 버전 및 빌드를 보여 주며 **가장 최근에 릴리스 된 빌드가 가장 먼저 나열**됩니다. 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다. 릴리스 노트를 찾으려면 [ Office 참가자](https://support.office.com/ko-KR/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)의 새로운 기능을 참조하십시오.
+
+> [!NOTE]
+> - 업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.
+> - 릴리스 정보는 더 느린 흐름에 업데이트되며 릴리스 정보 게시 빌드 번호까지 여러 빌드에 대한 업데이트 컴파일이 될 수 있습니다.
+
+**2019년 3월 2일**<br/> 버전 1902(빌드 11328.20146)<br/>
 
 **2019년 3월 1일**<br/> 버전 1902(빌드 11328.20140)<br/>
 

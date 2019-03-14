@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
+ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379363"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "30509301"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -46,10 +46,9 @@ ms.locfileid: "30379363"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 
-- **연달아 있는 모임 사이에 시간 넣기:** 모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다. [여기](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)와 [여기](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)에서 자세히 알아보기
+- **연달아 있는 모임 사이에 시간 넣기: **모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **소리내어 읽기를 사용하여 전자 메일 듣기:** Outlook에서 텍스트를 강조 표시하며 전자 메일을 소리내어 읽어 줍니다. 소리내어 읽기를 설정하려면 접근성 설정으로 이동하세요. [자세히 알아보기](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-- **메시지 암호화: 암호화 전용 IRM 정책:** Office 365 메시지 암호화 사용자를 위한 옵션 > 사용 권한 메뉴에 새로운 암호화 전용 옵션이 표시됩니다. 이 옵션을 사용하면 메시지를 암호화하여 조직의 내부 또는 외부 사용자에게 보낼 수 있습니다. [자세히 알아보기](https://aka.ms/omeoverview)
-- **되풀이 범위의 새로운 기본값:** 되풀이 대화 상자에서 되풀이 범위의 기본값은 원래 "종료 날짜 없음"이었습니다. 이 기본값을 사용하면 기간이 긴 되풀이를 손쉽게 만들 수 있었지만, 시간이 지나면 손상될 가능성이 있었습니다. 기본값이 일정 관리의 권장 모범 사례를 따르도록, 이제 되풀이 대화 상자의 기본값이 "종료 날짜"로 변경됩니다.
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 

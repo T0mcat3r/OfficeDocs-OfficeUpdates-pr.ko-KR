@@ -3,23 +3,29 @@ title: Office 참가자 채널에 대한 업데이트 기록
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/07/2019
+ms.date: 03/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: c79980e18332acfd94b4859ff6d2734179ad77b9
-ms.sourcegitcommit: 12fe89697c04c4f9094c60cbc410e44426a38069
+ms.openlocfilehash: f8aef9345c96956c144922e07fa39bf208287a25
+ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "30482451"
+ms.lasthandoff: 03/09/2019
+ms.locfileid: "30512797"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 참가자 채널에 대한 업데이트 기록
 
 안녕하세요, 참가자 여러분! 최신 업데이트가 설치되어 있는지 또는 최근의 참가자 빌드 목록을 찾고 있는지 궁금할 경우 바로 알맞은 위치에 있습니다. 참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/)를 클릭하십시오.
+
+> [!NOTE]
+> - 업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.
+> - 릴리스 정보는 더 느린 흐름에 업데이트되며 릴리스 정보 게시 빌드 번호까지 여러 빌드에 대한 업데이트 컴파일이 될 수 있습니다.
+
+
 
 ## <a name="office-insider-versions-and-builds"></a>Office 참가자 버전 및 빌드
 
