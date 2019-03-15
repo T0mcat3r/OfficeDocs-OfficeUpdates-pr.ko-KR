@@ -3,19 +3,23 @@
 
 
 
-## <a name="week-of-january-28-2019"></a>2019년 1월 28일의 주
+## <a name="week-of-march-04-2019"></a>3 월 4 일 주 2019
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
 |------|------------|--------|
-| 1/31/2019 | [Office 365 ProPlus 업데이트의 다운로드 크기](/OfficeUpdates/download-sizes-office365-proplus-updates) | 수정한 날짜 |
-| 1/31/2019 | [2019년 월별 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/monthly-channel-2019) | 수정한 날짜 |
-| 1/31/2019 | [2019년 반기 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-2019) | 수정한 날짜 |
-| 1/31/2019 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
-| 1/31/2019 | [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](/OfficeUpdates/update-history-office365-proplus-by-date) | 수정한 날짜 |
-| 2/1/2019 | [업데이트 기록 월 단위 채널(대상)](/OfficeUpdates/update-history-monthly-channel-targeted) | 더해집니다 |
-| 2/1/2019 | [Office 참가자 채널에 대 한 업데이트 기록](/OfficeUpdates/update-history-office-insider) | 더해집니다 |
-| 2/1/2019 | [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](/OfficeUpdates/update-history-office365-proplus-by-date) | 수정한 날짜 |
+| 3/4/2019 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
+| 3/4/2019 | [Office 365 ProPlus 업데이트의 다운로드 크기](/OfficeUpdates/download-sizes-office365-proplus-updates) | 수정한 날짜 |
+| 3/4/2019 | [2019년 월별 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/monthly-channel-2019) | 수정한 날짜 |
+| 3/4/2019 | [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](/OfficeUpdates/update-history-office365-proplus-by-date) | 수정한 날짜 |
+| 3/6/2019 | [2019년 반기 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-2019) | 수정한 날짜 |
+| 3/7/2019 | [Office 참가자에 대 한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
+| 3/7/2019 | [Office 참가자 채널에 대 한 업데이트 기록](/OfficeUpdates/update-history-office-insider) | 수정한 날짜 |
+| 3/8/2019 | [2019년 월별 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/monthly-channel-2019) | 수정한 날짜 |
+| 3/8/2019 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
+| 3/8/2019 | [Office 참가자에 대 한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
+| 3/8/2019 | [업데이트 기록 월 단위 채널(대상)](/OfficeUpdates/update-history-monthly-channel-targeted) | 수정한 날짜 |
+| 3/8/2019 | [Office 참가자 채널에 대 한 업데이트 기록](/OfficeUpdates/update-history-office-insider) | 수정한 날짜 |
 
 
 ## <a name="week-of-february-04-2019"></a>2019년 2월 4일에 해당하는 주
