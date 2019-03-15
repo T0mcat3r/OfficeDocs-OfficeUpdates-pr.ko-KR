@@ -3,19 +3,19 @@ title: Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
 ms.author: andrewmo
 author: ''
 manager: andrewmo
-ms.date: 1/16/2019
+ms.date: 3/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: cfa6d6d844e06e3b14865a64e02c1064fbb8c8f5
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 395767b1ebd1208c54e2bd07f6b75216d8b7fe24
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954030"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568191"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
 
@@ -24,6 +24,10 @@ ms.locfileid: "29954030"
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트의 보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+
+## <a name="march-12-2019"></a>2019년 3월 12일
+이번 달에는 채널 보안 업데이트가 없습니다.
+
 ## <a name="february-12-2019"></a>2019년 2월 12일
 월간 채널: 버전 1901(빌드 11231.20174)  
 반기 채널(대상 지정): 버전 1808(빌드 10730.20280)   

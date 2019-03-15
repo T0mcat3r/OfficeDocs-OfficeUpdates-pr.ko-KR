@@ -3,19 +3,19 @@ title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/28/2019
+ms.date: 3/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
-ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
+ms.openlocfilehash: 1c03ce02014c0b324678016cdb10e1c88f09da7b
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "30509301"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568311"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -28,6 +28,11 @@ ms.locfileid: "30509301"
 
  > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다. 
+
+## <a name="version-1902-march-12"></a>버전 1902: 3월 12일
+*버전 1902(빌드 11328.20158)* 
+
+- 다양한 버그 및 성능 개선.
 
 ## <a name="version-1902-march-4"></a>버전 1902: 3월 4일
 *버전 1902(빌드 11328.20146)* 
@@ -48,19 +53,20 @@ ms.locfileid: "30509301"
 
 - **연달아 있는 모임 사이에 시간 넣기: **모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **소리내어 읽기를 사용하여 전자 메일 듣기:** Outlook에서 텍스트를 강조 표시하며 전자 메일을 소리내어 읽어 줍니다. 소리내어 읽기를 설정하려면 접근성 설정으로 이동하세요. [자세히 알아보기](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-
+- **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
 - **그 어느 때보다 쉬운 온라인 비디오 삽입:** 슬라이드에 Vimeo 또는 YouTube 비디오를 삽입해야 하나요? 비디오 페이지 링크만 있으면 됩니다. [자세히 알아보기](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 - **수식만 쓰세요, 서식은 PowerPoint가 알아서 지정해 드립니다:** 손글씨로 쓴 수학 식을 표준 문자로 변경해 드리겠습니다. 잉크 수식 변환을 선택하고 필기를 선택하기만 하면 됩니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
-- **생동감 있는 색상의 하이퍼링크:** 하이퍼링크에 기존의 파란색이 아닌 원하는 글꼴 색상을 적용할 수 있습니다. [자세히 알아보기](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8) 변경 24843
+- **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
 - **자동 저장이 설정되지 않은 이유 확인** 자동 저장이 해제되어 있을 때 자동 저장 토클을 클릭하면 자동 저장이 해제된 이유를 안내하는 유용한 설명이 표시됩니다. 자동 저장이 해제된 이유가 단순히 해당 문서가 OneDrive 또는 SharePoint에 있는 문서가 아니기 때문인 경우에는 클릭 한 번으로 편리하게 문서를 이동할 수 있도록 지원합니다.
+- **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
 

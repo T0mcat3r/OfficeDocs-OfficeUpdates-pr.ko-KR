@@ -3,19 +3,19 @@ title: 2019년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 3/6/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
-ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
+ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466115"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568361"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -29,6 +29,25 @@ ms.locfileid: "30466115"
 > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
 > - 반기 채널 사용자가 Office 포털에서 Windows 10용 Office 365를 다운로드 및 설치하면 기본적으로 OneNote 2016이 포함되지 않습니다.
+
+## <a name="version-1808-march-12"></a>버전 1808: 3월 12일
+*버전 1808(빌드 10730.20304)*
+
+### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
+
+- VBA가 잘못된 페이지 번호를 반환하는 문제를 해결했습니다.
+- 로컬 Word 파일 저장 시간이 개선됩니다. 
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
+
+- Office 365 메시지 암호화 메뉴에서 “암호화 전용” 옵션을 사용하지 않도록 설정하는 레지스트리 키가 제공됩니다.
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+
+- Office 업데이트 다운로드를 시도할 때 일정 시간 멈추는 문제를 해결했습니다.
+
+## <a name="version-1803-march-12"></a>버전 1803: 3월 12일 
+이번 달에는 업데이트가 없습니다.
 
 ## <a name="version-1808-february-12"></a>버전 1808: 2월 12일
 *버전 1808(빌드 10730.20280)*
