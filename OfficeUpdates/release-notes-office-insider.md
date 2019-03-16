@@ -1,5 +1,5 @@
 ---
-제목: "Office 참가자에 대 한 릴리스 정보" andrewmo 만든이: mikho manager: andrewmo ms. 날짜: 3/08/2019. 대상 그룹: Win32 Fast ms. 항목: reference ms. 서비스: o365-proplus-localization_priority: Critical ms. 컬렉션: RelNotes_ProPlus description: "새 주요 기능, 수정 사항 또는 알려진 문제에 대 한 최신 목록을 사용 하 여 참가자의 빠른 대상 그룹을 제공 합니다.
+제목: "Office 참가자에 대 한 릴리스 정보" andrewmo author: v-almuzz manager: andrewmo ms. 날짜: 3/15/2019. 대상 그룹: Win32 Fast ms. 항목: reference ms. 서비스: o365-proplus-localization_priority: Critical ms. 컬렉션: RelNotes_ ProPlus 설명: "새로운 주요 기능, 수정 사항 또는 알려진 문제에 대 한 최신 목록을 사용 하 여 참가자의 빠른 대상 그룹을 제공 합니다.
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대 한 릴리스 정보
@@ -10,6 +10,32 @@
 > - 릴리스 정보가 매주 게시 되며 여러 빌드의 컴파일 일 수 있습니다.
 > - 릴리스 노트 발행물 날짜가 실제 빌드 릴리스 날짜와 일치 하지 않을 수 있습니다.
 
+## <a name="march-15-2019"></a>2019 년 3 월 15 일 
+버전 1904 (빌드 11504.20000)
+
+## <a name="notable-fixes"></a>주요 수정 사항:
+
+### <a name="word"></a>Word 
+- PDF로 저장 된 문서의 이미지에 잘못 된 DPI가 있는 문제를 해결 했습니다.
+
+### <a name="excel"></a>Excel
+- 다양 한 성능 및 안정성 수정 사항
+
+### <a name="powerpoint"></a>PowerPoint
+- 설명 창이 제대로 열리거나 닫히지 않는 문제를 해결 했습니다.
+- 비디오를 삭제할 때 응용 프로그램 작동이 중단 될 수 있는 문제를 해결 했습니다.
+- 일부 인스턴스에서 응용 프로그램을 실행 하지 못할 수 있는 문제를 해결 했습니다.
+
+### <a name="outlook"></a>Outlook
+- 일본어로 볼 때 읽음 확인이 잘못 된 문제를 해결 했습니다.
+
+### <a name="access"></a>액세스
+- 다양 한 성능 및 안정성 수정 사항
+
+### <a name="project"></a>Project
+- 다양 한 성능 및 안정성 수정 사항
+
+</BR></BR>
 
 ## <a name="march-8-2019"></a>2019 년 3 월 8 일 
 버전 1903 (빌드 11425.20036)
