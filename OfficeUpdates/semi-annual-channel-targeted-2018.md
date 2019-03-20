@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: ef2d238cd2219c9a72857f813528ef6806d53049
+ms.sourcegitcommit: 6289999d0145176584837695178b2c5bb0b961f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "27258504"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30684173"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -232,7 +232,6 @@ ms.locfileid: "27258504"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트 
 - **이제 클라우드 파일용 자동 저장이 기본적으로 사용하도록 설정됨:** 자동 저장이 2018년 9월 반기 채널(대상 지정)에 기본적으로 사용하도록 설정되었습니다. 이러한 변화는 사용자가 OneDrive 또는 SharePoint Online에 저장된 문서에서 자신의 변경 내용이 손실될까 봐 걱정할 필요가 없음을 의미합니다. 변경 내용이 클라우드에 자동으로 저장되어 사용자가 더 이상 Ctrl + S 또는 저장 단추를 명확하게 누르지 않아도 됩니다. 그러나 사용자가 이 동작의 변화를 이해해야 프레젠테이션을 실수로 변경하지 않습니다. 사용자는 화면 맨 위에 있는 자동 저장 토글을 이용하여 자동 저장을 끌 수 있습니다. 이 예정된 변화에 대해 사용자에게 알리고 Office 365에서 이 새로운 기능을 가장 잘 활용하는 방법에 대해 교육하는 것이 좋습니다. [자동 저장에 대해 자세히 알아보기](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [IT 관리자가 자동 저장과 관련해 알아야 할 사항에 대해 자세히 알아보기](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **향상된 셀 및 수식 입력줄 편집:** 이제 Ctrl+A를 사용하여 셀이나 수식 입력줄에서 텍스트를 선택할 수 있습니다. 이모지 및 기타 복잡한 문자에 대한 지원도 개선되었습니다. [자세히 알아보기](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **잉크 변환:** 메모와 그림을 낙서한 후, 읽을 수 있는 텍스트와 정돈된 모양으로 세련되게 변환합니다. [자세한 정보](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **개선된 SVG 지원:** 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **펜으로 슬라이드 제목 쓰기:** 펜을 사용하여 제목을 잉크로 쓰면 PowerPoint에서 텍스트로 변환합니다. [자세히 알아보기](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)

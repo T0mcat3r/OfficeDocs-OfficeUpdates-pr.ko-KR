@@ -3,19 +3,19 @@ title: 2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 4c8b3cfc3c02a83b9c20e3fe5ec7c2db27d6ef0e
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: b8d90867b24a7765cf4e92c45d7592c9ee32b8b7
+ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568101"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30691307"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -41,7 +41,6 @@ ms.locfileid: "30568101"
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
 - **메모를 사용하여 공동 작업:** 기본 제공 회신 상자를 사용하여 스프레드시트에서 바로 대화를 진행합니다. [자세히 알아보기](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-- **\@mentions로 주의 끌기:** 메모에 \@mentions를 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. 메모를 사용하여 공동 작업에 관한 자세한 정보: 기본 제공 회신 상자를 사용하여 스프레드시트에서 바로 대화를 진행합니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **새로운 모습의 리본 아이콘:** 모든 기능은 동일하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **그림 뒤에 있는 내용 표시:** 워크시트에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
