@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b8d90867b24a7765cf4e92c45d7592c9ee32b8b7
-ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
+ms.openlocfilehash: c01b296758bed8c5bbcd908a9ad178d69a6d4645
+ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/20/2019
-ms.locfileid: "30691307"
+ms.locfileid: "30697616"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
