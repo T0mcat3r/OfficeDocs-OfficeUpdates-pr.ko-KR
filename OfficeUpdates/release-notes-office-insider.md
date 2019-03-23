@@ -1,5 +1,5 @@
 ---
-제목: "Office 참가자에 대 한 릴리스 정보" andrewmo author: v-almuzz manager: andrewmo ms. 날짜: 3/15/2019. 대상 그룹: Win32 Fast ms. 항목: reference ms. 서비스: o365-proplus-localization_priority: Critical ms. 컬렉션: RelNotes_ ProPlus 설명: "새로운 주요 기능, 수정 사항 또는 알려진 문제에 대 한 최신 목록을 사용 하 여 참가자의 빠른 대상 그룹을 제공 합니다.
+제목: "Office 참가자에 대 한 릴리스 정보" andrewmo author: v-almuzz manager: andrewmo ms. 날짜: 3/22/2019. 대상 그룹: Win32 Fast ms. 항목: reference ms. 서비스: o365-proplus-localization_priority: Critical ms. 컬렉션: RelNotes_ ProPlus 설명: "새로운 주요 기능, 수정 사항 또는 알려진 문제에 대 한 최신 목록을 사용 하 여 참가자의 빠른 대상 그룹을 제공 합니다.
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대 한 릴리스 정보
@@ -10,7 +10,36 @@
 > - 릴리스 정보가 매주 게시 되며 여러 빌드의 컴파일 일 수 있습니다.
 > - 릴리스 노트 발행물 날짜가 실제 빌드 릴리스 날짜와 일치 하지 않을 수 있습니다.
 
-## <a name="march-15-2019"></a>2019 년 3 월 15 일 
+## <a name="march-22-2019"></a>2019 년 3 월 22 일
+버전 1904 (빌드 11514.20004)
+
+## <a name="notable-fixes"></a>주요 수정 사항:
+
+### <a name="word"></a>Word 
+- UI에서 지속적으로 "변경 내용 확인"을 표시 하는 문제를 해결 했습니다.
+
+### <a name="excel"></a>Excel
+- 워크시트를 이동한 후 응용 프로그램 작동이 중단 될 수 있는 문제를 해결 했습니다.
+- PDF로 저장 한 후 응용 프로그램 작동이 중단 될 수 있는 문제를 해결 했습니다.
+- 저장 대화 상자에 한국어 문자를 허용 하지 않는 문제를 해결 했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 다양 한 성능 및 안정성 수정 사항
+
+### <a name="outlook"></a>Outlook
+- 다양 한 성능 및 안정성 수정 사항
+
+### <a name="access"></a>액세스
+- access에 대 한 추가 바로 가기가 만들어진 액세스에서 오류 메시지가 수정 되었습니다.
+- 연결 된 SharePoint의 데이터가 제대로 표시 되지 않는 문제를 해결 했습니다.
+
+### <a name="project"></a>Project
+- 언어 설정이 중국어에서 영어로 전환 되는 문제를 해결 했습니다.
+- SharePoint로 동기화 할 때 응용 프로그램이 중단 될 수 있는 문제를 해결 했습니다.
+
+</BR></BR>
+
+## <a name="march-15-2019"></a>2019 년 3 월 15 일
 버전 1904 (빌드 11504.20000)
 
 ## <a name="notable-fixes"></a>주요 수정 사항:
