@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트의 다운로드 크기
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/10/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c543451237304a048c53ff87923d28ba92807b18
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 649c2c37850c1a764515bd0dfb1217452d8640ab
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568201"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737548"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -29,7 +29,7 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 
   
 > [!NOTE]
-> - 표에 나열된 대략적인 다운로드 크기는 Office 365 ProPlus en-us, x86 버전에만 적용됩니다. 
+> - 표에 나열된 대략적인 다운로드 크기는 Office 365 ProPlus en-us x64 버전에만 적용됩니다. (2019년 3월 13일 이전의 모든 릴리스에는 x86 크기가 표시됩니다.)
 > - 다운로드 크기는 대략적인 것입니다. 실제 다운로드 크기는 50MB 정도까지 달라질 수 있습니다. 
 > - "\< \>"로 묶인 기울임꼴의 릴리스 날짜 및 빌드 번호는 변경될 수 있습니다. 
 > - 지난 4개월 동안의 릴리스만 나와 있습니다.

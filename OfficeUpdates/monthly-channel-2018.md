@@ -3,19 +3,19 @@ title: 2018년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ce3df05b49a2ab538401ef5133381855a34528eb
-ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
+ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30697626"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737568"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -184,7 +184,7 @@ ms.locfileid: "30697626"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 - **출시 예정 기능 확인** 출시 전에 새로운 사용자 환경을 체험해 보고 의견을 보내 주세요. [자세히 알아보기](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **안전한 링크 뒤에 URL 표시** 안전한 링크는 전자 메일로 받은 악의적인 URL로부터 보호해 주지만 원래 URL을 숨깁니다. 하지만 이제 URL 위로 마우스를 가져가면 안전한 링크로 보호되더라도 원본을 볼 수 있습니다.
+- **안전한 링크 뒤에 URL 표시:** 안전한 링크는 전자 메일에 수신된 악의적인 URL로부터 보호하지만 원래 URL을 숨깁니다. 원래 URL을 보려면 URL에 마우스를 올리세요. Advanced Threat Protection 라이선스가 필요합니다. [자세한 정보](https://products.office.com/ko-KR/exchange/advance-threat-protection)
 - **검색 시 제안된 맞춤법 표시** 검색한 후 Outlook에서 맞춤법 수정 사항을 포함하는 제안된 검색 쿼리를 제공합니다.
 - **새로운 모습의 리본 아이콘** 모든 기능은 동일하게 작동하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세히 알아보기](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
