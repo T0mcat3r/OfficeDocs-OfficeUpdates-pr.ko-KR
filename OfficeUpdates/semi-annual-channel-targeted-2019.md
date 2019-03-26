@@ -3,19 +3,19 @@ title: 2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/19/2019
+ms.date: 3/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c01b296758bed8c5bbcd908a9ad178d69a6d4645
-ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
+ms.openlocfilehash: 54e892e82d0c758c1271c2431d94079ab1414dac
+ms.sourcegitcommit: 7e32729e84e323c338e7086e47fc6c50e0802b5f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30697616"
+ms.lasthandoff: 03/23/2019
+ms.locfileid: "30789291"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -45,6 +45,7 @@ ms.locfileid: "30697616"
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **그림 뒤에 있는 내용 표시:** 워크시트에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **모든 가져오기 및 변환 팬 호출:** 가져오기 및 변환 작업을 많이 사용하는 편이라면 개선된 예제의 열 기능으로 유용하게 작업할 수 있습니다. 또한 많은 커넥터도 개선되었습니다. [자세한 정보](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **고화질 디스플레이 지원 개선:** 여러 개의 모니터 또는 노트북 도크를 사용하는 경우 각 디스플레이의 배율 설정이 달라도 모든 디스플레이에서 Office 앱이 깔끔하게 표시됩니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 
@@ -58,12 +59,13 @@ ms.locfileid: "30697616"
 - **되풀이 범위의 새로운 기본값:** 되풀이 대화 상자에서 되풀이 범위의 기본값은 원래 "종료 날짜 없음"이었습니다. 이 기본값을 사용하면 기간이 긴 되풀이를 손쉽게 만들 수 있었지만, 시간이 지나면 손상될 가능성이 있었습니다. 기본값이 일정 관리의 권장 모범 사례를 따르도록, 이제 되풀이 대화 상자의 기본값이 "종료 날짜"로 변경됩니다.
 - **Outlook 미리 알림 대화 상자에서 Teams 모임에 참가:** Outlook이 사용자에게 예정된 모임을 미리 알릴 때 예정된 모임이 Teams 온라인 모임인 경우 온라인 참석 단추를 표시합니다. 이는 Outlook 미리 알림 대화 상자의 비즈니스용 Skype 모임 참가 기능과 비슷합니다.
 - **지난 이벤트에 대한 미리 알림 표시 안 함:** 이벤트가 종료된 후에 이벤트의 미리 알림을 자동으로 해제하도록 일정을 설정할 수 있습니다. [자세한 정보](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **안전한 링크 뒤에 URL 표시:** 안전한 링크는 전자 메일에 수신된 악의적인 URL로부터 보호하지만 원래 URL을 숨깁니다. 이제 URL 위로 마우스를 가져가면 안전한 링크로 보호되더라도 원본을 볼 수 있습니다.
+- **안전한 링크 뒤에 URL 표시:** 안전한 링크는 전자 메일에 수신된 악의적인 URL로부터 보호하지만 원래 URL을 숨깁니다. 원래 URL을 보려면 URL에 마우스를 올리세요. Advanced Threat Protection 라이선스가 필요합니다. [자세한 정보](https://products.office.com/ko-KR/exchange/advance-threat-protection)
 - **확대/축소 및 고정:** 메시지를 읽을 때마다 확대/축소를 조정하지 않고, 모든 메시지에 사용할 기본값을 선택합니다. [자세한 정보](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **메시지 암호화: 암호화 전용 IRM 정책:** Office 365 메시지 암호화 사용자를 위해 옵션 > 권한 메뉴에 새로운 암호화 전용 옵션이 표시됩니다. 이 옵션을 사용하여 메시지를 암호화하고 조직 내부 또는 외부의 원하는 사람에게 메시지를 보낼 수 있습니다.
 - **숨은 참조에 포함되어 있을 경우 표시되는 경고:** 내가 숨은 참조에 포함되어 있을 때 실수로 메일에 전체 회신하기 전에 숨은 참조 정보 팁이 경고를 표시합니다.
 - **더 스마트해진 받는 사람: 줄:** 받는 사람: 줄을 클릭하여 메시지에 주소를 지정하려고 하면 선택할 수 있는 추천 받는 사람이 표시됩니다. 또한 사진도 확인할 수 있으므로 올바른 사람에게 보내는지도 알 수 있습니다. [자세한 정보](https://support.office.com/article/147208AF-CA8E-4CDF-B71F-77BA81A54069)
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **고화질 디스플레이 지원 개선:** 여러 개의 모니터 또는 노트북 도크를 사용하는 경우 각 디스플레이의 배율 설정이 달라도 모든 디스플레이에서 Office 앱이 깔끔하게 표시됩니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
@@ -86,6 +88,8 @@ ms.locfileid: "30697616"
 - **새로운 모습의 리본 아이콘:** 모든 기능은 동일하니 걱정하지 마세요. 새 아이콘은 모든 크기의 화면에서 잘 보입니다. [자세한 정보](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **그림 뒤에 있는 내용 표시:** 워크시트에 그림을 넣고, 사전 설정을 선택하고, 투명도 변경을 확인합니다. 바로 이 기능으로요! [자세히 알아보기](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **고화질 디스플레이 지원 개선:** 여러 개의 모니터 또는 노트북 도크를 사용하는 경우 각 디스플레이의 배율 설정이 달라도 모든 디스플레이에서 Office 앱이 깔끔하게 표시됩니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+- **LinkedIn의 도움을 받아 최상의 이력서 또는 CV를 작성하세요.** 이력서 도우미를 사용하여 지정된 직책에 대한 경력 사항, 추천 기술 등을 확인하세요. [자세한 정보](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a)
 
 ### <a name="project-feature-updates"></a>Project: 기능 업데이트
 
@@ -106,6 +110,13 @@ ms.locfileid: "30697616"
 - **이제 Office 타사 응용 프로그램에서 office.js API를 사용하는 SVG 삽입 지원:** Office에서 추가 기능으로도 알려져 있는 타사 응용 프로그램에 SVG 삽입 기능이 제공되므로 SVG 개인 컬렉션을 Office에 연결할 수 있습니다. 개발자들은 Office.js API를 통해 이 기능을 사용할 수 있습니다.
 - **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세한 정보](https://docs.microsoft.com/ko-KR/DeployOffice/teams-install)
 
+### <a name="skype-for-business-feature-updates"></a>비즈니스용 Skype: 기능 업데이트
+
+- **고화질 디스플레이 지원 개선:** 여러 개의 모니터 또는 노트북 도크를 사용하는 경우 각 디스플레이의 배율 설정이 달라도 모든 디스플레이에서 Office 앱이 깔끔하게 표시됩니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+
+### <a name="teams-feature-updates"></a>Teams: 기능 업데이트
+
+- **고화질 디스플레이 지원 개선:** 여러 개의 모니터 또는 노트북 도크를 사용하는 경우 각 디스플레이의 배율 설정이 달라도 모든 디스플레이에서 Office 앱이 깔끔하게 표시됩니다. [자세한 정보](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ## <a name="version-1808-february-12"></a>버전 1808: 2월 12일
 *버전 1808(빌드 10730.20280)* 
