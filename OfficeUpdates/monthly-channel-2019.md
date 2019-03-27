@@ -3,19 +3,19 @@ title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/12/2019
+ms.date: 3/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 1c03ce02014c0b324678016cdb10e1c88f09da7b
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 3936eadcf64bfcc75b5b7ea0afc6f57a848f2d5f
+ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568311"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30800528"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -28,6 +28,11 @@ ms.locfileid: "30568311"
 
  > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다. 
+
+## <a name="version-1902-march-25"></a>버전 1902: 3월 25일
+*버전 1902(빌드 11328.20222)*
+
+- 다양한 버그 및 성능 개선.
 
 ## <a name="version-1902-march-12"></a>버전 1902: 3월 12일
 *버전 1902(빌드 11328.20158)* 
