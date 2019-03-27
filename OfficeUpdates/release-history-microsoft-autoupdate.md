@@ -3,19 +3,19 @@ title: MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/26/2019
+ms.date: 3/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
-ms.openlocfilehash: 81becaf41e9d3d7c478dddb80c2c5e2382cfca51
-ms.sourcegitcommit: 3af5f3ced6b4775a320ba0305a84faa7ec31e69e
+ms.openlocfilehash: a4b0d70349ba1e6dfb8fc587b606b007298fdae8
+ms.sourcegitcommit: e9d79e90009b8984fdabd8aec267b0e767525f98
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/26/2019
-ms.locfileid: "30294631"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641403"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
@@ -31,7 +31,8 @@ ms.locfileid: "30294631"
   
 |**릴리스 날짜**|**버전**|**추가 정보**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
-|2019년 2월 26일 <br/>|4.8.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#january-2019-release) <br/> |[MAU 4.8.0 다운로드](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|2019년 3월 14일 <br/>|4.9.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#march-2019-release) <br/> |[MAU 4.9.0 다운로드](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|2019년 2월 26일 <br/>|4.8.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#january-2019-release) <br/> |<br/> |
 |2019년 1월 16일 <br/>|4.7.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#january-2019-release) <br/> | |
 |2018년 12월 11일 <br/>|4.6.0 <br/> | [릴리스 정보](release-notes-office-for-mac.md#december-2018-release) <br/> ||
 |2018년 11월 14일 <br/> |4.5.0 <br/> |[릴리스 정보](release-notes-office-for-mac.md#november-2018-release) <br/> | |
