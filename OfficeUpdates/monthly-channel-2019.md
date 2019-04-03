@@ -3,31 +3,47 @@ title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/25/2019
+ms.date: 4/1/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 3936eadcf64bfcc75b5b7ea0afc6f57a848f2d5f
-ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
+ms.openlocfilehash: c8b1d204a39c443fe45feb087b99886ef1b2078d
+ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "30800528"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31027888"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
-이러한 릴리스 정보에서는 2019년 Office 365 ProPlus에 대한 월별 채널 업데이트에 포함된 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
+이 릴리스 정보는 Office 365용 Visio Pro 및 Project Online 데스크톱 클라이언트를 비롯한 2019년 Office 365 ProPlus의 월별 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 관한 정보를 제공합니다.
  
  > [!NOTE]
-> - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
 > - Microsoft는 일정 기간 동안 매달 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다. 
+
+## <a name="version-1903-april-01"></a>버전 1903: 4월 1일
+*버전 1903(빌드 11425.20202)*
+
+### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
+
+- **콘텐츠 도달 범위 늘리기:**  접근성 높은 스프레드시트를 만들어야 하나요? 진행 중인 작업을 중단하지 않고 계속 접근성 검사를 실행하며 상태를 확인할 수 있습니다. 검토 > 접근성 검사를 클릭하여 검사를 시작해 보세요. 확인해야 할 결과를 발견하면 상태 표시줄에 알려드립니다.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+
+- **더 나은 변신:**  셰이프에 이름을 지정하여 셰이프의 모핑 과정을 더 효율적으로 관리하세요. [자세한 정보](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
+
+- **콘텐츠 도달 범위 늘리기:**  접근성 높은 프레젠테이션을 만들어야 하나요? 진행 중인 작업을 중단하지 않고 계속 접근성 검사를 실행하며 상태를 확인할 수 있습니다. 검토 > 접근성 검사를 클릭하여 검사를 시작해 보세요. 확인해야 할 결과를 발견하면 상태 표시줄에 알려드립니다.
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+
+- **콘텐츠 도달 범위 늘리기:**  접근성 높은 문서를 만들어야 하나요? 진행 중인 작업을 중단하지 않고 계속 접근성 검사를 실행하며 상태를 확인할 수 있습니다. 검토 > 접근성 검사를 클릭하여 검사를 시작해 보세요. 확인해야 할 결과를 발견하면 상태 표시줄에 알려드립니다.
 
 ## <a name="version-1902-march-25"></a>버전 1902: 3월 25일
 *버전 1902(빌드 11328.20222)*
