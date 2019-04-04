@@ -3,19 +3,19 @@ title: Office 365 ProPlus 업데이트의 다운로드 크기
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/27/2019
+ms.date: 4/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 604b71c37813e37bde2d4e299f78508627a6121b
-ms.sourcegitcommit: 1f7171f728ce96b307858207cd04c59ae830291c
+ms.openlocfilehash: b62212216545a690172901bef75543778b6dad64
+ms.sourcegitcommit: 7380adc27555df032fbc89fb3b68bafa82e0fad4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "30936848"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31043434"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -35,6 +35,36 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 > - 지난 4개월 동안의 릴리스만 나와 있습니다.
 > - 가장 최근의 이전 릴리스만 표에 나와 있습니다. 더 이전 버전에서 업데이트하려는 경우 다운로드 크기가 더 커집니다.
 > - 다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로) 업데이트 크기가 표에 나오는 것보다 훨씬 더 커질 수 있습니다. 이로 인해 전체 다운로드가 필요할 수 있으며 그 규모는 1GB 이상일 수 있습니다.
+
+
+### <a name="semi-annual-channel"></a>반기 채널
+
+예상된 릴리스는 버전 1808(빌드 10730.20334)입니다.
+
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1808(빌드 10730.20304)  <br/> |2019년 3월 12일  <br/> |81<br/> |
+|버전 1808(빌드 10730.20280) <br/> |2019년 2월 12일  <br/> |81<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>반기 채널(대상 지정)
+
+예상된 릴리스는 버전 1902(빌드 11328.20230)입니다.
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1902(빌드 11328.20158)  <br/> |2019년 3월 12일  <br/> |68 <br/> |
+|버전 1808(빌드 10730.20280)  <br/> |2019년 2월 12일  <br/> |307 <br/> |
+
+## <a name="april-1-2019"></a>2019년 4월 1일
+
+### <a name="monthly-channel"></a>월별 채널
+
+예상된 릴리스는 버전 1903(빌드 11425.20202)입니다. 
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1902(빌드 11328.20158)  <br/> |2019년 3월 12일  <br/> |204<br/> |
+|버전 1902(빌드 11328.20222)  <br/> |2019년 3월 25일  <br/> |205<br/> |
 
 ## <a name="march-25-2019"></a>2019년 3월 25일
 
@@ -316,7 +346,7 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 ## <a name="related-topics"></a>관련 항목
 
 - [Office 365 ProPlus의 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
+- [Office 365 ProPlus의 업데이트 기록(날짜순)](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
 > Office를 사용하는 데 발생한 문제에 대해 도움이 필요하면 [Microsoft의 Answers 포럼](https://answers.microsoft.com/) 또는 [기술 커뮤니티](https://techcommunity.microsoft.com/)에 질문을 게시하거나 [지원 서비스](https://support.microsoft.com/contactus)에 문의할 수 있습니다.
