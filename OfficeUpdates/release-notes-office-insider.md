@@ -1,7 +1,22 @@
 ---
-제목: "Office 참가자에 대 한 릴리스 정보" andrewmo author: v-almuzz manager: andrewmo ms. 날짜: 3/22/2019. 대상 그룹: Win32 Fast ms. 항목: reference ms. 서비스: o365-proplus-localization_priority: Critical ms. 컬렉션: RelNotes_ ProPlus 설명: "새로운 주요 기능, 수정 사항 또는 알려진 문제에 대 한 최신 목록을 사용 하 여 참가자의 빠른 대상 그룹을 제공 합니다.
+title: Office 참가자에 대 한 릴리스 정보
+ms.author: andrewmo
+author: v-almuzz
+manager: andrewmo
+ms.date: 3/22/2019
+ms.audience: Win32 Fast
+ms.topic: reference
+ms.service: o365-proplus-
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: 주요 새로운 기능, 수정 사항 또는 알려진 문제에 대 한 최신 목록을 사용 하 여 초기 참가자에 게 빠른 대상 그룹 제공
+ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478545"
 ---
-
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대 한 릴리스 정보
 
 이 문서에는 Word, Excel, PowerPoint, Outlook, Access 및 Windows 데스크톱 프로젝트의 참가자 빌드에 대 한 릴리스 정보가 포함 되어 있습니다. 모든 주에 흥미로운 새로운 기능, 중요 수정 사항 및 알아야 할 중요 한 문제를 강조 합니다. 일정 기간에 걸쳐 각 참가자에 게 기능을 배포 하는 경우가 많습니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인할 수 있습니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공되게 되므로 걱정할 필요가 없습니다.  
@@ -127,7 +142,7 @@ Microsoft Search를 사용 하면 작업을 완료 하는 데 필요한 모든 �
 - 보호 된 문서 및 편집할 수 있는 문서를 열 때 Excel에서 셀을 복사 하면 CPU 사용량이 높아질 수 있는 문제를 해결 했습니다.
 
 ### <a name="powerpoint"></a>PowerPoint
-- PowerPoint에서 @Mentions을 사용할 때 슬라이드 이미지 크기 문제가 해결 되었습니다.
+- PowerPoint에서 사용 하 @Mentions 는 경우 슬라이드 이미지 크기 문제가 해결 되었습니다.
 
 ### <a name="outlook"></a>Outlook
 - Outlook 검색이 선택한 시간 정렬을 제공 하지 않는 문제를 해결 했습니다.
