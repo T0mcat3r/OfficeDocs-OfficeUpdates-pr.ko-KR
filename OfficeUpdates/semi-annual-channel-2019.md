@@ -3,28 +3,26 @@ title: 2019년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/6/2019
+ms.date: 4/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568361"
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478575"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
-이러한 릴리스 정보에서는 2019년 Office 365 ProPlus에 대한 반기 채널 업데이트에 포함된 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다. 
+이 릴리스 정보는 Office 365용 Visio Pro 및 Project Online 데스크톱 클라이언트를 비롯한 2019년 Office 365 ProPlus의 반기 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 관한 정보를 제공합니다.
 
 > [!NOTE]
-> - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
-> - 반기 채널이 2019년 1월 이전에는 지연 채널로 지칭되었습니다.
 
 > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
@@ -71,7 +69,7 @@ ms.locfileid: "30568361"
 ## <a name="version-1803-february-12"></a>버전 1803: 2월 12일
 *버전 1803(빌드 9126.2356)*
 
-*2018년 7월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 9월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808(빌드 10730.20280)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+*이것이 2018 7월 이후에 사용할 수 있었던 반기 채널 릴리스입니다. 이 릴리스는 2019년 9월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808(빌드 10730.20280)을 이용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트 
 
@@ -103,7 +101,7 @@ ms.locfileid: "30568361"
 ## <a name="version-1708-february-12"></a>버전 1708: 2월 12일
 *버전 1708(빌드 8431.2372)*
 
-*2018년 1월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808(빌드 10730.20280)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+*이는 2018년 1월 이후에 사용할 수 있었던 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808(빌드 10730.20280)을 이용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 
@@ -111,7 +109,7 @@ ms.locfileid: "30568361"
 
 
 ## <a name="version-1808-january-8"></a>버전 1808: 1월 8일
-*버전 1808 (빌드 10730.20264)*
+*버전 1808(빌드 10730.20264)*
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
 
@@ -260,9 +258,9 @@ ms.locfileid: "30568361"
 
 
 ## <a name="version-1803-january-8"></a>버전 1803: 1월 8일
-*버전 1803 (빌드 9126.2351)*
+*버전 1803(빌드 9126.2351)*
 
-*2018년 7월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 9월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+*이것이 2018 7월 이후에 사용할 수 있었던 반기 채널 릴리스입니다. 이 릴리스는 2019년 9월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808을 이용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 - Office 응용 프로그램 간에 LinkedIn 옵션 기능 패리티를 보장하도록 문제가 수정되었습니다.
