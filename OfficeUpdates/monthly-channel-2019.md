@@ -3,19 +3,19 @@ title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/1/2019
+ms.date: 4/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: c8b1d204a39c443fe45feb087b99886ef1b2078d
-ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
+ms.openlocfilehash: 7affb1cafbd86b6d2ac2098af501fd56079a7aa3
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31027888"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516463"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -65,7 +65,7 @@ ms.locfileid: "31027888"
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
-- **\@mention으로 주의 끌기:** 동료들의 의견이 필요하면 메모에 @mention을 사용하여 알릴 수 있습니다. [자세히 알아보기](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **\@멘션으로 주의 끌기:** 동료들의 의견이 필요하면 메모에 @mentions을 사용하여 알릴 수 있습니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **자세한 데이터 분석:** 새로운 아이디어 단추는 데이터에서 패턴을 찾아서 인텔리전트 맞춤형 제안을 만듭니다. [자세히 알아보기](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -124,7 +124,7 @@ ms.locfileid: "31027888"
 비보안 업데이트 전용으로 성능 문제를 처리합니다.
 
 ## <a name="version-1812-january-8"></a>버전 1812: 1월 8일
-*버전 1812 (빌드 11126.20196 )* 
+*버전 1812(빌드 11126.20196)* 
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 - Gantt 차트에서 Critical, Late 또는 Slack 중 하나를 선택한 후 이 세 가지 막대 스타일을 선택 해제할 수 없는 문제를 해결합니다.
