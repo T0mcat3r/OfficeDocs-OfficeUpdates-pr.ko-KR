@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: cd4a6dd474302e7dc4f0896c5e9f6ab4480a340d
-ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
+ms.openlocfilehash: c7ed3256c7253f2b1d42267447909a10479b636b
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30737518"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516473"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 참가자 채널에 대한 업데이트 기록
 
@@ -32,6 +32,8 @@ ms.locfileid: "30737518"
 Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 업데이트됩니다. 다음 목록은 최근 Insider 버전 및 빌드의 내역을 보여 주며, **가장 최근에 릴리스 된 빌드가 가장 먼저 나열**됩니다. 새 빌드에는 이전 빌드에 포함 된 모든 업데이트가 포함됩니다. 
 
 릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/ko-KR/OfficeUpdates/release-notes-office-insider)를 참조하십시오.
+
+**2019년 4월 1일**<br/> 버전 1904(빌드 11527.20004)<br/>
 
 **2019년 3월 18일**<br/> 버전 1904(빌드 11520.20004)<br/>
 
@@ -59,16 +61,14 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 ## <a name="insider-community"></a>참가자 커뮤니티
 
 ![참가자 커뮤니티 표시 이미지 ](images/insidercommunity.png) <br/>
-**Office참가자 커뮤니티**<br/> 다른 참가자와 채팅하려면 커뮤니티에 게시합니다.<br/> 
+**Office 참가자 커뮤니티**<br/> 다른 참가자와 채팅하려면 커뮤니티에 게시합니다.<br/> 
 [커뮤니티 방문](https://go.microsoft.com/fwlink/?linkid=843493)<br/> 
 
 ![twitter 아이콘 표시 이미지. ](images/twitter.png)<br/>
-**Twitter의 office 참가자**<br/> @OfficeInsider에서, 우리는 참가자 배포에 관해 자주 게시하고 참가자를 위한 특별 이벤트를 주최합니다.<br/> 
+**Twitter의 Office 참가자**<br/> @OfficeInsider에서, 우리는 참가자 배포에 관해 자주 게시하고 참가자를 위한 특별 이벤트를 주최합니다.<br/> 
 [Twitter에서 팔로우](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
-  ![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![IFacebook 아이콘을 보여주는 이미지 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **새 기능을 먼저 받아보세요**
