@@ -3,19 +3,19 @@ title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/2/2019
+ms.date: 4/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 7affb1cafbd86b6d2ac2098af501fd56079a7aa3
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516463"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818505"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -28,8 +28,13 @@ ms.locfileid: "31516463"
  > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다. 
 
-## <a name="version-1903-april-01"></a>버전 1903: 4월 1일
-*버전 1903(빌드 11425.20202)*
+## <a name="version-1903-april-9"></a>버전 1903: 4월 9일
+*버전 1903(빌드 11425.20204)* 
+
+보안 업데이트는 [여기](office365-proplus-security-updates.md)에 나열됩니다.
+
+## <a name="version-1903-april-01"></a>버전 1903: 4월 1일 
+*버전 1903(빌드 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
@@ -40,6 +45,15 @@ ms.locfileid: "31516463"
 - **더 나은 변신:**  셰이프에 이름을 지정하여 셰이프의 모핑 과정을 더 효율적으로 관리하세요. [자세한 정보](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **콘텐츠 도달 범위 늘리기:**  접근성 높은 프레젠테이션을 만들어야 하나요? 진행 중인 작업을 중단하지 않고 계속 접근성 검사를 실행하며 상태를 확인할 수 있습니다. 검토 > 접근성 검사를 클릭하여 검사를 시작해 보세요. 확인해야 할 결과를 발견하면 상태 표시줄에 알려드립니다.
+
+- **다시 사용할 수 있는 경우, 새로 해야 하는 이유**  사용자가 작성했거나 다른 사용자가 공유하도록 한 슬라이드를 다시 사용하여 시간을 절약하세요.
+
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+
+- 타사 SfB/Lync SDK 앱이 있는 경우 채팅 알림에 응답할 때 비즈니스용 Skype에서 응답을 중지하는 문제에 대한 수정 사항
+- 특정 클립보드 콘텐츠를 채팅에 붙여넣는 경우 발생하는 앱 작동 중단에 대한 수정 사항입니다.
+- 통화 에이전트 중 한 명이 받은 통화 큐 통화의 “수락한 사용자” 정보가 표시되지 않는 문제에 대한 수정 사항입니다.
+- Teams 사용자가 비즈니스용 Skype 모임에 참여하는 경우 통화 아이콘이 숨겨지는 문제를 해결했습니다.
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 

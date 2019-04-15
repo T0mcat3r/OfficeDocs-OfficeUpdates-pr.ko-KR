@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/5/2019
+ms.date: 4/11/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: a829ee5b17b51382cbb85dd7a135b271b62235fc
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516073"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818515"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -25,7 +25,38 @@ ms.locfileid: "31516073"
 > - 릴리스 정보는 매주 게시되며 여러 빌드의 컴파일일 수 있습니다.
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
-## <a name="april-5th-2019"></a>2019년 4월 5일
+## <a name="april-11-2019"></a>2019년 4월 11일
+버전 1905 (빌드 11601.20042)
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="all-applications"></a>모든 응용 프로그램
+ - 일부 사용자가 클라우드 위치에 파일을 저장하지 못하는 문제를 해결했습니다.
+ - 잘못된 창이 리본에서 열릴 수 있는 문제를 해결했습니다.
+
+### <a name="word"></a>Word 
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="excel"></a>Excel
+- 통합 문서에 연결된 데이터 유형이 없을 때 연결된 데이터 유형에 대한 오류 메시지가 표시되는 문제를 해결했습니다.
+- 로컬에서 또는 온라인에서 볼 때 Word 문서 내 URL 링크가 변경될 수 있는 문제를 해결했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 애니메이션 탭에서 변경 사항을 취소한 후 응용 프로그램이 중단될 수 있는 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+- 일부 사용자가 공용 폴더에서 연락처에 대한 메모 필드를 수정할 수 없는 문제를 해결했습니다.
+- 만료 날짜와 삭제 날짜 간에 충돌이 발생할 수 있는 문제를 해결했습니다.
+
+### <a name="access"></a>Access
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+</BR></BR>
+
+## <a name="april-5-2019"></a>2019년 4월 5일
 버전 1904(빌드 11527.20014)
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
