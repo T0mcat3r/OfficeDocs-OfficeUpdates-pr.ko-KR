@@ -3,19 +3,19 @@ title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: f76fdeaa8a9d6e26cbdc9f26ae4a74b91567d4e2
+ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818505"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31912574"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -28,10 +28,20 @@ ms.locfileid: "31818505"
  > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다. 
 
+## <a name="version-1903-april-17"></a>버전 1903: 4월 17일
+*버전 1903(빌드 11425.20228)*
+
+- 다양한 버그 및 성능 개선.
+
+## <a name="version-1903-april-16"></a>버전 1903: 4월 16일
+*버전 1903(빌드 11425.20218)*
+
+- 다양한 버그 및 성능 개선.
+
 ## <a name="version-1903-april-9"></a>버전 1903: 4월 9일
 *버전 1903(빌드 11425.20204)* 
 
-보안 업데이트는 [여기](office365-proplus-security-updates.md)에 나열됩니다.
+나열된 보안 업데이트는 [여기](office365-proplus-security-updates.md)
 
 ## <a name="version-1903-april-01"></a>버전 1903: 4월 1일 
 *버전 1903(빌드 11425.20202)* 
@@ -79,7 +89,7 @@ ms.locfileid: "31818505"
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
-- **\@멘션으로 주의 끌기:** 동료들의 의견이 필요하면 메모에 @mentions을 사용하여 알릴 수 있습니다. [자세한 정보](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **\@mention으로 주의 끌기:** 동료들의 의견이 필요하면 메모에 @mention을 사용하여 알릴 수 있습니다. [자세히 알아보기](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **자세한 데이터 분석:** 새로운 아이디어 단추는 데이터에서 패턴을 찾아서 인텔리전트 맞춤형 제안을 만듭니다. [자세히 알아보기](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **변경 내용을 실시간으로 저장:** 파일을 OneDrive에 업로드하여 모든 업데이트를 자동으로 저장할 수 있습니다.
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -138,7 +148,7 @@ ms.locfileid: "31818505"
 비보안 업데이트 전용으로 성능 문제를 처리합니다.
 
 ## <a name="version-1812-january-8"></a>버전 1812: 1월 8일
-*버전 1812(빌드 11126.20196)* 
+*버전 1812 (빌드 11126.20196 )* 
 
 ### <a name="project-non-security-updates"></a>Project: 비보안 업데이트
 - Gantt 차트에서 Critical, Late 또는 Slack 중 하나를 선택한 후 이 세 가지 막대 스타일을 선택 해제할 수 없는 문제를 해결합니다.
