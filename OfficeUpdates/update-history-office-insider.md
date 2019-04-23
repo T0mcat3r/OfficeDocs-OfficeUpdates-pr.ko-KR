@@ -3,23 +3,23 @@ title: Office 참가자 채널에 대한 업데이트 기록
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/19/2019
+ms.date: 04/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: c7ed3256c7253f2b1d42267447909a10479b636b
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: b7eeee07099d7e1e32bad421d00c4a0570ff4e62
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516473"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958149"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 참가자 채널에 대한 업데이트 기록
 
-안녕하세요, 참가자 여러분! 최신 업데이트가 설치되어 있는지 또는 최근의 참가자 빌드 목록을 찾고 있는지 궁금할 경우 바로 알맞은 위치에 있습니다. 참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/)를 클릭하십시오.
+안녕하세요. 참가자 여러분, 최신 업데이트 설치 여부 또는 최신 참가지 빌드 목록은 여기에서 확인하실 수 있습니다. 참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/)를 클릭하세요.
 
 > [!NOTE]
 > - 업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.
@@ -33,7 +33,11 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 
 릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/ko-KR/OfficeUpdates/release-notes-office-insider)를 참조하십시오.
 
-**2019년 4월 1일**<br/> 버전 1904(빌드 11527.20004)<br/>
+[//]: # (제거하지 마십시오)
+
+**2019년 4월 15일**<br/> 버전 1905(빌드 11609.20002)<br/>
+
+**2019년 4월 7일**<br/> 버전 1904(빌드 11601.20042)<br/>
 
 **2019년 3월 18일**<br/> 버전 1904(빌드 11520.20004)<br/>
 
@@ -61,14 +65,16 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 ## <a name="insider-community"></a>참가자 커뮤니티
 
 ![참가자 커뮤니티 표시 이미지 ](images/insidercommunity.png) <br/>
-**Office 참가자 커뮤니티**<br/> 다른 참가자와 채팅하려면 커뮤니티에 게시합니다.<br/> 
+**Office참가자 커뮤니티**<br/> 다른 참가자와 채팅하려면 커뮤니티에 게시합니다.<br/> 
 [커뮤니티 방문](https://go.microsoft.com/fwlink/?linkid=843493)<br/> 
 
 ![twitter 아이콘 표시 이미지. ](images/twitter.png)<br/>
-**Twitter의 Office 참가자**<br/> @OfficeInsider에서, 우리는 참가자 배포에 관해 자주 게시하고 참가자를 위한 특별 이벤트를 주최합니다.<br/> 
+**Twitter의 office 참가자**<br/> @OfficeInsider에서, 우리는 참가자 배포에 관해 자주 게시하고 참가자를 위한 특별 이벤트를 주최합니다.<br/> 
 [Twitter에서 팔로우](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[![IFacebook 아이콘을 보여주는 이미지 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+
+  [
+  ![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **새 기능을 먼저 받아보세요**

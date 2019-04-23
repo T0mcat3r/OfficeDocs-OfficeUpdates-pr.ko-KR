@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818515"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958139"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -25,7 +25,60 @@ ms.locfileid: "31818515"
 > - 릴리스 정보는 매주 게시되며 여러 빌드의 컴파일일 수 있습니다.
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
-## <a name="april-11-2019"></a>2019년 4월 11일
+## <a name="april-19-2019"></a>2019년 4월 19일
+버전 1905 (빌드 11609.20002)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="excel"></a>Excel
+
+#### <a name="improved-filled-maps-experience-using-data-types"></a>데이터 형식을 사용하여 등치 지역도 개선
+
+이 기능은 Excel의 지리 데이터 형식을 사용하여 등치 지역도 차트를 그리는 사용자에게 유용한 개선 사항입니다. 기능과 최종 사용자가 매핑하고자 하는 지역의 정확성의 통합성을 향상하는 이점을 최종 사용자에게 제공합니다. 추가적인 이점은 도시 폴리곤을 매핑할 수 있다는 점입니다.
+
+##### <a name="getting-started"></a>시작:
+
+- 이 기능은 Excel의 기존 기능을 개선한 것입니다. 개선 사항을 사용하려면 위치를 서식이 있는 엔티티로 변환하고 등치 지역도를 사용해 그립니다. 
+
+##### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+- 사용자는 국가, 시/도, 시/군/구 및 우편 번호를 매핑할 수 있습니다. 
+
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="all-applications"></a>모든 응용 프로그램
+- 응용 프로그램을 시작할 때마다 첫 번째 실행 대화 상자가 표시되는 문제를 해결했습니다.
+- "다른 이름으로 저장" 대화 상자에서 SharePoint 링크가 누락되는 문제를 해결했습니다.
+- 사용자에게 "지금 복구" 대화 상자가 올바르게 표시되지 않는 문제를 해결했습니다.
+
+### <a name="word"></a>Word 
+- 일부 사용자가 글꼴을 요청할 때 메모리 또는 디스크 공간 부족에 대한 오류가 표시되는 문제를 해결했습니다.
+- 메모 창에서 전환할 때 창 포커스를 잃는 문제를 해결했습니다.
+
+### <a name="excel"></a>Excel
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 브랜드 셰이프 크기를 조정할 수 없는 문제를 해결했습니다.
+- 제한된 보기 모드에서 파일을 열 때 PowerPoint에서 충돌이 발생할 수 있는 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+- 일부 사용자가 중국어 단어를 선택하지 못하는 문제를 해결했습니다.
+- 만료 날짜가 올바르게 계산되지 않은 문제를 해결했습니다.
+
+### <a name="access"></a>Access
+- 일부 사용자가 매크로 작성기를 사용하지 못하는 문제를 해결했습니다.
+- 보고서를 인쇄할 때 첫 페이지만 인쇄하는 문제를 해결했습니다.
+- 하이퍼 링크를 마우스로 가리킬 때 응용 프로그램이 중단되는 문제를 해결했습니다.
+- 관계 보기를 사용하는 경우 일부 항목이 화면에 표시되지 않는 문제를 해결했습니다.
+
+### <a name="project"></a>Project
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+</BR></BR>
+
+## <a name="april-12-2019"></a>2019년 4월 12일
 버전 1905 (빌드 11601.20042)
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
@@ -213,7 +266,7 @@ Microsoft Search를 사용하면 모든 파일, 작업, 사람을 찾고 작업�
 - 보호되고 편집 가능한 문서를 열었을 때 Excel에서 셀을 복사하는 경우 높은 CPU 사용량을 발생시키는 문제를 해결했습니다.
 
 ### <a name="powerpoint"></a>PowerPoint
-- PowerPoint에서 @Mentions를 사용할 때 슬라이드 이미지 크기 관련 문제를 해결했습니다.
+- PowerPoint에서 @Mentions를 사용 시의 슬라이드 이미지 크기 관련 문제를 해결했습니다.
 
 ### <a name="outlook"></a>Outlook
 - Outlook Search가 선택한 연대순 정렬을 반영하지 않는 문제를 해결했습니다.
