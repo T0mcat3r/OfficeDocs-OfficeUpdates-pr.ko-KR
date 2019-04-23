@@ -3,31 +3,39 @@ title: 업데이트 기록 월 단위 채널(대상)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/29/2019
+ms.date: 04/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: fdced22eae18b138ae8a0ae59449c1131207a0e4
-ms.sourcegitcommit: bc2b4e9dc112c3d123c2e4fd50e5533032ee5471
+ms.openlocfilehash: 7e50142c1c0e404ef9693f19cd6a5fccfefa0b42
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31026389"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958119"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows용 월간(대상) 채널의 업데이트 내역
 
-안녕하세요, 참가자 여러분! 최신 업데이트가 설치되어 있는지 또는 최근의 월 단위 채널(대상) 빌드 목록을 찾고 있는지 궁금할 경우 바로 알맞은 위치에 있습니다. 참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/)를 클릭하십시오.
+안녕하세요. 참가자 여러분, 최신 업데이트 설치 여부 또는 월 단위 채널(대상) 빌드의 최신 목록은 여기에서 확인하실 수 있습니다. 참가자 프로그램에 대한 자세한 내용을 보려면 [여기](https://insider.office.com/)를 클릭하세요.
 
 ## <a name="office-insider-versions-and-builds"></a>Office 참가자 버전 및 빌드
 
-이전에 Insider Slow라고 부르던 월 단위 채널 (대상) 수준에 등록한 경우, 한 달에 한 번 정도 새 Office 기능 업데이트가 제공되며 이후 중요한 수정이나 보안 업데이트가 포함 된 빌드가 추가로 제공됩니다. 다음 목록은 최근 월 단위 채널(대상) 버전 및 빌드를 보여 주며 **가장 최근에 릴리스 된 빌드가 가장 먼저 나열**됩니다. 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다. 릴리스 노트를 찾으려면 [ Office 참가자](https://support.office.com/ko-KR/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)의 새로운 기능을 참조하십시오.
+이전에 이후 참가자라고 했던 월 단위 채널(대상 지정) 수준에 등록한 경우 중요한 수정 또는 보안 업데이트가 포함된 후속 빌드와 함께 새 Office 기능 업데이트를 대략 한 달에 한 번 받습니다. 다음 목록에는 **가장 최근에 릴리스된 빌드 순서로** 나열된 최근 월 단위 채널(대상 지정) 버전이 나와 있습니다. 새 빌드에는 이전 빌드에 포함된 모든 업데이트가 포함됩니다. 릴리스 정보를 찾으려면 [Office 참가자의 새로운 기능](https://support.office.com/ko-KR/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)을 참조하세요.
 
 > [!NOTE]
 > - 업데이트 내역에는 릴리스된 모든 빌드가 나열됩니다.
 > - 릴리스 정보는 더 느린 흐름에 업데이트되며 릴리스 정보 게시 빌드 번호까지 여러 빌드에 대한 업데이트 컴파일이 될 수 있습니다.
+
+[//]: # (제거하지 마십시오)
+
+**2019년 4월 16일**<br/>
+버전 1903(빌드 11425.20218)<br/>
+
+**2019년 4월 9일**<br/>
+버전 1903(빌드 11425.20204)<br/>
 
 **2019년 3월 29일**<br/> 버전 1903(빌드 11425.20202)<br/>
 
