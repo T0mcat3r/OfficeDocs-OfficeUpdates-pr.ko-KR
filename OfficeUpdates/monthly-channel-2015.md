@@ -1,5 +1,5 @@
 ---
-title: 2015에서 월별 채널 릴리스에 대 한 릴리스 정보
+title: 2015의 월별 채널 릴리스에 대 한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,28 +9,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 월별 채널에 대 한 릴리스 정보와 IT 전문가 2015에서 Office 365 ProPlus에 대 한 해제를 제공 합니다.
+description: 2015의 Office 365 ProPlus에 대 한 월별 채널 릴리스에 대 한 릴리스 정보를 IT 전문가에 게 제공 합니다.
 ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556278"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438813"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015에서 월별 채널 릴리스에 대 한 릴리스 정보
+# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015의 월별 채널 릴리스에 대 한 릴리스 정보
 
-이러한 릴리스 정보에서는 새로운 기능, 보안 업데이트 및 2015에서 Office 365 ProPlus에 대 한 월별 채널 업데이트에 포함 된 비보안 업데이트 하는 방법에 대 한 정보를 제공 합니다.
+이러한 릴리스 정보에서는 2015의 Office 365 ProPlus에 대 한 월별 채널 업데이트에 포함 된 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대 한 정보를 제공 합니다.
  
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에 대한 새로운 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
-> - 월별 채널 2017 년 9 월 하기 전에 현재 채널 이름이 였습니다.
+> - 매월 채널 이름은 9 월 2017 이전입니다.
 
-## <a name="version-1511-december-11"></a>버전 1511: 12 월 11 일
+## <a name="version-1511-december-11"></a>버전 1511:12 월 11 일
 *버전 1511(빌드 6366.2036)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
--   **BI 서식 파일:** 비즈니스 인텔리전스 Excel의 (BI) 기능을 활용 하는 세개의 새 서식 파일: [일정 정보](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40), [재고 분석](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d) [내 Cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+-   **BI 템플릿:** Excel의 BI (비즈니스 인텔리전스) 기능을 활용 하는 새로운 템플릿 3 개: [Calendar Insights](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40), [Stock Analysis](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d), [My cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
 -   긴 날짜로 숫자 서식이 지정된 셀의 채우기 핸들을 끌면 Excel이 중단되는 문제를 해결합니다.
@@ -55,7 +55,7 @@ ms.locfileid: "19556278"
 -   **모핑 전환:** 슬라이드 간의 전환을 매끄럽게 만들고 프레젠테이션에 모션을 도입해 개념과 정보를 효과적으로 전달합니다.[추가 정보](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint Designer:** 콘텐츠를 가져오고 선택할 수 있는 다양한 아이디어를 자동으로 생성하는 새 서비스를 통해 슬라이드를 더욱 보기 좋게 만듭니다. [추가 정보](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    이 서비스에는 인터넷 연결이 필요합니다. [최신 그룹 정책 관리 템플릿 파일을 사용](https://www.microsoft.com/download/details.aspx?id=49030) 하는이 기능을 사용 하지 않도록 설정 하려면 PowerPoint 디자이너 옵션 설정을 사용 하도록 설정 합니다. 이 정책 설정은 사용자 구성\\관리 템플릿\\Microsoft Office 2016\\도구 | 옵션 | 일반 | 서비스 옵션...\\PowerPoint Designer에서 찾을 수 있습니다.
+    이 서비스에는 인터넷 연결이 필요합니다. 이 기능을 사용 하지 않도록 설정 하려면 [최신 그룹 정책 관리 템플릿 파일을 사용](https://www.microsoft.com/download/details.aspx?id=49030) 하 고 PowerPoint Designer 옵션 설정을 사용 하도록 설정 합니다. 이 정책 설정은 사용자 구성\\관리 템플릿\\Microsoft Office 2016\\도구 | 옵션 | 일반 | 서비스 옵션...\\PowerPoint Designer에서 찾을 수 있습니다.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 -   애니메이션이 포함된 SmartArt가 발표자 보기의 슬라이드 쇼 보기에서 예상된 순서로 나타나지 않는 문제를 해결합니다.
@@ -69,7 +69,7 @@ ms.locfileid: "19556278"
 
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
 -   **다른 사람 이름으로 보내기 옵션**: Word 또는 PowerPoint의 공유 창에서 문서를 첨부 파일 또는 PDF로 보냅니다.
--   **삽입 그림 API**: 일반적인 office.js 라이브러리의 [document.setSelectedDataAsync 메서드](https://msdn.microsoft.com/library/office/fp142145.aspx) 를 사용 하 여 Word, Excel 또는 PowerPoint에 이미지를 삽입 합니다. Word JavaScript API [본문](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [단락](https://msdn.microsoft.com/library/office/mt598682.aspx)및 Range 개체에 인라인 그림을 설정 하려면 insertInlinePictureFromBase64()를 호출 하는 호스트 관련 메서드를 제공 합니다.
+-   **그림 API 삽입**: 공용 office.js 라이브러리에서 document.setSelectedDataAsync [메서드를 사용해 Word, Excel 또는 PowerPoint에](https://msdn.microsoft.com/library/office/fp142145.aspx) 이미지를 삽입합니다. Word JavaScript API에서는 [Body](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [Paragraph](https://msdn.microsoft.com/library/office/mt598682.aspx)및 Range 개체에 인라인 그림을 설정 하기 위해 insertInlinePictureFromBase64 () 라는 호스트 관련 메서드를 제공 합니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 -   열기 또는 다른 이름으로 저장을 수행할 때 표시되는 수정한 날짜 정보가 잘리는 문제를 해결합니다.
@@ -82,7 +82,7 @@ ms.locfileid: "19556278"
 -   감사 모드에서 Office 사전 설치 키트가 실행되는 Windows 7 OEM 컴퓨터에서 Office 2016으로 업그레이드하면 활성화하는 동안 0x80070005 오류가 발생하는 문제를 해결합니다.
 
 
-## <a name="version-1509-december-8"></a>버전 1509: 년 12 월 8
+## <a name="version-1509-december-8"></a>버전 1509:12 월 8 일
 *버전 1509(빌드 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
@@ -111,7 +111,7 @@ ms.locfileid: "19556278"
 
 
 
-## <a name="version-1509-november-10"></a>버전 1509: 11 월 10 일
+## <a name="version-1509-november-10"></a>버전 1509:11 월 10 일
 *버전 1509(빌드 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: 보안 업데이트
@@ -180,7 +180,7 @@ ms.locfileid: "19556278"
 
 
 
-## <a name="version-1509-october-21"></a>버전 1509: 년 10 월 21 일
+## <a name="version-1509-october-21"></a>버전 1509:10 월 21 일
 *버전 1509(빌드 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
@@ -223,7 +223,7 @@ ms.locfileid: "19556278"
 
 
 
-## <a name="version-1509-october-5"></a>버전 1509: 년 10 월 5
+## <a name="version-1509-october-5"></a>버전 1509:10 월 5 일
 *버전 1509(빌드 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: 비보안 업데이트
@@ -248,7 +248,7 @@ ms.locfileid: "19556278"
 
 
 
-## <a name="version-1509-september-22"></a>버전 1509: 9 월 22
+## <a name="version-1509-september-22"></a>버전 1509:9 월 22 일
 *버전 1509(빌드 4229.1024)*
 
 이 채널의 첫 번째 릴리스입니다. 이 릴리스를 통해 Office 2016 응용 프로그램을 처음으로 제공합니다.
