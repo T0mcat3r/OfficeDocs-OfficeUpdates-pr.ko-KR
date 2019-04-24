@@ -11,11 +11,11 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT 전문가에게 MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록을 제공합니다.
 ms.openlocfilehash: 9f162b040f05b1fb845bef0a0d3a8de251abe3a4
-ms.sourcegitcommit: 90d2b3259604e27f5fe860221d1a89d3da28fe5a
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31924346"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438796"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록
  
