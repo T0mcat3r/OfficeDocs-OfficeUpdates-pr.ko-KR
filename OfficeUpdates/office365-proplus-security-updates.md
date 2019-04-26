@@ -3,19 +3,19 @@ title: Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
 ms.author: andrewmo
 author: ''
 manager: andrewmo
-ms.date: 3/12/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 395767b1ebd1208c54e2bd07f6b75216d8b7fe24
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: b96348d9dc180220cc604d644db27ee75bb7e927
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568191"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438786"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
 
@@ -24,6 +24,24 @@ ms.locfileid: "30568191"
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트의 보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+## <a name="april-09-2019"></a>2019년 4월 9일
+월별 채널: 버전 1903(빌드 11425.20204)  
+반기 채널(대상 지정): 버전 1902(빌드 11328.20230)  
+반기 채널: 버전 1808(빌드 10730.20334)  
+반기 채널: 버전 1803(빌드 9126.2382)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-0828](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0828)
+
+### <a name="office-suite"></a>Office 제품군
+
+-   [CVE-2019-0822](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0822)
+-   [CVE-2019-0827](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0827)
+-   [CVE-2019-0824](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0824)
+-   [CVE-2019-0825](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0825)
+-   [CVE-2019-0826](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0826)
+-   [CVE-2019-0801](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0801)
 
 ## <a name="march-12-2019"></a>2019년 3월 12일
 이번 달에는 채널 보안 업데이트가 없습니다.
