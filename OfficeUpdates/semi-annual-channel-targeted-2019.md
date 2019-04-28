@@ -3,19 +3,19 @@ title: 2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: cdf78723e289a421c81986fd3ccc15e199fbb6ef
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 3afa1ce5d224beef17b8f7c2c4bdee8db7c05b9c
+ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958049"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33235248"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -31,11 +31,26 @@ ms.locfileid: "31958049"
 ## <a name="version-1902-april-9"></a>버전 1902: 4월 9일
 *버전 1902(빌드 11328.20230)*
 
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+
+- 정의된 이름으로 끝나는 수식이 포함된 셀에서 Tab 키를 누르면 다음 셀로 이동하지 않는 문제가 해결되었습니다.
+- 셀 서식으로 인해 파일 크기가 불필요하게 커지는 문제를 해결했습니다.
+- 통합 문서 사이에 피벗 테이블을 자르고 붙여넣으면 함께 작업하는 다른 사람을 위한 피벗 테이블 없이 데이터가 붙여넣기되는 문제가 해결됨.
+
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
 
+- 시스템 작업 표시줄이 화면의 왼쪽이나 위쪽에 있을 때 윈도우가 올바른 위치에 나타나지 않는 문제가 수정되었습니다.
 - 연락처 카드에 사진을 로드 할 때 고객에게 충돌이 발생하는 문제를 해결합니다.
 - 일부 고객이 Office 응용 프로그램을 시작할 때 충돌을 일으키는 문제를 해결합니다.
 - 시스템 작업 표시줄이 화면의 왼쪽이나 위쪽에 있을 때 윈도우가 올바른 위치에 나타나지 않는 문제가 수정되었습니다.
+
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+
+- Lync(비즈니스용 Skype)에서 참가자가 7 명 이상인 온라인 모임에서 모임 창이 사라질 수있는 문제가 해결되었습니다.
+
+### <a name="visio-non-security-updates"></a>Visio: 비보안 업데이트
+
+- Dynamic DPI 기능을 비활성화하여 Visio를 확장하는 타사 솔루션의 깨진 창 계층 문제를 초래하는 문제가 해결되었습니다.
 
 ### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
 
@@ -43,6 +58,9 @@ ms.locfileid: "31958049"
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 
+- Office 업데이트의 일부가 배달 최적화 피어 캐싱을 사용하지 않는 문제가 해결되었습니다. 
+  [자세한 정보]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+- Office 배포 도구를 사용하여 Office를 설치하고 대소 문자가 일치하지 않는 경우, 제품이 제거되거나 활성화되지 않을 수 있는 버그를 수정합니다.
 - Windows 10 (버전 1803 이상) 장치에서 과도한 로그인 프롬프트를 유발하는 문제가 해결되었습니다.
 - 링크된 그림을 다운로드 할 때 원인이 되는 고정 회귀의 중단
 - Word, Excel, PowerPoint에 붙여넣은 대형 EMF 파일의 흐림 수정.

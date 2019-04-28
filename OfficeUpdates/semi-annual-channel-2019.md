@@ -3,19 +3,19 @@ title: 2019년 반기 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: 0e8641b742db196ed58dc4ede93ee684ba5fce90
+ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478575"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33234900"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019년 반기 채널 릴리스에 대한 릴리스 정보
 
@@ -27,6 +27,21 @@ ms.locfileid: "31478575"
 > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
 > - 반기 채널 사용자가 Office 포털에서 Windows 10용 Office 365를 다운로드 및 설치하면 기본적으로 OneNote 2016이 포함되지 않습니다.
+
+## <a name="version-1808-april-9"></a>버전 1808: 4월 9일
+*버전 1808(빌드 10730.20334)*
+
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+- Lync(비즈니스용 Skype)에서 참가자가 7 명 이상인 온라인 모임에서 모임 창이 사라질 수있는 문제가 해결되었습니다.
+
+### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
+
+- 사용자가 IE 또는 Edge에서 익명으로 문서를 열 수있는 문제가 해결되었습니다.
+- Word 문서 머리글/바닥 글 페이지 및/또는 NUMPAGES 필드에 텍스트 강조 색상 서식이 적용된 텍스트 강조 색상 대신 검정색으로 필드를 렌더링하는 문제가 해결되었습니다.
+- 일본의 새로운 시대를 위해서 Word 일본어 엽서 마법사 추가 기능에 대한 지원을 추가했습니다. 
+
+## <a name="version-1803-april-9"></a>버전 1803: 4월 9일
+- 보안 업데이트는 [여기](office365-proplus-security-updates.md)에 나열되어 있습니다.
 
 ## <a name="version-1808-march-12"></a>버전 1808: 3월 12일
 *버전 1808(빌드 10730.20304)*
@@ -45,7 +60,7 @@ ms.locfileid: "31478575"
 - Office 업데이트 다운로드를 시도할 때 일정 시간 멈추는 문제를 해결했습니다.
 
 ## <a name="version-1803-march-12"></a>버전 1803: 3월 12일 
-이번 달에는 업데이트가 없습니다.
+- 보안 업데이트는 [여기](office365-proplus-security-updates.md)에 나열되어 있습니다.
 
 ## <a name="version-1808-february-12"></a>버전 1808: 2월 12일
 *버전 1808(빌드 10730.20280)*
@@ -69,7 +84,7 @@ ms.locfileid: "31478575"
 ## <a name="version-1803-february-12"></a>버전 1803: 2월 12일
 *버전 1803(빌드 9126.2356)*
 
-*이것이 2018 7월 이후에 사용할 수 있었던 반기 채널 릴리스입니다. 이 릴리스는 2019년 9월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808(빌드 10730.20280)을 이용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+*2018년 7월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 9월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808(빌드 10730.20280)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="access-non-security-updates"></a>Access: 비보안 업데이트 
 
@@ -101,7 +116,7 @@ ms.locfileid: "31478575"
 ## <a name="version-1708-february-12"></a>버전 1708: 2월 12일
 *버전 1708(빌드 8431.2372)*
 
-*이는 2018년 1월 이후에 사용할 수 있었던 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808(빌드 10730.20280)을 이용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+*2018년 1월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 3월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808(빌드 10730.20280)을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
 
@@ -109,7 +124,7 @@ ms.locfileid: "31478575"
 
 
 ## <a name="version-1808-january-8"></a>버전 1808: 1월 8일
-*버전 1808(빌드 10730.20264)*
+*버전 1808 (빌드 10730.20264)*
 
 ### <a name="access-feature-updates"></a>Access: 기능 업데이트
 
@@ -258,9 +273,9 @@ ms.locfileid: "31478575"
 
 
 ## <a name="version-1803-january-8"></a>버전 1803: 1월 8일
-*버전 1803(빌드 9126.2351)*
+*버전 1803 (빌드 9126.2351)*
 
-*이것이 2018 7월 이후에 사용할 수 있었던 반기 채널 릴리스입니다. 이 릴리스는 2019년 9월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808을 이용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
+*2018년 7월부터 제공된 반기 채널 릴리스입니다. 이 릴리스는 2019년 9월까지 계속 지원되며 보안 업데이트가 수신됩니다. 하지만 이제 새로운 반기 채널 릴리스 버전 1808을 사용할 수 있습니다. 여기에는 새로운 기능, 보안 업데이트 및 비보안 업데이트가 포함되어 있습니다.*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 - Office 응용 프로그램 간에 LinkedIn 옵션 기능 패리티를 보장하도록 문제가 수정되었습니다.
