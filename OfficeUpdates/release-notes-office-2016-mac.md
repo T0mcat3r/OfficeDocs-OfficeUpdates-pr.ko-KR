@@ -11,11 +11,11 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018년 9월 이후부터 Mac용 Office 2016 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
 ms.openlocfilehash: 7b46ce1be815d252ab4493630ac18989282cbcb5
-ms.sourcegitcommit: 5a3394599c426087999ef0a7044a7a511405b665
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "32460143"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370300"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Mac용 Office 2016에 대한 릴리스 정보
 

@@ -11,11 +11,11 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 다운로드 패키지 및 업데이트 기록에 대한 링크를 포함하여 Mac용 Office의 최신 업데이트에 대한 정보를 IT 전문가에게 제공합니다.
 ms.openlocfilehash: 32d09a4ffa32c356c16711e7745d16b3bff1fe64
-ms.sourcegitcommit: 5a3394599c426087999ef0a7044a7a511405b665
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "32460025"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370210"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac용 Office에 대한 업데이트 기록
   

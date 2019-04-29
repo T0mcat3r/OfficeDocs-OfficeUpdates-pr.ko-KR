@@ -3,19 +3,19 @@ title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6222443b6b6d22d2d80b135fe10fec61ff96d708
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438653"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370290"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -46,9 +46,12 @@ ms.locfileid: "32438653"
 ## <a name="version-1903-april-9"></a>버전 1903: 4월 9일
 *버전 1903(빌드 11425.20204)* 
 
-나열된 보안 업데이트는 [여기](office365-proplus-security-updates.md)
+- 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/OfficeUpdates/office365-proplus-security-updates)에 나열되어 있습니다.
 
-## <a name="version-1903-april-01"></a>버전 1903: 4월 1일 
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+- Lync(비즈니스용 Skype)에서 참가자가 7 명 이상인 온라인 모임에서 모임 창이 사라질 수있는 문제가 해결되었습니다.
+
+## <a name="version-1903-april-01"></a>버전 1903: 4월 1일
 *버전 1903(빌드 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
