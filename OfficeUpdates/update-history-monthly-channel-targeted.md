@@ -3,19 +3,19 @@ title: 업데이트 기록 월 단위 채널(대상)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 04/17/2019
+ms.date: 04/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 월간 채널 업데이트 내역 제공 Windows 데스크톱의 대상 릴리스
-ms.openlocfilehash: 7e50142c1c0e404ef9693f19cd6a5fccfefa0b42
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 0302cc1500701c6c71e8d41a09655659ee3f0d05
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958119"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368773"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows용 월간(대상) 채널의 업데이트 내역
 
@@ -30,6 +30,18 @@ ms.locfileid: "31958119"
 > - 릴리스 정보는 더 느린 흐름에 업데이트되며 릴리스 정보 게시 빌드 번호까지 여러 빌드에 대한 업데이트 컴파일이 될 수 있습니다.
 
 [//]: # (제거하지 마십시오)
+
+**2019년 4월 27일**<br/>
+버전 1904(빌드 11601.20144)<br/>
+
+**2019년 4월 26일**<br/>
+버전 1904(빌드 11601.20136)<br/>
+
+**2019년 4월 25일**<br/>
+버전 1904(빌드 11601.20126)<br/>
+
+**2019년 4월 16일**<br/>
+버전 1904(빌드 11601.20072)<br/>
 
 **2019년 4월 16일**<br/>
 버전 1903(빌드 11425.20218)<br/>

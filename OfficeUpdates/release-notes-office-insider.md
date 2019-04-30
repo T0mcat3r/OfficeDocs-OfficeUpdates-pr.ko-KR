@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438911"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370190"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -24,6 +24,32 @@ ms.locfileid: "32438911"
 > [!NOTE]
 > - 릴리스 정보는 매주 게시되며 여러 빌드의 컴파일일 수 있습니다.
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
+
+## <a name="april-26-2019"></a>2019년 4월 26일
+버전 1905(빌드 11617.20002)
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="word"></a>Word 
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="excel"></a>Excel
+- 해 찾기 매크로가 실행에 실패하는 문제를 수정했습니다.
+- Excel 파일를 SharePoint로 가져오지 못하게 하는 문제를 수정했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="outlook"></a>Outlook
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="access"></a>Access
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 다양한 성능 및 안정성 수정 사항
+
+</BR></BR>
 
 ## <a name="april-19-2019"></a>2019년 4월 19일
 버전 1905 (빌드 11609.20002)

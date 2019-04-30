@@ -3,19 +3,19 @@ title: Office 참가자 채널에 대한 업데이트 기록
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 04/19/2019
+ms.date: 04/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: b7eeee07099d7e1e32bad421d00c4a0570ff4e62
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 691b37da6ae0594774a6e961a70275d1ff69939d
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958149"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370330"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 참가자 채널에 대한 업데이트 기록
 
@@ -34,6 +34,8 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/ko-KR/OfficeUpdates/release-notes-office-insider)를 참조하십시오.
 
 [//]: # (제거하지 마십시오)
+
+**2019년 4월 23일**<br/> 버전 1905(빌드 11617.20002)<br/>
 
 **2019년 4월 15일**<br/> 버전 1905(빌드 11609.20002)<br/>
 
