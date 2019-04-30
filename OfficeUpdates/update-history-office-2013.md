@@ -3,26 +3,26 @@ title: Office 2013에 대한 업데이트 기록
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 03/13/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 간편 실행을 사용하는 Office 2013 영구 버전에 대한 업데이트 기록을 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 42418530bb24ea1edc8e30b368c2d09a494e990a
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 0755b5b95b3ca4f232d35f1c7fe804d5c22c639d
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568161"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745560"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013에 대한 업데이트 기록
 
 대부분의 Office 2013 제품은 간편 실행이라는 기술을 사용하여 자동으로 최신 상태로 유지됩니다. 최신 상태인지 확인하려는 경우 Office 버전 번호를 확인하고 필요한 경우 Office를 직접 업데이트합니다.
   
 > [!NOTE]
-> 최신 버전의 Office 2013은 2019년 3월 12일에 릴리스된 **15.0.5119.1000**입니다. 
+> 최신 버전의 Office 2013은 2019년 4월 9일에 릴리스된 **15.0.5127.1000**입니다. 
   
 Office의 버전을 확인하려면 다음을 수행합니다.
   
@@ -46,19 +46,20 @@ Office의 버전을 확인하려면 다음을 수행합니다.
   
 |**릴리스 연도**|**릴리스 날짜**|**버전 번호**|**추가 정보**|
 |:-----|:-----|:-----|:-----|
-|2019|3월 12일   |15.0.5119.1000   |[KB 4491754](https://support.microsoft.com/ko-KR/help/4491754)  |
-||2월 12일   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/ko-KR/help/4488446)  |
-||1월 8일   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/ko-KR/help/4484800)  |
-|2018년|12월 19일   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/ko-KR/help/4477615)  |
-||11월 13일   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/ko-KR/help/4469617)  |
-||10월 9일   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/ko-KR/help/4464656)  |
-| |9월 11일   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/ko-KR/help/4459402)  |
-||8월 14일   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/ko-KR/help/4346823)  |
-||7월 10일   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/ko-KR/help/4340798)  |
-||6월 12일   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/ko-KR/help/4299875)  |
-||5월 8일   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/ko-KR/help/4133083)  |
-||4월 10일   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/ko-KR/help/4098622)  |
-||3월 13일   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/ko-KR/help/4090988)  |
+|2019|4월 9일   |15.0.5127.1000   |[KB 4495300](https://support.microsoft.com/en-us/help/4495300)  |
+||3월 12일   |15.0.5119.1000   |[KB 4491754](https://support.microsoft.com/en-us/help/4491754)  |
+||2월 12일   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/en-us/help/4488446)  |
+||1월 8일   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/en-us/help/4484800)  |
+|2018년|12월 19일   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/en-us/help/4477615)  |
+||11월 13일   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/en-us/help/4469617)  |
+||10월 9일   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/en-us/help/4464656)  |
+| |9월 11일   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
+||8월 14일   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
+||7월 10일   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
+||6월 12일   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
+||5월 8일   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/en-us/help/4133083)  |
+||4월 10일   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/en-us/help/4098622)  |
+||3월 13일   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/en-us/help/4090988)  |
 ||2월 13일   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||1월 9일   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
 |2017년   |12월 12일   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
@@ -72,8 +73,8 @@ Office의 버전을 확인하려면 다음을 수행합니다.
 ||4월 11일   |15.0.4919.1002   |[KB 4016803](https://support.microsoft.com/help/4016803)  |
 ||3월 14일   |15.0.4911.1002   |[KB 4013886](https://support.microsoft.com/help/4013886)  |
 ||2월 22일   |15.0.4903.1002   |[KB 4010765](https://support.microsoft.com/help/4010765)  |
-||1월 10일   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/ko-KR/kb/3214449)  |
-|2016년   |12월 13일   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/ko-KR/kb/3208595)  |
+||1월 10일   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/en-us/kb/3214449)  |
+|2016년   |12월 13일   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595)  |
 ||11월 8일   |15.0.4875.1001   |[KB 3200802](https://support.microsoft.com/kb/3200802)  |
 ||10월 11일   |15.0.4867.1003   |[KB 3194160](https://support.microsoft.com/kb/3194160)  |
 ||9월 13일   |15.0.4859.1002   |[KB 3188548](https://support.microsoft.com/kb/3188548)  |

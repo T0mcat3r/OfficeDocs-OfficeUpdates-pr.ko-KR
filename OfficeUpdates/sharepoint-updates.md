@@ -3,7 +3,7 @@ title: SharePoint 업데이트
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 03/13/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016, SharePoint 2013 및 SharePoint 2010에 대한 업데이트를 한 위치에서 찾고 관리합니다. 업데이트에 대한 자세한 내용을 알아본 후 업데이트를 다운로드하려면 이 페이지의 링크를 사용하세요.
-ms.openlocfilehash: 0cd017a3cc8ad2178f51bc55215e83e07985bb65
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: bbc40c301cbbe833dafcd675521b10be427fc182
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568341"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745570"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 업데이트
 
@@ -33,28 +33,30 @@ ms.locfileid: "30568341"
 
 |**패키지 이름**|**KB 번호**|**릴리스 날짜**|
 |:-----|:-----|:-----|
-|SharePoint Server 2019  <br/>  |[KB 4462199](https://support.microsoft.com/ko-KR/help/4462199)  <br/> |2019년 3월  <br/> |
-|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/언어 패치  <br/> |[KB 4462171](https://support.microsoft.com/ko-KR/help/4462171) <br/> [KB 4462170](https://support.microsoft.com/ko-KR/help/4462170) <br/> |2019년 2월  <br/> |
-|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/언어 패치  <br/> |[KB 4461634](https://support.microsoft.com/ko-KR/help/4461634) <br/> [KB 4461514](https://support.microsoft.com/ko-KR/help/4461514) <br/> |2019년 1월  <br/> |
-|SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/ko-KR/help/4461548)  <br/> |2018년 12월  <br/> |
-|SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/ko-KR/help/4461513)  <br/> |2018년 11월  <br/> |
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/언어 패치  <br/> |[KB 4464518](https://support.microsoft.com/en-us/help/4464518) <br/> [KB 4462221](https://support.microsoft.com/en-us/help/4462221) <br/> |2019년 4월  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4462199](https://support.microsoft.com/en-us/help/4462199)  <br/> |2019년 3월  <br/> |
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/언어 패치  <br/> |[KB 4462171](https://support.microsoft.com/en-us/help/4462171) <br/> [KB 4462170](https://support.microsoft.com/en-us/help/4462170) <br/> |2019년 2월  <br/> |
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/언어 패치  <br/> |[KB 4461634](https://support.microsoft.com/en-us/help/4461634) <br/> [KB 4461514](https://support.microsoft.com/en-us/help/4461514) <br/> |2019년 1월  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/en-us/help/4461548)  <br/> |2018년 12월  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/en-us/help/4461513)  <br/> |2018년 11월  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>SharePoint 2016 업데이트 기록
 
 |**패키지 이름**|**KB 번호**|**릴리스 날짜**|
 |:-----|:-----|:-----|
-|SharePoint Server 2016  <br/>  |[KB 4462211](https://support.microsoft.com/ko-KR/help/4462211) <br/>  |2019년 3월  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4462155](https://support.microsoft.com/ko-KR/help/4462155) <br/>  |2019년 2월  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4461598](https://support.microsoft.com/ko-KR/help/4461598) <br/>  |2019년 1월  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4461541](https://support.microsoft.com/ko-KR/help/4461541) <br/>  |2018년 12월  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4461501](https://support.microsoft.com/ko-KR/help/4461501) <br/>  |2018년 11월  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4461447](https://support.microsoft.com/ko-KR/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/ko-KR/help/4092463) <br/> |2018년 10월  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/ko-KR/help/4092459) <br/>  |2018년 9월  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4032256](https://support.microsoft.com/ko-KR/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/ko-KR/help/4022231) <br/> |2018년 8월  <br/> |
-|SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/ko-KR/help/4022228)  <br/> |2018년 7월  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4022173](https://support.microsoft.com/ko-KR/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/ko-KR/help/4022178) <br/> |2018년 6월  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4018381](https://support.microsoft.com/ko-KR/help/4018381) <br/> [KB 4018386](https://support.microsoft.com/ko-KR/help/4018386) <br/> |2018년 5월  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4018336](https://support.microsoft.com/ko-KR/help/4018336) <br/> [KB 4018340](https://support.microsoft.com/ko-KR/help/4018340) <br/> |2018년 4월  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4018293](https://support.microsoft.com/ko-KR/help/4018293) <br/> [KB 4011687](https://support.microsoft.com/ko-KR/help/4011687) <br/> |2018년 3월  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4464510](https://support.microsoft.com/en-us/help/4464510) <br/> [KB 4461507](https://support.microsoft.com/en-us/help/4461507) <br/> |2019년 4월  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4462211](https://support.microsoft.com/en-us/help/4462211) <br/>  |2019년 3월  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4462155](https://support.microsoft.com/en-us/help/4462155) <br/>  |2019년 2월  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461598](https://support.microsoft.com/en-us/help/4461598) <br/>  |2019년 1월  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461541](https://support.microsoft.com/en-us/help/4461541) <br/>  |2018년 12월  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461501](https://support.microsoft.com/en-us/help/4461501) <br/>  |2018년 11월  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4461447](https://support.microsoft.com/en-us/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/en-us/help/4092463) <br/> |2018년 10월  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/en-us/help/4092459) <br/>  |2018년 9월  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |2018년 8월  <br/> |
+|SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/en-us/help/4022228)  <br/> |2018년 7월  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4022173](https://support.microsoft.com/en-us/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/en-us/help/4022178) <br/> |2018년 6월  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4018381](https://support.microsoft.com/en-us/help/4018381) <br/> [KB 4018386](https://support.microsoft.com/en-us/help/4018386) <br/> |2018년 5월  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4018336](https://support.microsoft.com/en-us/help/4018336) <br/> [KB 4018340](https://support.microsoft.com/en-us/help/4018340) <br/> |2018년 4월  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4018293](https://support.microsoft.com/en-us/help/4018293) <br/> [KB 4011687](https://support.microsoft.com/en-us/help/4011687) <br/> |2018년 3월  <br/> |
 |SharePoint Server 2016  <br/> |[KB 4011680](https://support.microsoft.com/help/4011680) <br/> |2018년 2월  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4011642](https://support.microsoft.com/help/4011642) <br/> [KB 4011645](https://support.microsoft.com/help/4011645) <br/> |2018년 1월  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/언어 패치  <br/> |[KB 4011576](https://support.microsoft.com/help/4011576) <br/> [KB 4011578](https://support.microsoft.com/help/4011578) <br/> |2017년 12월  <br/> |
@@ -93,19 +95,20 @@ ms.locfileid: "30568341"
     
 |**패키지 이름**|**KB 번호**|**릴리스 날짜**|
 |:-----|:-----|:-----|
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462217](https://support.microsoft.com/ko-KR/help/4462217) <br/> [KB 4462219](https://support.microsoft.com/ko-KR/help/4462219) <br/> |2019년 3월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462150](https://support.microsoft.com/ko-KR/help/4462150) <br/> [KB 4462152](https://support.microsoft.com/ko-KR/help/4462152) <br/> |2019년 2월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461603](https://support.microsoft.com/ko-KR/help/4461603) <br/> [KB 4461605](https://support.microsoft.com/ko-KR/help/4461605) <br/> |2019년 1월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461552](https://support.microsoft.com/ko-KR/help/4461552) <br/> [KB 4461555](https://support.microsoft.com/ko-KR/help/4461555) <br/> |2018년 12월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461508](https://support.microsoft.com/ko-KR/help/4461508) <br/> [KB 4461510](https://support.microsoft.com/ko-KR/help/4461510) <br/> |2018년 11월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461455](https://support.microsoft.com/ko-KR/help/4461455) <br/> [KB 4461458](https://support.microsoft.com/ko-KR/help/4461458) <br/> |2018년 10월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/ko-KR/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/ko-KR/help/4092476) <br/> |2018년 9월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/ko-KR/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/ko-KR/help/4032247) <br/> |2018년 8월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/ko-KR/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/ko-KR/help/4022241) <br/> |2018년 7월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022184](https://support.microsoft.com/ko-KR/help/4022184) <br/> [KB 4022187](https://support.microsoft.com/ko-KR/help/4022187) <br/> |2018년 6월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018394](https://support.microsoft.com/ko-KR/help/4018394) <br/> [KB 4018397](https://support.microsoft.com/ko-KR/help/4018397) <br/> |2018년 5월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018345](https://support.microsoft.com/ko-KR/help/4018345) <br/> [KB 4018348](https://support.microsoft.com/ko-KR/help/4018348) <br/> |2018년 4월  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018299](https://support.microsoft.com/ko-KR/help/4018299) <br/> [KB 4018302](https://support.microsoft.com/ko-KR/help/4018302) <br/> |2018년 3월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4464512](https://support.microsoft.com/en-us/help/4464512) <br/> [KB 4464514](https://support.microsoft.com/en-us/help/4464514) <br/> |2019년 4월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462217](https://support.microsoft.com/en-us/help/4462217) <br/> [KB 4462219](https://support.microsoft.com/en-us/help/4462219) <br/> |2019년 3월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462150](https://support.microsoft.com/en-us/help/4462150) <br/> [KB 4462152](https://support.microsoft.com/en-us/help/4462152) <br/> |2019년 2월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461603](https://support.microsoft.com/en-us/help/4461603) <br/> [KB 4461605](https://support.microsoft.com/en-us/help/4461605) <br/> |2019년 1월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461552](https://support.microsoft.com/en-us/help/4461552) <br/> [KB 4461555](https://support.microsoft.com/en-us/help/4461555) <br/> |2018년 12월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461508](https://support.microsoft.com/en-us/help/4461508) <br/> [KB 4461510](https://support.microsoft.com/en-us/help/4461510) <br/> |2018년 11월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461455](https://support.microsoft.com/en-us/help/4461455) <br/> [KB 4461458](https://support.microsoft.com/en-us/help/4461458) <br/> |2018년 10월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/en-us/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/en-us/help/4092476) <br/> |2018년 9월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/en-us/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/en-us/help/4032247) <br/> |2018년 8월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/en-us/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/en-us/help/4022241) <br/> |2018년 7월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022184](https://support.microsoft.com/en-us/help/4022184) <br/> [KB 4022187](https://support.microsoft.com/en-us/help/4022187) <br/> |2018년 6월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018394](https://support.microsoft.com/en-us/help/4018394) <br/> [KB 4018397](https://support.microsoft.com/en-us/help/4018397) <br/> |2018년 5월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018345](https://support.microsoft.com/en-us/help/4018345) <br/> [KB 4018348](https://support.microsoft.com/en-us/help/4018348) <br/> |2018년 4월  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018299](https://support.microsoft.com/en-us/help/4018299) <br/> [KB 4018302](https://support.microsoft.com/en-us/help/4018302) <br/> |2018년 3월  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4011693](https://support.microsoft.com/help/4011693) <br/> [KB 4011696](https://support.microsoft.com/help/4011696) <br/> |2018년 2월  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4011649](https://support.microsoft.com/help/4011649) <br/> [KB 4011652](https://support.microsoft.com/help/4011652) <br/> |2018년 1월  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4011588](https://support.microsoft.com/help/4011588) <br/> [KB 4011593](https://support.microsoft.com/help/4011593) <br/> |2017년 12월  <br/> |
@@ -159,18 +162,19 @@ ms.locfileid: "30568341"
 
 |**패키지 이름**|**KB 번호**|**릴리스 날짜**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4464528](https://support.microsoft.com/help/4464528) <br/> [KB 4464523](https://support.microsoft.com/help/4464523) <br/> |2019년 4월  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4462231](https://support.microsoft.com/help/4462231) <br/> [KB 4462228](https://support.microsoft.com/help/4462228) <br/> |2019년 3월  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4461630](https://support.microsoft.com/help/4461630) <br/> [KB 4462181](https://support.microsoft.com/help/4462181) <br/> |2019년 2월  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4461622](https://support.microsoft.com/ko-KR/help/4461622) <br/> |2019년 1월  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4461622](https://support.microsoft.com/en-us/help/4461622) <br/> |2019년 1월  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4461580](https://support.microsoft.com/help/4461580) <br/> [KB 4461575](https://support.microsoft.com/help/4461575) <br/> |2018년 12월  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4011713](https://support.microsoft.com/help/4011713) <br/> [KB 4461528](https://support.microsoft.com/help/4461528) <br/> |2018년 11월  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4461464](https://support.microsoft.com/ko-KR/help/4461464) <br/> |2018년 10월  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/ko-KR/help/4227169) <br/> |2018년 9월  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/ko-KR/help/4032221) <br/> |2018년 8월  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4022204](https://support.microsoft.com/ko-KR/help/4022204) <br/> |2018년 6월  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4022143](https://support.microsoft.com/ko-KR/help/4022143) <br/> |2018년 5월  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4018361](https://support.microsoft.com/ko-KR/help/4018361) <br/> |2018년 4월  <br/> |
-|SharePoint Server 2010  <br/> |[KB 4011710](https://support.microsoft.com/ko-KR/help/4011710) <br/> |2018년 3월  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4461464](https://support.microsoft.com/en-us/help/4461464) <br/> |2018년 10월  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/en-us/help/4227169) <br/> |2018년 9월  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/en-us/help/4032221) <br/> |2018년 8월  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4022204](https://support.microsoft.com/en-us/help/4022204) <br/> |2018년 6월  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4022143](https://support.microsoft.com/en-us/help/4022143) <br/> |2018년 5월  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4018361](https://support.microsoft.com/en-us/help/4018361) <br/> |2018년 4월  <br/> |
+|SharePoint Server 2010  <br/> |[KB 4011710](https://support.microsoft.com/en-us/help/4011710) <br/> |2018년 3월  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 3141547](https://support.microsoft.com/help/3141547) <br/> [KB 4011616](https://support.microsoft.com/help/4011616) <br/> |2018년 1월  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4011272](https://support.microsoft.com/help/4011272) <br/> |2017년 11월  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4011195](https://support.microsoft.com/help/4011195) <br/> |2017년 10월  <br/> |
@@ -222,7 +226,7 @@ SharePoint 업데이트 외에, SharePoint에 필요한 관련 제품의 다음 
   
 - SharePoint가 있는 Windows Server AppFabric
   
-  - [AppFabric](https://msdn.microsoft.com/ko-KR/library/aa139641.aspx)
+  - [AppFabric](https://msdn.microsoft.com/en-us/library/aa139641.aspx)
   - [SharePoint가 있는 AppFabric 주요 개념](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
   - [AppFabric 업데이트](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
   
