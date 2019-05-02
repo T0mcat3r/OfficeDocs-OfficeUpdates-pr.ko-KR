@@ -3,19 +3,19 @@ title: Mac용 Office에 대한 릴리스 정보
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 5/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6cb4866a65ad45e54a13f62e1b422675d8e4ede4
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 57e30df61e42547b0c23cdb797142dcf87666a56
+ms.sourcegitcommit: b3d71e9fbbece2bba40b6b71f2ad3f4bbbee7a55
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370260"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33527783"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -36,7 +36,24 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 
 ## <a name="april-2019-release"></a>2019년 4월 릴리스
 
- **릴리스 날짜:** 2019년 4월 16일 
+**릴리스 날짜:** 2019년 4월 29일 
+  
+ *버전 16.24.1 (빌드 19042400)*
+
+
+ 이 릴리스는 다음과 같은 업데이트를 제공합니다.
+
+|**애플리케이션**|**기능 업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
+|:-----|:-----|:-----|:-----|
+|Word<br/>|새로운 일본어 시대 글리프를 포함하도록 묶음 글꼴을 업데이트 합니다.<br/>|<br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19042400_Updater.pkg)<br/>|
+|Excel<br/>|새로운 일본어 시대 글리프를 포함하도록 묶음 글꼴을 업데이트 합니다.<br/>|<br/>|[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19042400_Updater.pkg)<br/>|
+|PowerPoint<br/>|새로운 일본어 시대 글리프를 포함하도록 묶음 글꼴을 업데이트 합니다.<br/>|<br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19042400_Updater.pkg)<br/>|
+|Outlook<br/>|새로운 일본어 시대 글리프를 포함하도록 묶음 글꼴을 업데이트 합니다.<br/>|<br/>|[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19042400_Updater.pkg)<br/>|
+|OneNote<br/>|새로운 일본어 시대 글리프를 포함하도록 묶음 글꼴을 업데이트 합니다.<br/>|<br/>|[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Onenote_16.24.19042400_Updater.pkg)<br/>|
+
+
+
+ **릴리스 날짜:** 2019년 4월 16일
   
  *버전 16.24 (빌드 19041401)*
 
