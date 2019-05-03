@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2018년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 0996cd0e78e8c04af4323a41d85cbee106f4eeab
+ms.sourcegitcommit: bceb0947711b9919ad002bf0901af77e285cebc7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438723"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "33568608"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -59,7 +59,6 @@ ms.locfileid: "32438723"
 
 - **확대/축소 및 고정:** 메시지를 읽을 때마다 확대/축소를 조정하지 않고, 모든 메시지에 사용할 기본값을 선택합니다. [자세히 알아보기](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **메시지를 전달하는 동안에도 작업 지속 가능:** Outlook이 이제 백그라운드에서 메시지를 전달합니다. 따라서 폴더 간에 많은 메시지를 주고 받는 동안에도 작업을 계속할 수 있습니다.
-- ** Outlook에서 사용자의 LinkedIn 세부 정보 보기:** 이제 연락처의 프로필 카드를 열면 LinkedIn 프로필을확인하여 사용자에 대한 더 많은 정보를 얻을 수 있습니다.
 - **중요 받은 편지함 설정 및 해제 기능 개선:** 중요 받은 편지함을 사용하지 않는 고객의 경우 모든 폴더의 메시지 목록의 읽지 않음 탭을 다시 제공했습니다. 플래그가 지정된 항목을 더 쉽게 찾을 수 있도록 플래그별 정렬을 추가했습니다. 마지막으로 중요 받은 편지함에 검색을 통한 더 효과적인 상호 작용 모델이 적용됩니다. 사용자가 검색을 시작할 때까지 중요 받은 편지함이 있는 받은 편지함이 유지되고 검색이 완료되면 '결과' 텍스트가 표시됩니다.
 - **SMIME 암호화 및 서명된 전자 메일에서 기본적으로 외부 콘텐츠 다운로드 차단:** SMIME 프로토콜의 취약점으로 인해 Outlook에서는 암호화되었거나 SMIME를 통해 서명된 메시지에 외부 콘텐츠 다운로드를 차단합니다. 사용자는 Outlook UI를 통해 한 번 클릭으로 외부 콘텐츠를 다운로드할 수 없어 보안 취약점으로부터 보호합니다. 사용자가 이전 동작으로 되돌릴 수 있도록 허용하는 새로운 옵션이 옵션 대화 상자에 있습니다. 
 
