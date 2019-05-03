@@ -3,19 +3,19 @@ title: Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/24/2019
+ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: a919e2deb8bb244f93a10f479339a760b3b936d6
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 9164af0880b564149beafdf2f6a2145714522a57
+ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370240"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33480100"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -31,7 +31,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
  
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월 단위  <br/> |1903 <br/> |11425.20244 <br/> | 2019년 4월 22일 <br/> |버전 1904가 릴리스됨 <br/>|
+|월 단위  <br/> |1904 <br/> |11601.20144 <br/> | 2019년 4월 29일 <br/> |1905 버전 출시 <br/>|
 |반기(대상 지정)  <br/> |1902  <br/> |11328.20230 <br/> |  2019년 4월 9일 <br/> | 2019년 9월 10일 <br/>|
 |반기 <br/> |1808  <br/> | 10730.20334<br/> | 2019년 4월 9일  <br/> |  2020년 3월 10일 <br/>|
 |반기 <br/> |1803  <br/> | 9126.2382  <br/> | 2019년 4월 9일  <br/> |  2019년 9월 10일 <br/>|
@@ -44,6 +44,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|4월 29일 |[버전 1904(빌드 11601.20144)](monthly-channel-2019.md#version-1904-april-29)| | |
 |2019|4월 22일 |[버전 1903(빌드 11425.20244)](monthly-channel-2019.md#version-1903-april-22)| | |
 |2019|4월 17일 |[버전 1903(빌드 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | |
 |2019|4월 16일 |[버전 1903(빌드 11425.20218)](monthly-channel-2019.md#version-1903-april-16)| | |
