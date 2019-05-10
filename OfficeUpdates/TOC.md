@@ -43,6 +43,7 @@
 ## [Office 2010 업데이트(C2R)](update-history-office-2010-click-to-run.md)
 ## [Office 2010, 2013 및 2016 업데이트(MSI)](office-updates-msi.md)
 ## [Outlook 2010, 2013 및 2016 업데이트(MSI)](outlook-updates-msi.md)
+## [Office 비보안 업데이트(MSI)](office-MSI-non-security-updates.md)
 ## [Office 2016 .msp 파일(MSI)](msp-files-office-2016.md)
 ## [Office 2013 .msp 파일(MSI)](msp-files-office-2013.md)
 ## [비즈니스용 Skype 업데이트(MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
