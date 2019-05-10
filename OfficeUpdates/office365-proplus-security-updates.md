@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: b96348d9dc180220cc604d644db27ee75bb7e927
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: dc34957ed448b9be20019988ce862ca9cad76c4d
+ms.sourcegitcommit: dee992f8ce988adc164ab492529e92db5e450a09
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438786"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33639619"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
 
@@ -24,6 +24,8 @@ ms.locfileid: "32438786"
 > [!NOTE]
 > - 또한 Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트의 보안 업데이트에 대한 정보도 제공합니다.
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+
+[//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)
 ## <a name="april-09-2019"></a>2019년 4월 9일
 월별 채널: 버전 1903(빌드 11425.20204)  
 반기 채널(대상 지정): 버전 1902(빌드 11328.20230)  
