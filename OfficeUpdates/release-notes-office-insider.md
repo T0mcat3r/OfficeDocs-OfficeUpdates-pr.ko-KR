@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/26/2019
+ms.date: 5/10/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
+ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370190"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33882767"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -24,6 +24,65 @@ ms.locfileid: "33370190"
 > [!NOTE]
 > - 릴리스 정보는 매주 게시되며 여러 빌드의 컴파일일 수 있습니다.
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
+
+## <a name="may-10-2019"></a>2019년 5월 10일
+버전 1906(빌드 11702.20000)
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="all"></a>모두
+- 다른 이름으로 저장 대화 상자에서 잘못된 경로를 표시할 수 있는 문제를 수정했습니다.
+
+### <a name="word"></a>Word 
+- 텍스트를 입력하세요의 일부 선택 항목이 삽입되지 않는 문제를 수정했습니다.
+
+### <a name="excel"></a>Excel
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="outlook"></a>Outlook
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="access"></a>Access
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 작업 ID에서 강조 표시가 필요할 수 있는 문제를 해결했습니다.
+
+</BR></BR>
+
+## <a name="may-3-2019"></a>2019년 5월 3일
+버전 1906(빌드 11629.20008)
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="all"></a>모두
+- 일부 사용자를 대상으로 비즈니스용 OneDrive 동기화 중에 발생하는 문제를 해결했습니다.
+
+### <a name="word"></a>Word 
+
+### <a name="excel"></a>Excel
+- 최신 버전 Excel로 업그레이드한 후 통합 문서에서 가끔 외부 링크가 제거되는 문제를 해결했습니다.
+- 일부 사용자를 대상으로 새 통합 문서에서 셀을 선택할 때 발생할 수 있는 문제를 해결했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 드로잉을 텍스트로 변환할 때 글꼴 크기가 일정하지 않은 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+- .VCF 파일에서 연락처를 저장하면 빈 필드가 생길 수 있는 문제를 해결했습니다.
+- 전송되었음에도 불구하고 메시지가 보낼 편지함 폴더에 쌓일 수 있는 문제를 해결했습니다.
+- DRM 메시지를 볼 때 Outlook이 충돌할 수 있는 문제를 해결했습니다.
+
+### <a name="access"></a>Access
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 편집기가 중국어에서 영어로 전환되는 문제를 해결했습니다.
+- 게시되지 않은 작업이 게시된 마스터 프로젝트 사본에 표시될 수 있는 문제를 해결했습니다.
+
+</BR></BR>
 
 ## <a name="april-26-2019"></a>2019년 4월 26일
 버전 1905(빌드 11617.20002)
