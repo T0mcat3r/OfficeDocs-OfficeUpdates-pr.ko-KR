@@ -3,19 +3,18 @@ title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
+ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480091"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "33834817"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -28,6 +27,11 @@ ms.locfileid: "33480091"
  > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다. 
 
+## <a name="version-1904-may-08"></a>버전 1904: 5월 8일 
+*버전 1904(빌드 11601.20178)* 
+
+ - 다양한 버그 및 성능 개선.
+
 ## <a name="version-1904-april-29"></a>Version 1904: 4월 29
 *버전 1904(빌드 11601.20144)* 
 
@@ -35,15 +39,25 @@ ms.locfileid: "33480091"
 
 - **해당 파일 찾기:** 최근에 작업한 파일을 찾으십니까? 파일>홈페이지의 검색 상자에 입력하기만 하면 원하는 파일을 찾을 수 있습니다.
 
+### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
+
+- **LinkedIn 네트워크를 Outlook과 연결하기:** Microsoft 계정을 사용하여 LinkedIn 계정에 안전하게 연결하고 Windows용 Outlook의 명함에 있는 LinkedIn 프로필에서 정보를 확인하세요. [자세한 정보](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
 
 - **해당 파일 찾기:** 최근에 작업한 파일을 찾으십니까? 파일>홈페이지의 검색 상자에 입력하기만 하면 원하는 파일을 찾을 수 있습니다.
 
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
+- **프로세스 다이어그램을 Word로 내보내기:** Word 문서에 셰이프 및 메타데이터 등의 다이어그램 콘텐츠를 자동으로 추가합니다. 그런 후 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세한 정보](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+ - **동기화 중 변경 내용 추적, 메모, 실시간 공동 작업을 표시하는 색상:** 이제 제품의 개선을 통해 공동 작업자의 메모, 변경 내용 추적 및 커서를 동일한 색상으로 표시합니다.
+
 - **해당 파일 찾기:** 최근에 작업한 파일을 찾으십니까? 파일>홈페이지의 검색 상자에 입력하기만 하면 원하는 파일을 찾을 수 있습니다.
 
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
+
+- **새 아이콘:** 사용자 의견에 따라 300개 이상의 새 아이콘을 추가했습니다. 리본의 삽입 탭에 있는 아이콘 단추를 사용하여 찾을 수 있습니다.
 
 - **개인 정보 제어:** 진단 데이터 및 연결된 환경에 대한 업데이트 및 향상된 신규 컨트롤 작업 [자세한 정보](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
@@ -79,6 +93,8 @@ ms.locfileid: "33480091"
 *버전 1903(빌드 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
+
+- **Excel의 Insights:** Insights에서 사용자 범위 값을 제공합니다. Insights는 데이터 분석에 더욱 유연한 접근 방식을 제공하고 다른 사람들에게는 사용자의 데이터에 새로운 관점을 제공합니다. [자세한 정보](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **콘텐츠 도달 범위 늘리기:**  접근성 높은 스프레드시트를 만들어야 하나요? 진행 중인 작업을 중단하지 않고 계속 접근성 검사를 실행하며 상태를 확인할 수 있습니다. 검토 > 접근성 검사를 클릭하여 검사를 시작해 보세요. 확인해야 할 결과를 발견하면 상태 표시줄에 알려드립니다.
 
@@ -166,6 +182,8 @@ ms.locfileid: "33480091"
 - **밈하는 항목 표시:** 텍스트 또는 정적 이미지로 가능하지 않은 경우 애니메이션 GIF를 의도하는 바를 나타냅니다. [자세히 알아보기](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B)
  
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
+
+- **데이터 순서도에서 Double-take하기:** 데이터 시각화 도우미 순서도를 위한 멋진 새 레이아웃은 깔끔하고 정돈되어 있으며 이해하기 쉽습니다. [자세한 정보](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **기본적으로 제공되는 Azure 스텐실:** 수십 개의 Azure 스텐실을 사용하여 클라우드 앱을 디자인하거나 아키텍처를 계획합니다. [자세히 알아보기](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
