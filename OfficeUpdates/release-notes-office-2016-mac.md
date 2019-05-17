@@ -3,19 +3,19 @@ title: Mac용 Office 2016에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 04/18/2019
+ms.date: 05/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018년 9월 이후부터 Mac용 Office 2016 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 7b46ce1be815d252ab4493630ac18989282cbcb5
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 65e15845f6d1c5d730b1312c56d389986b8c6dab
+ms.sourcegitcommit: 0fe83a098746d261114132596681bbd038353a70
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370300"
+ms.lasthandoff: 05/16/2019
+ms.locfileid: "34083051"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Mac용 Office 2016에 대한 릴리스 정보
 
@@ -34,18 +34,34 @@ Mac용 Office 2016 업데이트는 MAU(Microsoft 자동 업데이트)에서 사�
 
 다음 표에는 Mac용 Office 2016 및 개별 응용 프로그램(예: Word 및 Excel)에 대한 최신 패키지가 나와 있습니다. 모든 패키지는 64비트 전용입니다. 빌드 날짜는 버전 번호 다음에 괄호로 묶여 YYMMDD 형식으로 표시됩니다. 응용 프로그램이 아직 설치되지 않은 경우 이 설치 패키지가 사용되지만 기존 설치를 업데이트하는 데는 업데이트 패키지가 사용됩니다.
 
-### <a name="april-16-2019"></a>2019년 4월 16일
-버전 16.16.9(19041201)
+### <a name="may-14-2019"></a>2019년 5월 14일
+버전 16.16.10(19051200)
 
 |**응용 프로그램**|**다운로드 링크**|**설치 패키지용 SHA256 해시**|
 |:-----|:-----|:-----|:-----|
-|Office 제품군(모든 응용 프로그램)  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> | 249E708A9432092D5BDEFE9AE81AFC108C19E43EBB96EAA8CCCF79F4FDA8F5B8 <br/> |
-|Word  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19041201_Updater.pkg) <br/> | 8A7B53137D85A1E053F341E5E5CF9F90124F8BD0265A7F19FD5636194BAACC00 <br/>|
-|Excel  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19041201_Updater.pkg) <br/> | A199A3130463564E444836C832EE27F8B92EF4A85F878A5652A608F34BCF0092 <br/>  |
-|PowerPoint  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19041201_Updater.pkg) <br/> | D3A5A70981C86D40F697B624042E7D601BFC3E27A5268443931252D3506DBE9A <br/> |
-|Outlook  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19041201_Updater.pkg) <br/> |  BCE9E947825A088203DE33BA18271D8BBD958EE04CB41BD92F11F48913E512F9 <br/> |
-|OneNote  <br/> |[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19041201_Updater.pkg) <br/> | 해당 없음 <br/> |
+|Office 제품군(모든 응용 프로그램)  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> | A257FA133F8CD3D852B68C55991C539DF2A5DC60199BB31613ED6E7A767A7F5E <br/> |
+|Word  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19051200_Updater.pkg) <br/> | 111E3F6CD3D8580492A77BBD4E823AEE5D4B2871E517B8F0840424388FBE9C02 <br/>|
+|Excel  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19051200_Updater.pkg) <br/> | 93B4CFCA5A585068B3707D2E949005A4D8DD1881BE944B8D87E85A71074E9699 <br/>  |
+|PowerPoint  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19051200_Updater.pkg) <br/> | A7FFE8072EC4C920938801943525CA917EA318664186B2510E99A30213612B7A <br/> |
+|Outlook  <br/> |[설치 패키지](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19051200_Updater.pkg) <br/> |  79C7945D572279B139A177D1C25DE213C4D2DB87039F84C7D9E679EA25462A07 <br/> |
+|OneNote  <br/> |[업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19051200_Updater.pkg) <br/> | 해당 없음 <br/> |
 
+## <a name="may-2019-release"></a>2019년 5월 릴리스
+
+ **릴리스 날짜:** 2019년 5월 14일 
+  
+ *버전 16.16.10(빌드 19051200)* 
+  
+이 릴리스는 다음과 같은 업데이트를 제공합니다.
+  
+|**응용 프로그램**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
+|:-----|:-----|:-----|
+|Word  <br/> | [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)<br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19051200_Updater.pkg) <br/>|
+|Excel  <br/> |  <br/> |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19051200_Updater.pkg) <br/>|
+|PowerPoint  <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19051200_Updater.pkg) <br/>|
+|Outlook  <br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19051200_Updater.pkg) <br/>|
+|OneNote <br/> ||[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19051200_Updater.pkg)|
+|Office 제품군  <br/> | <br/>||
 ## <a name="april-2019-release"></a>2019년 4월 릴리스
 
  **릴리스 날짜:** 2019년 4월 16일 
@@ -57,11 +73,11 @@ Mac용 Office 2016 업데이트는 MAU(Microsoft 자동 업데이트)에서 사�
 |**응용 프로그램**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
 |Word  <br/> | <br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19041201_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2019-0828](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0828)  <br/> |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19041201_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)  <br/> |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19041201_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19041201_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19041201_Updater.pkg) <br/>|
 |OneNote <br/> ||[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19041201_Updater.pkg)|
-|Office 제품군  <br/> | [CVE-2019-0822](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0822)<br/>||
+|Office 제품군  <br/> | [CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)<br/>||
 ## <a name="march-2019-release"></a>2019년 3월 릴리스
 
  **릴리스 날짜:** 2019년 3월 12일 
@@ -91,7 +107,7 @@ Mac용 Office 2016 업데이트는 MAU(Microsoft 자동 업데이트)에서 사�
 |**응용 프로그램**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
 |Word  <br/> | <br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19021001_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2019-0669](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0669) <br/> |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19021001_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669) <br/> |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19021001_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19021001_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19021001_Updater.pkg) <br/>|
 |OneNote <br/> ||[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19021001_Updater.pkg)|
@@ -108,7 +124,7 @@ Mac용 Office 2016 업데이트는 MAU(Microsoft 자동 업데이트)에서 사�
   
 |**응용 프로그램**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
-|Word  <br/> |[CVE-2019-0561](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0561): Microsoft Word 정보 노출 취약성  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2019-0585): Microsoft Word 원격 코드 실행 취약성 <br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19011400_Updater.pkg) <br/>|
+|Word  <br/> |[CVE-2019-0561](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0561): Microsoft Word 정보 노출 취약성  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585): Microsoft Word 원격 코드 실행 취약성 <br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19011400_Updater.pkg) <br/>|
 |Excel  <br/> ||[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19011400_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19011400_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19011400_Updater.pkg) <br/>|
@@ -127,8 +143,8 @@ Mac용 Office 2016 업데이트는 MAU(Microsoft 자동 업데이트)에서 사�
 |**응용 프로그램**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
 |Word  <br/> ||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.18120901_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2018-8597](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성  <br/> <br/>[CVE-2018-8627](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성|[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.18120901_Updater.pkg) <br/>|
-|PowerPoint  <br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성  <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.18120901_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597): Microsoft Excel 원격 코드 실행 취약성  <br/> <br/>[CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627): Microsoft Excel 정보 노출 취약성|[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.18120901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint 원격 코드 실행 취약성  <br/>|[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.18120901_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.18120901_Updater.pkg) <br/>|
 |OneNote <br/> ||[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.18120901_Updater.pkg)|
 |Office 제품군  <br/> | <br/>||
@@ -145,7 +161,7 @@ Mac용 Office 2016 업데이트는 MAU(Microsoft 자동 업데이트)에서 사�
 |**응용 프로그램**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
 |Word  <br/> ||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18111001_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2018-8574](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8574): Microsoft Excel 원격 코드 실행 취약성 <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8577): Microsoft Excel 원격 코드 실행 취약성 <br/> |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18111001_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574): Microsoft Excel 원격 코드 실행 취약성 <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577): Microsoft Excel 원격 코드 실행 취약성 <br/> |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18111001_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18111001_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18111001_Updater.pkg) <br/>|
 |OneNote <br/> ||[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18111001_Updater.pkg)|
@@ -167,7 +183,7 @@ Mac용 Office 2016 업데이트는 MAU(Microsoft 자동 업데이트)에서 사�
 |PowerPoint  <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18101500_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18101500_Updater.pkg) <br/>|
 |OneNote <br/> ||[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18101500_Updater.pkg)|
-|Office 제품군  <br/> |[CVE-2018-8432](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8432) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성 <br/>||
+|Office 제품군  <br/> |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432) Microsoft 그래픽 구성 요소 원격 코드 실행 취약성 <br/>||
 
 
 ## <a name="september-2018-release"></a>2018년 9월 릴리스
@@ -181,8 +197,8 @@ Mac용 Office 2016 업데이트는 MAU(Microsoft 자동 업데이트)에서 사�
 |**응용 프로그램**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|
 |Word  <br/> ||[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18091001_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2018-8429](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성 <br/> [CVE-2018-8331](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성 <br/> |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18091001_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel 정보 노출 취약성 <br/> [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel 원격 코드 실행 취약성 <br/> |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18091001_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18091001_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18091001_Updater.pkg) <br/>|
 |OneNote <br/> ||[OneNote 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18091001_Updater.pkg)|
-|Office 제품군  <br/> |[CVE-2018-8332](https://portal.msrc.microsoft.com/ko-KR/security-guidance/advisory/CVE-2018-8332): Microsoft 그래픽 원격 코드 취약성 <br/>||
+|Office 제품군  <br/> |[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Microsoft 그래픽 원격 코드 취약성 <br/>||
