@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/10/2019
+ms.date: 5/17/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
-ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
+ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
+ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33882767"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34161567"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -24,6 +24,117 @@ ms.locfileid: "33882767"
 > [!NOTE]
 > - 릴리스 정보는 매주 게시되며 여러 빌드의 컴파일일 수 있습니다.
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
+
+## <a name="may-17-2019"></a>2019년 5월 17일
+버전 1906(빌드 11708.20006)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="user-experience-updates"></a>사용자 환경 업데이트
+
+출시 예정이었던 업데이트가 이제 시행되었으며, 이는 간소화된 리본과 폴더 창, 메시지 목록 및 읽기 창의 시각적 새로 고침 기능을 특징으로 합니다.
+
+##### <a name="getting-started"></a>시작:
+
+이러한 변경 사항은 새로운 기본 UI의 일부가됩니다. 12월 중순 이래로 출시 예정 스위치 뒤에 숨겨진 상태였지만 100% prod가 되었습니다.
+
+#### <a name="customizable-simplified-ribbon"></a>사용자 지정이 가능한 간소화된 리본
+
+클래식 및 요약 보기 간의 간편한 전환 및 명령 고정/고정 해제가 쉽도록 사용자 지정 가능
+
+##### <a name="getting-started"></a>시작:
+
+사용자는 출시 예정(초기 설정)을 켜고 리본의 갈매기 모양을 클릭해 클래식 멀티 라인 리본과 새로운 단순 싱글 라인 리본 사이를 전환하여 간소화된 리본을 사용할 수 있습니다.
+
+##### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+클래식 리본에서 간단한 리본으로 전환
+
+#### <a name="pick-your-favorite-action"></a>즐겨찾기 선택 작업
+
+플래그를 사용하지 않고 삭제? [보관] 또는 [읽은 상태로 표시]는 어떤가요? 가장 많이 사용하는 명령으로 빠른 작업 메뉴를 사용자 지정합니다.
+
+##### <a name="getting-started"></a>시작:
+
+빠른 작업을 선택하려면 메시지 목록의 이메일을 마우스 오른쪽 버튼으로 클릭하여 상황에 맞는 메뉴를 불러 오십시오. 그런 다음 "빠른 작업 설정..."을 클릭합니다.
+
+##### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+기본값을 플래그에서 변경하고 보관으로 삭제, 이동, 읽은 상태로 표시하거나 메시지 목록을 더 깔끔하게 하기 위해 모두 없앱니다.
+
+#### <a name="relaxed-or-tighter-layout-you-choose"></a>넓은 레이아웃 아니면 더 좁은 레이아웃? 선택
+
+더 좁은 간격을 사용하면 항목 간에 더 넓은 공백을 할지 또는 더 좁은 레이아웃을 사용하여 더 많은 항목을 표시할지를 결정할 수 있습니다.
+
+##### <a name="getting-started"></a>시작:
+
+보기 탭, 촘촘한 간격 사용 확인란 - 기본 리본의 메시지 그룹, 단순 리본의 현재보기 설정
+
+##### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+Outlook을 사용하여 설정을 사용하거나 사용하지 않고 전자 메일을 분류하고 작성합니다. 간격을 좁게 사용하면 페이지당 메시지가 더 많이 표시되고 작성 양식의 컨트롤이 보다 간소화됩니다.
+
+#### <a name="dedupe-mru-entries-when-using-the-onedrive-sync-client"></a>Onedrive 동기화 클라이언트를 사용할 때 MRU 항목 중복 제거
+
+mru 항목을 제거하고 동기화된 데이터에 대한 복사 동작으로 보다 신속하게 연결할 수 있도록 하여 클라우드 첨부가 포함된 onedrive 동기화 클라이언트와보다 잘 통합됩니다.
+
+##### <a name="getting-started"></a>시작:
+
+OneDrive 동기화 클라이언트를 사용하면 첨부 파일 MRU에서 중복 된 파일이 더 이상 표시되지 않습니다.
+
+##### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+OneDrive 동기화 클라이언트 사용 및 Outlook 데스크톱의 파일 첨부 메뉴 사용
+
+#### <a name="improved-shared-folder-synchronization-for-mailboxes-with-many-folders"></a>여러 폴더가 있는 사서함에 대한 공유 폴더 동기화 기능 향상
+
+수년 동안 Outlook은 공유 사서함을 동기화할 때 폴더 수를 최대 500개로 제한해 왔습니다. 이 변경을 통해 Outlook은 이 500개 폴더 제한이 더 이상 적용되지 않도록 동기화 방식을 개선했습니다.
+
+##### <a name="getting-started"></a>시작:
+
+사서함에 1000 폴더를 만들고, 다른 사용자에 게 사서함에 대 한 액세스 권한을 부여 하 고, "다른 사용자"를 위한 Outlook 프로필을 만들고, 동기화가 작동 하는지 확인 합니다.
+
+### <a name="word"></a>Word
+
+#### <a name="erase-just-a-little-bit"></a>조금만 지우기
+
+##### <a name="getting-started"></a>시작:
+
+그리기 탭으로 이동하십시오. 지우개 드롭 다운을 선택하십시오. 작은 지우개 또는 중간 지우개를 선택합니다.
+
+##### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+그리기 탭으로 이동하 고 펜을 선택합니다. 잉크 스트로크를 그립니다. 지우개 드롭다운을 선택합니다. 작은 지우개 또는 중간 지우개를 선택합니다. 잉크 스트로크를 조금만 지웁니다.
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="all"></a>모두 
+- 일부 사용자가 PDF를 저장하지 못하는 문제를 해결했습니다.
+- 사용자가 32 비트 시스템에서 대용량 파일을 저장하는 데 영향을 줄 수 있는 문제가 수정되었습니다.
+
+### <a name="word"></a>Word 
+- 받아쓰기 기능의 응답성을 크게 향상 시켰습니다
+
+### <a name="excel"></a>Excel
+- 터치 스크린 장치에서 두 번 클릭 이벤트가 실패 할 수 있는 문제가 수정되었습니다
+- 일부 사용자가 VBA 매크로를 편집하지 못할 수 있는 문제가 수정되었습니다.
+- 슬라이스를 사용할 때 성능에 영향을 줄 수 있는 문제가 수정되었습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="outlook"></a>Outlook
+- 선택한 항목에서 잘못된 서식 파일을 표시할 수 있는 문제가 수정되었습니다
+
+### <a name="access"></a>액세스
+- 확대/축소 빌더를 사용하여 긴 서식 있는 텍스트를 표시하면 읽기가 어려워지는 문제를 해결했습니다
+
+### <a name="project"></a>Project
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+</BR></BR>
 
 ## <a name="may-10-2019"></a>2019년 5월 10일
 버전 1906(빌드 11702.20000)
@@ -62,6 +173,7 @@ ms.locfileid: "33882767"
 - 일부 사용자를 대상으로 비즈니스용 OneDrive 동기화 중에 발생하는 문제를 해결했습니다.
 
 ### <a name="word"></a>Word 
+- 특정한 경우 Word를 시작하는 데 오랜 시간이 걸리는 문제를 수정했습니다.
 
 ### <a name="excel"></a>Excel
 - 최신 버전 Excel로 업그레이드한 후 통합 문서에서 가끔 외부 링크가 제거되는 문제를 해결했습니다.
@@ -200,7 +312,7 @@ ms.locfileid: "33882767"
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
 ### <a name="all-applications"></a>모든 응용 프로그램
- - 상황에 맞는 메뉴에서 Excel에 대해 잘못된 앱 아이콘이 나타나는 문제를 해결했습니다.
+- 상황에 맞는 메뉴에서 Excel에 대해 잘못된 앱 아이콘이 나타나는 문제를 해결했습니다.
 - 업데이트를 설치한 후 파일 메뉴 단추가 사라지는 문제를 해결했습니다.
 - 사용자 라이선스를 변경할 수 있는 문제를 해결했습니다.
 
