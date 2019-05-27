@@ -3,19 +3,18 @@ title: Office 참가자 채널에 대한 업데이트 기록
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 04/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 참가자에게 Windows Desktop용 월 단위 채널 참가자 빠른 릴리스에 대한 업데이트 내역을 제공합니다.
-ms.openlocfilehash: dd5f4c337d4060ba2b1812cad8d7b6edd48137f2
-ms.sourcegitcommit: dee992f8ce988adc164ab492529e92db5e450a09
+ms.openlocfilehash: c750a9379472576ed8316e54804709fe2c094cab
+ms.sourcegitcommit: 6c539a93fcd2137394873885154e2317de606e11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33639629"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34403573"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 참가자 채널에 대한 업데이트 기록
 
@@ -34,6 +33,10 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 릴리스 정보를 찾으려면 [Windows용 Office의 내부 관리자 릴리스 정보](https://docs.microsoft.com/ko-KR/OfficeUpdates/release-notes-office-insider)를 참조하십시오.
 
 [//]: # (제거하지 마십시오)
+
+**2019년 5월 22일**<br/> 버전 1906(빌드 11715.20002)<br/> 
+
+**2019년 5월 14일**<br/> 버전 1906(빌드 11708.20006)<br/>
 
 **2019년 5월 6일**<br/>
 버전 1906(빌드 11702.20000)<br/>
@@ -85,7 +88,7 @@ Insider 수준에 등록하면 새로운 기능과 개선 사항으로 자주 �
 
 
   [
-  ![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+  ![Facebook 아이콘을 보여주는 이미지](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/ko-KR/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **새 기능을 먼저 받아보세요**

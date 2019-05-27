@@ -94,7 +94,7 @@ ms.locfileid: "33834817"
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
-- **Excel의 Insights:** Insights에서 사용자 범위 값을 제공합니다. Insights는 데이터 분석에 더욱 유연한 접근 방식을 제공하고 다른 사람들에게는 사용자의 데이터에 새로운 관점을 제공합니다. [자세한 정보](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Excel의 Insights:** Insights에서 사용자 범위 값을 제공합니다. Insights는 데이터 분석에 더욱 유연한 접근 방식을 제공하고 다른 사람들에게는 사용자의 데이터에 대한 새로운 관점을 제공합니다. [자세한 정보](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **콘텐츠 도달 범위 늘리기:**  접근성 높은 스프레드시트를 만들어야 하나요? 진행 중인 작업을 중단하지 않고 계속 접근성 검사를 실행하며 상태를 확인할 수 있습니다. 검토 > 접근성 검사를 클릭하여 검사를 시작해 보세요. 확인해야 할 결과를 발견하면 상태 표시줄에 알려드립니다.
 
@@ -183,7 +183,7 @@ ms.locfileid: "33834817"
  
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
 
-- **데이터 순서도에서 Double-take하기:** 데이터 시각화 도우미 순서도를 위한 멋진 새 레이아웃은 깔끔하고 정돈되어 있으며 이해하기 쉽습니다. [자세한 정보](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+- **데이터 순서도 다시 살펴보기:** 데이터 시각화 도우미 순서도를 위한 멋진 새 레이아웃은 깔끔하고 정돈되어 있으며 이해하기 쉽습니다. [자세한 정보](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **기본적으로 제공되는 Azure 스텐실:** 수십 개의 Azure 스텐실을 사용하여 클라우드 앱을 디자인하거나 아키텍처를 계획합니다. [자세히 알아보기](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 

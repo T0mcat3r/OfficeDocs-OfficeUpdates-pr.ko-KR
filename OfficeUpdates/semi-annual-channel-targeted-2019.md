@@ -3,18 +3,19 @@ title: 2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
+ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034499"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34337112"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -32,6 +33,13 @@ ms.locfileid: "34034499"
 
 ### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
  -  Excel에서 카메라 도구를 사용하면 스프레드시트가 중단되는 문제가 수정되었습니다.
+ - 차트 시트가 있는 비활성 창에서 마우스 스크롤 휠을 사용하면 충돌이 발생하는 문제가 해결되었습니다.
+ - SharePoint에서 스프레드시트를 가져올 때 "예기치 않은 오류" 라는 메시지가 표시되는 문제가 해결되었습니다.
+ - 규칙 및 사용자 지정 보기에 이름을 사용하는 조건부 서식이 포함된 통합 문서를 열 때 Excel이 중단되는 문제가 해결되었습니다.
+ - 255자보다 긴 수식으로 데이터 유효성 검사를 사용하여 매크로를 실행하면 런타임 오류가 발생하기도 했습니다. 이제 이 문제가 해결되었습니다.
+ - 다른 통합 문서에 연결된 피벗 테이블을 포함하는 파일이 느리게 로드되는 문제가 발생 했습니다. 이 문제가 해결되었습니다.
+ - HTML 파일을 열고 "파일 형식 및 확장명이 일치하지 않음" 오류가 수신되는 문제가 해결되었습니다.
+ - 비활성 창에서 마우스 휠을 스크롤할 때 발생하는 문제를 해결하기 위해 변경되었습니다.  
 
 ### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
  - 마이그레이션된 항목의 일부 필드를 편집할 수 없는 문제를 처리합니다.
