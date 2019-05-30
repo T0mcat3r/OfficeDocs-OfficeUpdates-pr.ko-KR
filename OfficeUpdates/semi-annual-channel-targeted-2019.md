@@ -3,19 +3,19 @@ title: 2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2019
+ms.date: 5/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
-ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
+ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34337112"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432426"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -60,6 +60,8 @@ ms.locfileid: "34337112"
  - Word가 시작할 때 “리소스를 로드하지 못했습니다” 대화 상자가 표시되는 문제가 수정되었습니다.
 
 ### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+ - 이 문제는 Apache WebDAV 폴더에 파일을 저장할 수 없는 문제를 해결합니다.
+ - 고객이 일부 클라우드 저장 파일을 열 때 Office가 갑자기 닫히는 문제를 해결합니다.
  - 히라가나와 한자에서 새로운 연호 "레이와"의 철자가 틀리거나 비문법적 표현으로 잘못 식별되는 문제가 수정되었습니다.
  - Windows 10에서 최근 파일 목록이 많은 사용자에게 삭제된 것처럼 표시되는 문제가 수정되었습니다.
  - 진행 중인 관리자 트리거 업데이트가 있는 경우에도 최종 사용자에게 Office 업데이트 비즈니스 막대가 표시되는 문제가 수정되었습니다.

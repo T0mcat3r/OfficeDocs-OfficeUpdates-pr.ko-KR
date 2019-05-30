@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
-ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
+ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34161567"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432416"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -24,6 +24,42 @@ ms.locfileid: "34161567"
 > [!NOTE]
 > - 릴리스 정보는 매주 게시되며 여러 빌드의 컴파일일 수 있습니다.
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
+
+## <a name="may-24-2019"></a>2019년 5월 24일
+버전 1906(빌드 11715.20002)
+
+## <a name="whats-new"></a>새로운 기능:
+
+#### <a name="user-experience-updates"></a>사용자 환경 업데이트
+
+출시 예정이었던 업데이트가 이제 시행되었으며, 이는 간소화된 리본과 폴더 창, 메시지 목록 및 읽기 창의 시각적 새로 고침 기능을 특징으로 합니다.
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="all"></a>모두
+
+- 채팅 창이 표시되지 않는 문제가 수정되었습니다.
+
+### <a name="word"></a>Word 
+- 경우에 따라 Word에서 문법적 오류로 인해 텍스트가 잘못 강조될 수있는 문제가 수정되었습니다.
+
+### <a name="excel"></a>Excel
+- 차트 요소에 올바르지 않은 아이콘이 사용되는 문제가 수정되었습니다.
+- 동일한 통합 문서가 이미 열려 있는 경우 VBA 스크립트에서 잘못 된 통합 문서를 활성화할 수 있는 문제가 수정되었습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="outlook"></a>Outlook
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="access"></a>Access
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 작업 표시줄로 전환한 후 프로젝트가 중단될 수 있는 문제가 수정되었습니다.
+
+</BR></BR>
 
 ## <a name="may-17-2019"></a>2019년 5월 17일
 버전 1906(빌드 11708.20006)
@@ -278,6 +314,22 @@ OneDrive 동기화 클라이언트 사용 및 Outlook 데스크톱의 파일 첨
 ## <a name="april-12-2019"></a>2019년 4월 12일
 버전 1905 (빌드 11601.20042)
 
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="access"></a>Access
+
+#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Access의 새로운 기능 - Microsoft Graph에 대한 데이터 커넥터
+
+그래프에 저장된 스마트 컨텍스트 데이터를 활용할 수있는 응용 프로그램을 만들기 위해 양식 Microsoft Graph 서비스에 링크하거나 가져옵니다.
+
+#### <a name="getting-started"></a>시작:
+
+리본의 외부 데이터 탭에서 새 데이터 소스를 클릭하고 온라인 서비스 메뉴에서 새 그래프 커넥터를 찾습니다.
+
+#### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+사람, 그룹 및 OneDrive 항목을 비롯한 다양한 그래프 서비스에서 가져오거나 링크할 수 있습니다.
+
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
 ### <a name="all-applications"></a>모든 응용 프로그램
@@ -308,6 +360,55 @@ OneDrive 동기화 클라이언트 사용 및 Outlook 데스크톱의 파일 첨
 
 ## <a name="april-5-2019"></a>2019년 4월 5일
 버전 1904(빌드 11527.20014)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="outlook-for-windows--set-and-share-your-focused-inbox-settings"></a>Windows 용 Outlook: 중요 받은 편지함 설정 지정 및 공유
+
+중요 받은 편지함 기본 설정은 클라우드에 저장되므로, 임의 컴퓨터에서 Windows용 Outlook 및 웹용 Outlook을 사용할 때 일관된 경험을 즐길 수 있습니다.
+
+#### <a name="getting-started"></a>시작:
+
+파일 > 옵션 > 일반 탭에 새로운 ‘클라우드에 내 Outlook 설정 저장’ 기본 설정이 있습니다. 다른 Desktop Outlook 설치 및 OWA로 로밍하려면 사용자가 중요 받은 편지함 설정을 사용으로 지정하는 상자를 선택해야 합니다.
+
+#### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+클라우드 설정 기본 설정이 켜져 있는 컴퓨터에서 중요 받은 편지함을 변경하십시오. OWA로 이동하여 거기에 적용된 환경 설정을 확인하십시오. OWA에서 중요 받은 편지함을 변경하고 데스크톱 Outlook을 시작하여 환경 설정이 반영되었는지 확인하십시오.
+
+### <a name="word"></a>Word
+
+#### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>학습 도구 모드는 더 많은 페이지 색상을 지원합니다
+
+Word 학습 도구는 페이지 테마 색을 추가로 지원하므로 페이지의 배경색을 변경할 수 있습니다.  많은 사람들이 흑백 또는 검정색 배경으로 읽는 것에 어려움을 느끼고 있으므로 PC 및 Mac의 Word에서 색상 선택을 확장했습니다.
+
+#### <a name="getting-started"></a>시작:
+
+이 기능을 사용하려면보기 탭으로 이동하여 학습 도구와 페이지 색상을 차례로 선택하십시오.
+
+#### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+이 기능을 사용하려면보기 탭으로 이동하여 학습 도구와 페이지 색상을 차례로 선택하십시오.
+
+### <a name="excel"></a>Excel
+
+#### <a name="elevate-creativity-with-animated-3d-models"></a>애니메이션 3D 모델로 독창성 높이기
+
+이제 Office에서 애니메이션 모델을 지원하므로 편집기에서 재생되므로 시트를 실제로 사용할 수 있습니다!
+
+#### <a name="getting-started"></a>시작:
+
+1. Excel을 엽니다.
+2. 애니메이션 모델을 삽입하십시오(곧 Remix로 변경되지만, 현재는 여기에서 애니메이션 모델에 액세스하십시오.\\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art)
+3. 애니메이션 모델이 편집기에서 재생됩니다. 슬라이드 쇼 모드를 확인하십시오 - 거기에서도 재생됩니다!
+4. 3D 형식 리본에서 모델의 더 많은 애니메이션 장면 탐색
+
+#### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+1. 애니메이션 모델을 삽입하고 편집기에서 재생되는 것을 확인합니다.
+2. 장면 갤러리(3차원 서식 리본에서 사용 가능)를 통해 애니메이션 모델에서 사용할 수 있는 애니메이션 장면을 탐색합니다.
+3. 리본, floatie 또는 스페이스 바를 사용하여 애니메이션을 간편하게 재생하고 일시 중지합니다.
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
@@ -378,6 +479,22 @@ OneDrive 동기화 클라이언트 사용 및 Outlook 데스크톱의 파일 첨
 ## <a name="march-15-2019"></a>2019년 3월 15일
 버전 1904(빌드 11504.20000)
 
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="word"></a>Word
+
+#### <a name="focus-mode"></a>포커스 모드
+
+보기 메뉴에서 포커스로 전환하면 주의를 산만하게 하는 요인들을 제거하고 작업에 집중할 수 있습니다. Office 365 구독자만 해당합니다.
+
+#### <a name="getting-started"></a>시작:
+
+보기 탭 리본 상태 막대 "포커스" 버튼의 "포커스 "버튼 
+
+#### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+포커스 모드를 시작하 고 주요 환경을 경험해 보세요.
+
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
 ### <a name="word"></a>Word 
@@ -421,7 +538,19 @@ Microsoft Search를 사용하면 모든 파일, 작업, 사람을 찾고 작업�
 
 - 대학이나 최근 문서를 검색하거나 가장 자주 사용하는 리본 명령을 검색해 보세요.
 - 화제나 주제를 검색하여 더 많은 정보를 얻으세요.
+- 
+#### <a name="coauthoring"></a>공동 작성
 
+매크로 포함하는 문서가 잠기는게 번거롭습니까? 이제 비즈니스용 OneDrive의 .docm 파일을 사용하여 여러 작성자가 동시에 편집할 수 있습니다.
+
+#### <a name="getting-started"></a>시작:
+
+사용자가 이 기능에 액세스 하기 위해 UI에서 버튼을 누를 필요가 없습니다. OneDrive for Business docm 파일에서는 기본적으로 활성화되어 있습니다.
+따라서 사용자는 OneDrive for Business에 docm 파일을 저장하여 사용해 봐야 합니다.
+
+#### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+OneDrive for Business에 docm 파일을 만들고 동료와 공유하고 공동 작업해 보십시오!
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
@@ -452,6 +581,21 @@ Microsoft Search를 사용하면 모든 파일, 작업, 사람을 찾고 작업�
 ## <a name="march-1-2019"></a>2019년 3월 1일 
 버전 1903(빌드 11414.20014)
 
+## <a name="whats-new"></a>새로운 기능
+
+### <a name="word"></a>Word
+
+#### <a name="colors-for-track-changes-comments-and-real-time-collaboration-in-sync"></a>동기화 중 변경 내용 추적, 메모, 실시간 공동 작업을 표시하는 색상
+
+이제 제품의 개선을 통해 공동 작업자의 메모, 변경 내용 추적 및 커서를 동일한 색상으로 표시합니다.
+
+#### <a name="getting-started"></a>시작:
+
+다른 사용자가 연 SharePoint 또는 OneDrive문서를 엽니다. 사용자의 변경 내용 추적과 해당 사용자 커서의 색이 일치 하는지 확인 합니다.
+
+#### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+다른 사용자가 연 SharePoint 또는 OneDrive문서를 엽니다. 사용자의 변경 내용 추적과 해당 사용자 커서의 색이 일치 하는지 확인 합니다.
 
 ## <a name="notable-fixes"></a>중요 수정 사항:
 
