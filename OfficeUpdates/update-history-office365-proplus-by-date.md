@@ -3,24 +3,22 @@ title: Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 9164af0880b564149beafdf2f6a2145714522a57
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: 6f5a66ffd501c9c6e32eaa3eb9619260e6a06959
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480100"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549755"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
 Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데이트로 정기적으로 업데이트됩니다. 이러한 업데이트를 [업데이트 채널](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)을 사용하여 릴리스됩니다. 각 업데이트 채널의 각 릴리스에는 버전 및 빌드 번호가 할당되어 표시됩니다. 
-
 
 > [!NOTE]
 > - 이러한 버전 및 빌드 번호는 Office 365 Business, Visio Pro for Office 365 및 Project Online 데스크톱 클라이언트에도 적용됩니다. Office 365 Business는 Business Premium과 같은 일부 Office 365 계획에 포함된 Office 버전입니다.
@@ -28,22 +26,31 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 > - 업데이트 채널에 대한 자세한 내용은 [Office 365 ProPlus 업데이트 채널 개요](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)를 참조하세요.
 
 다음 표에는 각 업데이트 채널에 대한 지원되는 버전 및 최신 빌드 번호가 나와 있습니다. 
- 
+
+[//]: # (EOSTABLESTART)
+
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월 단위  <br/> |1904 <br/> |11601.20144 <br/> | 2019년 4월 29일 <br/> |1905 버전 출시 <br/>|
-|반기(대상 지정)  <br/> |1902  <br/> |11328.20230 <br/> |  2019년 4월 9일 <br/> | 2019년 9월 10일 <br/>|
-|반기 <br/> |1808  <br/> | 10730.20334<br/> | 2019년 4월 9일  <br/> |  2020년 3월 10일 <br/>|
-|반기 <br/> |1803  <br/> | 9126.2382  <br/> | 2019년 4월 9일  <br/> |  2019년 9월 10일 <br/>|
+|월 단위<br/>|1905<br/>|11629.20196<br/>|2019년 5월 29일<br/>|1906 버전 출시<br/>|
+|반기(대상 지정)<br/>|1902<br/>|11328.20286<br/>|2019년 5월 14일<br/>|2019년 9월 10일<br/>|
+|반기<br/>|1808<br/>|10730.20344<br/>|2019년 5월 14일<br/>|2020년 3월 10일<br/>|
+|반기<br/>|1803<br/>|9126.2387<br/>|2019년 5월 14일<br/>|2019년 9월 10일<br/>|
+
+[//]: # (EOSTABLEEND)
 
 이전 버전의 Office 365 ProPlus에서 가장 최근 릴리스로 업데이트할 경우 대략적인 다운로드 크기에 대한 내용은 [Office 365 ProPlus 업데이트의 다운로드 크기](download-sizes-office365-proplus-updates.md)를 참조하세요.
 
 
-다음 표에서는 월별, 반기(대상 지정) 및 반기의 업데이트 채널에 릴리스된 각 Office 365 ProPlus 업데이트에 대한 버전 및 빌드 번호 목록을 제공합니다. 표의 각 항목은 해당 릴리스에 대한 릴리스 정보에 직접 연결됩니다. 릴리스 정보는 Office 365 ProPlus에 대한 업데이트에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.
+다음 표에서는 월별, 반기(대상 지정) 및 반기의 업데이트 채널에 릴리스된 각 Office 365 ProPlus 업데이트에 대한 버전 및 빌드 번호 목록을 제공합니다. 표의 각 항목은 해당 릴리스에 대한 릴리스 정보에 직접 연결됩니다. 릴리스 정보는 Office 365 ProPlus에 대한 업데이트에 포함된 기능, 보안 업데이트 및 비보안 업데이트에 대한 정보를 제공합니다.  
 
+[//]: # (HISTORYTABLESTART)
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|5월 29일 |[버전 1905(빌드 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
+|2019|5월 22일 |[버전 1904(빌드 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
+|2019|5월 14일 |[버전 1904(빌드 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[버전 1902(빌드 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[버전 1808(빌드 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [버전 1803(빌드 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
+|2019|5월 8일 |[버전 1904(빌드 11601.20178)](monthly-channel-2019.md#version-1904-may-8)| | |
 |2019|4월 29일 |[버전 1904(빌드 11601.20144)](monthly-channel-2019.md#version-1904-april-29)| | |
 |2019|4월 22일 |[버전 1903(빌드 11425.20244)](monthly-channel-2019.md#version-1903-april-22)| | |
 |2019|4월 17일 |[버전 1903(빌드 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | |
@@ -182,7 +189,8 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 ||10월 21일  <br/> |[버전 1509(빌드 6001.1034)](monthly-channel-2015.md#version-1509-october-21)  <br/> |[버전 1509(빌드 6001.1034)](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
 ||10월 5일  <br/> |[버전 1509(빌드 4229.1029)](monthly-channel-2015.md#version-1509-october-5)  <br/> |[버전 1509(빌드 4229.1029)](semi-annual-channel-targeted-2015.md#version-1509-october-5)  <br/> |  <br/> |
 ||9월 22일  <br/> |[버전 1509(빌드 4229.1024)](monthly-channel-2015.md#version-1509-september-22)  <br/> |[버전 1509(빌드 4229.1024)](semi-annual-channel-targeted-2015.md#version-1509-september-22)  <br/> |  <br/> |
-   
+
+[//]: # (HISTORYTABLEEND)
 
 ## <a name="related-topics"></a>관련 항목
 

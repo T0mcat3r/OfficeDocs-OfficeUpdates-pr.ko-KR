@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
-ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
+ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33834817"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549745"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -22,10 +22,71 @@ ms.locfileid: "33834817"
  
  > [!NOTE]
 > - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
-> - Microsoft는 일정 기간 동안 매달 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Microsoft는 일정 기간 동안 매달 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다. 
+> - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
+
+## <a name="version-1905-may-29"></a>버전 1905: 5월 29일
+*버전 1905(빌드 11629.20196)*
+
+### <a name="access-feature-updates"></a>Access: 기능 업데이트
+
+- **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
+
+- **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **제공 예정:** 곧 출시될 Office의 흥미로운 새 기능을 알아보고 사용해보고 의견을 제공해 주세요. [자세한 정보](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **메모에서 @멘션를 사용하여 더 효율적으로 공동 작업:** 공동 작업이 훨씬 쉬워졌습니다. 이제 문서 메모에서 팀원들에게 @멘션할 수 있고 팀원들은 자신들을 문서로 끌어들이는 이메일 알림을 자동으로 받습니다.
+
+- **공동 작성 통합 향상** : 공동 작성 기능으로 조건부 서식, 셀 스타일, 범위 보호, 눈금선 보기 및 여러 시트 잘라내기와 붙여넣기에 대한 작업을 할 때 병합 성공률이 향상되었습니다. 
+
+### <a name="outlook"></a>Outlook
+
+- **빠르게 계정 추가:** 계정 설정 기능이 향상되어 Outlook에서 2단계 인증을 사용하여 Outlook.com 및 Gmail 계정을 추가하는 것이 그 어느 때보다 쉬워졌습니다. [자세한 정보](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 기능 업데이트
+
+- **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **라이브 캡션 및 자막:** 발표자의 단어가 화면에 캡션으로 자동으로 표시되고 원하는 언어로 자막으로 번역됩니다. [자세한 정보](https://support.office.com/article/d68d20e49-aec3-456a-939d-34a79e8ddd5f)
+
+- **제공 예정:** 곧 출시될 Office의 흥미로운 새 기능을 알아보고 사용해보고 의견을 제공해 주세요. [자세한 정보](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **메모에서 @멘션를 사용하여 더 효율적으로 공동 작업:** 공동 작업이 훨씬 쉬워졌습니다. 이제 문서 메모에서 팀원들에게 @멘션할 수 있고 팀원들은 자신들을 문서로 끌어들이는 이메일 알림을 자동으로 받습니다.
+
+### <a name="project-feature-updates"></a>Project: 기능 업데이트
+
+- **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
+
+- **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **PDF, PPT로 내보내거나 전자 메일 구독에 대해 설정된 Power BI 보고서에도 Visio Visual 제공 예정:** Power BI 보고서를 PDF, PPT로 내보내거나 이 보고서의 전자 메일 구독을 설정하는 경우, Visio Visual에서 내보낸 형식으로 원활하게 렌더링합니다. [자세한 정보](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트  
+
+- **메모에서 @멘션를 사용하여 더 효율적으로 공동 작업:** 공동 작업이 훨씬 쉬워졌습니다. 이제 문서 메모에서 팀원들에게 @멘션할 수 있고 팀원들은 자신들을 문서로 끌어들이는 이메일 알림을 자동으로 받습니다.
+
+- **원활하게 전환:** 새 계정 관리자는 모든 Office 365 작업 및 개인 계정을 한 곳에 표시합니다. 회사 및 개인 계정 간 전환이 매우 용이합니다. [자세한 정보](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **더 많은 페이지 색상을 사용하도록 학습 도구 모드에 추가 지원 제공:** Word의 학습 도구에 페이지 테마 색상에 대한 지원이 추가되어, 페이지의 배경색을 변경할 수 있습니다.  많은 사람들이 흑백 또는 검정색 배경으로 읽는 것에 어려움을 느끼고 있으므로 PC 및 Mac의 Word에서 색상 선택을 확장했습니다.
+
+- **제공 예정:** 곧 출시될 Office의 흥미로운 새 기능을 알아보고 사용해보고 의견을 제공해 주세요. [자세한 정보](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+## <a name="version-1904-may-22"></a>버전 1904: 5월 22일
+*버전 1904(빌드 11601.20230)*
+
+개인 정보 수준에 대해 선택한 후에도 응용 프로그램을 시작할 때마다 새 개인 정보 프롬프트가 표시되는 문제가 해결되었습니다.
+
+## <a name="version-1904-may-14"></a>버전 1904: M5월 14일 
+*버전 1904(빌드 11601.20204)*
+
+ - 보안 업데이트가 [여기](https://docs.microsoft.com/ko-KR/OfficeUpdates/office365-proplus-security-updates)에 나열됨
 
 ## <a name="version-1904-may-08"></a>버전 1904: 5월 8일 
 *버전 1904(빌드 11601.20178)* 
@@ -144,7 +205,8 @@ ms.locfileid: "33834817"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 기능 업데이트
 
-- **연달아 있는 모임 사이에 시간 넣기: **모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- 
+  **연달아 있는 모임 사이에 시간 넣기: **모임이 기본적으로 5~10분 일찍 끝나도록 설정하여 참석자에게 잠시 숨을 돌리거나 장소를 이동할 시간을 줄 수 있습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **소리내어 읽기를 사용하여 전자 메일 듣기:** Outlook에서 텍스트를 강조 표시하며 전자 메일을 소리내어 읽어 줍니다. 소리내어 읽기를 설정하려면 접근성 설정으로 이동하세요. [자세히 알아보기](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **필터가 적용된 SVG 삽입:** Office 사용자는 이제 필터가 적용된 SVG를 삽입할 수 있습니다. [자세히 알아보기](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -163,7 +225,8 @@ ms.locfileid: "33834817"
  
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
 
-- **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세히 알아보기](https://docs.microsoft.com/ko-KR/DeployOffice/teams-install)
+- 
+  **Microsoft Teams 설치:**  Office 365 ProPlus를 새로 설치하면 Microsoft Teams가 기본적으로 설치됩니다. [자세히 알아보기](https://docs.microsoft.com/ko-KR/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>버전 1901: 2월 12일
 *버전 1901(빌드 11231.20174)* 
@@ -185,7 +248,11 @@ ms.locfileid: "33834817"
 
 - **데이터 순서도 다시 살펴보기:** 데이터 시각화 도우미 순서도를 위한 멋진 새 레이아웃은 깔끔하고 정돈되어 있으며 이해하기 쉽습니다. [자세한 정보](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
-- **기본적으로 제공되는 Azure 스텐실:** 수십 개의 Azure 스텐실을 사용하여 클라우드 앱을 디자인하거나 아키텍처를 계획합니다. [자세히 알아보기](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **기본적으로 제공되는 Azure 스텐실:** 수십 개의 Azure 스텐실을 사용하여 클라우드 앱을 디자인하거나 아키텍처를 계획합니다. [자세한 정보](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="word-feature-updates"></a>Word: 기능 업데이트
+
+- **평범한 문서를 훌륭한 문서로 개선하기:** 모든 장치에서 문서가 잘 보이도록 공유하기 쉬운 대화형의 웹 페이지로 변환합니다. [자세히 알아보기](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ### <a name="office-suite-feature-updates"></a>Office 제품군: 기능 업데이트
 
@@ -223,8 +290,7 @@ ms.locfileid: "33834817"
 ### <a name="word-feature-updates"></a>Word: 기능 업데이트
 
 - **라인 포커스로 가독성 개선:** 부드럽게 줄 단위로 문서를 넘길 수 있습니다. 한 번에 볼 때 1줄, 2줄, 또는 5줄에 포커스를 두도록 조정합니다. [자세히 알아보기](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
-- **평범한 문서를 훌륭한 문서로 개선하기:** 모든 장치에서 문서가 잘 보이도록 공유하기 쉬운 대화형의 웹 페이지로 변환합니다. [자세히 알아보기](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
-- **작업 중 접근성 검사 실행 유지:** 접근성 검사를 항상 열지 않아도 문서의 접근성 문제를 추적할 수 있습니다. 맞춤법 검사와 마찬가지로 Word 작업 도중에 상태 표시줄의 표시기로 접근성 문제를 표시합니다. 
+- **작업 중 접근성 검사 실행 유지:** 접근성 검사를 항상 열지 않아도 문서의 접근성 문제를 추적할 수 있습니다. 맞춤법 검사와 마찬가지로 Word 작업 도중에 상태 표시줄의 표시기로 접근성 문제를 표시합니다.
 
 ### <a name="visio-feature-updates"></a>Visio: 기능 업데이트
 
