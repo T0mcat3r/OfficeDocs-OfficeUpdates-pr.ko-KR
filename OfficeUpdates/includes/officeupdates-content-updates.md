@@ -3,30 +3,6 @@
 
 
 
-## <a name="week-of-april-22-2019"></a>2019년 4월 22일 주중
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 2019/4/23 | [2019년 월별 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/monthly-channel-2019) | 수정한 날짜 |
-| 2019/4/23 | [업데이트 기록 월 단위 채널(대상)](/OfficeUpdates/update-history-monthly-channel-targeted) | 수정한 날짜 |
-| 2019/4/23 | [Office 참가자 채널에 대 한 업데이트 기록](/OfficeUpdates/update-history-office-insider) | 수정한 날짜 |
-| 2019/4/23 | [Office 365 ProPlus 업데이트의 다운로드 크기](/OfficeUpdates/download-sizes-office365-proplus-updates) | 수정한 날짜 |
-| 2019/4/23 | [2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-targeted-2019) | 수정한 날짜 |
-| 2019/4/23 | [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](/OfficeUpdates/update-history-office365-proplus-by-date) | 수정한 날짜 |
-| 2019/4/23 | [Mac용 Office 2016에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-2016-mac) | 수정한 날짜 |
-| 2019/4/23 | [Mac용 Office에 대한 업데이트 기록](/OfficeUpdates/update-history-office-for-mac) | 수정한 날짜 |
-| 4/24/2019 | [2019년 월별 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/monthly-channel-2019) | 수정한 날짜 |
-| 4/24/2019 | [2019년 반기 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-2019) | 수정한 날짜 |
-| 4/24/2019 | [2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-targeted-2019) | 수정한 날짜 |
-| 4/25/2019 | [Mac용 Office에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-for-mac) | 수정한 날짜 |
-| 4/25/2019 | [업데이트 기록 월 단위 채널(대상)](/OfficeUpdates/update-history-monthly-channel-targeted) | 수정한 날짜 |
-| 4/26/2019 | [업데이트 기록 월 단위 채널(대상)](/OfficeUpdates/update-history-monthly-channel-targeted) | 수정한 날짜 |
-| 4/26/2019 | [Office 참가자에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
-| 4/26/2019 | [Mac용 Office에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-for-mac) | 수정한 날짜 |
-| 4/27/2019 | [업데이트 기록 월 단위 채널(대상)](/OfficeUpdates/update-history-monthly-channel-targeted) | 수정한 날짜 |
-
-
 ## <a name="week-of-april-29-2019"></a>4 월 29 일 주 2019
 
 
@@ -102,3 +78,18 @@
 | 5/23/2019 | [MAU(Microsoft 자동 업데이트)에 대한 릴리스 기록](/OfficeUpdates/release-history-microsoft-autoupdate) | 수정한 날짜 |
 | 5/24/2019 | [Office 참가자에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
 | 5/24/2019 | [2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보](/OfficeUpdates/semi-annual-channel-targeted-2019) | 수정한 날짜 |
+
+
+## <a name="week-of-may-27-2019"></a>5 월 27 일 주 2019
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 5/27/2019 | [업데이트 기록 월 단위 채널(대상)](/OfficeUpdates/update-history-monthly-channel-targeted) | 수정한 날짜 |
+| 5/29/2019 | [Office 365 ProPlus에 대한 업데이트 기록(날짜순)](/OfficeUpdates/update-history-office365-proplus-by-date) | 수정한 날짜 |
+| 5/29/2019 | [Mac용 Office에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-for-mac) | 수정한 날짜 |
+| 5/29/2019 | [Office 참가자 채널에 대 한 업데이트 기록](/OfficeUpdates/update-history-office-insider) | 수정한 날짜 |
+| 5/29/2019 | [2019년 월별 채널 릴리스에 대한 릴리스 정보](/OfficeUpdates/monthly-channel-2019) | 수정한 날짜 |
+| 5/29/2019 | [Office 365 ProPlus 업데이트의 다운로드 크기](/OfficeUpdates/download-sizes-office365-proplus-updates) | 수정한 날짜 |
+| 5/31/2019 | [Office 참가자에 대한 릴리스 정보](/OfficeUpdates/release-notes-office-insider) | 수정한 날짜 |
+| 5/31/2019 | [Office 참가자 채널에 대 한 업데이트 기록](/OfficeUpdates/update-history-office-insider) | 수정한 날짜 |
