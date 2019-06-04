@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/17/2019
+ms.date: 5/31/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
+ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432416"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34659785"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -24,6 +24,112 @@ ms.locfileid: "34432416"
 > [!NOTE]
 > - 릴리스 정보는 매주 게시되며 여러 빌드의 컴파일일 수 있습니다.
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
+
+
+## <a name="may-31-2019"></a>2019년 5월 31일
+버전 1906 (빌드 11722.20008)
+
+## <a name="whats-new"></a>새로운 기능:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dialog-for-contacting-support-now-is-dockable-and-appears-on-the-right"></a>현재 고객 지원팀에 문의하기 위한 대화 상자는 도킹할 수 있으며 오른쪽에 표시됩니다.
+
+고객 지원팀에 문의하는데 사용되는 대화 상자가 이제 오른쪽 창에 표시되고 도킹된 창으로 시작 됩니다.
+
+#### <a name="ink-in-your-email"></a>이메일에서 잉크로 표시하세요!
+
+이제 Outlook 전자 메일에 그림을 그리고 주석을 달 수 있습니다.
+
+### <a name="word"></a>Word
+
+#### <a name="open-document-links-in-word"></a>Word로 문서 링크 열기
+
+Office에서 문서 링크를 클릭 시 기본 설정을 업데이트하여 Word 앱에서 기본적으로 열리도록 할 수 있습니다.  기본 설정을 업데이트하려면 파일 ->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/ko-KR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>시작하기:
+
+기능은 기본적으로 해제됩니다. 사용자는 옵션->고급->링크 처리 설정으로 이동하거나 Win32 WXP 앱이 옵트인 경험을 가능하게할 시 옵트인하여 기능을 켤 수 있습니다.
+사용자가 Outlook/Word/PowerPoint/Excel에서 비즈니스/Sharepoint용 OneDrive/OneDrive에 저장된 Word/PowerPoint/Excel 파일로의 링크를 클릭하는 경우 기본적으로 브라우저가 아닌 해당 Office 응용 프로그램에서 링크가 열립니다.
+
+이 기본 설정을 변경하려면 사용자는 Outlook/Word/Excel/PowerPoint에서 다음의 설정을 업데이트하면 됩니다:
+
+파일->옵션->고급->링크 처리
+
+이 설정은 Outlook/Word/PowerPoint/Excel에서 공유되며 이들 앱에서 설정할 수 있습니다.
+
+##### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+옵트인 (opt in) 경험을 사용하려면 - Outlook/Word/PowerPoint/Excel에서 OneDrive/SharePoint에 저장된 Word 문서로의 링크를 엽니다 - 30일 창에서 이 과정을 두 번 시행합니다.. 옵트인(opt-in) 한 후에는 기본적으로 Win32 앱에서 링크를 시작합니다.
+
+### <a name="powerpoint"></a>PowerPoint
+
+#### <a name="open-presentation-links-in-powerpoint"></a>PowerPoint에서 프레젠테이션을 링크를 엽니다.
+
+Office에서 프레젠테이션 링크를 클릭 시 기본 설정을 업데이트하여 PowerPoint 앱에서 기본적으로 열리도록 할 수 있습니다. 기본 설정을 업데이트하려면 파일 ->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/ko-KR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>시작하기:
+
+기능은 기본적으로 해제됩니다. 사용자는 옵션->고급->링크 처리 설정으로 이동하거나 Win32 WXP 앱이 옵트인 경험을 가능하게할 시 옵트인하여 기능을 켤 수 있습니다.
+사용자가 Outlook/Word/PowerPoint/Excel에서 비즈니스/Sharepoint용 OneDrive/OneDrive에저장된 Word/PowerPoint/Excel 파일로의 링크를 클릭하는 경우 기본적으로 브라우저가 아닌 해당 Office 응용 프로그램에서 링크가 열립니다.
+
+이 기본 설정을 변경하려면 사용자는 Outlook/Word/Excel/PowerPoint에서 다음의 설정을 업데이트하면 됩니다:
+
+파일->옵션->고급->링크 처리
+
+이 설정은 Outlook/Word/PowerPoint/Excel에서 공유되며 이들 앱에서 설정할 수 있습니다.
+
+##### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+옵트인 (opt in) 경험을 사용하려면 - Outlook/Word/PowerPoint/Excel에서 OneDrive/SharePoint에 저장된 PowerPoint 프레젠테이션으로의 링크를 엽니다 - 30일 창에서 이 과정을 두 번 시행합니다. 옵트인(opt-in) 한 후에는 기본적으로 Win32 앱에서 링크를 시작합니다.
+
+### <a name="excel"></a>Excel
+
+#### <a name="open-workbook-links-in-excel"></a>Excel에서 워크북 링크 열기
+
+Office에서 워크북 링크를 클릭 시 기본 설정을 업데이트하여 Excel 앱에서 기본적으로 열리도록 할 수 있습니다. 기본 설정을 업데이트하려면 파일->옵션->고급->링크 처리로 이동합니다. 자세한 정보: https://support.office.com/ko-KR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>시작하기:
+
+기능은 기본적으로 해제됩니다. 사용자는 옵션->고급->링크 처리 설정으로 이동하거나 Win32 WXP 앱이 옵트인 경험을 가능하게할 시 옵트인하여 기능을 켤 수 있습니다.
+사용자가 Outlook/Word/PowerPoint/Excel에서 비즈니스/Sharepoint용 OneDrive/OneDrive에저장된 Word/PowerPoint/Excel 파일로의 링크를 클릭하는 경우 기본적으로 브라우저가 아닌 해당 Office 응용 프로그램에서 링크가 열립니다.
+
+이 기본 설정을 변경하려면 사용자는 Outlook/Word/Excel/PowerPoint에서 다음의 설정을 업데이트하면 됩니다:
+
+파일->옵션->고급->링크 처리
+
+이 설정은 Outlook/Word/PowerPoint/Excel에서 공유되며 이들 앱에서 설정할 수 있습니다.
+
+##### <a name="scenarios-to-try"></a>시도해 볼 시나리오:
+
+옵트인 (opt in) 경험을 사용하려면 - Outlook/Word/PowerPoint/Excel에서 OneDrive/SharePoint에 저장된 Excel 워크북으로의 링크를 엽니다 - 30일 창에서 이 과정을 두 번 시행합니다.. 옵트인(opt-in) 한 후에는 기본적으로 Win32 앱에서 링크를 시작합니다.
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="all"></a>모두
+- 자동 저장이 비활성화된 상태에서도 파일이 간혹 자동으로 저장되는 문제를 해결했습니다.
+
+### <a name="word"></a>Word 
+- 일부 사용자가 SharePoint에 저장하지 못하게 하는 문제가 해결되었습니다.
+
+### <a name="excel"></a>Excel
+- 비활성 필터에 대해 올바르지 않은 아이콘이 표시될 수 있는 문제가 해결되었습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="outlook"></a>Outlook
+- 일부 사용자가 그룹 일정 보기에서 오프라인으로 잘못 표시되는 문제를 해결했습니다.
+- SafeLink가 후행 공백이 있는 URL을 분석하지 못하는 문제를 해결했습니다.
+- 방이 비 작업시간 외에 사용가능 하도록 표시되는 문제를 해결했습니다.
+
+### <a name="access"></a>Access
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+</BR></BR>
 
 ## <a name="may-24-2019"></a>2019년 5월 24일
 버전 1906(빌드 11715.20002)
