@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549745"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34683994"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -26,6 +26,11 @@ ms.locfileid: "34549745"
 
  > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
+
+## <a name="version-1905-june-03"></a>버전 1905: 6월 3일
+*버전 1905(빌드 11629.20214)*
+
+ - 일부 추가 기능이 차트의 도형 주변에 예기치 않은 오류를 발생시키는 문제를 해결했습니다.
 
 ## <a name="version-1905-may-29"></a>버전 1905: 5월 29일
 *버전 1905(빌드 11629.20196)*
@@ -77,6 +82,14 @@ ms.locfileid: "34549745"
 - **더 많은 페이지 색상을 사용하도록 학습 도구 모드에 추가 지원 제공:** Word의 학습 도구에 페이지 테마 색상에 대한 지원이 추가되어, 페이지의 배경색을 변경할 수 있습니다.  많은 사람들이 흑백 또는 검정색 배경으로 읽는 것에 어려움을 느끼고 있으므로 PC 및 Mac의 Word에서 색상 선택을 확장했습니다.
 
 - **제공 예정:** 곧 출시될 Office의 흥미로운 새 기능을 알아보고 사용해보고 의견을 제공해 주세요. [자세한 정보](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+### <a name="skype-for-business-non-security-updates"></a>비즈니스용 Skype: 비보안 업데이트
+
+- 비즈니스용 Skype Online 사용자에게 "사진 추가 - 사람들에게 사용자를 알리는 데 도움이 됩니다" 상황에 맞는 팁을 비활성화할 수 있는 옵션을 제공합니다. 이 수정 사항을 사용하려면 [자세한 정보](https://support.microsoft.com/help/4503469)를 확인할 수 있습니다.
+
+- 비즈니스용 Skype를 다시 시작하면 보조 벨소리 설정이 항상 사용할 수 없도록 설정됩니다. 이 수정 사항을 사용하려면 [자세한 정보](https://support.microsoft.com/help/4503470)를 확인할 수 있습니다.
+
+ - Lync SDK 기반 응용 프로그램을 사용하는 동안 대규모 모임을 연결할 때 비즈니스용 Skype에서 응답하지 않는 문제를 해결합니다. 이 수정 사항을 사용하려면 [자세한 정보](https://support.microsoft.com/help/4503472)를 확인할 수 있습니다.
 
 ## <a name="version-1904-may-22"></a>버전 1904: 5월 22일
 *버전 1904(빌드 11601.20230)*

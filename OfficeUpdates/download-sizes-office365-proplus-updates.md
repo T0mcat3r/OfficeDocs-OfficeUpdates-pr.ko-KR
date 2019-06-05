@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 각 업데이트 채널에 대한 Office 365 ProPlus 업데이트의 대략적인 다운로드 크기 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: ce40e3d5b770e13c163d3372525e248cd95c3df9
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: b849b50792988a4640597749d5b4f33b99fac150
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549735"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34684014"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 업데이트의 다운로드 크기
 
@@ -35,6 +35,17 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
 > - 가장 최근의 이전 릴리스만 표에 나와 있습니다. 더 이전 버전에서 업데이트하려는 경우 다운로드 크기가 더 커집니다.
 > - 다른 채널로 전환하는 경우(예: 반기 채널(대상 지정)에서 반기 채널로) 업데이트 크기가 표에 나오는 것보다 훨씬 더 커질 수 있습니다. 이로 인해 전체 다운로드가 필요할 수 있으며 그 규모는 1GB 이상일 수 있습니다.
 
+## <a name="june-3-2019"></a>2019년 6월 3일
+*버전 1905(빌드 11629.20214)*
+### <a name="monthly-channel"></a>월별 채널
+
+가장 최근 버전은 버전 1905(빌드 11629.20214)입니다.
+  
+|**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
+|:-----|:-----|:-----|
+|버전 1905(빌드 11629.20196)  <br/> |2019년 5월 29일  <br/> |291<br/> |
+|버전 1904(빌드 11601.20230)  <br/> |2019년 5월 22일  <br/> |190<br/> |
+
 ## <a name="may-29-2019"></a>2019년 5월 29일
 *버전 1905(빌드 11629.20196)*
 ### <a name="monthly-channel"></a>월별 채널
@@ -43,8 +54,8 @@ Microsoft는 대기업 고객들이 이러한 예정된 채널 업데이트에 �
   
 |**업그레이드 전 릴리스**|**릴리스 날짜**|**대략적인 다운로드 크기(MB)**|
 |:-----|:-----|:-----|
-|버전 1904(빌드 11601.20230)  <br/> |2019년 5월 22일  <br/> |193<br/> |
-|버전 1904(빌드 11601.20204)  <br/> |2019년 5월 14일  <br/> |60<br/> |
+|버전 1904(빌드 11601.20230)  <br/> |2019년 5월 22일  <br/> |188<br/> |
+|버전 1904(빌드 11601.20204)  <br/> |2019년 5월 14일  <br/> |193<br/> |
 
 ## <a name="may-22-2019"></a>2019년 5월 22일
 *버전 1904(빌드 11601.20230)*
