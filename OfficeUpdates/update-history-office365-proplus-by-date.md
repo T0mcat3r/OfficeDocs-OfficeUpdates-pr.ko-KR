@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6f5a66ffd501c9c6e32eaa3eb9619260e6a06959
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: f3848c46626369f6f957ed0839f7692af755f574
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549755"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34684004"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -31,7 +31,7 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월 단위<br/>|1905<br/>|11629.20196<br/>|2019년 5월 29일<br/>|1906 버전 출시<br/>|
+|월 단위<br/>|1905<br/>|11629.20214<br/>|2019년 6월 3일<br/>|1906 버전 출시<br/>|
 |반기(대상 지정)<br/>|1902<br/>|11328.20286<br/>|2019년 5월 14일<br/>|2019년 9월 10일<br/>|
 |반기<br/>|1808<br/>|10730.20344<br/>|2019년 5월 14일<br/>|2020년 3월 10일<br/>|
 |반기<br/>|1803<br/>|9126.2387<br/>|2019년 5월 14일<br/>|2019년 9월 10일<br/>|
@@ -47,7 +47,8 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
-|2019|5월 29일 |[버전 1905(빌드 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
+|2019년|6월 3일|[버전 1905(빌드 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
+|2019년|5월 29일 |[버전 1905(빌드 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019|5월 22일 |[버전 1904(빌드 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
 |2019|5월 14일 |[버전 1904(빌드 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[버전 1902(빌드 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[버전 1808(빌드 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [버전 1803(빌드 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
 |2019|5월 8일 |[버전 1904(빌드 11601.20178)](monthly-channel-2019.md#version-1904-may-8)| | |
