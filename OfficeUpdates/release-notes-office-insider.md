@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/31/2019
+ms.date: 6/7/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
-ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
+ms.openlocfilehash: 6fca274c0acf56aa2ba5d926e7b4f61a1c8f33d1
+ms.sourcegitcommit: 664eea7a20324858da3503f54d0efac97e2299e4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34659785"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34773754"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -25,6 +25,35 @@ ms.locfileid: "34659785"
 > - 릴리스 정보는 매주 게시되며 여러 빌드의 컴파일일 수 있습니다.
 > - 릴리스 정보 게시 날짜는 실제 빌드 릴리스 날짜와 일치하지 않을 수 있습니다.
 
+
+## <a name="june-7-2019"></a>2019년 6월 7일
+버전 1907 (빌드 11727.20064)
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="word"></a>Word 
+- 문장의 첫 글자를 대문자로 자동 고침을 설정했을 때 Word에서 종종 충돌할 수 있는 문제를 해결했습니다.
+- SharePoint에서 문서를 편집할 때의 성능이 개선되었습니다.
+- Adobe Illustrator에서 만든 벡터 기반 이미지가 올바르게 표시되지 않는 문제를 해결했습니다.
+
+### <a name="excel"></a>Excel
+- 매크로가 기록될 때 정렬 필드가 제대로 설정 되지 않는 문제를 해결했습니다.
+- 배열 수식을 다시 계산하는 동안 멈춤 또는 충돌이 발생하는 문제를 해결했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="outlook"></a>Outlook
+- 인라인 첨부 파일의 크기가 잘못 조정되는 문제를 해결했습니다.
+
+### <a name="access"></a>액세스
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 일정 기간의 작업표에서 과제 완료 날짜가 간혹 변경되는 문제를 해결했습니다.
+- 이전 버전에서 프로젝트를 열 때 완료율 값이 잘못될 수 있는 문제를 해결했습니다.
+
+</BR></BR>
 
 ## <a name="may-31-2019"></a>2019년 5월 31일
 버전 1906 (빌드 11722.20008)
@@ -50,7 +79,7 @@ Office에서 문서 링크를 클릭 시 기본 설정을 업데이트하여 Wor
 ##### <a name="getting-started"></a>시작하기:
 
 기능은 기본적으로 해제됩니다. 사용자는 옵션->고급->링크 처리 설정으로 이동하거나 Win32 WXP 앱이 옵트인 경험을 가능하게할 시 옵트인하여 기능을 켤 수 있습니다.
-사용자가 Outlook/Word/PowerPoint/Excel에서 비즈니스/Sharepoint용 OneDrive/OneDrive에 저장된 Word/PowerPoint/Excel 파일로의 링크를 클릭하는 경우 기본적으로 브라우저가 아닌 해당 Office 응용 프로그램에서 링크가 열립니다.
+사용자가 Outlook/Word/PowerPoint/Excel에서 비즈니스/Sharepoint용 OneDrive/OneDrive에저장된 Word/PowerPoint/Excel 파일로의 링크를 클릭하는 경우 기본적으로 브라우저가 아닌 해당 Office 응용 프로그램에서 링크가 열립니다.
 
 이 기본 설정을 변경하려면 사용자는 Outlook/Word/Excel/PowerPoint에서 다음의 설정을 업데이트하면 됩니다:
 
