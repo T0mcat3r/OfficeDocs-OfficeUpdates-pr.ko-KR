@@ -1,36 +1,55 @@
 ---
 title: 2019년 월별 채널 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
-author: andymosten
+author: anankani
 manager: andrewmo
+//: ''
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 9e452797e4250fa859ec725005a87f21115482e7
+ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34683994"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34857748"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
-이 릴리스 정보는 Office 365용 Visio Pro 및 Project Online 데스크톱 클라이언트를 비롯한 2019년 Office 365 ProPlus의 월별 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 관한 정보를 제공합니다.
+이 릴리스 정보는 Office 365용 Visio Pro, Project Online 데스크톱 클라이언트 및 Office 365 Business를 비롯한 2019년 Office 365 ProPlus의 월별 채널 업데이트에 포함된 새로운 기능 및 비보안 업데이트에 관한 정보를 제공합니다.
  
  > [!NOTE]
-> - 이 정보는 일부 Office 365 계획에 제공되는 Office 버전(예: Business Premium)인 Office 365 Business에도 적용됩니다.
+> - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
 > - Microsoft는 일정 기간 동안 매달 기능(및 경우에 따라서는 수정 사항)을 롤아웃합니다. 이를 통해 기능을 좀 더 광범위한 대상에게 출시하기 전에 원활하게 작동하는지 확인합니다. 따라서 아래에 설명된 기능이 보이지 않더라도 곧 제공될 예정이므로 걱정할 필요가 없습니다. [자세히 알아보기](https://support.office.com/ko-KR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
+> - Office 365 ProPlus의 기존 설치에 대한 Microsoft 팀 - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
 
-## <a name="version-1905-june-03"></a>버전 1905: 6월 3일
-*버전 1905(빌드 11629.20214)*
+## <a name="version-1905-june-11"></a>버전 1905: 6월 11일
+*버전 1905(빌드 11629.20246)*
+<br/>나열된 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+
+- 셀을 삽입하거나 삭제하는 경우 폭포 차트와 깔때기형 차트가 테이블로 동기화되지 않는 문제를 해결했습니다.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 
  - 일부 추가 기능이 차트의 도형 주변에 예기치 않은 오류를 발생시키는 문제를 해결했습니다.
+
+### <a name="visio-non-security-updates"></a>Visio: 비보안 업데이트
+
+ - Visio에서 SVG로 내보내기가 다양한 도형에서 작동하지 않습니다.
+
+## <a name="version-1905-june-03"></a>버전 1905: 6월 3일 
+*버전 1905(빌드 11629.20214)*
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
+
+- 일부 추가 기능이 차트의 도형 주변에 예기치 않은 오류를 발생시키는 문제를 해결했습니다.
 
 ## <a name="version-1905-may-29"></a>버전 1905: 5월 29일
 *버전 1905(빌드 11629.20196)*
