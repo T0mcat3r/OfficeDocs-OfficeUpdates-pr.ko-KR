@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 전문가에게 Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보를 제공합니다.
-ms.openlocfilehash: 52cea04d6b90a87494f751149633d5fc9a7ca5f7
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: af4f418640b2931062d7fbe7157d14f3354c54b4
+ms.sourcegitcommit: 09fce01ca8aaf16478bdf41ee05a19b1b3c3cbb2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034485"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34852892"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus 보안 업데이트에 대한 릴리스 정보
 
@@ -26,6 +26,16 @@ ms.locfileid: "34034485"
 
 [//]: # (공백으로 사용하므로, 위의 선을 삭제하지 마세요.)  
 
+## <a name="june-11-2019"></a>2019년 6월 11일
+월별 채널: 버전 1905(빌드 11629.20246)  
+반기 채널(대상 지정): 버전 1902(빌드 11328.20318)  
+반기 채널: 버전 1808(빌드 10730.20348)  
+반기 채널: 버전 1803(빌드 9126.2388)  
+
+### <a name="word"></a>Word
+
+-   [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034)
+-   [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035)
 
 ## <a name="may-14-2019"></a>2019년 5월 14일
 월별 채널: 버전 1904(빌드 11601.20204)  
