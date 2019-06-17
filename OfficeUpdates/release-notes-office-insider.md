@@ -3,19 +3,19 @@ title: Office 참가자에 대한 릴리스 정보
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-//: ''
+ms.date: 6/14/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 초기 참가자 대상 그룹에게 주요 새 기능, 수정 사항 또는 알려진 문제의 최신 목록을 제공합니다.
-ms.openlocfilehash: 8cc5c8c9b11dabce030095a2d56404856850377a
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
+ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857758"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34948794"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 참가자에 대한 릴리스 정보
 
@@ -27,6 +27,40 @@ ms.locfileid: "34857758"
 
  > [!NOTE]
 > - Office 365 ProPlus의 기존 설치에 대한 Microsoft Teams - 6월 말부터 Microsoft Teams가 Office 365 ProPlus(및 Office 365 Business)의 기존 설치에 업데이트 설치 시 포함됩니다. Teams가 추가되는 날짜는 사용 중인 업데이트 채널에 따라 다릅니다. 추가 정보는 [Office 365 ProPlus와 함께 Microsoft Teams 배포](https://docs.microsoft.com/ko-KR/deployoffice/teams-install)를 참조하세요.
+
+## <a name="june-14-2019"></a>2019년 6월 14일
+버전 1907 (빌드 11807.20000)
+
+## <a name="notable-fixes"></a>중요 수정 사항:
+
+### <a name="word"></a>Word 
+- OneDrive에 저장 시 사용자가 로그인할 수 없게되는 문제를 해결했습니다.
+- 제한된 액세스 모드에서 사용자가 SharePoint 속성을 변경할 수 없게 되는 문제를 해결했습니다.
+- 여백을 조정할 때 머리글 및 바닥글 내용이 변경되는 문제를 해결했습니다.
+- 웹 보기로 전환할 때 서식이 손상될 수 있는 문제를 해결했습니다.
+- SharePoint에서 열 때 사용자 정의 필드를 사용 하지 못하게 되는 문제를 해결하였습니다.
+
+### <a name="excel"></a>Excel
+- 필터링된 세트의 행을 삭제 시 발생하는 성능 문제를 해결했습니다.
+- 제한된 보기에서 마우스가 간혹 깜박이는 문제를 해결했습니다.
+- 시리즈를 삭제 시 충돌이 발생할 수 있었던 문제를 해결했습니다.
+- 일부 사용자에게는 가용하지 않은 버전 기록을 추가하기 위한 옵션이 주어지는 문제를 해결했습니다.
+- 스프레드시트 비교 도구를 사용 시 예외가 발생할 수 있던 문제를 해결했습니다.
+
+### <a name="powerpoint"></a>PowerPoint
+- SharePoint로의 링크를 클릭 시 충돌이 발생할 수 있었던 문제를 해결했습니다.
+- Surface 펜을 사용하여 입력 시 사용자를 다음 페이지로 전환할 수 있던 문제를 해결했습니다.
+
+### <a name="outlook"></a>Outlook
+- 경우에 따라 받는 이의 필드가 보통 보다 크게 나타나는 문제를 해결했습니다.
+
+### <a name="access"></a>액세스
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+### <a name="project"></a>Project
+- 다양한 성능 및 안정성 수정 사항입니다.
+
+</BR></BR>
 
 ## <a name="june-7-2019"></a>2019년 6월 7일
 버전 1907 (빌드 11727.20064)

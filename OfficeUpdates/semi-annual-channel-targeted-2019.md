@@ -3,19 +3,19 @@ title: 2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/22/2019
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 반기 채널(대상 지정) 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432426"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910398"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019년 반기 채널(대상 지정) 릴리스에 대한 릴리스 정보
 
@@ -27,6 +27,31 @@ ms.locfileid: "34432426"
  
 > [!NOTE]
 > - Office 365 ProPlus의 각 업데이트 채널의 보안 업데이트 정보는 [보안 업데이트](office365-proplus-security-updates.md)에 별도로 열거될 것입니다.
+
+## <a name="version-1902-june-11"></a>버전 1902: 6월 11일
+*버전 1902(빌드 11328.20318)*
+<br/>보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/officeupdates/office365-proplus-security-updates)에 나열됩니다.
+
+### <a name="excel-non-security-updates"></a>Excel: 비보안 업데이트
+ - XML 맵이 포함된 파일을 PDF로 저장할 때 충돌이 발생하는 문제를 해결했습니다.
+ - 잘못된 시트 이름이 포함된 통합 문서를 로드할 때 외부 링크가 제거되는 문제를 해결했습니다.
+ - Excel에서 카메라 도구를 사용하면 스프레드시트가 중단되는 문제가 수정되었습니다.
+ - 셀을 삽입하거나 삭제하는 경우 폭포 차트와 깔때기형 차트가 테이블로 동기화되지 않는 문제를 해결했습니다.
+ - 테이블에 따라 다른 시트의 배열식을 사용하여 워크시트 계산을 하는 동안 데이터 테이블을 다시 계산할 때 충돌이 발생하는 문제를 해결했습니다. 
+ - 파일을 체크 아웃 하지 않고 암호로 보호 된 통합 문서를 SharePoint에서 열지 못하도록 하는 문제가 해결 되었습니다.
+ - 자동 저장을 공유하거나 토글하는 경우 BeforeSave 이벤트를 처리하도록 변경되었습니다.
+
+### <a name="outlook-non-security-updates"></a>Outlook: 비보안 업데이트
+ - "그룹화 기준"에 두 번째 조건을 추가할 때 고객에게 작업이 표시되지 않는 문제를 해결했습니다.
+
+### <a name="word-non-security-updates"></a>Word: 비보안 업데이트
+ - 문서에 대해 현재 공동 작업 중인 문서를 공유하면 확장자가 .asd인 파일이 생성되는 문제가 해결되었습니다.
+ - 메모가 임의의 작성자에 속하는 문제가 해결되었습니다.
+ - 문서를 확인할 때 서명 제거에 발생하는 문제가 해결되었습니다.
+
+### <a name="office-suite-non-security-updates"></a>Office 제품군: 비보안 업데이트
+ - "실행 취소" 작업 후 VBA에서 잘못된 도형 채우기 상태를 보고할 때 발생하는 버그를 해결했습니다.
+
 
 ## <a name="version-1902-may-14"></a>버전 1902: 5월 14일
 *버전 1902(빌드 11328.20286)*
