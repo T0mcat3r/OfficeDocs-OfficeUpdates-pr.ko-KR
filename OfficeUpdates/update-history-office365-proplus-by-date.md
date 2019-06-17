@@ -3,18 +3,19 @@ title: Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 릴리스 정보에 대한 링크를 포함하여 Office 365 ProPlus 릴리스의 전체 목록을 날짜별로 구성해서 IT 전문가에게 제공합니다.
-ms.openlocfilehash: f3848c46626369f6f957ed0839f7692af755f574
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 3eae3d3143d7e774ae785ce56f7934eb35dfac0e
+ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34684004"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34935910"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus에 대한 업데이트 기록(날짜순)
 
@@ -31,10 +32,10 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**채널**|**버전**|**빌드**|**릴리스 날짜**|**다음 이하 버전까지 지원**|
 |:-----|:-----|:-----|:-----|:-----|
-|월 단위<br/>|1905<br/>|11629.20214<br/>|2019년 6월 3일<br/>|1906 버전 출시<br/>|
-|반기(대상 지정)<br/>|1902<br/>|11328.20286<br/>|2019년 5월 14일<br/>|2019년 9월 10일<br/>|
-|반기<br/>|1808<br/>|10730.20344<br/>|2019년 5월 14일<br/>|2020년 3월 10일<br/>|
-|반기<br/>|1803<br/>|9126.2387<br/>|2019년 5월 14일<br/>|2019년 9월 10일<br/>|
+|월 단위<br/>|1905<br/>|11629.20246<br/>|2019년 6월 11일<br/>|1906 버전 출시<br/>|
+|반기(대상 지정)<br/>|1902<br/>|11328.20318<br/>|2019년 6월 11일<br/>|2019년 9월 10일<br/>|
+|반기<br/>|1808<br/>|10730.20348<br/>|2019년 6월 11일<br/>|2020년 3월 10일<br/>|
+|반기<br/>|1803<br/>|9126.2388<br/>|2019년 6월 11일<br/>|2019년 9월 10일<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -47,7 +48,8 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 
 |**년도**|**릴리스 날짜**|**월별 채널**|**반기별 채널(지정됨)**|**반기 채널**|
 |:-----|:-----|:-----|:-----|:-----|
-|2019년|6월 3일|[버전 1905(빌드 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
+|2019|6월 11일|[버전 1905(빌드 11629.20246)](monthly-channel-2019.md#version-1905-june-11)|[버전 1902(빌드 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[버전 1808(빌드 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[버전 1803(빌드 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
+|2019|6월 3일|[버전 1905(빌드 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019년|5월 29일 |[버전 1905(빌드 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019|5월 22일 |[버전 1904(빌드 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
 |2019|5월 14일 |[버전 1904(빌드 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[버전 1902(빌드 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[버전 1808(빌드 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [버전 1803(빌드 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
@@ -184,12 +186,6 @@ Office 365 ProPlus는 새로운 기능, 보안 업데이트 및 비보안 업데
 ||2월 9일  <br/> |[버전 1511(빌드 6366.2068)](monthly-channel-2016.md#version-1511-february-9)  <br/> |[버전 1509(빌드 6001.1061)](semi-annual-channel-targeted-2016.md#version-1509-february-9)  <br/> |[버전 1509(빌드 6001.1061)](semi-annual-channel-2016.md#version-1509-february-9)  <br/> |
 ||1월 25일  <br/> |[버전 1511(빌드 6366.2062)](monthly-channel-2016.md#version-1511-january-25)  <br/> |  <br/> |  <br/> |
 ||1월 12일  <br/> |[버전 1511(빌드 6366.2056)](monthly-channel-2016.md#version-1511-january-12)  <br/> |[버전 1509(빌드 6001.1054)](semi-annual-channel-targeted-2016.md#version-1509-january-12)  <br/> |  <br/> |
-|2015년|12월 11일  <br/> |[버전 1511(빌드 6366.2036)](monthly-channel-2015.md#version-1511-december-11)  <br/> |  <br/> |  <br/> |
-||12월 8일  <br/> |[버전 1509(빌드 6001.1043)](monthly-channel-2015.md#version-1509-december-8)  <br/> |[버전 1509(빌드 6001.1043)](semi-annual-channel-targeted-2015.md#version-1509-december-8)  <br/> |  <br/> |
-||11월 10일  <br/> |[버전 1509(빌드 6001.1038)](monthly-channel-2015.md#version-1509-november-10)  <br/> |[버전 1509(빌드 6001.1038)](semi-annual-channel-targeted-2015.md#version-1509-november-10)  <br/> |  <br/> |
-||10월 21일  <br/> |[버전 1509(빌드 6001.1034)](monthly-channel-2015.md#version-1509-october-21)  <br/> |[버전 1509(빌드 6001.1034)](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
-||10월 5일  <br/> |[버전 1509(빌드 4229.1029)](monthly-channel-2015.md#version-1509-october-5)  <br/> |[버전 1509(빌드 4229.1029)](semi-annual-channel-targeted-2015.md#version-1509-october-5)  <br/> |  <br/> |
-||9월 22일  <br/> |[버전 1509(빌드 4229.1024)](monthly-channel-2015.md#version-1509-september-22)  <br/> |[버전 1509(빌드 4229.1024)](semi-annual-channel-targeted-2015.md#version-1509-september-22)  <br/> |  <br/> |
 
 [//]: # (HISTORYTABLEEND)
 
