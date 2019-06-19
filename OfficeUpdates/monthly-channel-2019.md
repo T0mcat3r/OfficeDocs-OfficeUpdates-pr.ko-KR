@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 2019년 Office 365 ProPlus에 대한 월별 채널 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
+ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910388"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017368"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019년 월별 채널 릴리스에 대한 릴리스 정보
 
@@ -38,13 +38,13 @@ ms.locfileid: "34910388"
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
 
- - 일부 추가 기능이 차트의 도형 주변에 예기치 않은 오류를 발생시키는 문제를 해결했습니다.
+- 일부 추가 기능이 차트의 도형 주변에 예기치 않은 오류를 발생시키는 문제를 해결했습니다.
 
 ### <a name="visio-non-security-updates"></a>Visio: 비보안 업데이트
 
- - Visio에서 SVG로 내보내기가 다양한 도형에서 작동하지 않습니다.
+- Visio에서 SVG로 내보내기가 다양한 도형에서 작동하지 않습니다.
 
-## <a name="version-1905-june-03"></a>버전 1905: 6월 3일 
+## <a name="version-1905-june-3"></a>버전 1905: 6월 3일
 *버전 1905(빌드 11629.20214)*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: 비보안 업데이트
@@ -120,15 +120,15 @@ ms.locfileid: "34910388"
 ## <a name="version-1904-may-14"></a>버전 1904: M5월 14일 
 *버전 1904(빌드 11601.20204)*
 
- - 보안 업데이트가 [여기](https://docs.microsoft.com/ko-KR/OfficeUpdates/office365-proplus-security-updates)에 나열됨
+ - 보안 업데이트는 [여기](https://docs.microsoft.com/ko-KR/OfficeUpdates/office365-proplus-security-updates)에 나열됩니다.
 
-## <a name="version-1904-may-08"></a>버전 1904: 5월 8일 
-*버전 1904(빌드 11601.20178)* 
+## <a name="version-1904-may-8"></a>버전 1904: 5월 8일
+*버전 1904(빌드 11601.20178)*
 
- - 다양한 버그 및 성능 개선.
+- 다양한 버그 및 성능 개선.
 
 ## <a name="version-1904-april-29"></a>Version 1904: 4월 29
-*버전 1904(빌드 11601.20144)* 
+*버전 1904(빌드 11601.20144)*
 
 ### <a name="excel-feature-updates"></a>Excel: 기능 업데이트
 
@@ -146,7 +146,7 @@ ms.locfileid: "34910388"
 
 - **프로세스 다이어그램을 Word로 내보내기:** Word 문서에 셰이프 및 메타데이터 등의 다이어그램 콘텐츠를 자동으로 추가합니다. 그런 후 문서를 사용자 지정하여 프로세스 지침 및 작업 설명서를 만듭니다. [자세한 정보](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
- - **동기화 중 변경 내용 추적, 메모, 실시간 공동 작업을 표시하는 색상:** 이제 제품의 개선을 통해 공동 작업자의 메모, 변경 내용 추적 및 커서를 동일한 색상으로 표시합니다.
+- **동기화 중 변경 내용 추적, 메모, 실시간 공동 작업을 표시하는 색상:** 이제 제품의 개선을 통해 공동 작업자의 메모, 변경 내용 추적 및 커서를 동일한 색상으로 표시합니다.
 
 - **해당 파일 찾기:** 최근에 작업한 파일을 찾으십니까? 파일>홈페이지의 검색 상자에 입력하기만 하면 원하는 파일을 찾을 수 있습니다.
 
