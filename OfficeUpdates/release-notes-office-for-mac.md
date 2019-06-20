@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 구독자를 위한 Mac용 Office 릴리스의 릴리스 정보를 IT 전문가에게 제공합니다.
-ms.openlocfilehash: 6b4f1f4f2b7613617645cd5e1d1eebd7682f7698
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
+ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935880"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35060300"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac용 Office에 대한 릴리스 정보
 
@@ -48,7 +48,7 @@ Office 365 구독에 포함된 Mac용 Office는 새로운 기능, 보안 업데�
 |**응용 프로그램**|**업데이트**|**보안 업데이트**|**업데이트 패키지용 다운로드 링크**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/><br/>|@멘션으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다. |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Microsoft Word 원격 코드 실행 취약성<br/><br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Microsoft Word 원격 코드 실행 취약성<br/>|[Word 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|@멘션으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.|<br/>|[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
+|Excel<br/>|@멘션으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.<br/><br/>**그룹화 필요성:** 피벗 테이블 날짜는 그룹으로 묶을 필요가 없습니다. Excel > 기본 설정 > 표 및 필터에서 자동 그룹화를 끕니다.<br/><br/>**아래 첨자 및 위 첨자의 빠른 사용:** 아래 첨자, 위 첨자, 취소선을 자주 사용한다면 리본 및 빠른 실행 도구 모음에 추가하여 쉽게 사용할 수 있습니다.| |[Excel 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
 |PowerPoint<br/>|@멘션으로 주의 끌기: 메모에 @멘션을 사용하여 입력이 필요하다는 사실을 동료들에게 알립니다.<br/><br/>**온라인 비디오의 새로운 홈:** 조직의 모든 사람이 볼 수 있도록 비디오를 Microsoft Stream에 저장하세요. 비디오 링크를 삽입하고 파일 크기의 일부로 멀티미디어 프레젠테이션을 즐겨보세요.<br/><br/>**라이브 캡션 및 자막:** 사용자가 발표하는 동안 사용자의 단어가 캡션으로 자동으로 표시되거나 원하는 언어의 자막으로 번역됩니다. 효과를 높이려면 헤드셋 마이크를 사용하세요.||[PowerPoint 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
 |Outlook|**한 번의 클릭으로 Outlook에서 OneNote로:** 단추를 클릭하면 Outlook 메시지와 모임 노트를 OneNote 전자 필기장에 저장할 수 있습니다. 보관함이나 물건을 보관할 수 있는 편리한 장소로 사용하세요. <br/> | |[Outlook 업데이트 패키지](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
 
